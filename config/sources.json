@@ -104,6 +104,24 @@
       "icon": "🎓"
     },
     {
+      "name": "Getting Smart",
+      "url": "https://www.gettingsmart.com/feed/",
+      "category": "ai-education",
+      "icon": "🌱"
+    },
+    {
+      "name": "Cool Cat Teacher",
+      "url": "https://www.coolcatteacher.com/feed/",
+      "category": "ai-education",
+      "icon": "🐱"
+    },
+    {
+      "name": "Code.org",
+      "url": "https://medium.com/feed/@codeorg",
+      "category": "ai-education",
+      "icon": "💻"
+    },
+    {
       "name": "MIT Tech Review",
       "url": "https://www.technologyreview.com/feed",
       "category": "new-tools",
