@@ -74,7 +74,16 @@
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
       "category": "projects",
       "icon": "⭐",
-      "maxItems": 5
+      "maxItems": 5,
+      "filterKeywords": [
+        "streamlit", "gradio",
+        "no-code", "no code", "nocode",
+        "browser extension", "chrome extension",
+        "drag and drop", "drag-and-drop",
+        "user-friendly", "beginner-friendly",
+        "live demo", "playground",
+        "non-technical", "without coding", "no programming"
+      ]
     },
     {
       "name": "Product Hunt · AI",

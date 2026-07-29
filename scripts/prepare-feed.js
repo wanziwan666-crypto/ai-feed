@@ -27,9 +27,10 @@ const parser = new Parser({
   customFields: { item: ['description', 'content:encoded'] },
 });
 
-function matchKeywords(title, contentSnippet) {
+function matchKeywords(title, contentSnippet, customKeywords) {
+  const keywords = customKeywords || KEYWORDS;
   const text = `${title} ${contentSnippet || ''}`.toLowerCase();
-  return KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
+  return keywords.some(kw => text.includes(kw.toLowerCase()));
 }
 
 async function fetchSource(source) {
@@ -70,7 +71,7 @@ function extractItems(feed, source) {
         if (age > MAX_AGE_HOURS) return false;
       }
       if (source.skipKeywordFilter) return true;
-      return matchKeywords(item.title, item.contentSnippet || item.content || '');
+      return matchKeywords(item.title, item.contentSnippet || item.content || '', source.filterKeywords);
     })
     .map(item => ({
       title: item.title || 'Untitled',
