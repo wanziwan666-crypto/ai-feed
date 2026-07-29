@@ -70,6 +70,14 @@
       "skipKeywordFilter": true
     },
     {
+      "name": "GitHub Trending · Daily",
+      "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+      "category": "projects",
+      "icon": "⭐",
+      "maxItems": 5,
+      "skipKeywordFilter": true
+    },
+    {
       "name": "Product Hunt · AI",
       "url": "https://www.producthunt.com/feed?category=ai",
       "category": "new-tools",

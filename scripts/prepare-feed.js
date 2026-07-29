@@ -34,35 +34,57 @@ function matchKeywords(title, contentSnippet) {
 
 async function fetchSource(source) {
   try {
-    const feed = await parser.parseURL(source.url);
-    const maxItems = source.maxItems || MAX_ITEMS_PER_SOURCE;
-    const items = (feed.items || [])
-      .slice(0, maxItems)
-      .filter(item => {
-        if (item.pubDate) {
-          const age = (Date.now() - new Date(item.pubDate).getTime()) / (1000 * 60 * 60);
-          if (age > MAX_AGE_HOURS) return false;
-        }
-        if (source.skipKeywordFilter) return true;
-        return matchKeywords(item.title, item.contentSnippet || item.content || '');
-      })
-      .map(item => ({
-        title: item.title || 'Untitled',
-        link: item.link || '#',
-        pubDate: item.pubDate || new Date().toISOString(),
-        date: item.pubDate || new Date().toISOString(),
-        source: source.name,
-        category: source.category,
-        icon: source.icon,
-        contentSnippet: (item.contentSnippet || item.content || '').slice(0, 500),
-        guid: item.guid || item.link || Math.random().toString(36),
-      }));
-    console.log(`  ${source.name}: ${items.length} items`);
-    return items;
+    // 先抓原始 XML，清理常见格式问题（GitHub Trending 的 RSS 有未转义的 & 等）
+    let xml;
+    try {
+      const resp = await fetch(source.url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+          'Accept': 'application/rss+xml, application/xml, text/xml',
+        },
+        signal: AbortSignal.timeout(15000),
+      });
+      xml = await resp.text();
+      // 修复未转义的 &（不是合法 XML entity 的 &）
+      xml = xml.replace(/&(?!(amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, '&amp;');
+    } catch (e) {
+      // fetch 失败时 fallback 到 parser.parseURL
+      const feed = await parser.parseURL(source.url);
+      return extractItems(feed, source);
+    }
+    const feed = await parser.parseString(xml);
+    return extractItems(feed, source);
   } catch (err) {
     console.error(`  Error: ${source.name}: ${err.message}`);
     return [];
   }
+}
+
+function extractItems(feed, source) {
+  const maxItems = source.maxItems || MAX_ITEMS_PER_SOURCE;
+  const items = (feed.items || [])
+    .slice(0, maxItems)
+    .filter(item => {
+      if (item.pubDate) {
+        const age = (Date.now() - new Date(item.pubDate).getTime()) / (1000 * 60 * 60);
+        if (age > MAX_AGE_HOURS) return false;
+      }
+      if (source.skipKeywordFilter) return true;
+      return matchKeywords(item.title, item.contentSnippet || item.content || '');
+    })
+    .map(item => ({
+      title: item.title || 'Untitled',
+      link: item.link || '#',
+      pubDate: item.pubDate || new Date().toISOString(),
+      date: item.pubDate || new Date().toISOString(),
+      source: source.name,
+      category: source.category,
+      icon: source.icon,
+      contentSnippet: (item.contentSnippet || item.content || '').slice(0, 500),
+      guid: item.guid || item.link || Math.random().toString(36),
+    }));
+  console.log(`  ${source.name}: ${items.length} items`);
+  return items;
 }
 
 async function main() {
