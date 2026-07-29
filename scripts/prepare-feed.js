@@ -12,7 +12,7 @@ const path = require('path');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const CONFIG_PATH = path.join(__dirname, '..', 'config', 'sources.json');
 const OUTPUT_PATH = path.join(DATA_DIR, 'feed.json');
-const MAX_AGE_HOURS = 72;
+const MAX_AGE_HOURS = 24;
 const MAX_ITEMS_PER_SOURCE = 20;
 
 const config = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8'));
