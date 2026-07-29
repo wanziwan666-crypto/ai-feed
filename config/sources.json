@@ -1,0 +1,115 @@
+{
+  "sources": [
+    {
+      "name": "Karpathy · Blog",
+      "url": "https://karpathy.bearblog.dev/feed/",
+      "category": "builders",
+      "icon": "🧠"
+    },
+    {
+      "name": "Karpathy · Old Blog",
+      "url": "https://karpathy.github.io/feed.xml",
+      "category": "builders",
+      "icon": "🧠"
+    },
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "category": "builders",
+      "icon": "🛠️"
+    },
+    {
+      "name": "Nathan Lambert",
+      "url": "https://www.interconnects.ai/feed",
+      "category": "builders",
+      "icon": "📐"
+    },
+    {
+      "name": "Anthropic Engineering",
+      "url": "https://raw.githubusercontent.com/conoro/anthropic-engineering-rss-feed/main/anthropic_engineering_rss.xml",
+      "category": "builders",
+      "icon": "🤖"
+    },
+    {
+      "name": "Ethan Mollick · One Useful Thing",
+      "url": "https://www.oneusefulthing.org/feed",
+      "category": "voices",
+      "icon": "💡",
+      "maxItems": 5,
+      "skipKeywordFilter": true
+    },
+    {
+      "name": "AI Snake Oil",
+      "url": "https://aisnakeoil.substack.com/feed",
+      "category": "voices",
+      "icon": "🐍",
+      "maxItems": 5,
+      "skipKeywordFilter": true
+    },
+    {
+      "name": "Not Boring",
+      "url": "https://www.notboring.co/feed",
+      "category": "voices",
+      "icon": "🚀",
+      "maxItems": 5,
+      "skipKeywordFilter": true
+    },
+    {
+      "name": "Stratechery",
+      "url": "https://stratechery.com/feed/",
+      "category": "voices",
+      "icon": "📊",
+      "maxItems": 5,
+      "skipKeywordFilter": true
+    },
+    {
+      "name": "Hacker News · Show HN",
+      "url": "https://hnrss.org/show",
+      "category": "projects",
+      "icon": "🔨",
+      "skipKeywordFilter": true
+    },
+    {
+      "name": "Product Hunt · AI",
+      "url": "https://www.producthunt.com/feed?category=ai",
+      "category": "new-tools",
+      "icon": "🆕"
+    },
+    {
+      "name": "EdSurge · Education Tech",
+      "url": "https://www.edsurge.com/articles_rss",
+      "category": "ai-education",
+      "icon": "📚"
+    },
+    {
+      "name": "Khan Academy · Blog",
+      "url": "https://blog.khanacademy.org/feed/",
+      "category": "ai-education",
+      "icon": "🎓"
+    },
+    {
+      "name": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/feed",
+      "category": "new-tools",
+      "icon": "🔬"
+    },
+    {
+      "name": "VentureBeat",
+      "url": "https://venturebeat.com/feed/",
+      "category": "new-tools",
+      "icon": "📰"
+    }
+  ],
+  "keywords": [
+    "how to", "tutorial", "guide", "built with", "made with",
+    "vibe coding", "workflow", "automation", "AI agent", "prompt",
+    "ChatGPT", "Claude", "GPT", "Gemini", "copilot", "cursor",
+    "side project", "DIY", "open source", "open-source",
+    "skill", "MCP", "API", "RAG", "AI tool",
+    "使用", "教程", "指南", "工具", "工作流", "自动化",
+    "I built", "I made", "I used", "my experience",
+    "thinking", "replace", "critical thinking", "elevate",
+    "AI literacy", "AI education", "learning", "struggle",
+    "cognitive", "offload", "over-reliance"
+  ]
+}

@@ -1,0 +1,4 @@
+node_modules/
+data/clicks.json
+data/bookmarks.json
+*.env
