@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-29T08:56:59.778Z",
+  "generatedAt": "2026-07-29T08:59:24.310Z",
   "lookbackHours": 72,
-  "totalItems": 36,
+  "totalItems": 35,
   "items": [
     {
       "title": "Show HN: Copy any element on a page as clean Tailwind v4 (HTML or JSX)",
@@ -266,17 +266,6 @@
       "icon": "📰",
       "contentSnippet": "Software engineers at General Motors' (GM's) autonomous driving division spend only 15% of their time writing code, according to Rashed Haq, GM's VP of autonomous vehicles, in a recent onstage interview at VB Transform 2026.\nGM is now using AI agents to accelerate much of the other 85%—including analyzing vehicle data, triaging problems, running experiments and testing potential fixes.\nThe result, Haq said, is roughly three times as many merged pull requests across GM’s autonomous vehicle engine",
       "guid": "2JmeITWnf8EVLuu6RZ68TC"
-    },
-    {
-      "title": "Credit the Educators, Not Just the Technology: A Note From Sal Khan",
-      "link": "https://blog.khanacademy.org/credit-the-educators-not-just-the-technology/",
-      "pubDate": "Tue, 28 Jul 2026 17:22:28 +0000",
-      "date": "Tue, 28 Jul 2026 17:22:28 +0000",
-      "source": "Khan Academy · Blog",
-      "category": "ai-education",
-      "icon": "🎓",
-      "contentSnippet": "By Sal Khan, Founder and CEO of Khan Academy We’re seeing more and more schools succeed by leveraging ... Read more\nThe post Credit the Educators, Not Just the Technology: A Note From Sal Khan appeared first on Khan Academy Blog.",
-      "guid": "https://blog.khanacademy.org/?p=21844"
     },
     {
       "title": "Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature",
