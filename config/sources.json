@@ -74,8 +74,7 @@
       "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
       "category": "projects",
       "icon": "⭐",
-      "maxItems": 5,
-      "skipKeywordFilter": true
+      "maxItems": 5
     },
     {
       "name": "Product Hunt · AI",
