@@ -1,18 +1,216 @@
 {
-  "generatedAt": "2026-07-30T01:41:58.509Z",
+  "generatedAt": "2026-07-30T08:09:22.938Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 29,
   "items": [
     {
       "title": "moeru-ai/airi",
       "link": "https://github.com/moeru-ai/airi",
-      "pubDate": "2026-07-30T01:41:56.606Z",
-      "date": "2026-07-30T01:41:56.606Z",
+      "pubDate": "2026-07-30T08:09:21.222Z",
+      "date": "2026-07-30T08:09:21.222Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.\n\n \n  \n  \n  \n \nProject AIRI\n \nRe-creating Neuro-sama, a soul container of AI waifu / virtual characters to bring them into our world.\n \n [Join Discord Server] [Try it] [简体中文] [日本語] [Русский] [Tiếng Việt] [Français] [한국어] \n \n        \n \n \n   \n  \n ",
       "guid": "https://github.com/moeru-ai/airi"
+    },
+    {
+      "title": "1jehuang/jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "pubDate": "2026-07-30T08:09:21.222Z",
+      "date": "2026-07-30T08:09:21.222Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "The most RAM efficient harness\n\n \n \njcode\n \n \n     \n \n \nThe most RAM efficient harness \n The most most intelligent harness\n \n    \n \n \n \nWebsite · Docs · Benchmarks · Features · Install · Quick Start · Further Reading · Contributing\n \n \n \n \n \nInstallation\n \n \n# macOS & Linux\ncurl -fsSL https://jcode.sh/install | bash\n\n \n# Windows 11 (PowerShell 5.1+)\nirm https://jcode.sh/install.ps1 | iex\n\n \nNeed Homebrew, source builds, provider setup, or want an agent to set it up for you? Jump to detailed inst",
+      "guid": "https://github.com/1jehuang/jcode"
+    },
+    {
+      "title": "Show HN: An app that logs your meal's calories from a photo",
+      "link": "https://btrapp.com/",
+      "pubDate": "Thu, 30 Jul 2026 07:25:08 +0000",
+      "date": "Thu, 30 Jul 2026 07:25:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://btrapp.com/\nComments URL: https://news.ycombinator.com/item?id=49106983\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49106983"
+    },
+    {
+      "title": "Show HN: Run Full Kimi K3 with 29 GB of RAM",
+      "link": "https://github.com/sqliteai/waste/",
+      "pubDate": "Thu, 30 Jul 2026 06:12:55 +0000",
+      "date": "Thu, 30 Jul 2026 06:12:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sqliteai/waste/\nComments URL: https://news.ycombinator.com/item?id=49106591\nPoints: 6\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49106591"
+    },
+    {
+      "title": "Show HN: Emboss – a Python PDF engine that keeps documents as structured data",
+      "link": "https://github.com/GGChamp85/Emboss",
+      "pubDate": "Thu, 30 Jul 2026 06:11:15 +0000",
+      "date": "Thu, 30 Jul 2026 06:11:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/GGChamp85/Emboss\nComments URL: https://news.ycombinator.com/item?id=49106579\nPoints: 5\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49106579"
+    },
+    {
+      "title": "Show HN: Edge Drop- #1 productivity and unique clipboard 200 stars on GitHub",
+      "link": "https://github.com/Deepender25/Edge-Drop",
+      "pubDate": "Thu, 30 Jul 2026 06:03:26 +0000",
+      "date": "Thu, 30 Jul 2026 06:03:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Deepender25/Edge-Drop\nComments URL: https://news.ycombinator.com/item?id=49106529\nPoints: 5\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=49106529"
+    },
+    {
+      "title": "Show HN: Vedic Astrology Chart – free sidereal birth chart",
+      "link": "https://vedicastrologychart.net/",
+      "pubDate": "Thu, 30 Jul 2026 05:56:46 +0000",
+      "date": "Thu, 30 Jul 2026 05:56:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built this free browser-based tool to generate a sidereal Vedic birth chart with planetary positions and interpretations. No signup is required. Feedback on clarity and usefulness is welcome.\nComments URL: https://news.ycombinator.com/item?id=49106489\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49106489"
+    },
+    {
+      "title": "Show HN: Dibba – Automated Personal Finance",
+      "link": "https://apps.apple.com/us/app/dibba/id6759825700",
+      "pubDate": "Thu, 30 Jul 2026 05:42:33 +0000",
+      "date": "Thu, 30 Jul 2026 05:42:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/dibba/id6759825700\nComments URL: https://news.ycombinator.com/item?id=49106434\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49106434"
+    },
+    {
+      "title": "Show HN: Free Image Merger – combine photos in-browser, nothing uploaded",
+      "link": "https://freeimagemerger.com/",
+      "pubDate": "Thu, 30 Jul 2026 04:13:02 +0000",
+      "date": "Thu, 30 Jul 2026 04:13:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://freeimagemerger.com/\nComments URL: https://news.ycombinator.com/item?id=49106059\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49106059"
+    },
+    {
+      "title": "Show HN: We quantized Qwen3.6-35B-A3B to 2-bit: 12.3 GB, 225 tok/s on a 4090",
+      "link": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+      "pubDate": "Thu, 30 Jul 2026 03:25:28 +0000",
+      "date": "Thu, 30 Jul 2026 03:25:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2\nComments URL: https://news.ycombinator.com/item?id=49105816\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49105816"
+    },
+    {
+      "title": "Show HN: Alarium – a live 3D flight tracker built on community ADS-B",
+      "link": "https://www.alarium.tech",
+      "pubDate": "Thu, 30 Jul 2026 03:09:40 +0000",
+      "date": "Thu, 30 Jul 2026 03:09:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.alarium.tech\nComments URL: https://news.ycombinator.com/item?id=49105736\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49105736"
+    },
+    {
+      "title": "Show HN: a Rust coding agent that is compatible with Claude Code plugins/skills",
+      "link": "https://github.com/KonghaYao/peri",
+      "pubDate": "Thu, 30 Jul 2026 03:01:22 +0000",
+      "date": "Thu, 30 Jul 2026 03:01:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "14MB ACP-Rust Agent, Claude Code Plugin/skills compatible, Dynamic Workflow, Goal, Artifacts, Free Web Search, full feature and better support!\nComments URL: https://news.ycombinator.com/item?id=49105673\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49105673"
+    },
+    {
+      "title": "Show HN: Numbat – Agent Runtime Detection and Response",
+      "link": "https://github.com/perplexityai/numbat",
+      "pubDate": "Thu, 30 Jul 2026 02:52:21 +0000",
+      "date": "Thu, 30 Jul 2026 02:52:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/perplexityai/numbat\nComments URL: https://news.ycombinator.com/item?id=49105621\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49105621"
+    },
+    {
+      "title": "Show HN: How we use AI agents for support in an open-source project (Seafile)",
+      "link": "https://news.ycombinator.com/item?id=49105561",
+      "pubDate": "Thu, 30 Jul 2026 02:40:21 +0000",
+      "date": "Thu, 30 Jul 2026 02:40:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, i want to share my experience of using AI agents.\nBackground: \nRunning an open-source project is no easy task. With a small team handling every issue means valuable time spend on searching for context and doing the right action.\nVision:\n I believe that well-designed software can revolutionize the way we approach work, enabling us to streamline processes, eliminate redundancies, and unlock new levels of creativity and focus.\nWhat happened:\nSeaTicket was created for our own use, so my team ",
+      "guid": "https://news.ycombinator.com/item?id=49105561"
+    },
+    {
+      "title": "Show HN: Legionlinuxtui – Control Lenovo legion laptops in the terminal",
+      "link": "https://github.com/nooneknowspeter/legionlinuxtui",
+      "pubDate": "Thu, 30 Jul 2026 02:04:10 +0000",
+      "date": "Thu, 30 Jul 2026 02:04:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/nooneknowspeter/legionlinuxtui\nComments URL: https://news.ycombinator.com/item?id=49105365\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49105365"
+    },
+    {
+      "title": "Show HN: GlobeHoppr – find a route between cities using limited-distance jumps",
+      "link": "https://globehoppr.com",
+      "pubDate": "Thu, 30 Jul 2026 01:42:45 +0000",
+      "date": "Thu, 30 Jul 2026 01:42:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI built a game where you have to travel from point A to B by hopping through intermediate cities.\nEach jump has a maximum range, so you can’t simply select the destination. You need to build a route through cities that are close enough together, using as few jumps as possible.\nIt sounds straightforward until you need to cross a part of the world where you only know one or two cities. I’ve found that the game exposes a different kind of geographical knowledge: not just knowing where countr",
+      "guid": "https://news.ycombinator.com/item?id=49105241"
+    },
+    {
+      "title": "Show HN: RunNburn – Run a 295B Moe from a 98GB GGUF on a 64GB RAM Desktop",
+      "link": "https://github.com/coderredlab/runNburn",
+      "pubDate": "Thu, 30 Jul 2026 01:30:13 +0000",
+      "date": "Thu, 30 Jul 2026 01:30:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "runNburn is an Apache-2.0 Rust inference engine for quantized GGUF models that are too big for your fast memory.\nThe core idea: weights stay file-backed (mmap), host residency stays under an explicit byte budget (--ram-budget), and GPU caches are sized from detected free/total VRAM — never from device-name presets. There is no conversion step, no sidecar cache files, no silent requantization. The GGUF on disk is the single source of truth.\nThe result that made me want to post this: Tencent's Hy3",
+      "guid": "https://news.ycombinator.com/item?id=49105154"
+    },
+    {
+      "title": "Show HN: A free palm-reading tool that works in the browser",
+      "link": "https://wishastro.com/tools/palm-reading",
+      "pubDate": "Thu, 30 Jul 2026 01:29:05 +0000",
+      "date": "Thu, 30 Jul 2026 01:29:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://wishastro.com/tools/palm-reading\nComments URL: https://news.ycombinator.com/item?id=49105149\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49105149"
+    },
+    {
+      "title": "Show HN: Damn Center (the page) – extension that helps centering any website",
+      "link": "https://github.com/rinn7e/damn-center-extension",
+      "pubDate": "Thu, 30 Jul 2026 01:11:08 +0000",
+      "date": "Thu, 30 Jul 2026 01:11:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi everyone, I've built a browser extension that can add left or right padding to any website which helps centering the content of that website.\nYou can watch the video showcase here: https://www.youtube.com/watch?v=Yc29sO4jF9g\nThe source code is fully available at: https://github.com/rinn7e/damn-center-extension\nIf you like the project, you can buy me a coffee at: https://github.com/sponsors/rinn7e\nComments URL: https://news.ycombinator.com/item?id=49105047\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49105047"
     },
     {
       "title": "Show HN: A travel app not building generic itinerary",
@@ -26,7 +224,7 @@
       "guid": "https://news.ycombinator.com/item?id=49104919"
     },
     {
-      "title": "Show HN: OpenMetaHarness",
+      "title": "Show HN: OpenMetaHarness - complete long horizon tasks with more autonomy",
       "link": "https://github.com/openmetaharness/openmetaharness",
       "pubDate": "Thu, 30 Jul 2026 00:40:28 +0000",
       "date": "Thu, 30 Jul 2026 00:40:28 +0000",
@@ -48,171 +246,6 @@
       "guid": "https://news.ycombinator.com/item?id=49104856"
     },
     {
-      "title": "Show HN: Full stack development from one codebase web, Android, and iOS",
-      "link": "https://github.com/usedowe/dowe-lang",
-      "pubDate": "Thu, 30 Jul 2026 00:34:19 +0000",
-      "date": "Thu, 30 Jul 2026 00:34:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/usedowe/dowe-lang\nComments URL: https://news.ycombinator.com/item?id=49104832\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49104832"
-    },
-    {
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "link": "https://github.com/funador/claude-code-merge-queue",
-      "pubDate": "Thu, 30 Jul 2026 00:20:16 +0000",
-      "date": "Thu, 30 Jul 2026 00:20:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.\nSo I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.\nComments URL: https://news.ycomb",
-      "guid": "https://news.ycombinator.com/item?id=49104747"
-    },
-    {
-      "title": "Show HN: Karrouet – Dots and Boxes game we used to play as kids in Tunisia",
-      "link": "https://www.reddit.com/r/karrouet/",
-      "pubDate": "Thu, 30 Jul 2026 00:10:51 +0000",
-      "date": "Thu, 30 Jul 2026 00:10:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.reddit.com/r/karrouet/\nComments URL: https://news.ycombinator.com/item?id=49104680\nPoints: 5\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49104680"
-    },
-    {
-      "title": "Show HN: Mousecrack – Bypass bot detection with deep learning",
-      "link": "https://github.com/puffinsoft/mousecrack",
-      "pubDate": "Thu, 30 Jul 2026 00:05:38 +0000",
-      "date": "Thu, 30 Jul 2026 00:05:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/puffinsoft/mousecrack\nComments URL: https://news.ycombinator.com/item?id=49104642\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49104642"
-    },
-    {
-      "title": "Show HN: Generate, Version and Host your resumé all via GitHub",
-      "link": "https://github.com/sadigaxund/git-resume",
-      "pubDate": "Thu, 30 Jul 2026 00:00:06 +0000",
-      "date": "Thu, 30 Jul 2026 00:00:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sadigaxund/git-resume\nComments URL: https://news.ycombinator.com/item?id=49104600\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49104600"
-    },
-    {
-      "title": "Show HN: An AI Color Grader – Pico",
-      "link": "https://www.perbhat.com/pico",
-      "pubDate": "Wed, 29 Jul 2026 22:43:34 +0000",
-      "date": "Wed, 29 Jul 2026 22:43:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I'm a filmmaker, and have been pretty frustrated by AI video editors that are focused on automating editing instead of helping artists produce their visions.\nRecently got curious about whether Claude could color grade my footage, and built Pico. Turns out Claude can (sometimes!)\nPlease feel free to ask questions, try it on your own footage, or contribute to the project!\nAsk: if you are a researcher or hobbyist filmmaker, I'd love to chat with you to figure out how to make the models better at th",
-      "guid": "https://news.ycombinator.com/item?id=49104055"
-    },
-    {
-      "title": "Show HN: Always on visual context for your agents",
-      "link": "https://useglass.up.railway.app/#",
-      "pubDate": "Wed, 29 Jul 2026 22:26:38 +0000",
-      "date": "Wed, 29 Jul 2026 22:26:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A fully local tool I built so claude could search and see everything I do so I dont have to copy and paste screenshots all the time\nComments URL: https://news.ycombinator.com/item?id=49103904\nPoints: 4\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49103904"
-    },
-    {
-      "title": "Show HN: I built a Chrome extension so Claude can close my 300 tabs",
-      "link": "https://chromewebstore.google.com/detail/tab-genie/cjbnpcocgkomljkgfhgadolphbeicddh",
-      "pubDate": "Wed, 29 Jul 2026 22:21:49 +0000",
-      "date": "Wed, 29 Jul 2026 22:21:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/tab-genie/cjbnpcocgkomljkgfhgadolphbeicddh\nComments URL: https://news.ycombinator.com/item?id=49103856\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49103856"
-    },
-    {
-      "title": "Show HN: Replicant Space – an HTTP API-based game based on the Bobiverse books",
-      "link": "https://replicant.space/",
-      "pubDate": "Wed, 29 Jul 2026 21:57:28 +0000",
-      "date": "Wed, 29 Jul 2026 21:57:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "During Christmas 2025, I found myself burnt out from work. The last few years had been hard, and multiple redundancies saw the company I loved reduce down to just a handful of remaining staff. As a coping mechanism, I kinda disassociated for a while - throwing myself into my personal projects. AI was destroying the passion I had for coding. I tried to find some meaning in development again.\nAfter months of throwing myself into creating this game, I slowly fell back in love with coding. I taught ",
-      "guid": "https://news.ycombinator.com/item?id=49103612"
-    },
-    {
-      "title": "Show HN: Data structures as containers – sample chapter from my Big O book [pdf]",
-      "link": "https://thebigobook.com/downloads/data-structures-sample-chapter.pdf",
-      "pubDate": "Wed, 29 Jul 2026 21:47:56 +0000",
-      "date": "Wed, 29 Jul 2026 21:47:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I was a self taught software engineer that later went to grad school to get a masters in software engineering. What I learned along the way was that many of the intimidating subjects around algorithms and data structures were much simpler and less scary than I ever thought.\nMy hope for this book is to try and help the self taught developers get on more equal footing with people who have a CS degree - at least the algorithms class - which I always thought was most important for interviews. \nAlong",
-      "guid": "https://news.ycombinator.com/item?id=49103507"
-    },
-    {
-      "title": "Show HN: AI Security Leaderboard – comparing cyber and CBRN safeguards",
-      "link": "https://leaderboard.far.ai/",
-      "pubDate": "Wed, 29 Jul 2026 21:33:45 +0000",
-      "date": "Wed, 29 Jul 2026 21:33:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "There's no shortage of leaderboards for model capabilities - but the security of models is becoming increasingly relevant, from the risk of an AI agent processing unsanitized input being hijacked to models being pulled due to cybersecurity jailbreaks. We developed an automated test suite that runs models through 1500 automatically generated jailbreak attempts and measures the number of universal jailbreaks: prompts that elicit compliant, detailed responses to >75% clearly harmful questions withi",
-      "guid": "https://news.ycombinator.com/item?id=49103367"
-    },
-    {
-      "title": "Show HN: Play ROMs inline in your terminal",
-      "link": "https://github.com/jhickner/rom",
-      "pubDate": "Wed, 29 Jul 2026 21:27:57 +0000",
-      "date": "Wed, 29 Jul 2026 21:27:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/jhickner/rom\nComments URL: https://news.ycombinator.com/item?id=49103304\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49103304"
-    },
-    {
-      "title": "Show HN: Dev-like – turn public engineering practice into agent skills",
-      "link": "https://mrbro.dev/dev-like/",
-      "pubDate": "Wed, 29 Jul 2026 21:14:59 +0000",
-      "date": "Wed, 29 Jul 2026 21:14:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mrbro.dev/dev-like/\nComments URL: https://news.ycombinator.com/item?id=49103186\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49103186"
-    },
-    {
-      "title": "Show HN: Email domain health check with shareable reports",
-      "link": "https://shipmail.to/tools/email-health",
-      "pubDate": "Wed, 29 Jul 2026 21:04:21 +0000",
-      "date": "Wed, 29 Jul 2026 21:04:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://shipmail.to/tools/email-health\nComments URL: https://news.ycombinator.com/item?id=49103063\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49103063"
-    },
-    {
-      "title": "Show HN: Rebuilding ARKit 3D Reconstruction",
-      "link": "https://twitter.com/pablovelagomez1/status/2082256328966422542",
-      "pubDate": "Wed, 29 Jul 2026 21:04:13 +0000",
-      "date": "Wed, 29 Jul 2026 21:04:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I want to rebuild ARKit's VIO and depth estimation in an open-source way. This is a blog post on the steps I'm taking to build this out. Mostly data work to start and choosing the right dataset to do it (in this case ARKitScenes!)\nLet me know if you have any questions.\nComments URL: https://news.ycombinator.com/item?id=49103062\nPoints: 5\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49103062"
-    },
-    {
       "title": "At Waymo, an AI project isn't ready until its evals are — not when the model performs well",
       "link": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well",
       "pubDate": "Wed, 29 Jul 2026 20:40:15 GMT",
@@ -224,28 +257,6 @@
       "guid": "4uyeuBOzpeD9hHV6wDaP3K"
     },
     {
-      "title": "Show HN: MindFlock – Parallel AI coding agents, each in its own Git worktree",
-      "link": "https://github.com/MindFlock/MindFlock",
-      "pubDate": "Wed, 29 Jul 2026 20:29:36 +0000",
-      "date": "Wed, 29 Jul 2026 20:29:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/MindFlock/MindFlock\nComments URL: https://news.ycombinator.com/item?id=49102636\nPoints: 4\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49102636"
-    },
-    {
-      "title": "Show HN: Interactive Python Projects in the Browser – Trading Card Builder",
-      "link": "https://www.codembark.com/projects/k3m9x2v4pd/trading-card-builder",
-      "pubDate": "Wed, 29 Jul 2026 20:26:26 +0000",
-      "date": "Wed, 29 Jul 2026 20:26:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This has been my nights/weekends project for the last 3 years and I've finally launched an initial version of the thing. Hope it can help some people learn the joy of Python!\nComments URL: https://news.ycombinator.com/item?id=49102587\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49102587"
-    },
-    {
       "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited — 5 startups are already fixing that",
       "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
       "pubDate": "Wed, 29 Jul 2026 20:02:03 GMT",
@@ -255,6 +266,17 @@
       "icon": "📰",
       "contentSnippet": "Enterprise AI agents can do the work — but the infrastructure to let them talk to each other, prove they should be trusted, and be audited when something goes wrong is still being built.\nHere's a look at how five startups are tackling that gap — around orchestration, observability, connectivity, and security — as shown at VB Transform 2026.\nBAND is orchestrating all the agents you have running in the background\nIn the very near future, agents will be deployed everywhere, and they will do work on",
       "guid": "3lUovEL5WzPtJw8spRK6LT"
+    },
+    {
+      "title": "Cursor Crane",
+      "link": "https://www.producthunt.com/products/cursor-crane",
+      "pubDate": "2026-07-29T19:12:18.000Z",
+      "date": "2026-07-29T19:12:18.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/cursor-crane"
     },
     {
       "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
@@ -288,6 +310,17 @@
       "icon": "📰",
       "contentSnippet": "Bright Machines wants to solve one of the least glamorous but most consequential problems in the AI buildout: what happens to quality data when a human being has to touch the production line.\nThe San Francisco-based manufacturer announced today the Hybrid BRC (Bright Robotic Cell), an expansion of its Bright Factory platform that lets human operators step inside a sensor-monitored robotic cell to perform prescribed assembly steps — without breaking the digital record that tracks every server fro",
       "guid": "5bFawFeavmm2Qr1MPkuBqX"
+    },
+    {
+      "title": "AI in the Classroom: Assignments Students Can’t Fake",
+      "link": "https://www.coolcatteacher.com/e957/",
+      "pubDate": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "date": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nWorried students are using AI to do the work for them? Dr. Nancy Frey shares what to assign, what to collect, and what to teach students to verify. Plus, why the question isn't how to catch it.\nThe post AI in the Classroom: Assignments Students Can’t Fake appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be exce",
+      "guid": "https://www.coolcatteacher.com/?p=35007"
     }
   ]
 }
