@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-30T13:29:56.683Z",
+  "generatedAt": "2026-07-30T19:11:32.623Z",
   "lookbackHours": 24,
-  "totalItems": 30,
+  "totalItems": 34,
   "items": [
     {
       "title": "moeru-ai/airi",
       "link": "https://github.com/moeru-ai/airi",
-      "pubDate": "2026-07-30T13:29:54.323Z",
-      "date": "2026-07-30T13:29:54.323Z",
+      "pubDate": "2026-07-30T19:11:31.306Z",
+      "date": "2026-07-30T19:11:31.306Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "1jehuang/jcode",
       "link": "https://github.com/1jehuang/jcode",
-      "pubDate": "2026-07-30T13:29:54.323Z",
-      "date": "2026-07-30T13:29:54.323Z",
+      "pubDate": "2026-07-30T19:11:31.306Z",
+      "date": "2026-07-30T19:11:31.306Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -26,48 +26,257 @@
       "guid": "https://github.com/1jehuang/jcode"
     },
     {
-      "title": "Show HN: Duckle was benchmarked against 4 open source ELT/ETL tools",
-      "link": "https://medium.com/@souravroy7864/duckle-was-benchmarked-against-4-open-source-data-ingestion-elt-etl-tools-753d2be6dc72",
-      "pubDate": "Thu, 30 Jul 2026 13:08:39 +0000",
-      "date": "Thu, 30 Jul 2026 13:08:39 +0000",
+      "title": "Show HN: I bet your hardest customer orders can be automated. Challenge Zentriq",
+      "link": "https://www.zentriqai.com/en",
+      "pubDate": "Thu, 30 Jul 2026 18:45:39 +0000",
+      "date": "Thu, 30 Jul 2026 18:45:39 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://medium.com/@souravroy7864/duckle-was-benchmarked-against-4-open-source-data-ingestion-elt-etl-tools-753d2be6dc72\nComments URL: https://news.ycombinator.com/item?id=49109482\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109482"
+      "contentSnippet": "Article URL: https://www.zentriqai.com/en\nComments URL: https://news.ycombinator.com/item?id=49114001\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49114001"
     },
     {
-      "title": "Show HN: Homebutler – Homelab CLI that gives agents commands, not a shell",
-      "link": "https://github.com/Higangssh/homebutler",
-      "pubDate": "Thu, 30 Jul 2026 13:06:47 +0000",
-      "date": "Thu, 30 Jul 2026 13:06:47 +0000",
+      "title": "Show HN: NegativeEV – I built a tool to help people see how bad their bets are",
+      "link": "https://negativeev.com/",
+      "pubDate": "Thu, 30 Jul 2026 18:45:26 +0000",
+      "date": "Thu, 30 Jul 2026 18:45:26 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Higangssh/homebutler\nComments URL: https://news.ycombinator.com/item?id=49109467\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109467"
+      "contentSnippet": "Article URL: https://negativeev.com/\nComments URL: https://news.ycombinator.com/item?id=49113999\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49113999"
     },
     {
-      "title": "Show HN: An AI bug fixer for VS Code that explains why your code broke",
-      "link": "https://marketplace.visualstudio.com/items?itemName=NeoBugForge.neo-bug-forge",
-      "pubDate": "Thu, 30 Jul 2026 13:02:31 +0000",
-      "date": "Thu, 30 Jul 2026 13:02:31 +0000",
+      "title": "Show HN: Leia – a CLI to oneshot playlists onto Yoto MYO cards",
+      "link": "https://github.com/nsokin/leia",
+      "pubDate": "Thu, 30 Jul 2026 18:35:53 +0000",
+      "date": "Thu, 30 Jul 2026 18:35:53 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://marketplace.visualstudio.com/items?itemName=NeoBugForge.neo-bug-forge\nComments URL: https://news.ycombinator.com/item?id=49109430\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109430"
+      "contentSnippet": "Might be useful for anyone with a Yoto and eager kids.\nSimple cli and agent skill to go from a audio/video playlist url (bulk loading) to a Yoto MYO card. Yt-dlp to download media and the yoto dev api to upload audio to your MYO account. Useful for loading whole seasons or series in one go.\nHandles downloading, organising chapters, writing titles, dedupes, artwork/icons, and managing/fitting card limits. Runs locally. Works exactly where you're thinking.\nComments URL: https://news.ycombinator.co",
+      "guid": "https://news.ycombinator.com/item?id=49113859"
     },
     {
-      "title": "Show HN: SwiftNet 0.6.0 – Lightweight l2 C networking lib (pcap and early DPDK)",
-      "link": "https://news.ycombinator.com/item?id=49109422",
-      "pubDate": "Thu, 30 Jul 2026 13:02:05 +0000",
-      "date": "Thu, 30 Jul 2026 13:02:05 +0000",
+      "title": "Show HN: APIgen – Generate Fusio REST APIs and Angular UIs from TypeSchema",
+      "link": "https://apigen.app/",
+      "pubDate": "Thu, 30 Jul 2026 18:35:04 +0000",
+      "date": "Thu, 30 Jul 2026 18:35:04 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "SwiftNet is a small C networking library that works at Layer 2 with libpcap (and now has a very early DPDK implementation).\nI built it because I was tired of using sockets or complex libraries and wanted something simple enough for my game while still being able to go fast using compile time customizations\n0.6.0 changes:\n- Dynamic library build\n- Changed API in buffer functions\n- Simple DPDK implementation only usable right now with loopback\n- Cleaner source code\n- Built with maximum warnings en",
-      "guid": "https://news.ycombinator.com/item?id=49109422"
+      "contentSnippet": "Article URL: https://apigen.app/\nComments URL: https://news.ycombinator.com/item?id=49113848\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49113848"
+    },
+    {
+      "title": "Show HN: A single character turns primitive recursion into general recursion",
+      "link": "https://github.com/raoofha/pr",
+      "pubDate": "Thu, 30 Jul 2026 18:30:50 +0000",
+      "date": "Thu, 30 Jul 2026 18:30:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/raoofha/pr\nComments URL: https://news.ycombinator.com/item?id=49113798\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49113798"
+    },
+    {
+      "title": "Show HN: State of the Feed – TikTok usage analyzed",
+      "link": "https://wrapped.vantezzen.io/state-of-the-feed",
+      "pubDate": "Thu, 30 Jul 2026 18:27:24 +0000",
+      "date": "Thu, 30 Jul 2026 18:27:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN,\nI'm the creator of \"Wrapped for TikTok\" - like Spotify Wrapped but for TikTok.\nUsers can upload their TikTok data export to get a summary of their time on the platform, and can optionally donate their data to be used by academic research.\nWe now have almost 17k users who donated their data. With \"State of the Feed\" I wanted to make some of the research happening behind the scenes more visible.\nThe current research focussed on comparing 2024 to 2026 data, which showed some interesting dow",
+      "guid": "https://news.ycombinator.com/item?id=49113768"
+    },
+    {
+      "title": "Show HN: Otzar – Local hybrid search over your own files",
+      "link": "https://github.com/danielfleischer/otzar",
+      "pubDate": "Thu, 30 Jul 2026 18:22:59 +0000",
+      "date": "Thu, 30 Jul 2026 18:22:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/danielfleischer/otzar\nComments URL: https://news.ycombinator.com/item?id=49113718\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49113718"
+    },
+    {
+      "title": "Show HN: Reply to Your Comments with an API",
+      "link": "https://mallary.ai/",
+      "pubDate": "Thu, 30 Jul 2026 18:22:14 +0000",
+      "date": "Thu, 30 Jul 2026 18:22:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mallary.ai/\nComments URL: https://news.ycombinator.com/item?id=49113708\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49113708"
+    },
+    {
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "pubDate": "Thu, 30 Jul 2026 18:13:06 +0000",
+      "date": "Thu, 30 Jul 2026 18:13:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn't, the teacher answe",
+      "guid": "https://news.ycombinator.com/item?id=49113599"
+    },
+    {
+      "title": "Show HN: Doodlea.day – A daily step-by-step marker drawing lesson",
+      "link": "https://doodlea.day/tutorials/cartoon-soda-can-with-fizz.html",
+      "pubDate": "Thu, 30 Jul 2026 18:12:29 +0000",
+      "date": "Thu, 30 Jul 2026 18:12:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Several weeks ago, I wanted to draw a cowboy hat for a handmade birthday card, so I used ChatGPT to create a drawing tutorial for me. It was impressive how well the image generation was able to break down the end result into a step-by-step lesson, and this led to the idea of creating a daily AI-generated drawing lesson website.\nDoodlea.day is that. A fresh drawing lesson published most days.\nI've had some challenges keeping the lessons cumulative. For example, in the first few steps, a character",
+      "guid": "https://news.ycombinator.com/item?id=49113588"
+    },
+    {
+      "title": "Show HN: Ski – Voice Coding for Claude Code, Codex and More – On-Device – Free",
+      "link": "https://heyski.io/",
+      "pubDate": "Thu, 30 Jul 2026 18:10:04 +0000",
+      "date": "Thu, 30 Jul 2026 18:10:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "SKI is a on-device voice coding application, which can be used with any agents that supports skill, such as Claude Code, Codex or Hermes.\nIt transcribes your voice (which you can optionally review and edit) and send it to the connected agent. The agent then completes the task, and uses the skill to talk about the updates of the project or a summary or a query using voice.\nThis runs completely on-device. Free. No subscription. Available on both Mac (notch and pill) and Windows (pill widget)\nIt ca",
+      "guid": "https://news.ycombinator.com/item?id=49113559"
+    },
+    {
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "link": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "pubDate": "Thu, 30 Jul 2026 18:08:48 +0000",
+      "date": "Thu, 30 Jul 2026 18:08:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/yashmahajan10/llm-differential-privacy-gateway\nComments URL: https://news.ycombinator.com/item?id=49113543\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49113543"
+    },
+    {
+      "title": "Show HN: An online Live face swap app, no GPU need",
+      "link": "https://livefaceswap.ai/",
+      "pubDate": "Thu, 30 Jul 2026 17:57:20 +0000",
+      "date": "Thu, 30 Jul 2026 17:57:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "There's a online website and a windows app, no gpu need！ The cloud AI process the face swap.\nComments URL: https://news.ycombinator.com/item?id=49113397\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49113397"
+    },
+    {
+      "title": "Show HN: Tally – check a spreadsheet's numbers against their source, in-browser",
+      "link": "https://tally.jiegou.ai/",
+      "pubDate": "Thu, 30 Jul 2026 17:55:54 +0000",
+      "date": "Thu, 30 Jul 2026 17:55:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tally.jiegou.ai/\nComments URL: https://news.ycombinator.com/item?id=49113381\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49113381"
+    },
+    {
+      "title": "Show HN: ZeroShot: Agent session monitoring to make your team go faster",
+      "link": "https://tryzeroshot.com",
+      "pubDate": "Thu, 30 Jul 2026 17:48:37 +0000",
+      "date": "Thu, 30 Jul 2026 17:48:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tryzeroshot.com\nComments URL: https://news.ycombinator.com/item?id=49113279\nPoints: 11\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49113279"
+    },
+    {
+      "title": "Hot Conversations: ISTE 2026, AI Assessment & Space Education",
+      "link": "https://www.coolcatteacher.com/hot-conversations-iste-2026-ai-assessment-space-education/",
+      "pubDate": "Thu, 30 Jul 2026 17:12:12 +0000",
+      "date": "Thu, 30 Jul 2026 17:12:12 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nCool Cat Teacher Talk, Season 6 Episode 10 — with Dr. Carmalita Seitz (ISTE+ASCD), Steven Swanson (engineering teacher and app developer), and Dr. Mark Wagner (ARES Learning). Recorded before the…\nThe post Hot Conversations: ISTE 2026, AI Assessment & Space Education appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educa",
+      "guid": "https://www.coolcatteacher.com/?p=35021"
+    },
+    {
+      "title": "Show HN: Agentic – Run Claude Code on different models with routing and budgets",
+      "link": "https://github.com/MaorBril/agentic",
+      "pubDate": "Thu, 30 Jul 2026 17:04:00 +0000",
+      "date": "Thu, 30 Jul 2026 17:04:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/MaorBril/agentic\nComments URL: https://news.ycombinator.com/item?id=49112732\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49112732"
+    },
+    {
+      "title": "Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.",
+      "link": "https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying",
+      "pubDate": "Thu, 30 Jul 2026 16:57:14 GMT",
+      "date": "Thu, 30 Jul 2026 16:57:14 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Every time a Mastercard gets tapped, the network has less than a tenth of a second to judge how likely the purchase is to be fraudulent. It made that call across 175 billion transactions last year. Now the buyer on the other side of that judgment is starting to change, and Greg Ulrich, the company's chief AI and data officer, spelled out the consequence for the VB Transform 2026 audience in Menlo Park on July 14. \"We've built a bunch of risk rules over time that were intended to stop a bot from ",
+      "guid": "6b0GFSuEcifGEiFANxBBdH"
+    },
+    {
+      "title": "Show HN: Burnless makes LLM context a protocol. Token savings are a side effect",
+      "link": "https://github.com/Rudekwydra/burnless",
+      "pubDate": "Thu, 30 Jul 2026 16:45:01 +0000",
+      "date": "Thu, 30 Jul 2026 16:45:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I’ve created Burnless because I realized that we were using the context window for things that didn't need to be there anymore.\nI wanted to stop burning tokens with what had already happened and were no longer necessary for the next step.\nIt was not a discovery that came later. Burnless was born to separate things. What I didn’t know yet was the size of the problem, the size of the gain and how different it was from the path that everyone else was following. What I see nowadays is that everyone ",
+      "guid": "https://news.ycombinator.com/item?id=49112480"
+    },
+    {
+      "title": "Show HN: RecipeBook – Self-serve platform for video training data, $3/HR",
+      "link": "https://recipebook.shofo.ai",
+      "pubDate": "Thu, 30 Jul 2026 16:40:12 +0000",
+      "date": "Thu, 30 Jul 2026 16:40:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://recipebook.shofo.ai\nComments URL: https://news.ycombinator.com/item?id=49112418\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49112418"
+    },
+    {
+      "title": "Show HN: secure FFmpeg",
+      "link": "https://news.ycombinator.com/item?id=49112396",
+      "pubDate": "Thu, 30 Jul 2026 16:38:51 +0000",
+      "date": "Thu, 30 Jul 2026 16:38:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Made a memory safe enough version of FFMpeg with https://news.ycombinator.com/item?id=49112396\nPoints: 2\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=49112396"
+    },
+    {
+      "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
+      "link": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread",
+      "pubDate": "Thu, 30 Jul 2026 16:29:00 GMT",
+      "date": "Thu, 30 Jul 2026 16:29:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Less than a year after emerging from stealth to tackle non-human identity security, Israeli cybersecurity startup Hush Security believes the enterprise AI security conversation has fundamentally changed.\nThe company, which earlier this week announced a $30 million Series A round led by returning investors Battery Ventures and YL Ventures with Akamai Technologies joining as a strategic investor, argues that organizations are rapidly moving beyond experimenting with generative AI assistants and in",
+      "guid": "4uh9CDtvwRUlviacD5B9vc"
+    },
+    {
+      "title": "Show HN: I was able to run tiberian sun on cncnet on an M4 MacBook Pro",
+      "link": "https://github.com/piyiotisk/cncnet-ts-client-package/blob/master/docs/running-tiberian-sun-on-apple-silicon-macos.md",
+      "pubDate": "Thu, 30 Jul 2026 16:25:03 +0000",
+      "date": "Thu, 30 Jul 2026 16:25:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "As the title says I was able to run cncnet on a macbook pro with m4 processor. I set GPT 5.6 sol on this and it figured it out.\nSo excited to be able to play one of my childhood games! Enjoy!\nEverything is build using GPT 5.6 sol btw. I didn't do anything other than testing and prompting.\nComments URL: https://news.ycombinator.com/item?id=49112215\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49112215"
     },
     {
       "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
@@ -81,180 +290,15 @@
       "guid": "37cDnooZ9v8Ui7b8tfbizp"
     },
     {
-      "title": "Show HN: I got shadowbanned on X (Twitter), so I built a checker",
-      "link": "https://amishadowbanned.com",
-      "pubDate": "Thu, 30 Jul 2026 12:58:44 +0000",
-      "date": "Thu, 30 Jul 2026 12:58:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://amishadowbanned.com\nComments URL: https://news.ycombinator.com/item?id=49109387\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109387"
-    },
-    {
-      "title": "Show HN: 3D CSS Super Mario 64",
-      "link": "https://codepen.io/editor/alowpoly/pen/019fae67-50d9-74ce-8025-4b9dd5a7c484",
-      "pubDate": "Thu, 30 Jul 2026 12:57:23 +0000",
-      "date": "Thu, 30 Jul 2026 12:57:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://codepen.io/editor/alowpoly/pen/019fae67-50d9-74ce-8025-4b9dd5a7c484\nComments URL: https://news.ycombinator.com/item?id=49109372\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109372"
-    },
-    {
-      "title": "Show HN: wthrtxt – the same weather forecast in the browser and terminal",
-      "link": "https://wthrtxt.com",
-      "pubDate": "Thu, 30 Jul 2026 12:55:58 +0000",
-      "date": "Thu, 30 Jul 2026 12:55:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wthrtxt.com\nComments URL: https://news.ycombinator.com/item?id=49109355\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49109355"
-    },
-    {
-      "title": "Show HN: DispatchSEO – open-source SEO manager tool for Claude Code",
-      "link": "https://github.com/NeoZi12/dispatchseo",
-      "pubDate": "Thu, 30 Jul 2026 12:52:23 +0000",
-      "date": "Thu, 30 Jul 2026 12:52:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This SEO tool is similar to traditional ones: Semrush, SEObot and Outrank\nKey features:\n- research keywords\n- analyze rankings\n- create content workflows\n- monitor search performance\nTech stack:\n- NextJS 16 (React 19, App Router)\n- TypeScript\n- Tailwind v4\n- PostgreSQL (bundled container self-hosted, Supabase in cloud)\n- MCP server (mcp-handler + u/modelcontextprotocol/sdk)\n- Claude Code, headless, in a container (the builder)\n- Docker Compose (app + db + cron + builder)\n- GitHub Actions (schedu",
-      "guid": "https://news.ycombinator.com/item?id=49109315"
-    },
-    {
-      "title": "Show HN: I Made Generateppt.com Free",
-      "link": "https://www.generateppt.com/",
-      "pubDate": "Thu, 30 Jul 2026 12:52:05 +0000",
-      "date": "Thu, 30 Jul 2026 12:52:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "No watermark, no limits, and the AI features work with your own API key, so there’s no subscription.\nWould love any feedback: generateppt.com\nComments URL: https://news.ycombinator.com/item?id=49109310\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109310"
-    },
-    {
-      "title": "Show HN: FBSimCity – an explorable city that shows how Firebird works",
-      "link": "https://mariuz.github.io/FBSimCity/",
-      "pubDate": "Thu, 30 Jul 2026 12:46:35 +0000",
-      "date": "Thu, 30 Jul 2026 12:46:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mariuz.github.io/FBSimCity/\nComments URL: https://news.ycombinator.com/item?id=49109262\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109262"
-    },
-    {
-      "title": "Show HN: Scalix World – AI native Neo cloud",
-      "link": "https://scalix.world/",
-      "pubDate": "Thu, 30 Jul 2026 12:42:39 +0000",
-      "date": "Thu, 30 Jul 2026 12:42:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://scalix.world/\nComments URL: https://news.ycombinator.com/item?id=49109227\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49109227"
-    },
-    {
-      "title": "Show HN: Noticky – A local MCP server for sticky notes on macOS",
-      "link": "https://www.noticky.app/en/sticky-notes-mcp",
-      "pubDate": "Thu, 30 Jul 2026 12:41:51 +0000",
-      "date": "Thu, 30 Jul 2026 12:41:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.noticky.app/en/sticky-notes-mcp\nComments URL: https://news.ycombinator.com/item?id=49109223\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49109223"
-    },
-    {
-      "title": "Show HN: Memsprout – share AI context with your teammates",
-      "link": "https://memsprout.com/docs",
-      "pubDate": "Thu, 30 Jul 2026 12:29:48 +0000",
-      "date": "Thu, 30 Jul 2026 12:29:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I’m an architect at my company and everyone on my team is now using Claude/Codex agents for their work. Managing context in claude.md/agents.md files is fine but so much of the knowledge required doesn’t fit cleanly in one repo or the other. Plus, much of the team (product, design, support) does not work in repos but still needs a place to share context.\nI searched for existing solutions to this but only found products meant for managing deployed AI agent memory for use in AI applications. I wan",
-      "guid": "https://news.ycombinator.com/item?id=49109106"
-    },
-    {
-      "title": "Show HN: Abendrot – The free and open-source macOS app for your circadian rhythm",
-      "link": "https://github.com/matthewrball/abendrot",
-      "pubDate": "Thu, 30 Jul 2026 12:25:14 +0000",
-      "date": "Thu, 30 Jul 2026 12:25:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Abendrot is a handcrafted application designed for the burners of the midnight oil. I got tired of spending night after night staring into a luminous computer screen blasting blue-rich light at my eyes long after sunset. After a long deep research session with frontier models, the need for Abendrot became apparent. macOS can warm displays natively with Night Shift but it is nowhere near where it needs to be for optimal blue light reduction.\nComments URL: https://news.ycombinator.com/item?id=4910",
-      "guid": "https://news.ycombinator.com/item?id=49109068"
-    },
-    {
-      "title": "Show HN: Edgemetry – self-hosted web analytics on Cloudflare's free tier",
-      "link": "https://github.com/hayaran/edgemetry",
-      "pubDate": "Thu, 30 Jul 2026 12:20:10 +0000",
-      "date": "Thu, 30 Jul 2026 12:20:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've been building a lot of landing pages and small sites lately, and i wanted analytics on them. Google analytics was the obvious first option, but i didn't want it for privacy reasons. Also, some privacy blockers block them. Plausible was the next best thing, but having a VPS for sites which that doesn't get too much traffic, felt too much.\nSo i built Edgemetry. Its a worker, a bit of frontend, and a D1 database. Everything runs in Cloudflare's free tier.\nIf you've got a site that doesn't get ",
-      "guid": "https://news.ycombinator.com/item?id=49109016"
-    },
-    {
-      "title": "Show HN: A browser extension that flags GitHub repos with suspicious star growth",
-      "link": "https://ayoublidjici-dotcom.github.io/repo-reality-check/",
-      "pubDate": "Thu, 30 Jul 2026 12:14:24 +0000",
-      "date": "Thu, 30 Jul 2026 12:14:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://ayoublidjici-dotcom.github.io/repo-reality-check/\nComments URL: https://news.ycombinator.com/item?id=49108973\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49108973"
-    },
-    {
-      "title": "Show HN: HuPow – Proof-of-Work to stop AI bots in your inbox",
-      "link": "https://hupow.app",
-      "pubDate": "Thu, 30 Jul 2026 12:05:18 +0000",
-      "date": "Thu, 30 Jul 2026 12:05:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://hupow.app\nComments URL: https://news.ycombinator.com/item?id=49108879\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49108879"
-    },
-    {
-      "title": "Show HN: Formae 0.88.0 Released",
-      "link": "https://docs.formae.io/documentation/reference/release-notes",
-      "pubDate": "Thu, 30 Jul 2026 12:04:36 +0000",
-      "date": "Thu, 30 Jul 2026 12:04:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A transformative release with a lot of polish:\n- CLI facelift\n- Docs reboot + AI friendliness\n- forma properties rework for better IDE experience\nComments URL: https://news.ycombinator.com/item?id=49108873\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49108873"
-    },
-    {
-      "title": "Show HN: Tinbase – OSS Supabase-compatible back end in TypeScript",
-      "link": "https://www.tinbase.dev/",
-      "pubDate": "Thu, 30 Jul 2026 12:02:07 +0000",
-      "date": "Thu, 30 Jul 2026 12:02:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.tinbase.dev/\nComments URL: https://news.ycombinator.com/item?id=49108849\nPoints: 9\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49108849"
-    },
-    {
-      "title": "Show HN: Get an email when your favorite actor/director releases something new",
-      "link": "https://www.premierepal.com/",
-      "pubDate": "Thu, 30 Jul 2026 11:46:50 +0000",
-      "date": "Thu, 30 Jul 2026 11:46:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.premierepal.com/\nComments URL: https://news.ycombinator.com/item?id=49108693\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49108693"
+      "title": "How to Do Gold Standard PBL Without Losing Class Time",
+      "link": "https://www.coolcatteacher.com/e958/",
+      "pubDate": "Thu, 30 Jul 2026 11:00:00 +0000",
+      "date": "Thu, 30 Jul 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nGold standard PBL isn't a fun project with a poster at the end. Lisa Mireles of PBLWorks explains what a real project based learning classroom looks like — and how to go deeper on the standards that matter most without falling behind.\nThe post How to Do Gold Standard PBL Without Losing Class Time appeared first on Cool Cat Teacher Blog by Vicki Davis",
+      "guid": "https://www.coolcatteacher.com/?p=35015"
     },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -277,6 +321,28 @@
       "icon": "🌱",
       "contentSnippet": "What does it look like when a foundation built by a field scientist becomes the connective tissue of an entire regional learning ecosystem? The PAST Foundation's story, told through 25 years of timeline milestones and student voices, offers education leaders a concrete model for weaving together schools, industry, community, and out-of-school time into something greater than any single program. From portable STEM labs to microschool pathways co-launched with universities and industry partners, P",
       "guid": "https://www.gettingsmart.com/?p=132458"
+    },
+    {
+      "title": "NTT DATA AIVista and Snowflake: Identity alone won’t secure enterprise AI agents",
+      "link": "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "date": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Presented by NTT DATA AIVista\n\nVentureBeat’s June research found that 69% of enterprises are still running AI agents that share credentials, a practice associated with higher rates of security incidents and near-incidents. \nBut at VB Transform 2026, Mukesh Karki, CTO of NTT DATA AIVista, and Mayank Upadhyay, chief security and trust officer at Snowflake, argued that fixing identity is only the first step. Enterprises also need action-level authorization and tamper-resistant audit trails built in",
+      "guid": "4gHTNhutcjpwu9rcpX6PJP"
+    },
+    {
+      "title": "Companies are finally seeing AI ROI — and now they know how much more value it can deliver",
+      "link": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "date": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Presented by SAP\n\nEnterprise AI has moved from experiment to execution, and that shift is beginning to show real returns. The SAP Value of AI Report 2026, produced with Oxford Economics and based on a survey of 2,600 business leaders across 13 countries, found that AI now supports nearly one-third of all tasks in the average organization, rising to 30% from 25% last year. \nROI expectations for agentic AI have jumped from 10% last year to 17% this year, but many organizations believe AI could be ",
+      "guid": "2vQEfVD4LWzFG8LtCIjzHR"
     },
     {
       "title": "At Waymo, an AI project isn't ready until its evals are — not when the model performs well",
@@ -310,28 +376,6 @@
       "icon": "🆕",
       "contentSnippet": "Discussion\n            |\n            Link",
       "guid": "https://www.producthunt.com/products/cursor-crane"
-    },
-    {
-      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
-      "link": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
-      "pubDate": "Wed, 29 Jul 2026 17:32:00 GMT",
-      "date": "Wed, 29 Jul 2026 17:32:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Nimble, a New York City-based tech startup VentureBeat previously covered for its efforts to re-invent web search for enterprises by using multiple AI agents to improve accuracy and depth, is taking another step toward its vision of a world in which agents do most of the web searching instead of us typing and reviewing the results manually. \nNimble today launched Web Search Agents, a new retrieval system designed to help AI agents perform more 21% more accurate web research while using significa",
-      "guid": "2XXIu6HR3LqfYNCv9bpAyP"
-    },
-    {
-      "title": "Target SVP says its real AI moat isn't the models — it's everything built around them",
-      "link": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
-      "pubDate": "Wed, 29 Jul 2026 16:23:49 GMT",
-      "date": "Wed, 29 Jul 2026 16:23:49 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Target SVP Siobhán Mc Feeney says the AI models her company runs aren't what gives Target its edge — everything built around them is.\n\"There's a lot in it. That to us is the moat,\" Mc Feeney said at VB Transform 2026. \"The models are great, and they're important. They're just not sufficient to be the competitive advantage.\"\nThat discipline shows up early in how Target decides whether to build an agent at all. Mc Feeney was blunt, even \"controversial\" by her own admission, about the current AI mo",
-      "guid": "KTQpUNEvtIds8KXnk1Urz"
     }
   ]
 }
