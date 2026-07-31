@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-31T01:58:44.729Z",
+  "generatedAt": "2026-07-31T08:36:47.916Z",
   "lookbackHours": 24,
-  "totalItems": 32,
+  "totalItems": 36,
   "items": [
     {
       "title": "microsoft/AI-For-Beginners",
       "link": "https://github.com/microsoft/AI-For-Beginners",
-      "pubDate": "2026-07-31T01:58:42.653Z",
-      "date": "2026-07-31T01:58:42.653Z",
+      "pubDate": "2026-07-31T08:36:45.770Z",
+      "date": "2026-07-31T08:36:45.770Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,233 @@
     {
       "title": "paperswithbacktest/awesome-systematic-trading",
       "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "pubDate": "2026-07-31T01:58:42.653Z",
-      "date": "2026-07-31T01:58:42.653Z",
+      "pubDate": "2026-07-31T08:36:45.770Z",
+      "date": "2026-07-31T08:36:45.770Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.\n\n \n  \n \nAwesome Systematic Trading\n \n \n\n \n \n希望阅读中文版？点我\n \nWe are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies.\n \n \nWhat will you find here?\n \n \n \n97 libraries and packages for research and live trading\n \n \n40+ strategies described by institutionals and academics\n \n \n55 books for beg",
       "guid": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+    },
+    {
+      "title": "Show HN: In-browser photo inpainting with LaMa and ONNX",
+      "link": "https://wipe.photos/",
+      "pubDate": "Fri, 31 Jul 2026 07:33:08 +0000",
+      "date": "Fri, 31 Jul 2026 07:33:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://wipe.photos/\nComments URL: https://news.ycombinator.com/item?id=49120119\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49120119"
+    },
+    {
+      "title": "Show HN: Dissecting the automation of a newspaper (Claude routine, GitHub Pages)",
+      "link": "https://github.com/Lywald/zfrontpage/",
+      "pubDate": "Fri, 31 Jul 2026 07:30:29 +0000",
+      "date": "Fri, 31 Jul 2026 07:30:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "There are people who are against AI. And then... there is me. \nMy name is Pierre, and I'm having the time of my life, building all crazy things. Please don't hate. =(\nNow, here's the latest: purely automated daily newspaper. You can make your own. Take a shot. The 'code' is FOSS!!!\nYou can look on the repo how it works... This is what is interesting. It is almost entirely open. (& Free, of course.)\nWhat's interesting is that it costs almost nothing to implement and have your own newspaper runnin",
+      "guid": "https://news.ycombinator.com/item?id=49120106"
+    },
+    {
+      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
+      "link": "https://getslaide.com/",
+      "pubDate": "Fri, 31 Jul 2026 07:21:17 +0000",
+      "date": "Fri, 31 Jul 2026 07:21:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I am trying to replace PowerPoint with a file format better suited for AI. But let me fill you in...\nSo, I pitch a lot these days, and \"make the deck\" had become the worst part of my week. I don't know about you, but automation hasn't really worked for me here. Every AI deck tool I tried failed the same way. After various trial and errors, it ends up being fine on screen, but a broken approximation on export, and not one of them would touch my company master. So I was thinking that perhaps the s",
+      "guid": "https://news.ycombinator.com/item?id=49120039"
+    },
+    {
+      "title": "Show HN: I stopped babysitting my AI agents by pushing them to Telegram",
+      "link": "https://blackflare.dev/",
+      "pubDate": "Fri, 31 Jul 2026 07:05:26 +0000",
+      "date": "Fri, 31 Jul 2026 07:05:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://blackflare.dev/\nComments URL: https://news.ycombinator.com/item?id=49119935\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49119935"
+    },
+    {
+      "title": "Show HN: A Handwritten Blogging Platform",
+      "link": "https://handwritten.blog/",
+      "pubDate": "Fri, 31 Jul 2026 06:37:42 +0000",
+      "date": "Fri, 31 Jul 2026 06:37:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "The idea is a place for beautiful notes like https://insidevoices.handwritten.blog.\nComments URL: https://news.ycombinator.com/item?id=49119751\nPoints: 2\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=49119751"
+    },
+    {
+      "title": "Show HN: One page personal calendar with hierarchy",
+      "link": "https://news.ycombinator.com/item?id=49119723",
+      "pubDate": "Fri, 31 Jul 2026 06:33:17 +0000",
+      "date": "Fri, 31 Jul 2026 06:33:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello everyone! actions.life is a one page personal calendar. Unlike traditional to-do lists, which divide information into many pages, this app uses hierarchy to fit everything* on one page.\nThe UI is designed to be predictable, like a physical desk with moveable objects, so nothing gets forgotten. The limitation from this physical design helps with focus and restraint: unlike knowledge bases, which are vast and interconnected, “action bases” should be constraint and scoped, for encouraging act",
+      "guid": "https://news.ycombinator.com/item?id=49119723"
+    },
+    {
+      "title": "Show HN: ZenResume – Free, local-first ATS resume builder with AI import",
+      "link": "https://www.zenresume.online/",
+      "pubDate": "Fri, 31 Jul 2026 06:25:20 +0000",
+      "date": "Fri, 31 Jul 2026 06:25:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Build 100% ATS-compliant tech resumes in minutes. Import existing PDFs with Gemini AI, tailor keywords to job descriptions, and download high-quality PDFs with no paywalls or subscriptions.\nComments URL: https://news.ycombinator.com/item?id=49119667\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49119667"
+    },
+    {
+      "title": "Show HN: Tempered – Windows optimizer that won't show a metric it can't measure",
+      "link": "https://tempered.to/",
+      "pubDate": "Fri, 31 Jul 2026 06:13:16 +0000",
+      "date": "Fri, 31 Jul 2026 06:13:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tempered.to/\nComments URL: https://news.ycombinator.com/item?id=49119587\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49119587"
+    },
+    {
+      "title": "Show HN: Tileroot – save/restore tiling WM layouts (sway, Hyprland, i3)",
+      "link": "https://github.com/Hinikaa/tileroot",
+      "pubDate": "Fri, 31 Jul 2026 05:57:43 +0000",
+      "date": "Fri, 31 Jul 2026 05:57:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Hinikaa/tileroot\nComments URL: https://news.ycombinator.com/item?id=49119491\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49119491"
+    },
+    {
+      "title": "Show HN: QuizPaste – paste any text or doc, get an instant quiz",
+      "link": "https://quizpaste.com/",
+      "pubDate": "Fri, 31 Jul 2026 05:52:25 +0000",
+      "date": "Fri, 31 Jul 2026 05:52:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://quizpaste.com/\nComments URL: https://news.ycombinator.com/item?id=49119458\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49119458"
+    },
+    {
+      "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
+      "link": "https://github.com/mokshablr/gander",
+      "pubDate": "Fri, 31 Jul 2026 05:45:13 +0000",
+      "date": "Fri, 31 Jul 2026 05:45:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.\nI have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.\nGander",
+      "guid": "https://news.ycombinator.com/item?id=49119425"
+    },
+    {
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "link": "https://marbleos.com/demo",
+      "pubDate": "Fri, 31 Jul 2026 05:17:29 +0000",
+      "date": "Fri, 31 Jul 2026 05:17:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.\nThe inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, interacting with a computer was limited to strange terminal commands:\nC:\\> DIR\nC:\\> COPY FILE.TXT A:\nYou had to remember the command, syntax, paths, and parameters.\nThe GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click",
+      "guid": "https://news.ycombinator.com/item?id=49119274"
+    },
+    {
+      "title": "Show HN: DMARC.quest SPF/DKIM/DMARC Demystified",
+      "link": "https://www.dmarc.quest",
+      "pubDate": "Fri, 31 Jul 2026 04:15:59 +0000",
+      "date": "Fri, 31 Jul 2026 04:15:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "You need this. \nYou don't even need to sign in. \nJust go to the site and enter a domain name you have outbound email from.\nWhen you setup DMARC you need an address to receive reports -- DMARC.quest can do intake, but unlike others an AI agent monitors them intelligently over time, alerting you to real signal over noise.\nYes the UI is still a sloppified mess, but the quality of analysis of the agent is world class, this discovers configuration issues all the time, even in very technically sophist",
+      "guid": "https://news.ycombinator.com/item?id=49118940"
+    },
+    {
+      "title": "Show HN: Prizm – One API key for every top AI video, image and voice model",
+      "link": "https://www.prizmkey.com",
+      "pubDate": "Fri, 31 Jul 2026 04:13:19 +0000",
+      "date": "Fri, 31 Jul 2026 04:13:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.prizmkey.com\nComments URL: https://news.ycombinator.com/item?id=49118923\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49118923"
+    },
+    {
+      "title": "Show HN: ShowTrust – Testimonials Collection Tool and Widget Embed",
+      "link": "https://showtrust.to",
+      "pubDate": "Fri, 31 Jul 2026 03:58:30 +0000",
+      "date": "Fri, 31 Jul 2026 03:58:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://showtrust.to\nComments URL: https://news.ycombinator.com/item?id=49118835\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49118835"
+    },
+    {
+      "title": "Show HN: Eloqra - Live Chat with Telegram integration",
+      "link": "https://eloqra.app",
+      "pubDate": "Fri, 31 Jul 2026 03:55:14 +0000",
+      "date": "Fri, 31 Jul 2026 03:55:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://eloqra.app\nComments URL: https://news.ycombinator.com/item?id=49118817\nPoints: 4\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49118817"
+    },
+    {
+      "title": "Show HN: The fastest JSON parser for Go",
+      "link": "https://github.com/buger/jsonparser",
+      "pubDate": "Fri, 31 Jul 2026 03:47:59 +0000",
+      "date": "Fri, 31 Jul 2026 03:47:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/buger/jsonparser\nComments URL: https://news.ycombinator.com/item?id=49118782\nPoints: 5\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49118782"
+    },
+    {
+      "title": "Show HN: An AI skill for filtering and reading Hacker Newsletter and others",
+      "link": "https://github.com/Promyer/stellar-inbox",
+      "pubDate": "Fri, 31 Jul 2026 03:33:20 +0000",
+      "date": "Fri, 31 Jul 2026 03:33:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "An AI skill for filtering and reading newsletters, created especially for Hacker Newsletter (https://hackernewsletter.com/). Adjust your filtering rules letter by letter to teach it what interests you and what doesn’t. \nIt includes Python code that shields all emails except those from selected senders. Of course, even though the LLM is forbidden from reading files containing keys or changing the code, it could still do so.\nComments URL: https://news.ycombinator.com/item?id=49118702\nPoints: 2\n# C",
+      "guid": "https://news.ycombinator.com/item?id=49118702"
+    },
+    {
+      "title": "Show HN: Reclip – AI Video Clipper, Voiceover and Creator Tools",
+      "link": "https://www.reclip.io",
+      "pubDate": "Fri, 31 Jul 2026 02:36:18 +0000",
+      "date": "Fri, 31 Jul 2026 02:36:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Reclip is an AI-powered creator toolkit. Automatically clip the best moments, add voiceovers, remove captions, and download videos — all in one platform.\nComments URL: https://news.ycombinator.com/item?id=49118384\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49118384"
+    },
+    {
+      "title": "Show HN: [Target: Calamity] A visualization of how long we have to change course",
+      "link": "https://TargetCalamity.org",
+      "pubDate": "Fri, 31 Jul 2026 02:16:23 +0000",
+      "date": "Fri, 31 Jul 2026 02:16:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "An interactive visualization of (ideally) all of the factors that drive the amount of time remaining for us to take meaningful action toward fixing the existential threats facing Humanity.\nIt uses an AI-powered scanner to detect and evaluate these factors and synthesize them into a time remaining by anchoring published tipping-points and warping them by various factors.\nThis is a work-in-progress and should be taken with a grain of salt as-is. LLMs are imperfect and this is merely meant to be a ",
+      "guid": "https://news.ycombinator.com/item?id=49118289"
     },
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
@@ -35,39 +255,6 @@
       "icon": "📰",
       "contentSnippet": "Days after OpenAI disclosed that two frontier AI models escaped containment measures and autonomously cyberattacked the AI code sharing platform Hugging Face, OpenAI's top U.S. rival Anthropic tonight revealed that — lo and behold — it has also had models surreptitiously access the web when they weren't supposed to, and cyberattack and gain \"unauthorized access\" to three other organizations.  \nAnthropic says that it ran \"capture the flag\" cybersecurity scenarios with three models — Claude Opus 4",
       "guid": "17KltwQMK9J0fSG39y2Ztu"
-    },
-    {
-      "title": "Show HN: Stash – native Mac Markdown notes",
-      "link": "https://staunchapps.com/stash/",
-      "pubDate": "Fri, 31 Jul 2026 01:11:51 +0000",
-      "date": "Fri, 31 Jul 2026 01:11:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I've made a Markdown notes app.\n- 100% Mac native (even the Markdown formatting)\n- Your files live in ~/Stash (or another folder if you prefer)\n- You can connect to a Git backend (my files are connected to a private GitHub repo)\n- Notes can be Markdown text or tables (shows in a grid, has the extension .mdsv, viewable outside Stash as plain MD)\n- Preview from the folder view with clickable task items and link previews\n- Includes an integrated terminal for your agents (via GhosttyKit)\nMark",
-      "guid": "https://news.ycombinator.com/item?id=49117931"
-    },
-    {
-      "title": "Show HN: Great Spectations, the Spec Checker",
-      "link": "https://greatspectations.org",
-      "pubDate": "Fri, 31 Jul 2026 01:02:08 +0000",
-      "date": "Fri, 31 Jul 2026 01:02:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've worked on several projects writing and implementing specifications (particularly CLN): I've found the specs I write are much better when I quote them in the implementation, so I can see what implementers need to know. Also, when specs change in development, it's almost trivial to find where to update the code.\nThis project is a formalization of my various hacky scripts which ensure the requirements are accurately quoted, and give coverage if any are missing. Not a major Opus, but I hope som",
-      "guid": "https://news.ycombinator.com/item?id=49117854"
-    },
-    {
-      "title": "Show HN: Real Estate Agent Email List – 1.1M+ US Realtor Contacts",
-      "link": "https://www.usagentleads.com",
-      "pubDate": "Fri, 31 Jul 2026 00:45:25 +0000",
-      "date": "Fri, 31 Jul 2026 00:45:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Buy a verified real estate agent email list for any US state. 1.1M+ realtor emails and phone numbers across all 50 states\nComments URL: https://news.ycombinator.com/item?id=49117758\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49117758"
     },
     {
       "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
@@ -92,81 +279,15 @@
       "guid": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything"
     },
     {
-      "title": "Show HN: A VS Code extension buffers NPM updates to avoid supply chain attacks",
-      "link": "https://marketplace.visualstudio.com/items?itemName=about14sheep.tinynpm",
-      "pubDate": "Thu, 30 Jul 2026 23:57:01 +0000",
-      "date": "Thu, 30 Jul 2026 23:57:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I had been using package.json version keepers for quite some time but after the big supply chain attack i thought they would be the perfect place to add in some security.\nThe idea is just to provide the latest package number x days old. This will help prevent most of the danger in supply in chain attacks.\nIt will also remove the `^` if you have it so you can better control what version of a package your application is using.\nTo be more security focused it gives general hints in the hover menu to",
-      "guid": "https://news.ycombinator.com/item?id=49117400"
-    },
-    {
-      "title": "Show HN: Great Spectations, the Spec Checker",
-      "link": "https://greatspectations.com",
-      "pubDate": "Thu, 30 Jul 2026 23:51:59 +0000",
-      "date": "Thu, 30 Jul 2026 23:51:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've worked on several projects writing and implementing specifications (particularly CLN): I've found the specs I write are much better when I quote them in the implementation, so I can see what implementers need to know.  Also, when specs change in development, it's almost trivial to find where to update the code.\nThis project is a formalization of my various hacky scripts which ensure the requirements are accurately quoted, and give coverage if any are missing.  Not a major Opus, but I hope s",
-      "guid": "https://news.ycombinator.com/item?id=49117345"
-    },
-    {
-      "title": "Show HN: Play SNES, gba, in your terminal, even in tmux",
-      "link": "https://github.com/jhickner/rom",
-      "pubDate": "Thu, 30 Jul 2026 23:39:33 +0000",
-      "date": "Thu, 30 Jul 2026 23:39:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "rom is a ~5k-line C libretro frontend that plays games in the terminal. It renders native pixels\nwith the kitty graphics protocol in Ghostty or kitty, inline! even in tmux!\nNine platforms: SNES, NES, GB/GBC, GBA, Genesis, PC Engine, N64, Doom/Heretic/Hexen, Wolfenstein.\nmacOS and Linux, MIT.\nhttps://github.com/jhickner/rom\nComments URL: https://news.ycombinator.com/item?id=49117254\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49117254"
-    },
-    {
-      "title": "Show HN: Sticker Base",
-      "link": "https://chuanqisun.github.io/stickerbase/",
-      "pubDate": "Thu, 30 Jul 2026 23:05:22 +0000",
-      "date": "Thu, 30 Jul 2026 23:05:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chuanqisun.github.io/stickerbase/\nComments URL: https://news.ycombinator.com/item?id=49116953\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49116953"
-    },
-    {
-      "title": "Show HN: Anti-Slop UI – A deterministic state-machine to stop AI hallucinations",
-      "link": "https://local-over.github.io/Anti-Slop-UI/",
-      "pubDate": "Thu, 30 Jul 2026 22:49:31 +0000",
-      "date": "Thu, 30 Jul 2026 22:49:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://local-over.github.io/Anti-Slop-UI/\nComments URL: https://news.ycombinator.com/item?id=49116843\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49116843"
-    },
-    {
-      "title": "Show HN: Pomi – standalone voice agent running on the Rabbit R1",
-      "link": "https://github.com/sidmohan0/pomi",
-      "pubDate": "Thu, 30 Jul 2026 22:49:03 +0000",
-      "date": "Thu, 30 Jul 2026 22:49:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN! \nI’m building Pomi, a standalone voice agent that, with a debut launch on the Rabbit R1. Here’s a 30-second video of me asking it for the weather in San Francisco: https://youtu.be/vxG5is_nNqU\nI started this project because I find the R1 unusually compelling as a piece of hardware: its small, characterful, and designed specifically for interaction with an AI agent. One thing to say off the bat, this wasn't in any way motivated by frustration with Rabbit’s software or an attempt to “fix” ",
-      "guid": "https://news.ycombinator.com/item?id=49116839"
-    },
-    {
-      "title": "Show HN: Nod – a macOS app that acts as working memory for you",
-      "link": "https://hellonod.app/",
-      "pubDate": "Thu, 30 Jul 2026 21:53:49 +0000",
-      "date": "Thu, 30 Jul 2026 21:53:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://hellonod.app/\nComments URL: https://news.ycombinator.com/item?id=49116351\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49116351"
+      "title": "Humans Teaching Humans About the Machine – AI and Edtech SuperShare – Part 2",
+      "link": "https://www.coolcatteacher.com/humans-teaching-humans-about-the-machine-ai-and-edtech-supershare-part-2/",
+      "pubDate": "Thu, 30 Jul 2026 22:00:00 +0000",
+      "date": "Thu, 30 Jul 2026 22:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAt ISTE 2026, significant discussions about education in the AI age occurred, featuring insights from leaders like Karim Meghji of CodeAI, Kimmie Fink from BBC Learning Hub, and educator Brandie Wright. The focus was on practical tools and curriculum for teaching AI, encouraging curiosity in our students, and ensuring students develop critical thinki",
+      "guid": "https://www.coolcatteacher.com/?p=35027"
     },
     {
       "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
@@ -180,114 +301,26 @@
       "guid": "6rcfNqT5qNJXeZJqN40ESq"
     },
     {
-      "title": "Show HN: New App for Meta Display Smart Glasses",
-      "link": "https://apps.apple.com/us/app/keepers-smart-glasses-camera/id6792932390",
-      "pubDate": "Thu, 30 Jul 2026 21:44:39 +0000",
-      "date": "Thu, 30 Jul 2026 21:44:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The Meta Display glasses very recently opened up their software to third party developers. So I made Keepers!\nKeepers uses your glasses camera to capture photos or videos every 10 seconds (configurable) and uses AI to judge if those are worth keeping (works in background and locked mode). There are other features like daily recaps, and the fact that these get stored directly onto your phone (something the glasses native camera does not do).\niOS App: https://apps.apple.com/us/app/keepers-smart-gl",
-      "guid": "https://news.ycombinator.com/item?id=49116236"
+      "title": "ISTE 2026: What AI and Edtech in K-12 Schools Actually Looks Like Now",
+      "link": "https://www.coolcatteacher.com/iste2026/",
+      "pubDate": "Thu, 30 Jul 2026 21:03:39 +0000",
+      "date": "Thu, 30 Jul 2026 21:03:39 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNine educators, three shows, recorded on the floor at ISTELive 26 in Orlando. What teachers were really talking about, what to do Monday morning, and every book, tool, and link from the ISTE 2026 AI & EdTech Supershow.\nThe post ISTE 2026: What AI and Edtech in K-12 Schools Actually Looks Like Now appeared first on Cool Cat Teacher Blog by Vicki Davis",
+      "guid": "https://www.coolcatteacher.com/?p=34998"
     },
     {
-      "title": "Show HN: Abendrot – The free and open-source macOS app for your circadian rhythm",
-      "link": "https://github.com/matthewrball/abendrot",
-      "pubDate": "Thu, 30 Jul 2026 21:34:16 +0000",
-      "date": "Thu, 30 Jul 2026 21:34:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Abendrot is a handcrafted application designed for the burners of the midnight oil. I got tired of spending night after night staring into a luminous computer screen blasting blue-rich light at my eyes long after sunset. After a long deep research session with frontier models, the need for Abendrot became apparent. macOS can warm displays natively with Night Shift but it is nowhere near where it needs to be for optimal blue light reduction.\nComments URL: https://news.ycombinator.com/item?id=4911",
-      "guid": "https://news.ycombinator.com/item?id=49116116"
-    },
-    {
-      "title": "Show HN: Panini – bundle a Gleam app and BEAM into one self-contained binary",
-      "link": "https://github.com/tsirysndr/panini",
-      "pubDate": "Thu, 30 Jul 2026 20:42:38 +0000",
-      "date": "Thu, 30 Jul 2026 20:42:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/tsirysndr/panini\nComments URL: https://news.ycombinator.com/item?id=49115490\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49115490"
-    },
-    {
-      "title": "Show HN: Interlock – Python circuit breaker tripping on latency, not just errors",
-      "link": "https://github.com/bagowix/interlock",
-      "pubDate": "Thu, 30 Jul 2026 20:41:58 +0000",
-      "date": "Thu, 30 Jul 2026 20:41:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/bagowix/interlock\nComments URL: https://news.ycombinator.com/item?id=49115482\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49115482"
-    },
-    {
-      "title": "Show HN: Logan Basic v2.1 - An online BASIC interpreter.",
-      "link": "https://sinusoft.com/loganbasic/",
-      "pubDate": "Thu, 30 Jul 2026 20:36:53 +0000",
-      "date": "Thu, 30 Jul 2026 20:36:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sinusoft.com/loganbasic/\nComments URL: https://news.ycombinator.com/item?id=49115423\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49115423"
-    },
-    {
-      "title": "Show HN: Loupe – Chrome extension that explains WCAG issues in plain English",
-      "link": "https://getloupe.dev",
-      "pubDate": "Thu, 30 Jul 2026 20:24:32 +0000",
-      "date": "Thu, 30 Jul 2026 20:24:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://getloupe.dev\nComments URL: https://news.ycombinator.com/item?id=49115269\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49115269"
-    },
-    {
-      "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
-      "link": "https://github.com/colliehq/collie",
-      "pubDate": "Thu, 30 Jul 2026 20:24:02 +0000",
-      "date": "Thu, 30 Jul 2026 20:24:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/colliehq/collie\nComments URL: https://news.ycombinator.com/item?id=49115262\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49115262"
-    },
-    {
-      "title": "Show HN: Summarizer.Free – Too Long? Get the TL;DR",
-      "link": "https://summarizer.free/",
-      "pubDate": "Thu, 30 Jul 2026 20:19:09 +0000",
-      "date": "Thu, 30 Jul 2026 20:19:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://summarizer.free/\nComments URL: https://news.ycombinator.com/item?id=49115216\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49115216"
-    },
-    {
-      "title": "Show HN: NMEMORY – a memory for coding agents that says when it doesn't know",
-      "link": "https://github.com/menot-you/n-memory",
-      "pubDate": "Thu, 30 Jul 2026 20:16:03 +0000",
-      "date": "Thu, 30 Jul 2026 20:16:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/menot-you/n-memory\nComments URL: https://news.ycombinator.com/item?id=49115189\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49115189"
-    },
-    {
-      "title": "Show HN: WorldDiT – a 399M world-action model for simulated robot tasks",
-      "link": "https://huggingface.co/bageldotcom/worlddit",
-      "pubDate": "Thu, 30 Jul 2026 20:09:54 +0000",
-      "date": "Thu, 30 Jul 2026 20:09:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://huggingface.co/bageldotcom/worlddit\nComments URL: https://news.ycombinator.com/item?id=49115100\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49115100"
+      "title": "Hot Conversations: ISTE 2026, AI Assessment & Space Education",
+      "link": "https://www.coolcatteacher.com/hot-conversations-iste-2026-ai-assessment-space-education/",
+      "pubDate": "Thu, 30 Jul 2026 17:12:12 +0000",
+      "date": "Thu, 30 Jul 2026 17:12:12 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nCool Cat Teacher Talk, Season 6 Episode 10 — with Dr. Carmalita Seitz (ISTE+ASCD), Steven Swanson (engineering teacher and app developer), and Dr. Mark Wagner (ARES Learning). Recorded before the…\nThe post Hot Conversations: ISTE 2026, AI Assessment & Space Education appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educa",
+      "guid": "https://www.coolcatteacher.com/?p=35021"
     },
     {
       "title": "Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.",
@@ -312,6 +345,17 @@
       "guid": "4uh9CDtvwRUlviacD5B9vc"
     },
     {
+      "title": "Gemini Robotics 2",
+      "link": "https://www.producthunt.com/products/gemini-robotics-2",
+      "pubDate": "2026-07-30T15:56:55.000Z",
+      "date": "2026-07-30T15:56:55.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/gemini-robotics-2"
+    },
+    {
       "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
       "link": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
       "pubDate": "Thu, 30 Jul 2026 13:00:00 GMT",
@@ -321,6 +365,17 @@
       "icon": "📰",
       "contentSnippet": "A security team approving an open-source model for production today starts with a repository page. The page lists the model name, the license, and a tag identifying the base model it descended from. That tag is a string the uploader typed. Hugging Face does not require uploaders to substantiate the claim through weight-level analysis.\nThe ATOM Report, published by Nathan Lambert and Florian Brand at Interconnects AI in April 2026, tracked roughly 1,500 mainline open models. ATOM identifies deriv",
       "guid": "37cDnooZ9v8Ui7b8tfbizp"
+    },
+    {
+      "title": "How to Do Gold Standard PBL Without Losing Class Time",
+      "link": "https://www.coolcatteacher.com/e958/",
+      "pubDate": "Thu, 30 Jul 2026 11:00:00 +0000",
+      "date": "Thu, 30 Jul 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nGold standard PBL isn't a fun project with a poster at the end. Lisa Mireles of PBLWorks explains what a real project based learning classroom looks like — and how to go deeper on the standards that matter most without falling behind.\nThe post How to Do Gold Standard PBL Without Losing Class Time appeared first on Cool Cat Teacher Blog by Vicki Davis",
+      "guid": "https://www.coolcatteacher.com/?p=35015"
     },
     {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -343,17 +398,6 @@
       "icon": "🌱",
       "contentSnippet": "What does it look like when a foundation built by a field scientist becomes the connective tissue of an entire regional learning ecosystem? The PAST Foundation's story, told through 25 years of timeline milestones and student voices, offers education leaders a concrete model for weaving together schools, industry, community, and out-of-school time into something greater than any single program. From portable STEM labs to microschool pathways co-launched with universities and industry partners, P",
       "guid": "https://www.gettingsmart.com/?p=132458"
-    },
-    {
-      "title": "Companies are finally seeing AI ROI — and now they know how much more value it can deliver",
-      "link": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
-      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "date": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Presented by SAP\n\nEnterprise AI has moved from experiment to execution, and that shift is beginning to show real returns. The SAP Value of AI Report 2026, produced with Oxford Economics and based on a survey of 2,600 business leaders across 13 countries, found that AI now supports nearly one-third of all tasks in the average organization, rising to 30% from 25% last year. \nROI expectations for agentic AI have jumped from 10% last year to 17% this year, but many organizations believe AI could be ",
-      "guid": "2vQEfVD4LWzFG8LtCIjzHR"
     }
   ]
 }
