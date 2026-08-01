@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-01T01:59:38.427Z",
+  "generatedAt": "2026-08-01T08:05:46.162Z",
   "lookbackHours": 24,
   "totalItems": 28,
   "items": [
     {
       "title": "paperswithbacktest/awesome-systematic-trading",
       "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "pubDate": "2026-08-01T01:59:37.118Z",
-      "date": "2026-08-01T01:59:37.118Z",
+      "pubDate": "2026-08-01T08:05:44.523Z",
+      "date": "2026-08-01T08:05:44.523Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,145 @@
     {
       "title": "microsoft/AI-For-Beginners",
       "link": "https://github.com/microsoft/AI-For-Beginners",
-      "pubDate": "2026-08-01T01:59:37.118Z",
-      "date": "2026-08-01T01:59:37.118Z",
+      "pubDate": "2026-08-01T08:05:44.523Z",
+      "date": "2026-08-01T08:05:44.523Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "12 Weeks, 24 Lessons, AI for All!\n\n    \n \n    \n \n\n \nArtificial Intelligence for Beginners - A Curriculum\n \n \n  \n  \n \n    \n  \n \n  \n  \n  \n \n   AI For Beginners - Sketchnote by @girlie_mac \n  \n \n  \n \nExplore the world of Artificial Intelligence (AI) with our 12-week, 24-lesson curriculum! It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI\n \n🌐 Multi-Language Support\n \nSupported via GitHub Action",
       "guid": "https://github.com/microsoft/AI-For-Beginners"
+    },
+    {
+      "title": "Show HN: Wisp – a Linux shell with Lua scripting and structured pipelines",
+      "link": "https://github.com/Hinikaa/wisp",
+      "pubDate": "Sat, 01 Aug 2026 07:55:56 +0000",
+      "date": "Sat, 01 Aug 2026 07:55:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Hinikaa/wisp\nComments URL: https://news.ycombinator.com/item?id=49132146\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49132146"
+    },
+    {
+      "title": "Show HN: Habit Dungeon – RPG gamification that helps good habits stick",
+      "link": "https://gamifyhabits.app/",
+      "pubDate": "Sat, 01 Aug 2026 07:42:17 +0000",
+      "date": "Sat, 01 Aug 2026 07:42:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://gamifyhabits.app/\nComments URL: https://news.ycombinator.com/item?id=49132085\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49132085"
+    },
+    {
+      "title": "Show HN: Lightweight, S3-compatible object storage server",
+      "link": "https://vaults3.com/",
+      "pubDate": "Sat, 01 Aug 2026 07:15:46 +0000",
+      "date": "Sat, 01 Aug 2026 07:15:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Single binary, https://news.ycombinator.com/item?id=49131920\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49131920"
+    },
+    {
+      "title": "Show HN: TikTok Coin Calculator – viewer costs vs. creator earnings",
+      "link": "https://coinvaluecalc.com/",
+      "pubDate": "Sat, 01 Aug 2026 05:59:37 +0000",
+      "date": "Sat, 01 Aug 2026 05:59:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://coinvaluecalc.com/\nComments URL: https://news.ycombinator.com/item?id=49131489\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49131489"
+    },
+    {
+      "title": "Show HN: One no-subscriptions online search for all your agent needs",
+      "link": "https://news.ycombinator.com/item?id=49131426",
+      "pubDate": "Sat, 01 Aug 2026 05:48:16 +0000",
+      "date": "Sat, 01 Aug 2026 05:48:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "https://jerrysniffs.online/\nNo subscriptions. Recharge when you need. $10 gives you 15K online searches, 3K twitter, 2K reddit, and 15K url-to-markdown fetches.\nIncluded MCP/API/Dashboard and node SDK.\nComments URL: https://news.ycombinator.com/item?id=49131426\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49131426"
+    },
+    {
+      "title": "Show HN: Best Books Guide – curated books list with tracking, rating, reviews",
+      "link": "https://bestbooks.guide/",
+      "pubDate": "Sat, 01 Aug 2026 05:18:06 +0000",
+      "date": "Sat, 01 Aug 2026 05:18:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I made this site deliberately simple to cut out all the noise. I think sites like goodreads have become like CRMs (BRM?) - so many features and information thrown at you that you will never need.\nThe motivation is to use the site as a personal study device for full stack development, which I wrote about here:\nhttps://geosona.com/software/2026/07/31/start-at-the-end/\nComments URL: https://news.ycombinator.com/item?id=49131263\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49131263"
+    },
+    {
+      "title": "Show HN: Equivalency Kernel – mapping emotions to recursive system states",
+      "link": "https://github.com/jamesberge-coder/equivalency-kernel",
+      "pubDate": "Sat, 01 Aug 2026 05:07:34 +0000",
+      "date": "Sat, 01 Aug 2026 05:07:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/jamesberge-coder/equivalency-kernel\nComments URL: https://news.ycombinator.com/item?id=49131217\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49131217"
+    },
+    {
+      "title": "Show HN: Open source React Native debugging studio",
+      "link": "https://www.nativescope.dev",
+      "pubDate": "Sat, 01 Aug 2026 02:45:37 +0000",
+      "date": "Sat, 01 Aug 2026 02:45:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.nativescope.dev\nComments URL: https://news.ycombinator.com/item?id=49130607\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49130607"
+    },
+    {
+      "title": "Show HN: Random OS I made using C",
+      "link": "https://github.com/NoTheIdiot/WindogeOS",
+      "pubDate": "Sat, 01 Aug 2026 02:02:12 +0000",
+      "date": "Sat, 01 Aug 2026 02:02:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I seriously have no idea why I made this but I have a long term project now.\nGot a VERY INCOMPLETE file system (SFS) and it's using limine.\nComments URL: https://news.ycombinator.com/item?id=49130425\nPoints: 4\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49130425"
+    },
+    {
+      "title": "Show HN: I built a Python obfuscator that keeps production traces debuggable",
+      "link": "https://github.com/zhurong2020/pyobfus",
+      "pubDate": "Sat, 01 Aug 2026 02:00:45 +0000",
+      "date": "Sat, 01 Aug 2026 02:00:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/zhurong2020/pyobfus\nComments URL: https://news.ycombinator.com/item?id=49130416\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49130416"
+    },
+    {
+      "title": "Show HN: Sanitizer – Strip sensitive data from documents locally before an LLM",
+      "link": "https://provexar.ai/sanitizer",
+      "pubDate": "Sat, 01 Aug 2026 01:42:54 +0000",
+      "date": "Sat, 01 Aug 2026 01:42:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://provexar.ai/sanitizer\nComments URL: https://news.ycombinator.com/item?id=49130329\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49130329"
+    },
+    {
+      "title": "Show HN: WhisperKeys - Offline macOS dictation, key-by-key",
+      "link": "https://github.com/j-sofia/WhisperKeys",
+      "pubDate": "Sat, 01 Aug 2026 01:36:13 +0000",
+      "date": "Sat, 01 Aug 2026 01:36:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/j-sofia/WhisperKeys\nComments URL: https://news.ycombinator.com/item?id=49130297\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49130297"
     },
     {
       "title": "Show HN: SmokeVPN – All-in-One WireGuard VPN Hub – Switch Exits in Realtime",
@@ -66,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/lace-ai/gai\nComments URL: https://news.ycombinator.com/item?id=49129430\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/lace-ai/gai\nComments URL: https://news.ycombinator.com/item?id=49129430\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49129430"
     },
     {
@@ -121,7 +253,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://code.intellios.ai/cwbrowser/\nComments URL: https://news.ycombinator.com/item?id=49128826\nPoints: 21\n# Comments: 8",
+      "contentSnippet": "Article URL: https://code.intellios.ai/cwbrowser/\nComments URL: https://news.ycombinator.com/item?id=49128826\nPoints: 116\n# Comments: 34",
       "guid": "https://news.ycombinator.com/item?id=49128826"
     },
     {
@@ -136,28 +268,6 @@
       "guid": "https://news.ycombinator.com/item?id=49128753"
     },
     {
-      "title": "Show HN: An LSP for agent skills–rename, references, completion, and diagnostics",
-      "link": "https://github.com/CyrusNuevoDia/skill-language-server",
-      "pubDate": "Fri, 31 Jul 2026 21:32:08 +0000",
-      "date": "Fri, 31 Jul 2026 21:32:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I was quite surprised to find no one had built an LSP for agent skills — one where you can go-to-definition, get skill-completions, refactor (and it renames the folder and the name:), so I went ahead and built one!\n(Reminds me of the old Ruby on Rails days where we had to find-and-replace-all in our codebase to refactor things lol.)\nSince submitting this on Monday, I've expanded it to provide:\n- 1-click install for VS Code, Cursor, Windsurf, VSCodium, Zed\n- References & description-on-hover\n- Di",
-      "guid": "https://news.ycombinator.com/item?id=49128746"
-    },
-    {
-      "title": "Show HN: old reddit is back (without login) via 'shreddit'.",
-      "link": "https://github.com/the1truedan/shreddit",
-      "pubDate": "Fri, 31 Jul 2026 21:19:45 +0000",
-      "date": "Fri, 31 Jul 2026 21:19:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/the1truedan/shreddit\nComments URL: https://news.ycombinator.com/item?id=49128650\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49128650"
-    },
-    {
       "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
       "link": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
       "pubDate": "Fri, 31 Jul 2026 21:19:09 GMT",
@@ -169,17 +279,6 @@
       "guid": "12ZcOWKVbSmH4CBCfJUgzb"
     },
     {
-      "title": "Show HN: Baduz – Action Adventure Game Maker",
-      "link": "https://baduz.com/",
-      "pubDate": "Fri, 31 Jul 2026 21:16:25 +0000",
-      "date": "Fri, 31 Jul 2026 21:16:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN — I built a browser-based tool for creating and sharing third-person action-adventure games!\nGame creation is AI-assisted, but the result is still represented as editable game objects, mechanics, and scripts. The goal is to make iteration more understandable and controllable than vibe coding an entire game.\nCompared with engines like Unreal, the game maker is intentionally narrow: it focuses on a set of common game mechanics, which makes it much faster to learn and use.\nI recommend startin",
-      "guid": "https://news.ycombinator.com/item?id=49128617"
-    },
-    {
       "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
       "link": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
       "pubDate": "2026-07-31T21:15:23.000Z",
@@ -189,105 +288,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything"
-    },
-    {
-      "title": "Show HN: Do Skill.md Linters Matter? An Empirical Study",
-      "link": "https://do-skills-md-linter-matter.onrender.com/report.html",
-      "pubDate": "Fri, 31 Jul 2026 21:12:24 +0000",
-      "date": "Fri, 31 Jul 2026 21:12:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://do-skills-md-linter-matter.onrender.com/report.html\nComments URL: https://news.ycombinator.com/item?id=49128578\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49128578"
-    },
-    {
-      "title": "Show HN: Penca – branchable, versioned OLTP+OLAP on one open copy of your data",
-      "link": "https://github.com/penca-io/penca",
-      "pubDate": "Fri, 31 Jul 2026 21:11:05 +0000",
-      "date": "Fri, 31 Jul 2026 21:11:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nThis is an early proof of concept of a branchable, versioned OLTP + OLAP database that runs on a single, open copy of your data in object storage. If you are familiar with Databricks' LTAP (https://www.databricks.com/company/newsroom/press-releases/d...) announcement from June, you can think of this as aspiring to be a fully open source, Apache 2.0 LTAP alternative  with additional data versioning/auditability guarantees that enable audit, as_of queries, and (eventually) revert straight o",
-      "guid": "https://news.ycombinator.com/item?id=49128567"
-    },
-    {
-      "title": "Show HN: Collab Word in Web - A collaborative DOCX Editor with MS Word Parity",
-      "link": "https://collab.word-in-web.com/",
-      "pubDate": "Fri, 31 Jul 2026 20:28:47 +0000",
-      "date": "Fri, 31 Jul 2026 20:28:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "TLDR: Collab WIW is a DOCX editor with MS Word parity that supports real-time collaborative editing. The collab layer is end to end encrypted and uses ephemeral rooms with stable share URLs. Ever collab room lives in only memory. Collaborator saved copies can bring the room back online at the same URL and reconcile offline edits.\nThe MS Word parity DOCX editor: I made a previous HN post about the editor itself. It is a pure JS DOCX editor that renders and edits the original document directly in ",
-      "guid": "https://news.ycombinator.com/item?id=49128186"
-    },
-    {
-      "title": "Show HN: How to build and self-host a code review agent",
-      "link": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-      "pubDate": "Fri, 31 Jul 2026 20:27:28 +0000",
-      "date": "Fri, 31 Jul 2026 20:27:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN,\nI've had a side-project that I've slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I've tried to take the best things of OpenClaw, Hermes & other harnesses and decompose them and make them available as cloud API building blocks.\nYou can use Tilde to create AI agents for your use case, fast and self-host the agent's yourself.\nThe documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the at",
-      "guid": "https://news.ycombinator.com/item?id=49128177"
-    },
-    {
-      "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
-      "link": "https://getbrainstorm.online/",
-      "pubDate": "Fri, 31 Jul 2026 20:26:56 +0000",
-      "date": "Fri, 31 Jul 2026 20:26:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello,\nI've been building a local-first open-source knowledge management operating system for 3 months as an AI-native company and would love to hear genuine feedback from the Hacker News community. I've previously worked on a similar project for several years and tried to solve a problem that everything is glued together in common knowledge management apps and fixing one thing usually led to breaking other user experiences. What I was trying to build is disconnecting things and making apps firs",
-      "guid": "https://news.ycombinator.com/item?id=49128167"
-    },
-    {
-      "title": "Show HN: I built a real-time thermodynamic phase space for cognitive stress",
-      "link": "https://www.academia.edu/171059862/GESAMTWERK_METAPHYSISCHE_SYSTEMTHEORIE_V3_8_REFS?source=swp_share",
-      "pubDate": "Fri, 31 Jul 2026 20:26:46 +0000",
-      "date": "Fri, 31 Jul 2026 20:26:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Metaphysische Systemtheorie: Ein thermodynamisches Zustandsraum-Modell kognitiver Belastung und neurobiologischer Entropie-Dissipation\nComments URL: https://news.ycombinator.com/item?id=49128165\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49128165"
-    },
-    {
-      "title": "Show HN: Offline Flock Navigation",
-      "link": "https://trames.karazajac.io",
-      "pubDate": "Fri, 31 Jul 2026 20:10:44 +0000",
-      "date": "Fri, 31 Jul 2026 20:10:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello HN!\nA little side project I have been working on a fork of OsmAnd with offline ALPR/Flock camera avoidance routing.\nAlso, took the time to at least create a paper on the project as well. https://github.com/KaraZajac/TRAMES/blob/main/research/paper...\nAnd yes, I did use AI to help me with this.\nAll of it open sourced and available for use. Though I don't intend to build Apple version of this, or submit it to the play store.\nI am looking for feedback!\nThank you all and have great weekend. :)",
-      "guid": "https://news.ycombinator.com/item?id=49128010"
-    },
-    {
-      "title": "Show HN: Vinv – IDE plug-in that finds and fixes bugs, dead code and perf issues",
-      "link": "https://github.com/VinvAI/VinvAI",
-      "pubDate": "Fri, 31 Jul 2026 20:06:47 +0000",
-      "date": "Fri, 31 Jul 2026 20:06:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/VinvAI/VinvAI\nComments URL: https://news.ycombinator.com/item?id=49127975\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49127975"
-    },
-    {
-      "title": "Show HN: Claude MIDI Twister – An agent visualizer for a DJ MIDI controller",
-      "link": "https://www.dylanfisher.com/claude-midi-twister/",
-      "pubDate": "Fri, 31 Jul 2026 19:51:28 +0000",
-      "date": "Fri, 31 Jul 2026 19:51:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I was inspired by the release of the Codex Micro controller (https://worklouder.cc/codex-micro) and repurposed a DJ TechTools Midi Fighter Twister I had laying around into a hardware visualizer for my Claude Code sessions.\nThis is a little daemon that listens for CC webhook events and updates the MIDI controller in response.\nI haven't seen very many hardware visualizers for agentic workflows, and I've grown accustomed to having my agents reflected in the MIDI controller propped up under my monit",
-      "guid": "https://news.ycombinator.com/item?id=49127828"
     },
     {
       "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
