@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-02T08:07:44.206Z",
+  "generatedAt": "2026-08-02T13:02:03.381Z",
   "lookbackHours": 24,
   "totalItems": 22,
   "items": [
     {
       "title": "microsoft/AI-For-Beginners",
       "link": "https://github.com/microsoft/AI-For-Beginners",
-      "pubDate": "2026-08-02T08:07:42.255Z",
-      "date": "2026-08-02T08:07:42.255Z",
+      "pubDate": "2026-08-02T13:02:01.248Z",
+      "date": "2026-08-02T13:02:01.248Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,189 @@
     {
       "title": "paperswithbacktest/awesome-systematic-trading",
       "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "pubDate": "2026-08-02T08:07:42.255Z",
-      "date": "2026-08-02T08:07:42.255Z",
+      "pubDate": "2026-08-02T13:02:01.248Z",
+      "date": "2026-08-02T13:02:01.248Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.\n\n \n  \n \nAwesome Systematic Trading\n \n \n\n \n \n希望阅读中文版？点我\n \nWe are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies.\n \n \nWhat will you find here?\n \n \n \n97 libraries and packages for research and live trading\n \n \n40+ strategies described by institutionals and academics\n \n \n55 books for beg",
       "guid": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+    },
+    {
+      "title": "Show HN: Loop-me – my simple generative art loop project",
+      "link": "https://john-paul-ruf.github.io/loop-me/",
+      "pubDate": "Sun, 02 Aug 2026 12:39:14 +0000",
+      "date": "Sun, 02 Aug 2026 12:39:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Build-less, vanilla JavaScript, hosted on GitHub Pages, from a GitHub Repo.\nYou can share the loops you make with others through the URL seed as well as save them to local storage.\nComments URL: https://news.ycombinator.com/item?id=49143992\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49143992"
+    },
+    {
+      "title": "Show HN: DesktopAudio, a tool to record what your Mac plays",
+      "link": "https://desktopaudio.app/",
+      "pubDate": "Sun, 02 Aug 2026 12:26:18 +0000",
+      "date": "Sun, 02 Aug 2026 12:26:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi all, I built DesktopAudio to be able to capture any and everything my mac plays for my own purposes (and for friends asking for help to record podcasts and youtube video audio).\nA fun thing did happen while I was preparing everything for the ProductHunt launch (it is live right now), in order to get some audio into the video, I recorded the video using macos built-in recorder (cmd+shift+5) + desktopaudio (for the audio part) and then merged the two files :)\nI think I may be working on a tool ",
+      "guid": "https://news.ycombinator.com/item?id=49143879"
+    },
+    {
+      "title": "Show HN: Handoff is await human() for AI agents",
+      "link": "https://github.com/OmegaAgent/handoff",
+      "pubDate": "Sun, 02 Aug 2026 12:20:56 +0000",
+      "date": "Sun, 02 Aug 2026 12:20:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/OmegaAgent/handoff\nComments URL: https://news.ycombinator.com/item?id=49143842\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49143842"
+    },
+    {
+      "title": "Show HN: Type a formula, watch it become Clique, Hamiltonian Cycle, and Knapsack",
+      "link": "https://aidoctrine.github.io/np-complete-universe/",
+      "pubDate": "Sun, 02 Aug 2026 12:13:28 +0000",
+      "date": "Sun, 02 Aug 2026 12:13:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://aidoctrine.github.io/np-complete-universe/\nComments URL: https://news.ycombinator.com/item?id=49143774\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49143774"
+    },
+    {
+      "title": "Show HN: LyricVibe – synced lyrics for YouTube Music, Spotify, SoundCloud",
+      "link": "https://chromewebstore.google.com/detail/lyricvibe-â-kinetic-lyric/iplhipppjgpeofmadbnkolnpigiachmn",
+      "pubDate": "Sun, 02 Aug 2026 11:50:30 +0000",
+      "date": "Sun, 02 Aug 2026 11:50:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/lyricvibe-â-kinetic-lyric/iplhipppjgpeofmadbnkolnpigiachmn\nComments URL: https://news.ycombinator.com/item?id=49143605\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49143605"
+    },
+    {
+      "title": "Show HN: Stripe for Wearable Data",
+      "link": "https://stridee.fit/developer",
+      "pubDate": "Sun, 02 Aug 2026 11:32:37 +0000",
+      "date": "Sun, 02 Aug 2026 11:32:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://stridee.fit/developer\nComments URL: https://news.ycombinator.com/item?id=49143461\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49143461"
+    },
+    {
+      "title": "Show HN: Fuse – statically typed functional programming language",
+      "link": "https://fuselang.org",
+      "pubDate": "Sun, 02 Aug 2026 11:23:56 +0000",
+      "date": "Sun, 02 Aug 2026 11:23:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN! I've been working on the fuse programming language, it's a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-program optimizer, producing LLVM-generated native code.\nFuse supports ADTs, Generics, Type Methods, Traits, Pattern matching etc. all in a functional style with no mutations.\nI’ve been developing the language for 5 years, with code written in Scala. I’ve started coding the language from the base of System F ",
+      "guid": "https://news.ycombinator.com/item?id=49143412"
+    },
+    {
+      "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
+      "link": "https://github.com/kamalfarahani/katharos",
+      "pubDate": "Sun, 02 Aug 2026 10:45:11 +0000",
+      "date": "Sun, 02 Aug 2026 10:45:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kamalfarahani/katharos\nComments URL: https://news.ycombinator.com/item?id=49143179\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49143179"
+    },
+    {
+      "title": "Show HN: CaLLMar – play a text-based adventure game in an LLM chat",
+      "link": "https://github.com/lascauje/callmar",
+      "pubDate": "Sun, 02 Aug 2026 10:45:02 +0000",
+      "date": "Sun, 02 Aug 2026 10:45:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/lascauje/callmar\nComments URL: https://news.ycombinator.com/item?id=49143176\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49143176"
+    },
+    {
+      "title": "Show HN: Documan – AI Powered Requirement Management Workspace",
+      "link": "https://github.com/bbayer/DocuMan",
+      "pubDate": "Sun, 02 Aug 2026 10:38:26 +0000",
+      "date": "Sun, 02 Aug 2026 10:38:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient tools like IBM DOORS but they require buying seat licences and they don't have any support for LLMs.\nI see that requirement management is a mess most of time, people are going back and forth between tools and Excel and Word. Customer couldn't track requirement history and don't be able to oversee which documents needs to be changed for specific system requir",
+      "guid": "https://news.ycombinator.com/item?id=49143132"
+    },
+    {
+      "title": "Show HN: We made Arcad, a parametric CAD in the browser, free and no signup",
+      "link": "https://app.arcad.studio/",
+      "pubDate": "Sun, 02 Aug 2026 10:15:49 +0000",
+      "date": "Sun, 02 Aug 2026 10:15:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "My friend and I have been working on Arcad for some months now. It's a free browser-based parametric CAD tool aimed at hobbyists and makers.\nIt has editable feature history, solid modeling powered by OpenCascade, STEP export and touch controls for tablets, although it's primarily made for PC use. Everything runs in the browser and you can try it without creating an account or installing anything.\nCurrently in beta although we feel like it's ready for a full launch. Any feedback is appreciated!\nL",
+      "guid": "https://news.ycombinator.com/item?id=49142980"
+    },
+    {
+      "title": "SHOW HN: Substantial update to UK train mapping",
+      "link": "https://trainmap.co.uk/map.html",
+      "pubDate": "Sun, 02 Aug 2026 09:53:54 +0000",
+      "date": "Sun, 02 Aug 2026 09:53:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://trainmap.co.uk/map.html\nComments URL: https://news.ycombinator.com/item?id=49142831\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49142831"
+    },
+    {
+      "title": "Show HN: 8bit/cnlibs – 8bit Shadcn component library",
+      "link": "https://8bit.cnlibs.com/",
+      "pubDate": "Sun, 02 Aug 2026 09:50:50 +0000",
+      "date": "Sun, 02 Aug 2026 09:50:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://8bit.cnlibs.com/\nComments URL: https://news.ycombinator.com/item?id=49142808\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49142808"
+    },
+    {
+      "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+      "link": "https://github.com/syncular/syncular",
+      "pubDate": "Sun, 02 Aug 2026 09:48:08 +0000",
+      "date": "Sun, 02 Aug 2026 09:48:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/syncular/syncular\nComments URL: https://news.ycombinator.com/item?id=49142794\nPoints: 28\n# Comments: 12",
+      "guid": "https://news.ycombinator.com/item?id=49142794"
+    },
+    {
+      "title": "Show HN: Vein, a minimalist open-source resource management game",
+      "link": "https://d2ykijtrvb890q.cloudfront.net/",
+      "pubDate": "Sun, 02 Aug 2026 09:44:49 +0000",
+      "date": "Sun, 02 Aug 2026 09:44:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Recently I've been working on Vein, a small open-source resource management game built with Godot.\nI've always loved resource management board games, and I wanted to see how minimal I could make one. The core idea is simple: keep the heart beating by supplying it with the resources it demands. I tried to strip the mechanics down as much as possible while still leaving room for interesting decisions, and I added a short tutorial to help players get started.\nThe problem is that I still don't feel ",
+      "guid": "https://news.ycombinator.com/item?id=49142778"
+    },
+    {
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "pubDate": "Sun, 02 Aug 2026 09:06:33 +0000",
+      "date": "Sun, 02 Aug 2026 09:06:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.\nBor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.\nVersion 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.\nI'd love fe",
+      "guid": "https://news.ycombinator.com/item?id=49142569"
     },
     {
       "title": "Show HN: Aevros .... A kernel that explains itself",
@@ -33,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Mobeen0119/Aevros\nComments URL: https://news.ycombinator.com/item?id=49142156\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/Mobeen0119/Aevros\nComments URL: https://news.ycombinator.com/item?id=49142156\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49142156"
     },
     {
@@ -44,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey HN, I built a personal CRM that stores everything in the native iPhone Contacts app instead of another database. The goal was to make the Contacts app I’ve used for years actually useful.\nI’d love to hear what you think. Especially whether you prefer extending native apps over adopting entirely new tools. Since this is one of the first releases, i would love to get any feedback you have!\nAlex\nComments URL: https://news.ycombinator.com/item?id=49142119\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Hey HN, I built a personal CRM that stores everything in the native iPhone Contacts app instead of another database. The goal was to make the Contacts app I’ve used for years actually useful.\nI’d love to hear what you think. Especially whether you prefer extending native apps over adopting entirely new tools. Since this is one of the first releases, i would love to get any feedback you have!\nAlex\nComments URL: https://news.ycombinator.com/item?id=49142119\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49142119"
     },
     {
@@ -55,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN, TamedTable is an LLM harness for data ETL.\nAnd yes, it was developed using AI, meaning you can take the entire specification and recreate it to your desires:\nhttps://github.com/ZSvedic/TamedTable\nComments URL: https://news.ycombinator.com/item?id=49142102\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Hi HN, TamedTable is an LLM harness for data ETL.\nAnd yes, it was developed using AI, meaning you can take the entire specification and recreate it to your desires:\nhttps://github.com/ZSvedic/TamedTable\nComments URL: https://news.ycombinator.com/item?id=49142102\nPoints: 3\n# Comments: 4",
       "guid": "https://news.ycombinator.com/item?id=49142102"
     },
     {
@@ -66,184 +242,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://soundtonegenerator.com/\nComments URL: https://news.ycombinator.com/item?id=49142002\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://soundtonegenerator.com/\nComments URL: https://news.ycombinator.com/item?id=49142002\nPoints: 10\n# Comments: 5",
       "guid": "https://news.ycombinator.com/item?id=49142002"
-    },
-    {
-      "title": "Show HN: Galda – Come back to Claude Code/Codex without digging through Git",
-      "link": "https://galda.app/",
-      "pubDate": "Sun, 02 Aug 2026 07:11:13 +0000",
-      "date": "Sun, 02 Aug 2026 07:11:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://galda.app/\nComments URL: https://news.ycombinator.com/item?id=49141897\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49141897"
-    },
-    {
-      "title": "Show HN: An SDK to build apps for Kobo eReaders",
-      "link": "https://github.com/BandarLabs/Cobalt",
-      "pubDate": "Sun, 02 Aug 2026 07:05:04 +0000",
-      "date": "Sun, 02 Aug 2026 07:05:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN,\nI built an SDK to help me create apps I wanted on my Kobo. My Kobo device has a single core https://news.ycombinator.com/item?id=49141871\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49141871"
-    },
-    {
-      "title": "Show HN: Btfy – a blockchain that uses weather observations",
-      "link": "https://github.com/kotagit75/btfy",
-      "pubDate": "Sun, 02 Aug 2026 06:44:27 +0000",
-      "date": "Sun, 02 Aug 2026 06:44:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI built Btfy, an experimental blockchain that uses weather observations as a source of unpredictability for consensus\nThe motivation is simple. Proof of Work generates uncertainty by performing computations. I wanted to explore whether we could obtain some of that uncertainty from the real world instead.\nBtfy combines weather observation data with a Verifiable Delay Function (VDF):\nWeather Observation Data -> VDF -> Block -> Hash Chain\nIn the current implementation, observation data is co",
-      "guid": "https://news.ycombinator.com/item?id=49141764"
-    },
-    {
-      "title": "Show HN: Run multiple Claude desktop accounts in isolated windows (Mac/Windows)",
-      "link": "https://deckspace.dev/claude-accounts/",
-      "pubDate": "Sun, 02 Aug 2026 06:38:40 +0000",
-      "date": "Sun, 02 Aug 2026 06:38:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://deckspace.dev/claude-accounts/\nComments URL: https://news.ycombinator.com/item?id=49141736\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49141736"
-    },
-    {
-      "title": "Show HN: Rotating torus in terminal (but with kitty graphics protocol)",
-      "link": "https://andreadimatteo.com/torus-v0-5.html",
-      "pubDate": "Sun, 02 Aug 2026 06:18:42 +0000",
-      "date": "Sun, 02 Aug 2026 06:18:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI'm taking Computer Graphics @ Stanford this summer and wanted to express some very simple concepts I had in mind. That's why I wrote a rotating torus in C. Going from writing a ray-tracer that works in Blender to pure C with no dependencies feels relaxing. Wanted to try Kitty Graphics Protocol on the way, rendering images in terminal felt cool.\nOpen to comments and suggestions.\nComments URL: https://news.ycombinator.com/item?id=49141642\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49141642"
-    },
-    {
-      "title": "Show HN: I don't code – I run a self-correcting protocol across 4 projects",
-      "link": "https://github.com/Sovereign34/agent-protocol-notes",
-      "pubDate": "Sun, 02 Aug 2026 05:12:31 +0000",
-      "date": "Sun, 02 Aug 2026 05:12:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Sovereign34/agent-protocol-notes\nComments URL: https://news.ycombinator.com/item?id=49141310\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49141310"
-    },
-    {
-      "title": "Show HN: Nuking the crap Claude left in the codebase – CCN",
-      "link": "https://github.com/jonhardwick-spec/ccn",
-      "pubDate": "Sun, 02 Aug 2026 04:31:26 +0000",
-      "date": "Sun, 02 Aug 2026 04:31:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "CCN Strips comments out of codebases, and comments ONLY, this isn't a regex parse that could potentially eat your code, no this actually makes a list and checks it twice.\nI, as a real developer, often leave bytes of comments in my own codebases then forget about them, AI models leave MEGABYTES and has NO memory, sometimes literally using comments as a FORM OF IT.\nUse this tool to clean your codebases of literal trash, or use it to review, very useful, end to end tested and verified against 2,700",
-      "guid": "https://news.ycombinator.com/item?id=49141107"
-    },
-    {
-      "title": "Show HN: I get 25 deep researched ideas with one single prompt",
-      "link": "https://github.com/ringlochid/banksia",
-      "pubDate": "Sun, 02 Aug 2026 03:28:57 +0000",
-      "date": "Sun, 02 Aug 2026 03:28:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Make a three-layer workflow with 19 agents work together in parallel with one single prompt, then use that to research anything I want.\nIf I don't specify any topic, it can prompt me some topics and wait for my response.\nComments URL: https://news.ycombinator.com/item?id=49140789\nPoints: 7\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49140789"
-    },
-    {
-      "title": "Show HN: CleanSlate – an open-source coding agent for the IDE, CLI, and SDK",
-      "link": "https://github.com/TheWariend/CleanSlate",
-      "pubDate": "Sun, 02 Aug 2026 03:25:41 +0000",
-      "date": "Sun, 02 Aug 2026 03:25:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "CleanSlate is an open-source platform for running coding agents across your local machine and the cloud.\nToday, it works through an IDE, CLI, and SDK. Agents can understand a codebase, make changes, run commands, browse the web, and verify their work. We are now building longer-running autonomous cloud agents that can continue working without keeping your machine active.\nComments URL: https://news.ycombinator.com/item?id=49140772\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49140772"
-    },
-    {
-      "title": "Show HN: FirstEmployee.ai – Start a Business",
-      "link": "https://firstemployee.ai/",
-      "pubDate": "Sun, 02 Aug 2026 02:59:21 +0000",
-      "date": "Sun, 02 Aug 2026 02:59:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://firstemployee.ai/\nComments URL: https://news.ycombinator.com/item?id=49140638\nPoints: 2\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49140638"
-    },
-    {
-      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "link": "https://github.com/tom-ilan/cycloidal_gearbox",
-      "pubDate": "Sun, 02 Aug 2026 02:07:09 +0000",
-      "date": "Sun, 02 Aug 2026 02:07:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox\nComments URL: https://news.ycombinator.com/item?id=49140396\nPoints: 120\n# Comments: 22",
-      "guid": "https://news.ycombinator.com/item?id=49140396"
-    },
-    {
-      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "link": "https://costperprompt.com/",
-      "pubDate": "Sun, 02 Aug 2026 01:56:44 +0000",
-      "date": "Sun, 02 Aug 2026 01:56:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://costperprompt.com/\nComments URL: https://news.ycombinator.com/item?id=49140340\nPoints: 18\n# Comments: 7",
-      "guid": "https://news.ycombinator.com/item?id=49140340"
-    },
-    {
-      "title": "Show HN: I made 70K+ hand-drawn icons using AI",
-      "link": "https://koboyo.com/icons",
-      "pubDate": "Sat, 01 Aug 2026 23:25:42 +0000",
-      "date": "Sat, 01 Aug 2026 23:25:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://koboyo.com/icons\nComments URL: https://news.ycombinator.com/item?id=49139602\nPoints: 4\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49139602"
-    },
-    {
-      "title": "Show HN: PhaseProbe – Find simulation transitions and turn them into tests",
-      "link": "https://github.com/aliengineering-byte/phaseprobe",
-      "pubDate": "Sat, 01 Aug 2026 23:12:56 +0000",
-      "date": "Sat, 01 Aug 2026 23:12:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/aliengineering-byte/phaseprobe\nComments URL: https://news.ycombinator.com/item?id=49139505\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49139505"
-    },
-    {
-      "title": "Show HN: Symbio self fine-tuning AI loop",
-      "link": "https://github.com/huyedits/Symbio",
-      "pubDate": "Sat, 01 Aug 2026 23:06:26 +0000",
-      "date": "Sat, 01 Aug 2026 23:06:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "It trains based off the mistakes it made with the solution you gave OR what it got. Thank you for reading\nComments URL: https://news.ycombinator.com/item?id=49139461\nPoints: 9\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49139461"
-    },
-    {
-      "title": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
-      "link": "https://watm.ddyo.dev/",
-      "pubDate": "Sat, 01 Aug 2026 22:54:32 +0000",
-      "date": "Sat, 01 Aug 2026 22:54:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://watm.ddyo.dev/\nComments URL: https://news.ycombinator.com/item?id=49139370\nPoints: 7\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49139370"
     }
   ]
 }
