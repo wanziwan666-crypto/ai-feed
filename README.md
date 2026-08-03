@@ -44,11 +44,20 @@ Override the default profile by creating `~/.ai-feed/profile.json`:
 }
 ```
 
+## Scheduled Runs (optional)
+
+Just tell your agent "设置定时抓取" / "set up a daily fetch" and it will walk you through it. Two options:
+
+- **A. Scheduled fetch (recommended, still zero keys)** — a cron job refreshes the raw articles in the background; you say "获取AI资讯" whenever you want and your agent writes the digest on the spot.
+- **B. Scheduled push** — get a finished digest delivered to your phone or inbox at a fixed time without touching your computer. This one *does* need your own LLM API key, because no agent is present when cron fires — something has to write the summaries. Your key goes in `~/.ai-feed/.env`, never in this repo.
+
+Most people want A. See the 定时任务 section in `SKILL.md` for the full walkthrough.
+
 ## Philosophy
 
 - **Follow people, not just feeds** — Builder and voice sources provide original thinking
 - **For ordinary people** — Content is filtered and scored for non-technical AI learners
-- **Zero friction** — No API keys, no config files to edit
+- **Zero friction** — No API keys, no config files to edit (a key is only needed for optional scheduled push)
 
 ## License
 

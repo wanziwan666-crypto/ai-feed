@@ -5,7 +5,10 @@ description: |
   Use this skill whenever the user wants to: fetch latest AI news, aggregate RSS feeds, get AI industry updates,
   check what's trending in AI, "抓取AI资讯", "RSS抓取", "AI信息聚合", "看看最近AI有什么新东西", "帮我收集AI动态",
   "获取AI资讯", "生成资讯HTML", "run ai-feed", "update ai feed", "refresh feed".
-  No API keys required — all AI processing is done by the agent itself.
+  Also triggers for scheduling requests: "设置定时抓取", "每天自动抓取AI资讯", "定时推送日报",
+  "set up cron for ai-feed", "schedule daily fetch", "自动推送到飞书/Telegram".
+  No API keys required for on-demand use — all AI processing is done by the agent itself.
+  (Optional scheduled push needs a user-provided LLM key; see the 定时任务 section.)
 ---
 
 # AI Feed — 零 API Key 的 AI 资讯聚合
@@ -120,6 +123,95 @@ ai-feed/
 ```
 
 如果没有自定义配置，使用 `config/profile.json` 中的默认值。
+
+## 定时任务（可选）
+
+用户说"设置定时"、"每天自动抓取"、"自动推送"时，走这一节。
+
+**先理解一件事再往下做：** 摘要是 Agent 生成的，而定时任务触发时通常没有 Agent 在场。所以"定时"有两种完全不同的含义，成本差很多。**必须先问清用户要哪种，不要默认帮用户配 key。**
+
+### Step 1: 问清要哪一种
+
+原样问用户：
+
+> 定时任务有两种做法：
+>
+> **A. 定时抓取（推荐，零配置）** — 后台定时更新原始文章，你早上跟我说一句"获取AI资讯"，我立刻生成摘要。不需要 API key。
+> **B. 定时推送** — 每天固定时间自动把带摘要的日报发到你的手机/邮箱，完全不用开电脑。但这需要你自己配一个 LLM API key（因为没有我在场，得有别的模型来写摘要）。
+>
+> 你要哪种？
+
+### Step 2A: 定时抓取（无需 key）
+
+只需要一行 crontab。先确认两件事 —— **不要猜，都要实测**：项目克隆在哪，以及 `node` 的绝对路径。
+
+```bash
+FEED_DIR="$(pwd)"            # 确认这是 ai-feed 项目根目录
+NODE_BIN="$(command -v node)" # 必须用绝对路径，见下方说明
+cd "$FEED_DIR" && npm install    # 首次需要，只装 rss-parser
+# 每天 8:00 抓取
+(crontab -l 2>/dev/null; echo "0 8 * * * cd $FEED_DIR && $NODE_BIN scripts/prepare-feed.js >> /tmp/ai-feed-cron.log 2>&1") | crontab -
+```
+
+**为什么 `node` 必须写绝对路径：** cron 的 PATH 极简（通常只有 `/usr/bin:/bin`），而 node 常装在 `/usr/local/bin`、`/opt/homebrew/bin` 或 nvm 目录下。直接写 `node` 或 `/usr/bin/env node` 会报 `node: No such file or directory` 并静默失败。用 `command -v node` 取到真实路径填进去。
+
+装完必须验证，不要假定成功：
+
+```bash
+crontab -l | grep prepare-feed          # 确认条目写进去了
+# 模拟 cron 的干净环境实测一次，这才能验出 PATH 问题
+env -i HOME="$HOME" PATH=/usr/bin:/bin sh -c "cd $FEED_DIR && $NODE_BIN scripts/prepare-feed.js" | tail -2
+node -e "const j=require('$FEED_DIR/data/feed.json');console.log('条目',j.totalItems,'| 生成于',j.generatedAt)"
+```
+
+然后告诉用户：定时任务已装好，每天 8:00 后台更新文章；想看日报时说一句"获取AI资讯"即可。
+
+注意：macOS 上 cron 需要在系统设置里给终端授予"完全磁盘访问权限"，否则可能静默失败 —— 如果 `/tmp/ai-feed-cron.log` 一直是空的，让用户检查这一项。
+
+另一个常见坑：如果用户靠代理访问部分 RSS 源（Karpathy、Stratechery 等在部分地区需要），cron 同样不继承代理变量，抓取会卡住直到超时。这种情况把代理也写进 crontab 条目：
+
+```bash
+0 8 * * * cd $FEED_DIR && https_proxy=http://127.0.0.1:7890 $NODE_BIN scripts/prepare-feed.js >> /tmp/ai-feed-cron.log 2>&1
+```
+
+日志里若出现某些源 `0 items` 而手动跑正常，基本就是这个原因。
+
+### Step 2B: 定时推送（需要 key）
+
+这条路要 Agent 之外的模型来写摘要，所以需要 key。按顺序做：
+
+**1. 让用户准备 key。** 任选一家：Anthropic（`console.anthropic.com`）、阿里云百炼（`bailian.console.aliyun.com`，国内直连）、或任何 OpenAI 兼容端点。
+
+**2. 写入 `~/.ai-feed/.env`** —— 放 home 目录下，不在项目里，绝不会被 git 提交：
+
+```bash
+mkdir -p ~/.ai-feed && chmod 700 ~/.ai-feed
+cat > ~/.ai-feed/.env << 'EOF'
+# 二选一即可
+ANTHROPIC_AUTH_TOKEN=sk-ant-xxx
+ANTHROPIC_BASE_URL=https://api.anthropic.com
+AI_FEED_MODEL=claude-haiku-4-5
+# DASHSCOPE_API_KEY=sk-xxx
+EOF
+chmod 600 ~/.ai-feed/.env
+```
+
+**为什么必须写文件而不是 `export`：** cron 启动的进程不会 source `~/.zshrc` 或 `~/.bashrc`，环境变量在那里是拿不到的。这是这类定时任务最常见的失败原因。
+
+**3. 提醒用户两件事，不要跳过：**
+- 摘要模型建议选便宜的（如 `claude-haiku-4-5` / `qwen-turbo`）—— 每天几十篇文章逐条调用，用贵模型成本会明显上升
+- 如果填的 `ANTHROPIC_BASE_URL` 是第三方中转网关而非官方端点，请求内容会经过该第三方，需自行判断是否接受
+
+**4. 推送渠道**由用户自己选（飞书/Telegram/邮件/Bark 等），本仓库不内置。Agent 应根据用户选的渠道帮其写推送脚本，并把收件人 ID 一并放进 `~/.ai-feed/.env`（如 `FEISHU_USER_OPEN_ID=ou_xxx`），**不要硬编码进任何会提交的文件**。
+
+**5. 验证**：手动跑一次完整链路，确认用户真的收到了推送，再告诉用户装好了。
+
+### 通用注意事项
+
+- **key 只放 `~/.ai-feed/.env`**（权限 600）。本仓库的 `.gitignore` 已挡住 `.env`，但仍不要把 key 写进项目目录任何文件。
+- 用户想改时间：`crontab -e` 编辑，或重跑上面命令前先 `crontab -l | grep -v prepare-feed | crontab -` 清掉旧条目，避免重复。
+- 卸载：`crontab -l | grep -v prepare-feed | crontab -`
+
 
 ## Quick Reference
 
