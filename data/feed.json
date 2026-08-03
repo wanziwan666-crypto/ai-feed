@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-03T01:58:45.583Z",
+  "generatedAt": "2026-08-03T03:48:29.090Z",
   "lookbackHours": 24,
   "totalItems": 23,
   "items": [
     {
       "title": "microsoft/AI-For-Beginners",
       "link": "https://github.com/microsoft/AI-For-Beginners",
-      "pubDate": "2026-08-03T01:58:43.737Z",
-      "date": "2026-08-03T01:58:43.737Z",
+      "pubDate": "2026-08-03T03:48:18.637Z",
+      "date": "2026-08-03T03:48:18.637Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "iv-org/invidious",
       "link": "https://github.com/iv-org/invidious",
-      "pubDate": "2026-08-03T01:58:43.737Z",
-      "date": "2026-08-03T01:58:43.737Z",
+      "pubDate": "2026-08-03T03:48:18.637Z",
+      "date": "2026-08-03T03:48:18.637Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -26,14 +26,47 @@
       "guid": "https://github.com/iv-org/invidious"
     },
     {
-      "title": "Show HN: Gnt, a company brain AI agents check before acting",
+      "title": "Show HN: AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand",
+      "link": "https://aivisibility.pro/",
+      "pubDate": "Mon, 03 Aug 2026 03:02:49 +0000",
+      "date": "Mon, 03 Aug 2026 03:02:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://aivisibility.pro/\nComments URL: https://news.ycombinator.com/item?id=49150752\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49150752"
+    },
+    {
+      "title": "Show HN: AI Face Analyzer",
+      "link": "https://lookblueprint.com",
+      "pubDate": "Mon, 03 Aug 2026 02:55:01 +0000",
+      "date": "Mon, 03 Aug 2026 02:55:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Ask HN: How accurate are AI face analyzers?\nComments URL: https://news.ycombinator.com/item?id=49150702\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49150702"
+    },
+    {
+      "title": "Show HN: OpenTalking – Privately deployable real-time AI avatar",
+      "link": "https://github.com/datascale-ai/opentalking",
+      "pubDate": "Mon, 03 Aug 2026 01:50:44 +0000",
+      "date": "Mon, 03 Aug 2026 01:50:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/datascale-ai/opentalking\nComments URL: https://news.ycombinator.com/item?id=49150333\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49150333"
+    },
+    {
+      "title": "Show HN: A company brain AI agents check before acting",
       "link": "https://github.com/gnt-ai/gnt",
       "pubDate": "Mon, 03 Aug 2026 01:35:11 +0000",
       "date": "Mon, 03 Aug 2026 01:35:11 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Got inspired by Garry Tan's gbrain and wanted to try a different angle on it.\nThe problem: agents are smart enough, but they don't have a centralized way to access all your company's data.\nThe solution: a git-native rules layer that agents check every time they hit a decision point. You sync your different apps and data sources into gnt, it strips sensitive data, and drafts proposed rules as PRs. You approve by merging. The goal is to make the whole process autonomous, with as little manual adju",
+      "contentSnippet": "Article URL: https://github.com/gnt-ai/gnt\nComments URL: https://news.ycombinator.com/item?id=49150247\nPoints: 3\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49150247"
     },
     {
@@ -48,14 +81,14 @@
       "guid": "https://news.ycombinator.com/item?id=49150117"
     },
     {
-      "title": "Show HN: Isopolis – isometric pixel map of SF",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
       "link": "https://sf.isopolis.city/",
       "pubDate": "Mon, 03 Aug 2026 00:46:38 +0000",
       "date": "Mon, 03 Aug 2026 00:46:38 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://sf.isopolis.city/\nComments URL: https://news.ycombinator.com/item?id=49149966\nPoints: 8\n# Comments: 2",
+      "contentSnippet": "Article URL: https://sf.isopolis.city/\nComments URL: https://news.ycombinator.com/item?id=49149966\nPoints: 74\n# Comments: 18",
       "guid": "https://news.ycombinator.com/item?id=49149966"
     },
     {
@@ -77,7 +110,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://ssh.place\nComments URL: https://news.ycombinator.com/item?id=49149805\nPoints: 3\n# Comments: 1",
+      "contentSnippet": "Article URL: https://ssh.place\nComments URL: https://news.ycombinator.com/item?id=49149805\nPoints: 40\n# Comments: 21",
       "guid": "https://news.ycombinator.com/item?id=49149805"
     },
     {
@@ -88,7 +121,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ansnadeem/mlxsh\nComments URL: https://news.ycombinator.com/item?id=49149682\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/ansnadeem/mlxsh\nComments URL: https://news.ycombinator.com/item?id=49149682\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49149682"
     },
     {
@@ -132,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/pg83/shitty\nComments URL: https://news.ycombinator.com/item?id=49149326\nPoints: 84\n# Comments: 67",
+      "contentSnippet": "Article URL: https://github.com/pg83/shitty\nComments URL: https://news.ycombinator.com/item?id=49149326\nPoints: 96\n# Comments: 94",
       "guid": "https://news.ycombinator.com/item?id=49149326"
     },
     {
@@ -143,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/spikonado/sprocket\nComments URL: https://news.ycombinator.com/item?id=49149322\nPoints: 5\n# Comments: 3",
+      "contentSnippet": "Article URL: https://github.com/spikonado/sprocket\nComments URL: https://news.ycombinator.com/item?id=49149322\nPoints: 6\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=49149322"
     },
     {
@@ -187,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/micro/mu\nComments URL: https://news.ycombinator.com/item?id=49148899\nPoints: 28\n# Comments: 8",
+      "contentSnippet": "Article URL: https://github.com/micro/mu\nComments URL: https://news.ycombinator.com/item?id=49148899\nPoints: 39\n# Comments: 11",
       "guid": "https://news.ycombinator.com/item?id=49148899"
     },
     {
@@ -198,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understanding between artificial intelligence and a human.\nComments URL: https://news.ycombinator.com/item?id=49148735\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understanding between artificial intelligence and a human.\nComments URL: https://news.ycombinator.com/item?id=49148735\nPoints: 8\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49148735"
     },
     {
@@ -211,39 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://testimonials.free/\nComments URL: https://news.ycombinator.com/item?id=49148552\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49148552"
-    },
-    {
-      "title": "Show HN: Rubiks Cube Solver",
-      "link": "https://github.com/punnerud/MPErubiks",
-      "pubDate": "Sun, 02 Aug 2026 21:16:38 +0000",
-      "date": "Sun, 02 Aug 2026 21:16:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/punnerud/MPErubiks\nComments URL: https://news.ycombinator.com/item?id=49148421\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49148421"
-    },
-    {
-      "title": "Show HN: I implemented the Kimi K3 paper from scratch in PyTorch",
-      "link": "https://github.com/TimRots/kimi3",
-      "pubDate": "Sun, 02 Aug 2026 21:09:06 +0000",
-      "date": "Sun, 02 Aug 2026 21:09:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/TimRots/kimi3\nComments URL: https://news.ycombinator.com/item?id=49148342\nPoints: 5\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49148342"
-    },
-    {
-      "title": "Show HN: Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
-      "link": "https://github.com/0xchasercat/draco/",
-      "pubDate": "Sun, 02 Aug 2026 20:48:45 +0000",
-      "date": "Sun, 02 Aug 2026 20:48:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl/Browserbase, or run a fleet of headless Chrome instances that eat 1GB of RAM per page and still get blocked by Cloudflare.\nI built Draco to fix this. It’s a fast, single-binary web scraper written in Rust. You point it at a URL, and it spits out perfectly clean Markdown or structured JSON for LLMs.\nThe secret sauce is that it doesn't just boot a browser for every reques",
-      "guid": "https://news.ycombinator.com/item?id=49148163"
     },
     {
       "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
