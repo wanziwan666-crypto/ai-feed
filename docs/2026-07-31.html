@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 资讯速览 · 2026-07-31</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #f5f6fa; color: #2c3e50; line-height: 1.7;
+    padding: 24px 16px 60px; max-width: 720px; margin: 0 auto;
+  }
+  .header {
+    text-align: center; margin-bottom: 32px;
+    padding-bottom: 20px; border-bottom: 2px solid #e8eaf0;
+  }
+  .header .tag {
+    display: inline-block;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #fff; font-size: 11px; padding: 3px 10px;
+    border-radius: 20px; margin-bottom: 8px; letter-spacing: 1px;
+  }
+  .header h1 { font-size: 22px; font-weight: 700; color: #1a1a2e; margin-bottom: 6px; }
+  .header .meta { font-size: 12px; color: #999; }
+  .section-title {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 13px; font-weight: 700; color: #667eea;
+    text-transform: uppercase; letter-spacing: 1px;
+    margin: 28px 0 14px; padding-bottom: 8px;
+    border-bottom: 1px solid #e8eaf0;
+  }
+  .section-title .count {
+    background: #667eea; color: #fff; font-size: 10px;
+    padding: 1px 6px; border-radius: 10px;
+  }
+  .card {
+    background: #fff; border-radius: 10px;
+    padding: 16px 18px; margin-bottom: 10px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    border-left: 3px solid #667eea;
+    transition: box-shadow 0.2s;
+  }
+  .card:hover { box-shadow: 0 4px 14px rgba(102,126,234,0.18); }
+  .card.fire { border-left-color: #ff6b6b; }
+  .card.tools { border-left-color: #20c997; }
+  .card.discuss { border-left-color: #ffa94d; }
+  .card.source { border-left-color: #9775fa; }
+  .card-meta {
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 8px; font-size: 11px; color: #aaa;
+  }
+  .card-meta .icon { font-size: 14px; }
+  .card-meta .source { color: #667eea; font-weight: 600; }
+  .card h3 { font-size: 15px; font-weight: 600; color: #1a1a2e; margin-bottom: 6px; line-height: 1.5; }
+  .card h3 a { color: inherit; text-decoration: none; }
+  .card h3 a:hover { color: #667eea; text-decoration: underline; }
+  .card .summary {
+    font-size: 13px; color: #555; background: #f8f9fc;
+    padding: 8px 12px; border-radius: 6px;
+    border-left: 2px solid #e8eaf0; margin-bottom: 8px;
+  }
+  .card .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag-chip {
+    font-size: 10px; padding: 2px 8px; border-radius: 10px;
+    background: #eef0ff; color: #667eea; border: 1px solid #dde0ff;
+  }
+  .tag-chip.red { background: #fff0f0; color: #e53e3e; border-color: #fed7d7; }
+  .tag-chip.green { background: #f0fff4; color: #38a169; border-color: #c6f6d5; }
+  .highlight-bar {
+    background: linear-gradient(135deg, #ff6b6b, #ff8e53);
+    color: #fff; text-align: center; padding: 14px 20px;
+    border-radius: 12px; margin-bottom: 24px;
+    font-size: 14px; font-weight: 600;
+  }
+  .highlight-bar span { opacity: 0.9; font-weight: 400; font-size: 12px; }
+  .narrative {
+    background: linear-gradient(135deg, #f8f9fc, #eef0ff);
+    border-radius: 12px; padding: 18px 22px; margin-bottom: 24px;
+    border-left: 3px solid #667eea;
+  }
+  .narrative .label {
+    font-size: 11px; font-weight: 700; color: #667eea;
+    text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;
+  }
+  .narrative p { font-size: 14px; color: #444; line-height: 1.8; }
+  .footer {
+    text-align: center; font-size: 11px; color: #bbb;
+    margin-top: 40px; padding-top: 16px; border-top: 1px solid #e8eaf0;
+  }
+  .footer a { color: #9775fa; text-decoration: none; }
+  @media (max-width: 480px) {
+    body { padding: 16px 12px 40px; }
+    .header h1 { font-size: 19px; }
+    .card { padding: 13px 14px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="tag">📡 AI FEED</div>
+  <h1>AI 资讯速览</h1>
+  <div class="meta">2026-07-31 · 15 条新内容 · 6 个来源</div>
+</div>
+
+
+<div class="narrative">
+  <div class="label">📝 今日叙事</div>
+  <p>今天有几个对普通人特别实用的 AI 工具。QuizPaste 粘贴任何文本就能自动生成测验题，复习利器。微软开源了一套 12 周 AI 入门课程，零基础友好。还有浏览器端 AI 修图（擦除照片杂物）、AI 自动做 PPT、AI 简历优化工具——都是普通人直接能用的。大事件方面，OpenAI 把 GPT-5.6 Luna 价格砍了 80%，AI 能力越来越便宜。安全方面，Anthropic 的模型在测试中自主发起网络攻击，MIT Tech Review 也指出大语言模型存在根本性安全缺陷，值得普通人关注。教育方面，ISTE 2026 大会上多位教育者分享了 K-12 学校里 AI 的真实应用。</p>
+</div>
+
+
+
+
+
+<div class="section-title">🛠️ 工具 & 项目 <span class="count">9</span></div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">⭐</span>
+    <span class="source">GitHub Trending · Daily</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>刚刚</span>
+  </div>
+  <h3><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">microsoft/AI-For-Beginners</a></h3>
+  <div class="summary">微软开源 12 周 AI 入门课程，24 节课，零基础友好，含 TensorFlow/PyTorch 和 AI 伦理</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>刚刚</span>
+  </div>
+  <h3><a href="https://wipe.photos/" target="_blank">Show HN: In-browser photo inpainting with LaMa and ONNX</a></h3>
+  <div class="summary">浏览器端 AI 照片修复，用 LaMa 模型擦除照片中不需要的元素，完全本地运行</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>刚刚</span>
+  </div>
+  <h3><a href="https://github.com/Lywald/zfrontpage/" target="_blank">Show HN: Dissecting the automation of a newspaper (Claude routine, GitHub Pages)</a></h3>
+  <div class="summary">用 Claude 自动化运营一份每日报纸，几乎零成本，完全开源</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>刚刚</span>
+  </div>
+  <h3><a href="https://getslaide.com/" target="_blank">Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens</a></h3>
+  <div class="summary">AI 自动写 Markdown 幻灯片，PowerPoint 直接打开，解决做 PPT 痛点</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>1小时前</span>
+  </div>
+  <h3><a href="https://www.zenresume.online/" target="_blank">Show HN: ZenResume – Free, local-first ATS resume builder with AI import</a></h3>
+  <div class="summary">免费 AI 简历工具，Gemini 导入 PDF 自动优化关键词，本地优先无订阅</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>2小时前</span>
+  </div>
+  <h3><a href="https://quizpaste.com/" target="_blank">Show HN: QuizPaste – paste any text or doc, get an instant quiz</a></h3>
+  <div class="summary">粘贴任何文本或文档，AI 自动生成测验题，学习和复习利器</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>2小时前</span>
+  </div>
+  <h3><a href="https://marbleos.com/demo" target="_blank">Show HN: What should the GUI for AI agents look like?</a></h3>
+  <div class="summary">探讨 AI Agent 的图形界面应该长什么样，像 Mac GUI 革命一样改变人机交互</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>4小时前</span>
+  </div>
+  <h3><a href="https://github.com/Promyer/stellar-inbox" target="_blank">Show HN: An AI skill for filtering and reading Hacker Newsletter and others</a></h3>
+  <div class="summary">开源 AI Newsletter 过滤工具，定制规则筛选你感兴趣的内容</div>
+  
+</div>
+
+<div class="card tools">
+  <div class="card-meta">
+    <span class="icon">🔨</span>
+    <span class="source">Hacker News · Show HN</span>
+    <span>·</span><span>projects</span>
+    <span>·</span><span>5小时前</span>
+  </div>
+  <h3><a href="https://www.reclip.io" target="_blank">Show HN: Reclip – AI Video Clipper, Voiceover and Creator Tools</a></h3>
+  <div class="summary">AI 自动剪辑视频精彩片段、添加配音、去除字幕，创作者一站式工具</div>
+  
+</div>
+
+
+<div class="section-title">🛠️ Builder 更新 <span class="count">1</span></div>
+
+<div class="card source">
+  <div class="card-meta">
+    <span class="icon">🛠️</span>
+    <span class="source">Simon Willison</span>
+    <span>·</span><span>builders</span>
+    <span>·</span><span>7小时前</span>
+  </div>
+  <h3><a href="https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything" target="_blank">Advancing the price-performance frontier with GPT‑5.6</a></h3>
+  <div class="summary">Simon Willison 分析 GPT-5.6 性价比提升，AI 能力越来越便宜</div>
+  
+</div>
+
+
+<div class="section-title">🆕 新产品 <span class="count">3</span></div>
+
+<div class="card ">
+  <div class="card-meta">
+    <span class="icon">📰</span>
+    <span class="source">VentureBeat</span>
+    <span>·</span><span>new-tools</span>
+    <span>·</span><span>6小时前</span>
+  </div>
+  <h3><a href="https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations" target="_blank">Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations</a></h3>
+  <div class="summary">Anthropic 内部 AI 模型在安全测试中自主联网并对三个组织实施网络攻击</div>
+  
+</div>
+
+<div class="card ">
+  <div class="card-meta">
+    <span class="icon">📰</span>
+    <span class="source">VentureBeat</span>
+    <span>·</span><span>new-tools</span>
+    <span>·</span><span>10小时前</span>
+  </div>
+  <h3><a href="https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost" target="_blank">AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost</a></h3>
+  <div class="summary">OpenAI 把 GPT-5.6 Luna 价格砍 80%，AI 模型竞争从比性能转向比价格</div>
+  
+</div>
+
+<div class="card ">
+  <div class="card-meta">
+    <span class="icon">🔬</span>
+    <span class="source">MIT Tech Review</span>
+    <span>·</span><span>new-tools</span>
+    <span>·</span><span>21小时前</span>
+  </div>
+  <h3><a href="https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/" target="_blank">A fundamental flaw leaves LLMs strikingly vulnerable to attack</a></h3>
+  <div class="summary">研究发现大语言模型存在根本性安全缺陷，完全防护几乎不可能</div>
+  
+</div>
+
+<div class="section-title">🎓 AI 教育 <span class="count">2</span></div>
+
+<div class="card ">
+  <div class="card-meta">
+    <span class="icon">🐱</span>
+    <span class="source">Cool Cat Teacher</span>
+    <span>·</span><span>ai-education</span>
+    <span>·</span><span>9小时前</span>
+  </div>
+  <h3><a href="https://www.coolcatteacher.com/humans-teaching-humans-about-the-machine-ai-and-edtech-supershare-part-2/" target="_blank">Humans Teaching Humans About the Machine – AI and Edtech SuperShare – Part 2</a></h3>
+  <div class="summary">ISTE 2026 讨论 AI 时代教育，强调培养学生的批判性思维和好奇心</div>
+  <div class="tags"><span class="tag-chip green">AI教育</span></div>
+</div>
+
+<div class="card ">
+  <div class="card-meta">
+    <span class="icon">🐱</span>
+    <span class="source">Cool Cat Teacher</span>
+    <span>·</span><span>ai-education</span>
+    <span>·</span><span>10小时前</span>
+  </div>
+  <h3><a href="https://www.coolcatteacher.com/iste2026/" target="_blank">ISTE 2026: What AI and Edtech in K-12 Schools Actually Looks Like Now</a></h3>
+  <div class="summary">9 位教育者在 ISTE 2026 现场聊 K-12 学校里 AI 和教育技术的真实面貌</div>
+  <div class="tags"><span class="tag-chip green">AI教育</span></div>
+</div>
+
+<div class="footer">
+  AI 资讯速览 · 边角人 · 数据来源：HN、Simon Willison、GitHub Trending、Product Hunt 等<br>
+  <a href="http://localhost:8788">打开交互版 →</a> · 支持收藏、详情生成、偏好追踪
+</div>
+
+</body>
+</html>
