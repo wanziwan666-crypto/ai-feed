@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-08-06T01:46:57.695Z",
+  "generatedAt": "2026-08-06T08:17:48.274Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 28,
   "items": [
+    {
+      "title": "Show HN: HackerBa – Hacker News with a Baidu Tieba UI",
+      "link": "https://github.com/sha2kyou/HackerBa",
+      "pubDate": "Thu, 06 Aug 2026 07:27:15 +0000",
+      "date": "Thu, 06 Aug 2026 07:27:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sha2kyou/HackerBa\nComments URL: https://news.ycombinator.com/item?id=49193618\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49193618"
+    },
+    {
+      "title": "Show HN: Clark code – open-source IDE for OSS coding and free tier",
+      "link": "https://github.com/clark-labs-inc/clark-code",
+      "pubDate": "Thu, 06 Aug 2026 07:22:25 +0000",
+      "date": "Thu, 06 Aug 2026 07:22:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/clark-labs-inc/clark-code\nComments URL: https://news.ycombinator.com/item?id=49193573\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49193573"
+    },
+    {
+      "title": "Show HN: Scout – a self-hosted Discord AI memory bot",
+      "link": "https://github.com/j-sofia/Scout",
+      "pubDate": "Thu, 06 Aug 2026 06:15:55 +0000",
+      "date": "Thu, 06 Aug 2026 06:15:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Scout, a self-hosted Discord memory bot. Listens to the conversation and creates summaries and answers questions.\nRuns Qwen3 8B Instruct, in a 4-bit quantization, served locally through Ollama. It can answer questions about the conversation or generate summaries for when you missed out on the conversation.\nComments URL: https://news.ycombinator.com/item?id=49193104\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49193104"
+    },
+    {
+      "title": "Show HN: 66 Lines of Markdown compiled to a 7k lines Postgres back end",
+      "link": "https://www.forgx.dev/",
+      "pubDate": "Thu, 06 Aug 2026 04:32:30 +0000",
+      "date": "Thu, 06 Aug 2026 04:32:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.forgx.dev/\nComments URL: https://news.ycombinator.com/item?id=49192467\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49192467"
+    },
+    {
+      "title": "Show HN: Sift – MCP aggregator that exposes 2 tools instead of hundreds",
+      "link": "https://github.com/Narasimha1997/sift",
+      "pubDate": "Thu, 06 Aug 2026 04:00:29 +0000",
+      "date": "Thu, 06 Aug 2026 04:00:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Narasimha1997/sift\nComments URL: https://news.ycombinator.com/item?id=49192263\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49192263"
+    },
+    {
+      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "link": "https://github.com/pradipta/wallfacer",
+      "pubDate": "Thu, 06 Aug 2026 03:52:56 +0000",
+      "date": "Thu, 06 Aug 2026 03:52:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/pradipta/wallfacer\nComments URL: https://news.ycombinator.com/item?id=49192219\nPoints: 16\n# Comments: 8",
+      "guid": "https://news.ycombinator.com/item?id=49192219"
+    },
+    {
+      "title": "Show HN: Is It an OS?",
+      "link": "https://iiao.algor.ist",
+      "pubDate": "Thu, 06 Aug 2026 02:52:28 +0000",
+      "date": "Thu, 06 Aug 2026 02:52:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Since many things say that they are an OS, see if your \"thing\" is an OS too?\nComments URL: https://news.ycombinator.com/item?id=49191838\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49191838"
+    },
+    {
+      "title": "Show HN: MusicMonitor – Turn your extra monitor into a Spotify now-playing view",
+      "link": "https://github.com/j-sofia/MusicMonitor",
+      "pubDate": "Thu, 06 Aug 2026 02:50:35 +0000",
+      "date": "Thu, 06 Aug 2026 02:50:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Have an extra monitor? Why not have it display a full-screen view of what's now playing on your Spotify? As soon as your mouse goes to that monitor, MusicMonitor hides itself so the screen is still usable.\nContributions and feedback are greatly appreciated!\nBuilt using Codex\nComments URL: https://news.ycombinator.com/item?id=49191825\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49191825"
+    },
+    {
+      "title": "Show HN: Python Concurrency Testing with Frontrun",
+      "link": "https://github.com/lucaswiman/frontrun",
+      "pubDate": "Thu, 06 Aug 2026 02:20:54 +0000",
+      "date": "Thu, 06 Aug 2026 02:20:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I'm the author of Frontrun, a Python concurrency testing library I built over the past 6 months using Claude Code and Codex. It uses bytecode tracing and various forms of monkeypatching to schedule across threads, async and multiprocessing allowing you to find and deterministically reproduce race conditions or deadlocks.\nIt can understand Python variable assignments, SQL statements and Redis commands, which can detect races that cross abstraction boundaries, e.g. a deadlock between thread",
+      "guid": "https://news.ycombinator.com/item?id=49191664"
+    },
+    {
+      "title": "Show HN: Mirafold – Generative UI for Claude Code, Codex, and Gemini CLI",
+      "link": "https://mirafold.com/",
+      "pubDate": "Thu, 06 Aug 2026 02:19:50 +0000",
+      "date": "Thu, 06 Aug 2026 02:19:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mirafold.com/\nComments URL: https://news.ycombinator.com/item?id=49191654\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49191654"
+    },
+    {
+      "title": "Show HN: Clean up ugly articles for nicer reading experience",
+      "link": "https://leidnedya.github.io/markweb/",
+      "pubDate": "Thu, 06 Aug 2026 01:32:48 +0000",
+      "date": "Thu, 06 Aug 2026 01:32:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://leidnedya.github.io/markweb/\nComments URL: https://news.ycombinator.com/item?id=49191327\nPoints: 3\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49191327"
+    },
+    {
+      "title": "Show HN: Hacker News with reduced priority for AI driven content",
+      "link": "https://hn-without-ai.vercel.app/",
+      "pubDate": "Thu, 06 Aug 2026 01:31:07 +0000",
+      "date": "Thu, 06 Aug 2026 01:31:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hn-without-ai.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49191307\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49191307"
+    },
+    {
+      "title": "Show HN: Bananas aren't supposed to be tingly?",
+      "link": "https://news.ycombinator.com/item?id=49191298",
+      "pubDate": "Thu, 06 Aug 2026 01:30:01 +0000",
+      "date": "Thu, 06 Aug 2026 01:30:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Solving the problem of people never finding out they have a food allergy unless by accident. Practically one-shot with Claude Code on Medium, only I had to rewrite all the copy because it read like slop.\nhttps://spicy.sgc.rayandhon.com/\nComments URL: https://news.ycombinator.com/item?id=49191298\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49191298"
+    },
     {
       "title": "Show HN: Incconutwo – Open-source portfolio with Three.js liquid shaders",
       "link": "https://incconutwo.com/",
@@ -11,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://incconutwo.com/\nComments URL: https://news.ycombinator.com/item?id=49191127\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://incconutwo.com/\nComments URL: https://news.ycombinator.com/item?id=49191127\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49191127"
     },
     {
@@ -92,72 +235,6 @@
       "guid": "1SVelhWt6dFBv1PAT8f5gn"
     },
     {
-      "title": "Show HN: Bifrost: Enterprise MCP Gateway with Built-In Security: OAuth 2.0, RBAC",
-      "link": "https://github.com/maximhq/bifrost",
-      "pubDate": "Wed, 05 Aug 2026 20:45:25 +0000",
-      "date": "Wed, 05 Aug 2026 20:45:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/maximhq/bifrost\nComments URL: https://news.ycombinator.com/item?id=49188758\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49188758"
-    },
-    {
-      "title": "Show HN: Command Code GOAT, $10/month for $70 of credits across 30 models",
-      "link": "https://twitter.com/CommandCodeAI/status/2085039006203711649",
-      "pubDate": "Wed, 05 Aug 2026 20:35:59 +0000",
-      "date": "Wed, 05 Aug 2026 20:35:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Founder here, we launched the GOAT plan for Command Code today: $10/month for $70 in credits, usable across 30+ open and closed models. With deals it goes further, past $100.\nWhy create the GOAT plan?\nAt Command Code, we're incessantly curious about 1) open models, 2) how to get the best value out of them, and 3) how to make that value accessible to everyone. The GOAT plan is our answer to all three.\nWhile almost every other coding agent was built to serve closed models, we built Command Code to",
-      "guid": "https://news.ycombinator.com/item?id=49188656"
-    },
-    {
-      "title": "Show HN: No-Bullshit CRM – Fast, simple and local",
-      "link": "https://crm.cintracomunicacao.com.br/",
-      "pubDate": "Wed, 05 Aug 2026 20:14:12 +0000",
-      "date": "Wed, 05 Aug 2026 20:14:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://crm.cintracomunicacao.com.br/\nComments URL: https://news.ycombinator.com/item?id=49188362\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49188362"
-    },
-    {
-      "title": "Show HN: Capy – A Git-style platform for managing your team's secrets",
-      "link": "https://github.com/capysc/capy-cli",
-      "pubDate": "Wed, 05 Aug 2026 20:00:08 +0000",
-      "date": "Wed, 05 Aug 2026 20:00:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello HN!\nWe're all spending more and more time making stuff with agents, but I've noticed that one of the things that is the most disconnected from my daily engineering workflow is dealing with secrets and credentials. It often involves a lot of click-ops, copying/pasting, and collaboration, and none of the secrets management products out there have truly scratched that itch.\nI built Capy to solve this. It's a secrets manager whose entire frontend is a developer CLI, and I find it extremely erg",
-      "guid": "https://news.ycombinator.com/item?id=49188168"
-    },
-    {
-      "title": "Show HN: Cloud based firecracker VMs for agents, with email, domains and wallets",
-      "link": "https://zipbox.ai/setup/claude",
-      "pubDate": "Wed, 05 Aug 2026 19:48:21 +0000",
-      "date": "Wed, 05 Aug 2026 19:48:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "For the work I'm dealing with currently. I needed my agents to have setup with its own email, an ngrok tunnel (reach urls publicly), a crypto wallet with a private key...that's basically it, the agent gets access to all of it as the base for the work.\nProblem is I'm building stuff fast and my machine is always occupied. CPUs pegged, multiple worktrees. Also lets grab another ngrok domain and give it another wallet, basically set up the whole system again every time.\nI didn't want to just spin so",
-      "guid": "https://news.ycombinator.com/item?id=49187992"
-    },
-    {
-      "title": "Show HN: HomeCat – Turn a phone video into permit-ready building plans",
-      "link": "https://myhomecat.com",
-      "pubDate": "Wed, 05 Aug 2026 19:46:04 +0000",
-      "date": "Wed, 05 Aug 2026 19:46:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN! Ilya and Nikita here. We’re building HomeCat, a tool that turns a video walkthrough of a property into permit-ready building plans - https://myhomecat.com\nThe basic workflow is:\n1. Record a video of the property.\n2. HomeCat picks out details and reconstructs your property.\n3. We help you plan and design a project, like a new rear deck.\n4. Once you're happy, you get a drawing set containing permit-ready plans (site plan, floor plan, elevations) that are ready for permit submission.\nYou ca",
-      "guid": "https://news.ycombinator.com/item?id=49187965"
-    },
-    {
       "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
       "link": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
       "pubDate": "2026-08-05T19:42:38.000Z",
@@ -167,83 +244,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything"
-    },
-    {
-      "title": "Show HN: Small Craft launches Seamside (Web3 P2P hosting/collab)",
-      "link": "https://smlcrft.com/thoughts/its-open/",
-      "pubDate": "Wed, 05 Aug 2026 19:38:04 +0000",
-      "date": "Wed, 05 Aug 2026 19:38:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://smlcrft.com/thoughts/its-open/\nComments URL: https://news.ycombinator.com/item?id=49187856\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49187856"
-    },
-    {
-      "title": "Show HN: ShiftGrid – open-source transparent prompt-engine for pentests",
-      "link": "https://github.com/BuFuuu/shiftgrid/blob/main/demo.gif",
-      "pubDate": "Wed, 05 Aug 2026 19:17:00 +0000",
-      "date": "Wed, 05 Aug 2026 19:17:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/BuFuuu/shiftgrid/blob/main/demo.gif\nComments URL: https://news.ycombinator.com/item?id=49187588\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49187588"
-    },
-    {
-      "title": "Show HN: My receipt printer prints an original artwork every morning",
-      "link": "https://github.com/matt-w-horn/morningprint",
-      "pubDate": "Wed, 05 Aug 2026 19:16:43 +0000",
-      "date": "Wed, 05 Aug 2026 19:16:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/matt-w-horn/morningprint\nComments URL: https://news.ycombinator.com/item?id=49187583\nPoints: 11\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49187583"
-    },
-    {
-      "title": "Show HN: DrakeAI – expense tracker you log by voice or text, no bank sync",
-      "link": "https://drakeai.app/",
-      "pubDate": "Wed, 05 Aug 2026 19:07:47 +0000",
-      "date": "Wed, 05 Aug 2026 19:07:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://drakeai.app/\nComments URL: https://news.ycombinator.com/item?id=49187481\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49187481"
-    },
-    {
-      "title": "Show HN: Greenlight – Preflight Scanner for App Store and Google Play",
-      "link": "https://github.com/RevylAI/greenlight",
-      "pubDate": "Wed, 05 Aug 2026 19:04:34 +0000",
-      "date": "Wed, 05 Aug 2026 19:04:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We built Greenlight because App Store rejections suck.\nIt scans your source, manifests, and IPA/APK/AAB files for Apple and Google Play policy violations.\nIt runs locally with no account or uploads: brew install revylai/tap/greenlight && greenlight preflight .\nMIT-licensed\nComments URL: https://news.ycombinator.com/item?id=49187437\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49187437"
-    },
-    {
-      "title": "Show HN: Spltty – a Markdown-based personal finance CLI built with Claude",
-      "link": "https://tdiniz.dev/thoughts/building-a-personal-finance-tracker-with-claude",
-      "pubDate": "Wed, 05 Aug 2026 18:43:10 +0000",
-      "date": "Wed, 05 Aug 2026 18:43:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built Spltty, a Ruby CLI for tracking shared expenses, custom splits, and settlements using plain Markdown files. The article explains how it evolved from a Claude-managed folder into a CLI\nComments URL: https://news.ycombinator.com/item?id=49187132\nPoints: 7\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49187132"
-    },
-    {
-      "title": "Show HN: Learning Nix with LabCraft",
-      "link": "https://www.labcraft.dev/",
-      "pubDate": "Wed, 05 Aug 2026 18:42:41 +0000",
-      "date": "Wed, 05 Aug 2026 18:42:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "LabCraft is an AI-mentored learning platform. It is NOT a chatbot! Instead, it consists of course curriculum and an instrumented playground where learners can safely practice what they learn. The AI mentor observes the user's actions in the playground, and guides them towards the objective when they are stuck. This loop is iterated upon over time to improve the curriculum, the playground, and the mentor, all in service of providing to provide a better learning experience.\nCurrently, I'm focussed",
-      "guid": "https://news.ycombinator.com/item?id=49187128"
     },
     {
       "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
@@ -279,6 +279,28 @@
       "guid": "4HkMSet8ovxPVSp1kGT3yH"
     },
     {
+      "title": "Brandfetch MCP",
+      "link": "https://www.producthunt.com/products/brandfetch",
+      "pubDate": "2026-08-05T11:55:55.000Z",
+      "date": "2026-08-05T11:55:55.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/brandfetch"
+    },
+    {
+      "title": "Math Games That Build Fluency While Kids Have Fun",
+      "link": "https://www.coolcatteacher.com/e962/",
+      "pubDate": "Wed, 05 Aug 2026 11:00:00 +0000",
+      "date": "Wed, 05 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nMath fact fluency doesn't come from speed drills. Jennifer Bay-Williams and Gina Kling explain why timed tests need to go, share the card games that build real fluency, and point to a free site with printable game boards — plus a staff meeting discussion guide.\nThe post Math Games That Build Fluency While Kids Have Fun appeared first on Cool Cat Teac",
+      "guid": "https://www.coolcatteacher.com/?p=35076"
+    },
+    {
       "title": "Google Earnings, The Frontier Case, Amazon Earnings",
       "link": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
       "pubDate": "Wed, 05 Aug 2026 10:00:00 +0000",
@@ -288,17 +310,6 @@
       "icon": "📊",
       "contentSnippet": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
       "guid": "https://stratechery.com/?p=19637"
-    },
-    {
-      "title": "AI is exposing the limits of traditional network architecture",
-      "link": "https://venturebeat.com/infrastructure/ai-is-exposing-the-limits-of-traditional-network-architecture",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Presented by Tata Communications \n\nContinuous inference, agent-to-agent communication, and real-time data pipelines are generating unpredictable, always-on traffic that legacy architectures were never built to support. As AI moves from pilot project to operational backbone, the network is emerging as a critical control layer that determines performance, reliability, and cost. \nThe shift is forcing organizations to question assumptions that have held for decades. Legacy systems were static and ri",
-      "guid": "4dqYIWx3LzPSJlXeiRhNAg"
     }
   ]
 }
