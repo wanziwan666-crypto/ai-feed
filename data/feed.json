@@ -1,8 +1,118 @@
 {
-  "generatedAt": "2026-08-06T23:51:01.518Z",
+  "generatedAt": "2026-08-07T02:11:00.130Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 25,
   "items": [
+    {
+      "title": "Show HN: Startup ideas from customer complaints, in seconds instead of months",
+      "link": "https://blink-ideas-web.onrender.com/",
+      "pubDate": "Fri, 07 Aug 2026 01:14:28 +0000",
+      "date": "Fri, 07 Aug 2026 01:14:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built an idea machine that finds customer complaints, reviews, and requests and turns them into real startup ideas.\nNow you don't have to keep building products or services that people don't use, no more guessing, just winning.\nThese are real requests, from real potential customers, and they are grounded in their market appeal and competitive landscape.\nComments URL: https://news.ycombinator.com/item?id=49204761\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204761"
+    },
+    {
+      "title": "Show HN: VS Code Extension – Semantic Code Search (Semble)",
+      "link": "https://github.com/SeanPedersen/vscode-semble",
+      "pubDate": "Fri, 07 Aug 2026 01:11:16 +0000",
+      "date": "Fri, 07 Aug 2026 01:11:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/SeanPedersen/vscode-semble\nComments URL: https://news.ycombinator.com/item?id=49204742\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204742"
+    },
+    {
+      "title": "Show HN: Plan Review – independent review for Claude Code plans",
+      "link": "https://github.com/dachev/plan-review",
+      "pubDate": "Fri, 07 Aug 2026 00:56:51 +0000",
+      "date": "Fri, 07 Aug 2026 00:56:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/dachev/plan-review\nComments URL: https://news.ycombinator.com/item?id=49204661\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204661"
+    },
+    {
+      "title": "Show HN: BlazeRules – YAML rule engine for streaming data, upto 5M records/SEC",
+      "link": "https://news.ycombinator.com/item?id=49204650",
+      "pubDate": "Fri, 07 Aug 2026 00:55:02 +0000",
+      "date": "Fri, 07 Aug 2026 00:55:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "https://github.com/purijs/blazerules\nI initially wanted to make a sub-millisecond log parser in C++ but that blew into a embeddable decision engine, that can run YAML defined rules on incoming data.\nThe rules are executed in a vectorized format on incoming data by reprojecting into a columnar format first, if it's not already. Depending on the payload size and rules complexity, the performance goes from 200K records/s to more than million records/sec, in terms of througput this would be around 2",
+      "guid": "https://news.ycombinator.com/item?id=49204650"
+    },
+    {
+      "title": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
+      "link": "https://github.com/Kayvan-Zahiri/asr-age-gap",
+      "pubDate": "Fri, 07 Aug 2026 00:10:04 +0000",
+      "date": "Fri, 07 Aug 2026 00:10:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Kayvan-Zahiri/asr-age-gap\nComments URL: https://news.ycombinator.com/item?id=49204388\nPoints: 12\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49204388"
+    },
+    {
+      "title": "Show HN: AI Tutoring with Visual Grounding",
+      "link": "https://useknowable.ai/",
+      "pubDate": "Fri, 07 Aug 2026 00:04:07 +0000",
+      "date": "Fri, 07 Aug 2026 00:04:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've always felt that AI tutoring as we see it now is going in the wrong direction. I made Knowable as a way to see if it's possible to have a real AI tutor.\nBecause of hardware limitations it can only be used on Macbooks 2023+.\nLet me know your thoughts!\nComments URL: https://news.ycombinator.com/item?id=49204343\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204343"
+    },
+    {
+      "title": "Show HN: Draw.How – Learn to Draw Anything",
+      "link": "https://draw.how/",
+      "pubDate": "Thu, 06 Aug 2026 23:43:09 +0000",
+      "date": "Thu, 06 Aug 2026 23:43:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://draw.how/\nComments URL: https://news.ycombinator.com/item?id=49204169\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204169"
+    },
+    {
+      "title": "Show HN: Claude Code that renders Hebrew/Arabic/Persian in the terminal",
+      "link": "https://github.com/noambrand/kivun-terminal-wsl",
+      "pubDate": "Thu, 06 Aug 2026 23:35:09 +0000",
+      "date": "Thu, 06 Aug 2026 23:35:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/noambrand/kivun-terminal-wsl\nComments URL: https://news.ycombinator.com/item?id=49204099\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204099"
+    },
+    {
+      "title": "Show HN: Developer Inbox",
+      "link": "https://news.ycombinator.com/item?id=49204040",
+      "pubDate": "Thu, 06 Aug 2026 23:28:50 +0000",
+      "date": "Thu, 06 Aug 2026 23:28:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I am working on a Developer Inbox open source platform to create Email Client using existing API based email infra like resent, sendgrid etc to manage early startups's custom email conversation.\nStarting with resend and will add support for other platform soon.\nComments URL: https://news.ycombinator.com/item?id=49204040\nPoints: 3\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49204040"
+    },
+    {
+      "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
+      "link": "https://www.korvo.xyz/arf",
+      "pubDate": "Thu, 06 Aug 2026 23:25:29 +0000",
+      "date": "Thu, 06 Aug 2026 23:25:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.korvo.xyz/arf\nComments URL: https://news.ycombinator.com/item?id=49204008\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204008"
+    },
     {
       "title": "Show HN: I rewrote Decap CMS with < $1K in Claude tokens",
       "link": "https://github.com/laikacms/decap-cms",
@@ -88,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.\nComments URL: https://news.ycombinator.com/item?id=49203059\nPoints: 25\n# Comments: 7",
+      "contentSnippet": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.\nComments URL: https://news.ycombinator.com/item?id=49203059\nPoints: 37\n# Comments: 20",
       "guid": "https://news.ycombinator.com/item?id=49203059"
     },
     {
@@ -110,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://pushyourthing.com\nComments URL: https://news.ycombinator.com/item?id=49202740\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://pushyourthing.com\nComments URL: https://news.ycombinator.com/item?id=49202740\nPoints: 4\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49202740"
     },
     {
@@ -123,116 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://github.com/karanrajsurya/CatQueue_npm_package\nComments URL: https://news.ycombinator.com/item?id=49202586\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49202586"
-    },
-    {
-      "title": "Show HN: Makessg",
-      "link": "https://github.com/MateuszMyalski/makessg",
-      "pubDate": "Thu, 06 Aug 2026 21:02:31 +0000",
-      "date": "Thu, 06 Aug 2026 21:02:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/MateuszMyalski/makessg\nComments URL: https://news.ycombinator.com/item?id=49202510\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49202510"
-    },
-    {
-      "title": "Show HN: Martin, A CLI that let's your Agent be your CRM, Built on Jaybase",
-      "link": "https://github.com/kyle-visner/martin",
-      "pubDate": "Thu, 06 Aug 2026 20:51:25 +0000",
-      "date": "Thu, 06 Aug 2026 20:51:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nIn my continued quest to excape App Hell, unify all my business data, and let AI run the the parts of my business that don't make money, I've built Martin. Martin is a CLI that let's your store all your customer data in Jaybase, which is an append only business facts DB I built (link at the end).  It works along side my bookkeeping CLI, Martin, so now I have a single, AI Native source of truth where I can see the entire customer journey from lead through to customer in one place, not smea",
-      "guid": "https://news.ycombinator.com/item?id=49202363"
-    },
-    {
-      "title": "Show HN: DashClaw",
-      "link": "https://www.dashclaw.io",
-      "pubDate": "Thu, 06 Aug 2026 20:50:12 +0000",
-      "date": "Thu, 06 Aug 2026 20:50:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.dashclaw.io\nComments URL: https://news.ycombinator.com/item?id=49202349\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49202349"
-    },
-    {
-      "title": "Show HN:Calibra: Train with Less Data",
-      "link": "https://calibra-wulw.vercel.app/",
-      "pubDate": "Thu, 06 Aug 2026 20:29:03 +0000",
-      "date": "Thu, 06 Aug 2026 20:29:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://calibra-wulw.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49202060\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49202060"
-    },
-    {
-      "title": "Show HN: AI Assistant that verifies its own sources",
-      "link": "https://cochat.ai/",
-      "pubDate": "Thu, 06 Aug 2026 20:18:19 +0000",
-      "date": "Thu, 06 Aug 2026 20:18:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://cochat.ai/\nComments URL: https://news.ycombinator.com/item?id=49201886\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49201886"
-    },
-    {
-      "title": "Show HN: GitHub Status Check Skill",
-      "link": "https://github.com/cainiaocome/github-status-check",
-      "pubDate": "Thu, 06 Aug 2026 20:17:21 +0000",
-      "date": "Thu, 06 Aug 2026 20:17:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A simple skill to tell AI agent to check GitHub status if something goes wrong after push to GitHub. Especially useful when actions are down otherwise the AI agent may think some code is wrong caused the workflow to fail or error.\nComments URL: https://news.ycombinator.com/item?id=49201869\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49201869"
-    },
-    {
-      "title": "Show HN: After 23 years, I finished my indie video game",
-      "link": "https://www.missilemassacre.com",
-      "pubDate": "Thu, 06 Aug 2026 19:36:17 +0000",
-      "date": "Thu, 06 Aug 2026 19:36:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.missilemassacre.com\nComments URL: https://news.ycombinator.com/item?id=49201305\nPoints: 4\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49201305"
-    },
-    {
-      "title": "Show HN: Gitdebt.com, open source repo stats and star history for GitHub repos",
-      "link": "https://gitdebt.com/",
-      "pubDate": "Thu, 06 Aug 2026 19:20:42 +0000",
-      "date": "Thu, 06 Aug 2026 19:20:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://gitdebt.com/\nComments URL: https://news.ycombinator.com/item?id=49201088\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49201088"
-    },
-    {
-      "title": "Show HN: I built a Calendr clone for KDE Plasma",
-      "link": "https://github.com/hparadiz/yoman",
-      "pubDate": "Thu, 06 Aug 2026 19:13:32 +0000",
-      "date": "Thu, 06 Aug 2026 19:13:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Yoman is a calendar panel widget for KDE Plasma 6. It lives in the panel showing the date, and opens a popup with a month grid and the day's events. It reads your existing Google Calendar (through KDE Online Accounts) and any events in KDE's KOrganizer.\nDesigned to grab your attention with notifications, an optional full-screen alert, and a literal count down to the event right in your menu bar.\nYoman is read-only by design.\nComments URL: https://news.ycombinator.com/item?id=49200997\nPoints: 1\n#",
-      "guid": "https://news.ycombinator.com/item?id=49200997"
-    },
-    {
-      "title": "Show HN: Clinch – exit-intent discounts for Shopify with a built-in holdout",
-      "link": "https://getclinch.co",
-      "pubDate": "Thu, 06 Aug 2026 19:05:05 +0000",
-      "date": "Thu, 06 Aug 2026 19:05:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://getclinch.co\nComments URL: https://news.ycombinator.com/item?id=49200902\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49200902"
     },
     {
       "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
@@ -255,6 +255,17 @@
       "icon": "📰",
       "contentSnippet": "Presented by JumpCloud\n\nA practical framework for securing every identity in the modern workforce, human or not.\nYour organization already has a rigorous process for governing human identities. New employees go through onboarding. They get a role, a set of entitlements, and a named manager accountable for their access. When they leave, their credentials are revoked and access is terminated. It’s a well known IT process: every workforce identity that can access your systems needs to be known, sco",
       "guid": "633wxu85jjRNiTdOWpMXvY"
+    },
+    {
+      "title": "Assessment and Feedback That Move Learning Forward",
+      "link": "https://www.coolcatteacher.com/e963/",
+      "pubDate": "Thu, 06 Aug 2026 11:00:00 +0000",
+      "date": "Thu, 06 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nThe moment you put a grade on something, it stops being formative. Assessment author Starr Sackstein explains what formative assessment really means and gives you classroom-ready strategies for the start, middle, and end of any lesson.\nThe post Assessment and Feedback That Move Learning Forward appeared first on Cool Cat Teacher Blog by Vicki Davis @",
+      "guid": "https://www.coolcatteacher.com/?p=35089"
     },
     {
       "title": "The browser is where attacks land. Why is security still focused on the endpoint?",
