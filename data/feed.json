@@ -1,8 +1,195 @@
 {
-  "generatedAt": "2026-08-07T02:11:00.130Z",
+  "generatedAt": "2026-08-07T07:01:32.167Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 24,
   "items": [
+    {
+      "title": "Show HN: Catnip – GitHub repo stats: collect, analyze, TUI, agent inference",
+      "link": "https://github.com/TGPSKI/catnip",
+      "pubDate": "Fri, 07 Aug 2026 06:41:16 +0000",
+      "date": "Fri, 07 Aug 2026 06:41:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/TGPSKI/catnip\nComments URL: https://news.ycombinator.com/item?id=49206708\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49206708"
+    },
+    {
+      "title": "Show HN: Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud",
+      "link": "https://www.atlascloud.ai/models/seedance-2.5",
+      "pubDate": "Fri, 07 Aug 2026 06:32:51 +0000",
+      "date": "Fri, 07 Aug 2026 06:32:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "ByteDance just dropped their global Seedance 2.5 API. Now you can try it on Atlas Cloud (ByteDance's official US partner)\nComments URL: https://news.ycombinator.com/item?id=49206655\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49206655"
+    },
+    {
+      "title": "Show HN: Linkly – a language designed for LLMs, compiled through MLIR",
+      "link": "https://github.com/choiyounggi/linkly/releases",
+      "pubDate": "Fri, 07 Aug 2026 06:30:58 +0000",
+      "date": "Fri, 07 Aug 2026 06:30:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/choiyounggi/linkly/releases\nComments URL: https://news.ycombinator.com/item?id=49206637\nPoints: 1\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49206637"
+    },
+    {
+      "title": "Show HN: An ultra-fast Prime Agent fork with Bun REPL",
+      "link": "https://github.com/sng-asyncfunc/prime-bun",
+      "pubDate": "Fri, 07 Aug 2026 06:14:53 +0000",
+      "date": "Fri, 07 Aug 2026 06:14:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "An ultra-fast Prime Agent fork designed to orchestrate concurrent sub-agents and execute long-running coding tasks without the Python latency tax.\nComments URL: https://news.ycombinator.com/item?id=49206514\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49206514"
+    },
+    {
+      "title": "Show HN: Peach – a local-first zero-knowledge password manager, now on Android",
+      "link": "https://peachpasswords.com/",
+      "pubDate": "Fri, 07 Aug 2026 06:12:13 +0000",
+      "date": "Fri, 07 Aug 2026 06:12:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://peachpasswords.com/\nComments URL: https://news.ycombinator.com/item?id=49206495\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49206495"
+    },
+    {
+      "title": "Show HN: Muuted – I built a feed that knows when to shut up",
+      "link": "https://muuted.com/",
+      "pubDate": "Fri, 07 Aug 2026 06:00:03 +0000",
+      "date": "Fri, 07 Aug 2026 06:00:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://muuted.com/\nComments URL: https://news.ycombinator.com/item?id=49206400\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49206400"
+    },
+    {
+      "title": "Show HN: Clipboard Sync – Share a clipboard, mouse and keyboard on your LAN",
+      "link": "https://clipboardsync.fuzhuo.me",
+      "pubDate": "Fri, 07 Aug 2026 05:07:45 +0000",
+      "date": "Fri, 07 Aug 2026 05:07:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN — I made Clipboard Sync, an opensource native app for sharing text, images, and selected files between macOS, Windows, and Linux machines on the same LAN. It can also share one mouse and keyboard across those computers.\nThe source is available at:\nhttps://github.com/qiudaomao/clipboardSync\nComments URL: https://news.ycombinator.com/item?id=49206081\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49206081"
+    },
+    {
+      "title": "Show HN: Prompting Tool to Help Increase Output Results on First Prompt",
+      "link": "https://www.promptme.host/",
+      "pubDate": "Fri, 07 Aug 2026 04:30:12 +0000",
+      "date": "Fri, 07 Aug 2026 04:30:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.promptme.host/\nComments URL: https://news.ycombinator.com/item?id=49205903\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49205903"
+    },
+    {
+      "title": "Show HN: Sidebar – a private ESP32 intercom for five kids, no accounts",
+      "link": "https://www.sundaradnus.ca/writing/sidebar-building-a-ham-radio-for-my-son",
+      "pubDate": "Fri, 07 Aug 2026 03:31:02 +0000",
+      "date": "Fri, 07 Aug 2026 03:31:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello all - Inspired by many who build/assemble for their daughters/sons, I took cue and assembled a two-way communication between my son and his friends. Nothing spectacular. Just basic stuff to talk.\nHe is eleven and doesn't have a phone. I wanted him to talk to his friends without an account, a feed, or an algorithm in between, so I built five ESP32-S3 touchscreen units, one per kid. Tap a friend's name, their unit rings. Tap Everyone, they all ring.\nEach unit dials outbound to a relay I run,",
+      "guid": "https://news.ycombinator.com/item?id=49205627"
+    },
+    {
+      "title": "Show HN: A skill file that turns your saved-articles pile into go/skip verdicts",
+      "link": "https://atomic24.com/blog/bookmarks-graveyard-idea-harvester/",
+      "pubDate": "Fri, 07 Aug 2026 02:43:06 +0000",
+      "date": "Fri, 07 Aug 2026 02:43:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://atomic24.com/blog/bookmarks-graveyard-idea-harvester/\nComments URL: https://news.ycombinator.com/item?id=49205364\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49205364"
+    },
+    {
+      "title": "Show HN: Open-source pixel art editor with animation and auto-tiling tilesets",
+      "link": "https://simplepixelart.com/editor",
+      "pubDate": "Fri, 07 Aug 2026 02:31:04 +0000",
+      "date": "Fri, 07 Aug 2026 02:31:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN! I built a free pixel art editor that runs entirely in the browser — no install, no signup, no watermark. The frontend is open source (MIT): https://github.com/comficker/simplepixelart\nWhat it does:\n- Sprite editor with layers, selections, mirror drawing, and an infinite-canvas workspace (multiple boards on one desk)\n- Frame-by-frame animation with onion skin, per-frame duration, GIF and spritesheet export\n- Tileset builder that auto-generates Wang-16 and blob-47 terrain sets from a single",
+      "guid": "https://news.ycombinator.com/item?id=49205300"
+    },
+    {
+      "title": "Show HN: Markdown Buddy – Native macOS Markdown Editor with Quick Look and Xcode",
+      "link": "https://markdownbuddy.inawa.app/",
+      "pubDate": "Fri, 07 Aug 2026 02:26:43 +0000",
+      "date": "Fri, 07 Aug 2026 02:26:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://markdownbuddy.inawa.app/\nComments URL: https://news.ycombinator.com/item?id=49205269\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49205269"
+    },
+    {
+      "title": "Show HN: Selvedge – an append-only log of what your AI agent already rejected",
+      "link": "https://github.com/masondelan/selvedge",
+      "pubDate": "Fri, 07 Aug 2026 01:54:13 +0000",
+      "date": "Fri, 07 Aug 2026 01:54:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/masondelan/selvedge\nComments URL: https://news.ycombinator.com/item?id=49205059\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49205059"
+    },
+    {
+      "title": "Show HN: La Vieja Contra El Dibu – Penalty Shootout Game vs. Dibu Martínez",
+      "link": "https://laviejacontraeldibu.app",
+      "pubDate": "Fri, 07 Aug 2026 01:53:43 +0000",
+      "date": "Fri, 07 Aug 2026 01:53:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://laviejacontraeldibu.app\nComments URL: https://news.ycombinator.com/item?id=49205048\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49205048"
+    },
+    {
+      "title": "Show HN: HNTerminal – Hacker News at terminal density, with live story signals",
+      "link": "https://hnterminal.com",
+      "pubDate": "Fri, 07 Aug 2026 01:41:11 +0000",
+      "date": "Fri, 07 Aug 2026 01:41:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hnterminal.com\nComments URL: https://news.ycombinator.com/item?id=49204943\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49204943"
+    },
+    {
+      "title": "Show HN: I scanned 30 production MCP servers' OAuth – only 1 earned an A",
+      "link": "https://github.com/authgent/authgent",
+      "pubDate": "Fri, 07 Aug 2026 01:40:39 +0000",
+      "date": "Fri, 07 Aug 2026 01:40:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/authgent/authgent\nComments URL: https://news.ycombinator.com/item?id=49204939\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204939"
+    },
+    {
+      "title": "Show HN: QWERTY MIDI – Isomorphic Layout MIDI Controller",
+      "link": "https://beijaflor.io/blog/07-2026/querymidi/",
+      "pubDate": "Fri, 07 Aug 2026 01:27:14 +0000",
+      "date": "Fri, 07 Aug 2026 01:27:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://beijaflor.io/blog/07-2026/querymidi/\nComments URL: https://news.ycombinator.com/item?id=49204850\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49204850"
+    },
     {
       "title": "Show HN: Startup ideas from customer complaints, in seconds instead of months",
       "link": "https://blink-ideas-web.onrender.com/",
@@ -37,105 +224,6 @@
       "guid": "https://news.ycombinator.com/item?id=49204661"
     },
     {
-      "title": "Show HN: BlazeRules – YAML rule engine for streaming data, upto 5M records/SEC",
-      "link": "https://news.ycombinator.com/item?id=49204650",
-      "pubDate": "Fri, 07 Aug 2026 00:55:02 +0000",
-      "date": "Fri, 07 Aug 2026 00:55:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "https://github.com/purijs/blazerules\nI initially wanted to make a sub-millisecond log parser in C++ but that blew into a embeddable decision engine, that can run YAML defined rules on incoming data.\nThe rules are executed in a vectorized format on incoming data by reprojecting into a columnar format first, if it's not already. Depending on the payload size and rules complexity, the performance goes from 200K records/s to more than million records/sec, in terms of througput this would be around 2",
-      "guid": "https://news.ycombinator.com/item?id=49204650"
-    },
-    {
-      "title": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
-      "link": "https://github.com/Kayvan-Zahiri/asr-age-gap",
-      "pubDate": "Fri, 07 Aug 2026 00:10:04 +0000",
-      "date": "Fri, 07 Aug 2026 00:10:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Kayvan-Zahiri/asr-age-gap\nComments URL: https://news.ycombinator.com/item?id=49204388\nPoints: 12\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49204388"
-    },
-    {
-      "title": "Show HN: AI Tutoring with Visual Grounding",
-      "link": "https://useknowable.ai/",
-      "pubDate": "Fri, 07 Aug 2026 00:04:07 +0000",
-      "date": "Fri, 07 Aug 2026 00:04:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've always felt that AI tutoring as we see it now is going in the wrong direction. I made Knowable as a way to see if it's possible to have a real AI tutor.\nBecause of hardware limitations it can only be used on Macbooks 2023+.\nLet me know your thoughts!\nComments URL: https://news.ycombinator.com/item?id=49204343\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49204343"
-    },
-    {
-      "title": "Show HN: Draw.How – Learn to Draw Anything",
-      "link": "https://draw.how/",
-      "pubDate": "Thu, 06 Aug 2026 23:43:09 +0000",
-      "date": "Thu, 06 Aug 2026 23:43:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://draw.how/\nComments URL: https://news.ycombinator.com/item?id=49204169\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49204169"
-    },
-    {
-      "title": "Show HN: Claude Code that renders Hebrew/Arabic/Persian in the terminal",
-      "link": "https://github.com/noambrand/kivun-terminal-wsl",
-      "pubDate": "Thu, 06 Aug 2026 23:35:09 +0000",
-      "date": "Thu, 06 Aug 2026 23:35:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/noambrand/kivun-terminal-wsl\nComments URL: https://news.ycombinator.com/item?id=49204099\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49204099"
-    },
-    {
-      "title": "Show HN: Developer Inbox",
-      "link": "https://news.ycombinator.com/item?id=49204040",
-      "pubDate": "Thu, 06 Aug 2026 23:28:50 +0000",
-      "date": "Thu, 06 Aug 2026 23:28:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I am working on a Developer Inbox open source platform to create Email Client using existing API based email infra like resent, sendgrid etc to manage early startups's custom email conversation.\nStarting with resend and will add support for other platform soon.\nComments URL: https://news.ycombinator.com/item?id=49204040\nPoints: 3\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49204040"
-    },
-    {
-      "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
-      "link": "https://www.korvo.xyz/arf",
-      "pubDate": "Thu, 06 Aug 2026 23:25:29 +0000",
-      "date": "Thu, 06 Aug 2026 23:25:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.korvo.xyz/arf\nComments URL: https://news.ycombinator.com/item?id=49204008\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49204008"
-    },
-    {
-      "title": "Show HN: I rewrote Decap CMS with < $1K in Claude tokens",
-      "link": "https://github.com/laikacms/decap-cms",
-      "pubDate": "Thu, 06 Aug 2026 23:21:17 +0000",
-      "date": "Thu, 06 Aug 2026 23:21:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/laikacms/decap-cms\nComments URL: https://news.ycombinator.com/item?id=49203966\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49203966"
-    },
-    {
-      "title": "Show HN: Compare frontier speech-to-speech models for free",
-      "link": "https://voiceduel.com/",
-      "pubDate": "Thu, 06 Aug 2026 23:05:20 +0000",
-      "date": "Thu, 06 Aug 2026 23:05:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://voiceduel.com/\nComments URL: https://news.ycombinator.com/item?id=49203833\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49203833"
-    },
-    {
       "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
       "link": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
       "pubDate": "Thu, 06 Aug 2026 22:56:06 GMT",
@@ -145,94 +233,6 @@
       "icon": "📰",
       "contentSnippet": "Earlier this week, the AI startup Liquid, formed in 2023 by former MIT computer scientists, debuted LFM2.5-2.6B, a new open-weight language model designed specifically for agentic workloads. \nIn release materials and a recent interview with VentureBeat, Liquid's researchers said LFM2.5-2.6B can run entirely on local hardware — from smartphones and laptops down to a Raspberry Pi — without relying on cloud inference or GPUs, unlocking edge AI applications and giving more options to enterprises wor",
       "guid": "6HJU1XYFB5yhGbH7LSWLDr"
-    },
-    {
-      "title": "Show HN: GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
-      "link": "https://www.greatarrow.ai",
-      "pubDate": "Thu, 06 Aug 2026 22:55:10 +0000",
-      "date": "Thu, 06 Aug 2026 22:55:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.greatarrow.ai\nComments URL: https://news.ycombinator.com/item?id=49203752\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49203752"
-    },
-    {
-      "title": "Show HN: Learn System Design, one campaign at a time",
-      "link": "https://scalequest.io/",
-      "pubDate": "Thu, 06 Aug 2026 21:55:21 +0000",
-      "date": "Thu, 06 Aug 2026 21:55:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://scalequest.io/\nComments URL: https://news.ycombinator.com/item?id=49203148\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49203148"
-    },
-    {
-      "title": "Show HN: Higher-dimensional lattices unfolded into the 2D plane",
-      "link": "https://number-garden.com/?@THLP@",
-      "pubDate": "Thu, 06 Aug 2026 21:52:31 +0000",
-      "date": "Thu, 06 Aug 2026 21:52:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Visit the URL to explore what happens.\nDouble-click or press “N” to generate a new experiment. Press “A” to learn more about how it works.\nComments URL: https://news.ycombinator.com/item?id=49203112\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49203112"
-    },
-    {
-      "title": "Show HN: Tmagnet – a terminal torrent client written in C",
-      "link": "https://codeberg.org/ivanjeka/tmagnet",
-      "pubDate": "Thu, 06 Aug 2026 21:50:29 +0000",
-      "date": "Thu, 06 Aug 2026 21:50:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://codeberg.org/ivanjeka/tmagnet\nComments URL: https://news.ycombinator.com/item?id=49203078\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49203078"
-    },
-    {
-      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
-      "link": "https://github.com/mattdeeds/pokeemerald-rp2350",
-      "pubDate": "Thu, 06 Aug 2026 21:49:07 +0000",
-      "date": "Thu, 06 Aug 2026 21:49:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core.\nComments URL: https://news.ycombinator.com/item?id=49203059\nPoints: 37\n# Comments: 20",
-      "guid": "https://news.ycombinator.com/item?id=49203059"
-    },
-    {
-      "title": "Show HN: Gaze – Facial Authentication for Linux",
-      "link": "https://github.com/GunduLabs/gaze",
-      "pubDate": "Thu, 06 Aug 2026 21:28:44 +0000",
-      "date": "Thu, 06 Aug 2026 21:28:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Facial authentication for Linux with on-device face recognition, PAM integration, and tools for login, lock screen, sudo, and desktop management.\nComments URL: https://news.ycombinator.com/item?id=49202832\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49202832"
-    },
-    {
-      "title": "Show HN: PushYourThing – the dumbest button-mashing competition on the internet",
-      "link": "https://pushyourthing.com",
-      "pubDate": "Thu, 06 Aug 2026 21:20:26 +0000",
-      "date": "Thu, 06 Aug 2026 21:20:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://pushyourthing.com\nComments URL: https://news.ycombinator.com/item?id=49202740\nPoints: 4\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49202740"
-    },
-    {
-      "title": "Show HN: CatQueue – A Redis-free PostgreSQL job queue for Node and TypeScript",
-      "link": "https://github.com/karanrajsurya/CatQueue_npm_package",
-      "pubDate": "Thu, 06 Aug 2026 21:08:25 +0000",
-      "date": "Thu, 06 Aug 2026 21:08:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/karanrajsurya/CatQueue_npm_package\nComments URL: https://news.ycombinator.com/item?id=49202586\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49202586"
     },
     {
       "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
@@ -257,26 +257,15 @@
       "guid": "633wxu85jjRNiTdOWpMXvY"
     },
     {
-      "title": "Assessment and Feedback That Move Learning Forward",
-      "link": "https://www.coolcatteacher.com/e963/",
-      "pubDate": "Thu, 06 Aug 2026 11:00:00 +0000",
-      "date": "Thu, 06 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nThe moment you put a grade on something, it stops being formative. Assessment author Starr Sackstein explains what formative assessment really means and gives you classroom-ready strategies for the start, middle, and end of any lesson.\nThe post Assessment and Feedback That Move Learning Forward appeared first on Cool Cat Teacher Blog by Vicki Davis @",
-      "guid": "https://www.coolcatteacher.com/?p=35089"
-    },
-    {
-      "title": "The browser is where attacks land. Why is security still focused on the endpoint?",
-      "link": "https://venturebeat.com/security/the-browser-is-where-attacks-land-why-is-security-still-focused-on-the-endpoint",
-      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "source": "VentureBeat",
+      "title": "Prompt Bridge",
+      "link": "https://www.producthunt.com/products/prompt-bridge-2",
+      "pubDate": "2026-08-06T11:38:18.000Z",
+      "date": "2026-08-06T11:38:18.000Z",
+      "source": "Product Hunt · AI",
       "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Presented by CloudMosa \n\nEnterprise work now happens increasingly inside the browser, and that shift has made the browser a primary point of entry for cyberattacks as well. Browser-based attacks have surged over the past two years, according to industry reports, while Gartner projects that more than 85% of enterprise workloads will be accessed through the browser by 2027. \nAnd yet most enterprise security architecture is still built to protect the device rather than the browser session where tha",
-      "guid": "23HEOULQjJznQa7JhuMIew"
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/prompt-bridge-2"
     }
   ]
 }
