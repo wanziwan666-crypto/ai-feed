@@ -1,8 +1,162 @@
 {
-  "generatedAt": "2026-08-08T00:58:26.799Z",
+  "generatedAt": "2026-08-08T06:36:31.429Z",
   "lookbackHours": 24,
   "totalItems": 27,
   "items": [
+    {
+      "title": "Show HN: I audited 743 URLs across 8 free browser tools",
+      "link": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-08-8site-pore-level-audit-and-repair.md",
+      "pubDate": "Sat, 08 Aug 2026 06:01:53 +0000",
+      "date": "Sat, 08 Aug 2026 06:01:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-08-8site-pore-level-audit-and-repair.md\nComments URL: https://news.ycombinator.com/item?id=49219257\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49219257"
+    },
+    {
+      "title": "Show HN: Skaylar – Analyze Datasets with Benford's Law",
+      "link": "https://temi-tade.github.io/Skaylar/",
+      "pubDate": "Sat, 08 Aug 2026 05:56:59 +0000",
+      "date": "Sat, 08 Aug 2026 05:56:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Skaylar is an open source tool for analyzing and visualizing first-digit distributions in a dataset using Benford's Law. Users can manually input/paste data or upload JSON dataset files and analyze them. The results are shown in a table and a graph of the actual and expected curves is plotted.\nComments URL: https://news.ycombinator.com/item?id=49219226\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49219226"
+    },
+    {
+      "title": "Show HN: NoCrap – Gamifying porn addiction recovery",
+      "link": "https://nocrap.vercel.app/",
+      "pubDate": "Sat, 08 Aug 2026 05:26:10 +0000",
+      "date": "Sat, 08 Aug 2026 05:26:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://nocrap.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49219113\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49219113"
+    },
+    {
+      "title": "Show HN: Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
+      "link": "https://github.com/muhammadwaqasai/agent_acid",
+      "pubDate": "Sat, 08 Aug 2026 05:00:26 +0000",
+      "date": "Sat, 08 Aug 2026 05:00:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/muhammadwaqasai/agent_acid\nComments URL: https://news.ycombinator.com/item?id=49219014\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49219014"
+    },
+    {
+      "title": "Show HN: Utter – Turn your voice to automatic To-dos. No sign-up",
+      "link": "https://play.google.com/store/apps/details?id=com.utter.app&hl=en_US",
+      "pubDate": "Sat, 08 Aug 2026 03:36:09 +0000",
+      "date": "Sat, 08 Aug 2026 03:36:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://play.google.com/store/apps/details?id=com.utter.app&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=49218691\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49218691"
+    },
+    {
+      "title": "Show HN: Finding obfuscated GitHub PATs and API keys in large repos",
+      "link": "https://medium.com/@hanikhaled876/how-i-found-hardcoded-secrets-in-facebooks-react-repository-ed71a56dfba4",
+      "pubDate": "Sat, 08 Aug 2026 03:24:30 +0000",
+      "date": "Sat, 08 Aug 2026 03:24:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://medium.com/@hanikhaled876/how-i-found-hardcoded-secrets-in-facebooks-react-repository-ed71a56dfba4\nComments URL: https://news.ycombinator.com/item?id=49218638\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49218638"
+    },
+    {
+      "title": "Show HN: Buddy – An iOS browser with an AI agent inside",
+      "link": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+      "pubDate": "Sat, 08 Aug 2026 03:22:23 +0000",
+      "date": "Sat, 08 Aug 2026 03:22:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions.\nWhat we really wanted was for the agent to be right beside us on the browser. Seeing exactly what we see and having the ability to actually carry out the tasks. Some stuff like this exists on desktop but there aren't really any good options for mobile, which is where we do most of our browsing.\nSo we built Buddy",
+      "guid": "https://news.ycombinator.com/item?id=49218628"
+    },
+    {
+      "title": "Show HN: Framewrite – Turn any video into a document you'll use",
+      "link": "https://framewrite.cc/",
+      "pubDate": "Sat, 08 Aug 2026 02:35:05 +0000",
+      "date": "Sat, 08 Aug 2026 02:35:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://framewrite.cc/\nComments URL: https://news.ycombinator.com/item?id=49218437\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49218437"
+    },
+    {
+      "title": "Show HN: I Built a Carbles Game",
+      "link": "https://carbles.app/",
+      "pubDate": "Sat, 08 Aug 2026 02:18:06 +0000",
+      "date": "Sat, 08 Aug 2026 02:18:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Played this game at many a family reunion and wanted to give them a way to keep playing throughout the year, hope you find it as fun as we do!\nComments URL: https://news.ycombinator.com/item?id=49218339\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49218339"
+    },
+    {
+      "title": "Show HN: Zero-token memory retrieval for Pi",
+      "link": "https://github.com/skorotkiewicz/zero-mem",
+      "pubDate": "Sat, 08 Aug 2026 02:17:33 +0000",
+      "date": "Sat, 08 Aug 2026 02:17:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/skorotkiewicz/zero-mem\nComments URL: https://news.ycombinator.com/item?id=49218337\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49218337"
+    },
+    {
+      "title": "Show HN: Salestrics – An open MCP server and CRM for AI-native revenue teams",
+      "link": "https://www.salestrics.com/",
+      "pubDate": "Sat, 08 Aug 2026 01:32:41 +0000",
+      "date": "Sat, 08 Aug 2026 01:32:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, I’m Austin, founder of Salestrics (salestrics.com).\nThe Problem: > Most AI agents today are trapped in chat windows. While models are smart enough to run complex multi-step workflows, giving them production access to business context (CRM, support, billing) usually means managing unsafe local API keys or hacking together fragile point-solution scripts.\nWhat We Built:\nWe built Salestrics to serve as both an all-in-one revenue workspace (CRM, service desk, billing, docs, email) and a produ",
+      "guid": "https://news.ycombinator.com/item?id=49218097"
+    },
+    {
+      "title": "Show HN: Free ad-headline generator that labels the persuasion technique used",
+      "link": "https://adcreator-ai.com/free/headline-generator",
+      "pubDate": "Sat, 08 Aug 2026 00:33:19 +0000",
+      "date": "Sat, 08 Aug 2026 00:33:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://adcreator-ai.com/free/headline-generator\nComments URL: https://news.ycombinator.com/item?id=49217776\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49217776"
+    },
+    {
+      "title": "Show HN: Modern C++ Build Tools for Module Feature",
+      "link": "https://github.com/mcpp-community/mcpp",
+      "pubDate": "Sat, 08 Aug 2026 00:30:52 +0000",
+      "date": "Sat, 08 Aug 2026 00:30:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Anyone like C++'s module features? Feel free to try MCPP and talk with me.\nComments URL: https://news.ycombinator.com/item?id=49217761\nPoints: 6\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49217761"
+    },
+    {
+      "title": "Show HN: Free 2-minute OSHA HazCom self-audit, no signup",
+      "link": "https://sdsentry.0xpi.com/hazcom-self-audit.html",
+      "pubDate": "Sat, 08 Aug 2026 00:30:31 +0000",
+      "date": "Sat, 08 Aug 2026 00:30:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sdsentry.0xpi.com/hazcom-self-audit.html\nComments URL: https://news.ycombinator.com/item?id=49217758\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49217758"
+    },
     {
       "title": "Show HN: Agent Tunnels – coding agents collaborate across companies",
       "link": "https://agenttunnels.com/",
@@ -70,61 +224,6 @@
       "guid": "https://news.ycombinator.com/item?id=49217075"
     },
     {
-      "title": "Show HN: CrossPlay - Games, puzzles and tools for your e-reader",
-      "link": "https://crossplay.ma-r-s.com",
-      "pubDate": "Fri, 07 Aug 2026 22:36:52 +0000",
-      "date": "Fri, 07 Aug 2026 22:36:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://crossplay.ma-r-s.com\nComments URL: https://news.ycombinator.com/item?id=49217068\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49217068"
-    },
-    {
-      "title": "Show HN: Jobman – nohup with retries, timeouts, and dependencies",
-      "link": "https://github.com/ryancswallace/jobman",
-      "pubDate": "Fri, 07 Aug 2026 22:31:50 +0000",
-      "date": "Fri, 07 Aug 2026 22:31:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've long used nohup for background processes that I want to run independently of the terminal. These types of jobs are usually long-running, sometimes launched over an SSH connection, and often have dependencies on other jobs.\nI built Jobman to combine the simplicity of nohup with features I previously wrote one-off shell scripts for, including:\n- retries\n- timeouts\n- dependencies between jobs\n- email or webhook notifications on completion or failure\n- separate stdout and stderr logging with a ",
-      "guid": "https://news.ycombinator.com/item?id=49217022"
-    },
-    {
-      "title": "Show HN: Jacobian: Pure maths library and tools for agents",
-      "link": "https://github.com/morluto/jacobian",
-      "pubDate": "Fri, 07 Aug 2026 22:09:25 +0000",
-      "date": "Fri, 07 Aug 2026 22:09:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/morluto/jacobian\nComments URL: https://news.ycombinator.com/item?id=49216820\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216820"
-    },
-    {
-      "title": "Show HN: Have your coding agent fix web UI issues without leaving the browser",
-      "link": "https://github.com/montanaflynn/agent-feedback",
-      "pubDate": "Fri, 07 Aug 2026 21:58:13 +0000",
-      "date": "Fri, 07 Aug 2026 21:58:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/montanaflynn/agent-feedback\nComments URL: https://news.ycombinator.com/item?id=49216713\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216713"
-    },
-    {
-      "title": "Show HN: Audit Any Page. Find SEO Gaps. Improve Rankings",
-      "link": "https://checkpageseo.com/",
-      "pubDate": "Fri, 07 Aug 2026 21:57:24 +0000",
-      "date": "Fri, 07 Aug 2026 21:57:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://checkpageseo.com/\nComments URL: https://news.ycombinator.com/item?id=49216703\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216703"
-    },
-    {
       "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
       "link": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
       "pubDate": "Fri, 07 Aug 2026 21:45:39 GMT",
@@ -134,105 +233,6 @@
       "icon": "📰",
       "contentSnippet": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are not designed for agents to coordinate among themselves mid-task and in real time.\nTo solve this, researchers at Coral AI Labs and multiple universities introduced AgentRadio, an asynchronous message-p",
       "guid": "5L7g4QdH9FdpIEisb0Ghl1"
-    },
-    {
-      "title": "Show HN: SwiftUI/React/Compose keyframe editor",
-      "link": "https://inertiagraphics.com",
-      "pubDate": "Fri, 07 Aug 2026 21:44:01 +0000",
-      "date": "Fri, 07 Aug 2026 21:44:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I'm working on a cross-platform mobile keyframe editor that animates views within your app.\nIt's not a typical Flash style animator. Instead it works on native views that have traditional rendering and accessibility, etc.\nRuns on iOS (SwiftUI), Android (with jetpack compose) and Web (React)\nComments URL: https://news.ycombinator.com/item?id=49216585\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216585"
-    },
-    {
-      "title": "Show HN: Samudra Manthana, an asymmetric strategy board game in the browser",
-      "link": "https://mighty840.itch.io/samudra-manthan",
-      "pubDate": "Fri, 07 Aug 2026 21:37:32 +0000",
-      "date": "Fri, 07 Aug 2026 21:37:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mighty840.itch.io/samudra-manthan\nComments URL: https://news.ycombinator.com/item?id=49216530\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216530"
-    },
-    {
-      "title": "Show HN: Arena for Speech-to-Speech Models",
-      "link": "https://voiceduel.com/",
-      "pubDate": "Fri, 07 Aug 2026 21:27:49 +0000",
-      "date": "Fri, 07 Aug 2026 21:27:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://voiceduel.com/\nComments URL: https://news.ycombinator.com/item?id=49216434\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216434"
-    },
-    {
-      "title": "Show HN: Podiom – Persistent project context, goals and scheduling for AI agents",
-      "link": "https://github.com/Podiom/Podiom",
-      "pubDate": "Fri, 07 Aug 2026 21:24:57 +0000",
-      "date": "Fri, 07 Aug 2026 21:24:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Podiom/Podiom\nComments URL: https://news.ycombinator.com/item?id=49216407\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216407"
-    },
-    {
-      "title": "Show HN: From raw Point Cloud dataset to regular Grid index",
-      "link": "https://huggingface.co/spaces/adec314/point-to-grid",
-      "pubDate": "Fri, 07 Aug 2026 21:14:03 +0000",
-      "date": "Fri, 07 Aug 2026 21:14:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Interactive demo of a simple preprocessing tool for geometric datasets, all open source python package. Squarenet core sorting algorithm (Cartesian sort) allow for greedy but fast multi dimensional reordering of raw point sets, could be usefull in e.g. convolution network or ANN  search context on irregular Lidar data. Any feedback would be very appreciated\nComments URL: https://news.ycombinator.com/item?id=49216302\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49216302"
-    },
-    {
-      "title": "Show HN: Hermes Missions – crash-safe durable execution for AI agents, no deps",
-      "link": "https://news.ycombinator.com/item?id=49216195",
-      "pubDate": "Fri, 07 Aug 2026 21:00:28 +0000",
-      "date": "Fri, 07 Aug 2026 21:00:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49216195\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49216195"
-    },
-    {
-      "title": "Show HN: Secchi – Package intelligence in your terminal",
-      "link": "https://github.com/kannandreams/secchi",
-      "pubDate": "Fri, 07 Aug 2026 20:50:35 +0000",
-      "date": "Fri, 07 Aug 2026 20:50:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/kannandreams/secchi\nComments URL: https://news.ycombinator.com/item?id=49216086\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49216086"
-    },
-    {
-      "title": "Show HN: Tape Music Hub, local music library manager with a P2P phone companion",
-      "link": "https://tape-music-hub.gordo.design/",
-      "pubDate": "Fri, 07 Aug 2026 20:34:58 +0000",
-      "date": "Fri, 07 Aug 2026 20:34:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nThis is a personal project I have been building for the last three years. I had the technical and product background, but never quite enough uninterrupted time to take it all the way. AI coding tools finally gave me enough leverage to finish the version I had been carrying around in my head.\nI have spent years accumulating a proper local music library. I DJ from time to time, and I always have music locally that is not distributed on any “public” platform such as Spotify or Apple Music, s",
-      "guid": "https://news.ycombinator.com/item?id=49215902"
-    },
-    {
-      "title": "Show HN: Public Web Change Intelligence",
-      "link": "https://app.monity.ai",
-      "pubDate": "Fri, 07 Aug 2026 20:16:12 +0000",
-      "date": "Fri, 07 Aug 2026 20:16:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Suggest a webpage we should monitor daily\nComments URL: https://news.ycombinator.com/item?id=49215685\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49215685"
     },
     {
       "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
