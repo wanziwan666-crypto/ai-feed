@@ -1,51 +1,249 @@
 {
-  "generatedAt": "2026-08-07T18:41:36.715Z",
+  "generatedAt": "2026-08-08T00:58:26.799Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 27,
   "items": [
     {
-      "title": "Show HN: Taomus – The Atlas of Music",
-      "link": "https://taomus.com/",
-      "pubDate": "Fri, 07 Aug 2026 17:40:03 +0000",
-      "date": "Fri, 07 Aug 2026 17:40:03 +0000",
+      "title": "Show HN: Agent Tunnels – coding agents collaborate across companies",
+      "link": "https://agenttunnels.com/",
+      "pubDate": "Fri, 07 Aug 2026 22:58:11 +0000",
+      "date": "Fri, 07 Aug 2026 22:58:11 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://taomus.com/\nComments URL: https://news.ycombinator.com/item?id=49213802\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49213802"
+      "contentSnippet": "Hi HN, I built www.agenttunnels.com, which gives agents a way to collaborate across companies.\nDemo: https://www.loom.com/share/68a4307b4c534e649f93cc4c16a19ee6\nWhere the idea came from:\nI was at a friend’s office who has an SDK as a product.\nEvery customer gets added to their own Slack channel for integration help, which has become:\nCustomer’s agent gets stuck → human pastes issue into Slack → vendor pastes issue into their agent → reply goes back → customer pastes reply back to their agent.\nTw",
+      "guid": "https://news.ycombinator.com/item?id=49217232"
     },
     {
-      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-      "link": "https://pub.doub.ly/",
-      "pubDate": "Fri, 07 Aug 2026 17:35:10 +0000",
-      "date": "Fri, 07 Aug 2026 17:35:10 +0000",
+      "title": "Show HN: Tocic – Chatbot table of content browser extension",
+      "link": "https://addons.mozilla.org/en-US/firefox/addon/tocic-chatbot-table-of-content/",
+      "pubDate": "Fri, 07 Aug 2026 22:54:10 +0000",
+      "date": "Fri, 07 Aug 2026 22:54:10 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://pub.doub.ly/\nComments URL: https://news.ycombinator.com/item?id=49213738\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49213738"
+      "contentSnippet": "When using chatbots, I often lose track of which question the response I’m reading is answering. It is even more confusing when scroll up and down looking for a previous answer to a particular query. In a wall of text, I have no way to tell. So I made this simple browser extension to give me a simple table of content.\nIt works on chatgpt.com, claude.ai, grok.com and gemini.google.com. I use the firefox version daily. Not tested on chrome\nSource code at https://github.com/kmcheung12/tocic\nComment",
+      "guid": "https://news.ycombinator.com/item?id=49217206"
     },
     {
-      "title": "Show HN: DayOtter – open-source, self-hostable scheduling assistant you talk to",
-      "link": "https://github.com/Dayotter/dayotter",
-      "pubDate": "Fri, 07 Aug 2026 17:33:42 +0000",
-      "date": "Fri, 07 Aug 2026 17:33:42 +0000",
+      "title": "Show HN: Dirblock+envblock – tiny whitelist guards for dirs and env secrets",
+      "link": "https://github.com/roku-oss/dirblock",
+      "pubDate": "Fri, 07 Aug 2026 22:43:58 +0000",
+      "date": "Fri, 07 Aug 2026 22:43:58 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Dayotter/dayotter\nComments URL: https://news.ycombinator.com/item?id=49213723\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49213723"
+      "contentSnippet": "After I missed getting hit by the LiteLLM attack by 30 minutes, I decided to see what I could do about it and wrote dirblock. It uses fanotify to block access to ~/.ssh, ~/.gpg, etc. with whitelists of trusted programs — everything else is denied.\nShortly after, I wrote its spiritual cousin, envblock, which uses eBPF to stop untrusted programs from receiving real values of GH_TOKEN, AWS keys, and similar environment variables (it poisons them instead).\nI’ve been running both on my own machines f",
+      "guid": "https://news.ycombinator.com/item?id=49217129"
     },
     {
-      "title": "Show HN: FLUX.3 Video 1k generation test (180 mins of footage)",
-      "link": "https://www.martini.film/p/35b02ee5-2488-4dc6-a9d9-c403211cfede/flux-3-15ryn2n",
-      "pubDate": "Fri, 07 Aug 2026 17:32:57 +0000",
-      "date": "Fri, 07 Aug 2026 17:32:57 +0000",
+      "title": "Show HN: More Branchless Optimization",
+      "link": "https://sites.google.com/view/david-kooi/blog/branchless_in_c",
+      "pubDate": "Fri, 07 Aug 2026 22:43:52 +0000",
+      "date": "Fri, 07 Aug 2026 22:43:52 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I've always been a fan of Black Forest Labs' FLUX image models. Specifically how \"un-AI\" their look is. (One might even describe it the opposite of Midjourney which feels like it excels at a surreal look.)\nSeedance 2.5 is likely taking the spotlight today but I wanted to do a deep dive into FLUX.3 so it can get some attention.\nMy general observation is that FLUX.3 video is the most \"clay-like\" video model I've played with.\nSpecifically:\n- Adding and rerunning video prompts feels additive/subtrac",
-      "guid": "https://news.ycombinator.com/item?id=49213712"
+      "contentSnippet": "I thought the recent post about branchless optimization in Rust was pretty cool.\nThis morning I came across a HN post about someone's hand rolled word counter in C. I realized it was a great candidate to remove branches from the inner loop.\nIt gets more than a 2x speed up when branches are removed. Fun little experiment.\nComments URL: https://news.ycombinator.com/item?id=49217128\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49217128"
+    },
+    {
+      "title": "Show HN: Turnfeed – a social feed inside ChatGPT",
+      "link": "https://chatgpt.com/plugins/plugin_asdk_app_69f121f489748191a86a5a4f1dbe27b2?q=turnf",
+      "pubDate": "Fri, 07 Aug 2026 22:39:02 +0000",
+      "date": "Fri, 07 Aug 2026 22:39:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chatgpt.com/plugins/plugin_asdk_app_69f121f489748191a86a5a4f1dbe27b2?q=turnf\nComments URL: https://news.ycombinator.com/item?id=49217092\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49217092"
+    },
+    {
+      "title": "Show HN: Emacs Liquid Glass",
+      "link": "https://github.com/larrasket/emacs-liquid-glass",
+      "pubDate": "Fri, 07 Aug 2026 22:37:46 +0000",
+      "date": "Fri, 07 Aug 2026 22:37:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/larrasket/emacs-liquid-glass\nComments URL: https://news.ycombinator.com/item?id=49217075\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49217075"
+    },
+    {
+      "title": "Show HN: CrossPlay - Games, puzzles and tools for your e-reader",
+      "link": "https://crossplay.ma-r-s.com",
+      "pubDate": "Fri, 07 Aug 2026 22:36:52 +0000",
+      "date": "Fri, 07 Aug 2026 22:36:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://crossplay.ma-r-s.com\nComments URL: https://news.ycombinator.com/item?id=49217068\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49217068"
+    },
+    {
+      "title": "Show HN: Jobman – nohup with retries, timeouts, and dependencies",
+      "link": "https://github.com/ryancswallace/jobman",
+      "pubDate": "Fri, 07 Aug 2026 22:31:50 +0000",
+      "date": "Fri, 07 Aug 2026 22:31:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've long used nohup for background processes that I want to run independently of the terminal. These types of jobs are usually long-running, sometimes launched over an SSH connection, and often have dependencies on other jobs.\nI built Jobman to combine the simplicity of nohup with features I previously wrote one-off shell scripts for, including:\n- retries\n- timeouts\n- dependencies between jobs\n- email or webhook notifications on completion or failure\n- separate stdout and stderr logging with a ",
+      "guid": "https://news.ycombinator.com/item?id=49217022"
+    },
+    {
+      "title": "Show HN: Jacobian: Pure maths library and tools for agents",
+      "link": "https://github.com/morluto/jacobian",
+      "pubDate": "Fri, 07 Aug 2026 22:09:25 +0000",
+      "date": "Fri, 07 Aug 2026 22:09:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/morluto/jacobian\nComments URL: https://news.ycombinator.com/item?id=49216820\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216820"
+    },
+    {
+      "title": "Show HN: Have your coding agent fix web UI issues without leaving the browser",
+      "link": "https://github.com/montanaflynn/agent-feedback",
+      "pubDate": "Fri, 07 Aug 2026 21:58:13 +0000",
+      "date": "Fri, 07 Aug 2026 21:58:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/montanaflynn/agent-feedback\nComments URL: https://news.ycombinator.com/item?id=49216713\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216713"
+    },
+    {
+      "title": "Show HN: Audit Any Page. Find SEO Gaps. Improve Rankings",
+      "link": "https://checkpageseo.com/",
+      "pubDate": "Fri, 07 Aug 2026 21:57:24 +0000",
+      "date": "Fri, 07 Aug 2026 21:57:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://checkpageseo.com/\nComments URL: https://news.ycombinator.com/item?id=49216703\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216703"
+    },
+    {
+      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
+      "link": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "pubDate": "Fri, 07 Aug 2026 21:45:39 GMT",
+      "date": "Fri, 07 Aug 2026 21:45:39 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "As enterprise codebases grow, AI agents tasked with analyzing them are buckling under the weight of long-horizon tasks that require multiple interactions and tool calls. Dividing the work among a team of agents seems like the obvious fix, but it introduces a fatal flaw: most multi-agent systems are not designed for agents to coordinate among themselves mid-task and in real time.\nTo solve this, researchers at Coral AI Labs and multiple universities introduced AgentRadio, an asynchronous message-p",
+      "guid": "5L7g4QdH9FdpIEisb0Ghl1"
+    },
+    {
+      "title": "Show HN: SwiftUI/React/Compose keyframe editor",
+      "link": "https://inertiagraphics.com",
+      "pubDate": "Fri, 07 Aug 2026 21:44:01 +0000",
+      "date": "Fri, 07 Aug 2026 21:44:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm working on a cross-platform mobile keyframe editor that animates views within your app.\nIt's not a typical Flash style animator. Instead it works on native views that have traditional rendering and accessibility, etc.\nRuns on iOS (SwiftUI), Android (with jetpack compose) and Web (React)\nComments URL: https://news.ycombinator.com/item?id=49216585\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216585"
+    },
+    {
+      "title": "Show HN: Samudra Manthana, an asymmetric strategy board game in the browser",
+      "link": "https://mighty840.itch.io/samudra-manthan",
+      "pubDate": "Fri, 07 Aug 2026 21:37:32 +0000",
+      "date": "Fri, 07 Aug 2026 21:37:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mighty840.itch.io/samudra-manthan\nComments URL: https://news.ycombinator.com/item?id=49216530\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216530"
+    },
+    {
+      "title": "Show HN: Arena for Speech-to-Speech Models",
+      "link": "https://voiceduel.com/",
+      "pubDate": "Fri, 07 Aug 2026 21:27:49 +0000",
+      "date": "Fri, 07 Aug 2026 21:27:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://voiceduel.com/\nComments URL: https://news.ycombinator.com/item?id=49216434\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216434"
+    },
+    {
+      "title": "Show HN: Podiom – Persistent project context, goals and scheduling for AI agents",
+      "link": "https://github.com/Podiom/Podiom",
+      "pubDate": "Fri, 07 Aug 2026 21:24:57 +0000",
+      "date": "Fri, 07 Aug 2026 21:24:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Podiom/Podiom\nComments URL: https://news.ycombinator.com/item?id=49216407\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216407"
+    },
+    {
+      "title": "Show HN: From raw Point Cloud dataset to regular Grid index",
+      "link": "https://huggingface.co/spaces/adec314/point-to-grid",
+      "pubDate": "Fri, 07 Aug 2026 21:14:03 +0000",
+      "date": "Fri, 07 Aug 2026 21:14:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Interactive demo of a simple preprocessing tool for geometric datasets, all open source python package. Squarenet core sorting algorithm (Cartesian sort) allow for greedy but fast multi dimensional reordering of raw point sets, could be usefull in e.g. convolution network or ANN  search context on irregular Lidar data. Any feedback would be very appreciated\nComments URL: https://news.ycombinator.com/item?id=49216302\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49216302"
+    },
+    {
+      "title": "Show HN: Hermes Missions – crash-safe durable execution for AI agents, no deps",
+      "link": "https://news.ycombinator.com/item?id=49216195",
+      "pubDate": "Fri, 07 Aug 2026 21:00:28 +0000",
+      "date": "Fri, 07 Aug 2026 21:00:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49216195\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49216195"
+    },
+    {
+      "title": "Show HN: Secchi – Package intelligence in your terminal",
+      "link": "https://github.com/kannandreams/secchi",
+      "pubDate": "Fri, 07 Aug 2026 20:50:35 +0000",
+      "date": "Fri, 07 Aug 2026 20:50:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kannandreams/secchi\nComments URL: https://news.ycombinator.com/item?id=49216086\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49216086"
+    },
+    {
+      "title": "Show HN: Tape Music Hub, local music library manager with a P2P phone companion",
+      "link": "https://tape-music-hub.gordo.design/",
+      "pubDate": "Fri, 07 Aug 2026 20:34:58 +0000",
+      "date": "Fri, 07 Aug 2026 20:34:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nThis is a personal project I have been building for the last three years. I had the technical and product background, but never quite enough uninterrupted time to take it all the way. AI coding tools finally gave me enough leverage to finish the version I had been carrying around in my head.\nI have spent years accumulating a proper local music library. I DJ from time to time, and I always have music locally that is not distributed on any “public” platform such as Spotify or Apple Music, s",
+      "guid": "https://news.ycombinator.com/item?id=49215902"
+    },
+    {
+      "title": "Show HN: Public Web Change Intelligence",
+      "link": "https://app.monity.ai",
+      "pubDate": "Fri, 07 Aug 2026 20:16:12 +0000",
+      "date": "Fri, 07 Aug 2026 20:16:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Suggest a webpage we should monitor daily\nComments URL: https://news.ycombinator.com/item?id=49215685\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49215685"
+    },
+    {
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+      "pubDate": "2026-08-07T19:18:09.000Z",
+      "date": "2026-08-07T19:18:09.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything"
     },
     {
       "title": "2026.32: Earnings and Learnings",
@@ -59,28 +257,6 @@
       "guid": "https://stratechery.com/?p=19643"
     },
     {
-      "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
-      "link": "https://mergeoa.com",
-      "pubDate": "Fri, 07 Aug 2026 17:20:53 +0000",
-      "date": "Fri, 07 Aug 2026 17:20:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We’re 5 founders who’ve collectively done over 250 interviews - everywhere from startups to Big Tech to quant shops. Most of the interviews we’ve done were Leetcode based or tested skills that weren’t used on the job.\nThese days, with AI, assessments still continue to test code output. Meanwhile, at each of our companies, though, PR counts have nearly tripled. Most of us haven’t manually edited a line of code in a year.\nOur teams are putting more and more emphasis on code and architecture review",
-      "guid": "https://news.ycombinator.com/item?id=49213554"
-    },
-    {
-      "title": "Show HN: 514 - Managed infra, agents and data to simulate coding agents as users",
-      "link": "https://docs.514.ax/0.5.0-rp/getting-started",
-      "pubDate": "Fri, 07 Aug 2026 17:07:35 +0000",
-      "date": "Fri, 07 Aug 2026 17:07:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://docs.514.ax/0.5.0-rp/getting-started\nComments URL: https://news.ycombinator.com/item?id=49213400\nPoints: 6\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49213400"
-    },
-    {
       "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
       "link": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
       "pubDate": "Fri, 07 Aug 2026 17:05:52 GMT",
@@ -90,39 +266,6 @@
       "icon": "📰",
       "contentSnippet": "For developers, the operating assumption has been one engineer, one agent — the model Claude Code and similar tools. At VB Transform 2026, James Zou, associate professor of biomedical data science at Stanford University, argued that assumption is about to break: the next frontier isn't a single, more capable agent, it's tens of thousands of them collaborating.\nFor developers and product builders, the most critical takeaway from Zou’s presentation is how these massive systems are orchestrated. Hi",
       "guid": "5Wy2ki1M0vRPmgWeY78MsQ"
-    },
-    {
-      "title": "Show HN: Mousecrack – Teaching an LSTM to move a mouse like a human",
-      "link": "https://github.com/puffinsoft/mousecrack",
-      "pubDate": "Fri, 07 Aug 2026 16:53:51 +0000",
-      "date": "Fri, 07 Aug 2026 16:53:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/puffinsoft/mousecrack\nComments URL: https://news.ycombinator.com/item?id=49213221\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49213221"
-    },
-    {
-      "title": "Show HN: Remove LinkedIn reaction-promoted posts using uBlock",
-      "link": "https://news.ycombinator.com/item?id=49213110",
-      "pubDate": "Fri, 07 Aug 2026 16:45:12 +0000",
-      "date": "Fri, 07 Aug 2026 16:45:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "If you're like me, and 99% of your LinkedIn feed is just \"likes this\" or \"celebrates this\" repost spam from LinkedIn to make it \"appear\" like their feed is an actual feed, add this to your uBlock filters:\nlinkedin.com##div:has(> h2):has-text(/likes this/i)\nlinkedin.com##div:has(> h2):has-text(/celebrates this/i)\nlinkedin.com##div:has(> h2):has-text(/supports this/i)\nlinkedin.com##div:has(> h2):has-text(/loves this/i)\nlinkedin.com##div:has(> h2):has-text(/finds this insightful/i)\nlinkedin.com##di",
-      "guid": "https://news.ycombinator.com/item?id=49213110"
-    },
-    {
-      "title": "Show HN: Squaredle 2 – browser-local word-grid practice and solver",
-      "link": "https://squaredle2.org/",
-      "pubDate": "Fri, 07 Aug 2026 16:35:25 +0000",
-      "date": "Fri, 07 Aug 2026 16:35:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://squaredle2.org/\nComments URL: https://news.ycombinator.com/item?id=49212976\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212976"
     },
     {
       "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
@@ -136,127 +279,6 @@
       "guid": "3TaoMYWzJtrehAqIbBsY1y"
     },
     {
-      "title": "Show HN: Hirenewtalent.ai – Hire offshore in minutes via API",
-      "link": "https://hirenewtalent.ai/",
-      "pubDate": "Fri, 07 Aug 2026 16:28:39 +0000",
-      "date": "Fri, 07 Aug 2026 16:28:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "hi everyone. My name is Jai.\nI own one of the largest driving schools in the Bay Area (and California!), and while trying to hire offshore staff, I discovered just how hard it is.\nIT'S (surprisingly) WAY TOO HARD!!\nMy best friend Alex and I realized that throughout our careers in F500 companies, startups of every stage, and small businesses that we ran into this problem many times over.\nYou pretty much have 3 choices:\n1) you go to an agency and pay upwards of $3k+ a month for a resource that sho",
-      "guid": "https://news.ycombinator.com/item?id=49212866"
-    },
-    {
-      "title": "Show HN: ADE syncs all your coding agents between web, mobile, and CLI",
-      "link": "https://www.ade-app.dev",
-      "pubDate": "Fri, 07 Aug 2026 16:26:03 +0000",
-      "date": "Fri, 07 Aug 2026 16:26:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Use any coding subscription you already pay for, in one synced app that runs on web, desktop, terminal, and mobile. All your chats stay synced between all ade surfaces. Run agents from your laptop, continue the conversation from your phone at dinner, then later finish it off from another computer by simply using the web client. All subs, all in one place. Fully free and open source!\nComments URL: https://news.ycombinator.com/item?id=49212837\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212837"
-    },
-    {
-      "title": "Show HN: Agent Monitor – Monitor Your Coding Agent Live",
-      "link": "https://agent-monitor.ai/",
-      "pubDate": "Fri, 07 Aug 2026 16:15:15 +0000",
-      "date": "Fri, 07 Aug 2026 16:15:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://agent-monitor.ai/\nComments URL: https://news.ycombinator.com/item?id=49212706\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212706"
-    },
-    {
-      "title": "Show HN: Infinite scrolling comes to Hazumi for Hacker News",
-      "link": "https://apps.apple.com/us/app/hazumi-for-hacker-news/id1670237209",
-      "pubDate": "Fri, 07 Aug 2026 16:11:34 +0000",
-      "date": "Fri, 07 Aug 2026 16:11:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/hazumi-for-hacker-news/id1670237209\nComments URL: https://news.ycombinator.com/item?id=49212643\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212643"
-    },
-    {
-      "title": "Show HN: MCP-debug-proxy – A visual reverse proxy for MCP and OAuth traffic",
-      "link": "https://github.com/ytkoka/mcp-debug-proxy",
-      "pubDate": "Fri, 07 Aug 2026 16:09:13 +0000",
-      "date": "Fri, 07 Aug 2026 16:09:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ytkoka/mcp-debug-proxy\nComments URL: https://news.ycombinator.com/item?id=49212609\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212609"
-    },
-    {
-      "title": "Show HN: Back end Engineer – Visual guides for system design and cloud infra",
-      "link": "https://www.backendengineer.in",
-      "pubDate": "Fri, 07 Aug 2026 16:00:57 +0000",
-      "date": "Fri, 07 Aug 2026 16:00:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.backendengineer.in\nComments URL: https://news.ycombinator.com/item?id=49212471\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212471"
-    },
-    {
-      "title": "Show HN: A model router should also provide a MCP gateway",
-      "link": "https://github.com/maximhq/bifrost/",
-      "pubDate": "Fri, 07 Aug 2026 15:54:14 +0000",
-      "date": "Fri, 07 Aug 2026 15:54:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "So, I was recently exploring different options for model routing based on task complexity, and realized that it’s absolutely essential that the model router provides an unified MCP gateway as well.\nBecause it’s as painful as connecting your separate providers to a service. For example, you are using OpenCode and Hermes, and as provider, you have got Groq, OpenRouter and Anthropic, and also a couple of MCPs. So, the hassle comes from connecting all your MCPs and LLM providers to both OpenCode and",
-      "guid": "https://news.ycombinator.com/item?id=49212357"
-    },
-    {
-      "title": "Show HN: Mermaid flowcharts you don't have to redraw in a diagram editor",
-      "link": "https://line9.ai/diagram",
-      "pubDate": "Fri, 07 Aug 2026 15:50:01 +0000",
-      "date": "Fri, 07 Aug 2026 15:50:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've made a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of diagrams.\nSeveral Mermaid rendering engines already exist. Most, like the original mermaid.js, use Dagre or ELK graph drawing libraries to automatically lay out their diagrams. I’ve used Mermaid for the past four years but often recreated my flowcharts in a diagram editor so that I could modify the ",
-      "guid": "https://news.ycombinator.com/item?id=49212297"
-    },
-    {
-      "title": "Show HN: Vaultak – Security for AI agents (built before the breaches started)",
-      "link": "https://vaultak.com",
-      "pubDate": "Fri, 07 Aug 2026 15:41:27 +0000",
-      "date": "Fri, 07 Aug 2026 15:41:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://vaultak.com\nComments URL: https://news.ycombinator.com/item?id=49212175\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212175"
-    },
-    {
-      "title": "Show HN: We Built MicroLeague Sports Vol. 3",
-      "link": "https://medium.com/@esolar_18069/why-we-built-microleague-sports-vol-3-f3d7cedfed9d",
-      "pubDate": "Fri, 07 Aug 2026 15:36:53 +0000",
-      "date": "Fri, 07 Aug 2026 15:36:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://medium.com/@esolar_18069/why-we-built-microleague-sports-vol-3-f3d7cedfed9d\nComments URL: https://news.ycombinator.com/item?id=49212106\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212106"
-    },
-    {
-      "title": "Show HN: A workflow for building community skill catalogs",
-      "link": "https://github.com/thinkingoracle/luke-skills",
-      "pubDate": "Fri, 07 Aug 2026 15:33:30 +0000",
-      "date": "Fri, 07 Aug 2026 15:33:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/thinkingoracle/luke-skills\nComments URL: https://news.ycombinator.com/item?id=49212046\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49212046"
-    },
-    {
       "title": "Weekly Dose of Optimism #205",
       "link": "https://www.notboring.co/p/weekly-dose-of-optimism-205",
       "pubDate": "Fri, 07 Aug 2026 12:50:11 GMT",
@@ -268,15 +290,15 @@
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-205"
     },
     {
-      "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
-      "link": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
-      "pubDate": "Thu, 06 Aug 2026 22:56:06 GMT",
-      "date": "Thu, 06 Aug 2026 22:56:06 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Earlier this week, the AI startup Liquid, formed in 2023 by former MIT computer scientists, debuted LFM2.5-2.6B, a new open-weight language model designed specifically for agentic workloads. \nIn release materials and a recent interview with VentureBeat, Liquid's researchers said LFM2.5-2.6B can run entirely on local hardware — from smartphones and laptops down to a Raspberry Pi — without relying on cloud inference or GPUs, unlocking edge AI applications and giving more options to enterprises wor",
-      "guid": "6HJU1XYFB5yhGbH7LSWLDr"
+      "title": "Free BBC Resources for Your Classroom: Dinosaurs, Bluey, Planet Earth and News",
+      "link": "https://www.coolcatteacher.com/e964/",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0000",
+      "date": "Fri, 07 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nFree BBC classroom resources you can use tomorrow — ad-free videos, leveled reading articles, Bluey SEL lessons, a Walking with Dinosaurs field trip, and a daily news bite for media literacy. Kimmie Fink of the BBC Learning Hub shows teachers where to start. All of it free.\nThe post Free BBC Resources for Your Classroom: Dinosaurs, Bluey, Planet Eart",
+      "guid": "https://www.coolcatteacher.com/?p=35102"
     }
   ]
 }
