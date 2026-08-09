@@ -1,8 +1,129 @@
 {
-  "generatedAt": "2026-08-09T01:02:11.555Z",
+  "generatedAt": "2026-08-09T06:39:57.889Z",
   "lookbackHours": 24,
   "totalItems": 21,
   "items": [
+    {
+      "title": "Show HN: AppPage – Fix Instagram blocking App Store links in your bio",
+      "link": "https://apppage.co/",
+      "pubDate": "Sun, 09 Aug 2026 05:55:32 +0000",
+      "date": "Sun, 09 Aug 2026 05:55:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apppage.co/\nComments URL: https://news.ycombinator.com/item?id=49228791\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49228791"
+    },
+    {
+      "title": "Show HN: VidServe – Turn any local video folder into a LAN streaming site",
+      "link": "https://guokai.dev/vidserve/",
+      "pubDate": "Sun, 09 Aug 2026 05:34:30 +0000",
+      "date": "Sun, 09 Aug 2026 05:34:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://guokai.dev/vidserve/\nComments URL: https://news.ycombinator.com/item?id=49228712\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49228712"
+    },
+    {
+      "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
+      "link": "https://github.com/PJHkorea/photonic-mesh-fng-router",
+      "pubDate": "Sun, 09 Aug 2026 05:22:44 +0000",
+      "date": "Sun, 09 Aug 2026 05:22:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/PJHkorea/photonic-mesh-fng-router\nComments URL: https://news.ycombinator.com/item?id=49228660\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49228660"
+    },
+    {
+      "title": "Show HN: Open-source, searchable HTML workspace for Claude Code",
+      "link": "https://anona-labs.github.io/mirror/",
+      "pubDate": "Sun, 09 Aug 2026 04:10:50 +0000",
+      "date": "Sun, 09 Aug 2026 04:10:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://anona-labs.github.io/mirror/\nComments URL: https://news.ycombinator.com/item?id=49228375\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49228375"
+    },
+    {
+      "title": "Show HN: Sqnc.run – a live cipher stream inspired by number stations",
+      "link": "https://sqnc.run/",
+      "pubDate": "Sun, 09 Aug 2026 04:03:58 +0000",
+      "date": "Sun, 09 Aug 2026 04:03:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built a tool to broadcast cipher sequences over a shared public stream. anyone can transmit.\nthe output is visible to everyone, but understanding it is another matter, only those who know what they're watching will be able to make sense of it. inspired by number stations.\nComments URL: https://news.ycombinator.com/item?id=49228349\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49228349"
+    },
+    {
+      "title": "Show HN: CIRadar – Self-hosted CI failure diagnosis",
+      "link": "https://github.com/Bluezly/CIRadar",
+      "pubDate": "Sun, 09 Aug 2026 03:44:15 +0000",
+      "date": "Sun, 09 Aug 2026 03:44:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Bluezly/CIRadar\nComments URL: https://news.ycombinator.com/item?id=49228250\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49228250"
+    },
+    {
+      "title": "Show HN: Qwen3.8-Max – Use Qwen Studio and MCP to Code Locally for Free",
+      "link": "https://github.com/tohid4n/qwen3.8-max-local-coding",
+      "pubDate": "Sun, 09 Aug 2026 03:27:44 +0000",
+      "date": "Sun, 09 Aug 2026 03:27:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Qwen3.8-Max + MCP for coding on your local machine, without paying for Qwen Code. Qwen3.8-Max itself runs in the cloud through Qwen Studio — this setup just gives it access to your local files and terminal through MCP.\nMy take: it is slower than Codex and Claude Code, especially in thinking mode, but it does work well. MCP adds some latency too since there’s an extra layer between the model and your machine. In fast mode, it gets noticeably closer.\nI wouldn’t put it in the same category as Fable",
+      "guid": "https://news.ycombinator.com/item?id=49228173"
+    },
+    {
+      "title": "Show HN: Pomona, offline small AI reasoners for agricultural sensors",
+      "link": "https://github.com/okyanu/pomona",
+      "pubDate": "Sun, 09 Aug 2026 03:11:07 +0000",
+      "date": "Sun, 09 Aug 2026 03:11:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/okyanu/pomona\nComments URL: https://news.ycombinator.com/item?id=49228078\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49228078"
+    },
+    {
+      "title": "Show HN: Proxy-or-Not, Proxy Detector",
+      "link": "https://arcades.click/proxy-or-not",
+      "pubDate": "Sun, 09 Aug 2026 02:47:33 +0000",
+      "date": "Sun, 09 Aug 2026 02:47:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "My humble attempt to detect residential proxies while limiting false positives on things like CGNAT.\nSo far, its pretty successful detecting SOAX, BrightData, and a custom proxy app I built for my phone - but I have a pretty limited sample size.\nGive it a spin!\n* https://github.com/JWally/sofa-king-bad-box\n* https://github.com/JWally/sofa-king-bad-box-android\nComments URL: https://news.ycombinator.com/item?id=49227962\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49227962"
+    },
+    {
+      "title": "Show HN: OpsCart – Read-only Kubernetes triage with incident history",
+      "link": "https://github.com/opscart/opscart-k8s-watcher",
+      "pubDate": "Sun, 09 Aug 2026 02:24:57 +0000",
+      "date": "Sun, 09 Aug 2026 02:24:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/opscart/opscart-k8s-watcher\nComments URL: https://news.ycombinator.com/item?id=49227829\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49227829"
+    },
+    {
+      "title": "Show HN: Aidress – LangChain integration for cross-agent discovery and trust",
+      "link": "https://docs.langchain.com/oss/python/integrations/tools",
+      "pubDate": "Sun, 09 Aug 2026 01:27:09 +0000",
+      "date": "Sun, 09 Aug 2026 01:27:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://docs.langchain.com/oss/python/integrations/tools\nComments URL: https://news.ycombinator.com/item?id=49227511\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49227511"
+    },
     {
       "title": "Show HN: Tura – Build agent that uses 80% less token and delivers better results",
       "link": "https://github.com/Tura-AI/tura",
@@ -11,7 +132,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Tura-AI/tura\nComments URL: https://news.ycombinator.com/item?id=49227119\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/Tura-AI/tura\nComments URL: https://news.ycombinator.com/item?id=49227119\nPoints: 5\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49227119"
     },
     {
@@ -22,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "There are exactly two audiences that I can think of that might understand the punchlines which I am rather proud of one is in Las Vegas and the other is right here, which I can reach from my home in Texas. So please check it out.\nhttps://killsignal.net/El_User/dj_defrag_and_uid_zero-el_use...\nIf there is any interest, I can say more. Enjoy!\nComments URL: https://news.ycombinator.com/item?id=49226838\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "There are exactly two audiences that I can think of that might understand the punchlines which I am rather proud of one is in Las Vegas and the other is right here, which I can reach from my home in Texas. So please check it out.\nhttps://killsignal.net/El_User/dj_defrag_and_uid_zero-el_use...\nIf there is any interest, I can say more. Enjoy!\nComments URL: https://news.ycombinator.com/item?id=49226838\nPoints: 4\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49226838"
     },
     {
@@ -33,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/faaah\nComments URL: https://news.ycombinator.com/item?id=49226789\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/faaah\nComments URL: https://news.ycombinator.com/item?id=49226789\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49226789"
     },
     {
@@ -44,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ahmedhosssam/vd\nComments URL: https://news.ycombinator.com/item?id=49226707\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/ahmedhosssam/vd\nComments URL: https://news.ycombinator.com/item?id=49226707\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49226707"
     },
     {
@@ -66,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://photosynthesis.camera\nComments URL: https://news.ycombinator.com/item?id=49226623\nPoints: 2\n# Comments: 1",
+      "contentSnippet": "Article URL: https://photosynthesis.camera\nComments URL: https://news.ycombinator.com/item?id=49226623\nPoints: 5\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49226623"
     },
     {
@@ -88,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tweet.download/\nComments URL: https://news.ycombinator.com/item?id=49226503\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://tweet.download/\nComments URL: https://news.ycombinator.com/item?id=49226503\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49226503"
     },
     {
@@ -99,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/amos-labs/expertcache\nComments URL: https://news.ycombinator.com/item?id=49226502\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/amos-labs/expertcache\nComments URL: https://news.ycombinator.com/item?id=49226502\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49226502"
     },
     {
@@ -110,129 +231,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://inertiagraphics.com/\nComments URL: https://news.ycombinator.com/item?id=49226487\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://inertiagraphics.com/\nComments URL: https://news.ycombinator.com/item?id=49226487\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49226487"
-    },
-    {
-      "title": "Show HN: Find out how ChatGPT describes your brand, then fix it",
-      "link": "https://pallix.in",
-      "pubDate": "Sat, 08 Aug 2026 21:58:33 +0000",
-      "date": "Sat, 08 Aug 2026 21:58:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://pallix.in\nComments URL: https://news.ycombinator.com/item?id=49226289\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49226289"
-    },
-    {
-      "title": "Show HN: Fullscreener // borderless fullscreen for any window (Windows only)",
-      "link": "https://github.com/carlos-menezes/fullscreener",
-      "pubDate": "Sat, 08 Aug 2026 21:31:27 +0000",
-      "date": "Sat, 08 Aug 2026 21:31:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/carlos-menezes/fullscreener\nComments URL: https://news.ycombinator.com/item?id=49226094\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49226094"
-    },
-    {
-      "title": "Show HN: Live beach data for Nova Scotia",
-      "link": "https://whenshouldigotothebeach.ca/",
-      "pubDate": "Sat, 08 Aug 2026 20:47:30 +0000",
-      "date": "Sat, 08 Aug 2026 20:47:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://whenshouldigotothebeach.ca/\nComments URL: https://news.ycombinator.com/item?id=49225758\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225758"
-    },
-    {
-      "title": "Show HN: Per-module tags and releases for Terraform monorepos",
-      "link": "https://github.com/techpivot/terraform-module-releaser",
-      "pubDate": "Sat, 08 Aug 2026 20:35:39 +0000",
-      "date": "Sat, 08 Aug 2026 20:35:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/techpivot/terraform-module-releaser\nComments URL: https://news.ycombinator.com/item?id=49225659\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225659"
-    },
-    {
-      "title": "Show HN: BotsArgue – Google Meet for AI Agents",
-      "link": "https://botsargue.com/",
-      "pubDate": "Sat, 08 Aug 2026 20:26:46 +0000",
-      "date": "Sat, 08 Aug 2026 20:26:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://botsargue.com/\nComments URL: https://news.ycombinator.com/item?id=49225580\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225580"
-    },
-    {
-      "title": "Show HN: Camera Sun – Fixing the iPhone's Camera App",
-      "link": "https://news.ycombinator.com/item?id=49225487",
-      "pubDate": "Sat, 08 Aug 2026 20:17:02 +0000",
-      "date": "Sat, 08 Aug 2026 20:17:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The most annoying issue with taking photos on iPhone Pros, for me, is the shutter. The physical buttons only work if the phone is in the \"right\" orientation.\nThis is especially an issue on manual/pro camera apps. Unlike on DSLRs, you can't use multiple fingers on just one hand easily to take photos at particular settings.\nThis is where the idea for my app came from... How could I adjust exposure/focus/iso and shoot with just my thumb? Ie controlling from my hand position whenever I take horizont",
-      "guid": "https://news.ycombinator.com/item?id=49225487"
-    },
-    {
-      "title": "Show HN: Nocturne, a macOS app that makes the menu bar clock unreadable",
-      "link": "https://github.com/dotcomjack/nocturne",
-      "pubDate": "Sat, 08 Aug 2026 20:06:29 +0000",
-      "date": "Sat, 08 Aug 2026 20:06:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/dotcomjack/nocturne\nComments URL: https://news.ycombinator.com/item?id=49225385\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225385"
-    },
-    {
-      "title": "Show HN: Bun-boss – Bun-native fork of the pg-boss queue package",
-      "link": "https://www.npmjs.com/package/bun-boss",
-      "pubDate": "Sat, 08 Aug 2026 19:57:45 +0000",
-      "date": "Sat, 08 Aug 2026 19:57:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Happy to announce `bun-boss`, a Bun-native fork off the popular pg-boss package for setting up persistent queues, with the following changes:\n* Rewritten SQL adapter (pg => Bun.sql)\n* Support for SQLite\n* Supports Bun 1.3 and 1.4 canary releases\n+ a bunch of internal Bun refactors (such as using the Bun test runner)\nComments URL: https://news.ycombinator.com/item?id=49225315\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225315"
-    },
-    {
-      "title": "Show HN: OutageDeck – one view of 172 provider status feeds",
-      "link": "https://outagedeck.com/stack",
-      "pubDate": "Sat, 08 Aug 2026 19:51:46 +0000",
-      "date": "Sat, 08 Aug 2026 19:51:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://outagedeck.com/stack\nComments URL: https://news.ycombinator.com/item?id=49225253\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225253"
-    },
-    {
-      "title": "Show HN: Dive into Amiga.games",
-      "link": "https://classicreload.com/platform/amiga%20os",
-      "pubDate": "Sat, 08 Aug 2026 19:34:03 +0000",
-      "date": "Sat, 08 Aug 2026 19:34:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://classicreload.com/platform/amiga%20os\nComments URL: https://news.ycombinator.com/item?id=49225105\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225105"
-    },
-    {
-      "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
-      "link": "https://holycode.cloud",
-      "pubDate": "Sat, 08 Aug 2026 19:29:51 +0000",
-      "date": "Sat, 08 Aug 2026 19:29:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://holycode.cloud\nComments URL: https://news.ycombinator.com/item?id=49225061\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49225061"
     }
   ]
 }
