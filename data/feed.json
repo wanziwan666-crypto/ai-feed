@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-08-09T06:39:57.889Z",
+  "generatedAt": "2026-08-09T12:32:01.403Z",
   "lookbackHours": 24,
-  "totalItems": 21,
+  "totalItems": 22,
   "items": [
+    {
+      "title": "Show HN: Inspect any MCP server – latency, token usage, and security scans",
+      "link": "https://github.com/ytkoka/mcp-tester",
+      "pubDate": "Sun, 09 Aug 2026 11:24:40 +0000",
+      "date": "Sun, 09 Aug 2026 11:24:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ytkoka/mcp-tester\nComments URL: https://news.ycombinator.com/item?id=49230447\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49230447"
+    },
+    {
+      "title": "Show HN: Pier – Give every agent session its own cloud VM, on your own infra",
+      "link": "https://pier.kak.dev/",
+      "pubDate": "Sun, 09 Aug 2026 11:14:22 +0000",
+      "date": "Sun, 09 Aug 2026 11:14:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://pier.kak.dev/\nComments URL: https://news.ycombinator.com/item?id=49230392\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49230392"
+    },
+    {
+      "title": "How to Become a Better Principal: Award Winning Principals Speak",
+      "link": "https://www.coolcatteacher.com/becoming/",
+      "pubDate": "Sun, 09 Aug 2026 11:00:00 +0000",
+      "date": "Sun, 09 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nLeadership is not a personality you're born with — it can be learned, and it can be taught. Ronn Nozoe, CEO of the National Principals Association, on what principals really say about AI and why the number one thing they need is time. Then Muriel Summers on rebuilding a Title I school around one idea: everyone in the building is a leader, including t",
+      "guid": "https://www.coolcatteacher.com/?p=35110"
+    },
+    {
+      "title": "Show HN: Argonix – One AI-powered platform for SRE and cloud operations",
+      "link": "https://argonix.io/",
+      "pubDate": "Sun, 09 Aug 2026 10:50:18 +0000",
+      "date": "Sun, 09 Aug 2026 10:50:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi everybody,\nI built https://argonix.io.\nArgonix is an AI-powered platform for SRE, security and cloud operations.\nThe idea is to bring and connect together things that are usually spread across many different tools: monitoring, security, Finops, health checks, workflows and incident investigation.\nA few things you can do with it:\nConnectors: Connect Argonix to your existing stack: Kubernetes, AWS, GCP, Azure, your own MCP servers, etc.\nWorkflows:  Build automation flows using the connectors.\nH",
+      "guid": "https://news.ycombinator.com/item?id=49230251"
+    },
+    {
+      "title": "Show HN: Free QR Code Generator – URL, Text, WiFi and VCard – Free, No Signup",
+      "link": "https://at-use.com/tools/qr-code-generator",
+      "pubDate": "Sun, 09 Aug 2026 10:49:53 +0000",
+      "date": "Sun, 09 Aug 2026 10:49:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://at-use.com/tools/qr-code-generator\nComments URL: https://news.ycombinator.com/item?id=49230247\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49230247"
+    },
+    {
+      "title": "Show HN: Restoredrill proves your Postgres backups restore",
+      "link": "https://github.com/ahmadpiran/restoredrill",
+      "pubDate": "Sun, 09 Aug 2026 10:45:11 +0000",
+      "date": "Sun, 09 Aug 2026 10:45:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ahmadpiran/restoredrill\nComments URL: https://news.ycombinator.com/item?id=49230215\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49230215"
+    },
+    {
+      "title": "Show HN: Greenbatch – a batching dependency update skill",
+      "link": "https://github.com/josipmusa/greenbatch",
+      "pubDate": "Sun, 09 Aug 2026 10:30:01 +0000",
+      "date": "Sun, 09 Aug 2026 10:30:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "At a company I worked at, we had the usual Dependabot setup. We grouped dependencies where it made sense and had it open PRs with updates every week.\nAfter a while though, I started getting a bit annoyed with the workflow around it.\nEven with grouping, we'd sometimes end up with multiple PRs, and every PR would trigger our CI pipeline since we obviously still wanted to make sure the dependency updates didn't break anything.\nOur CD was also set up so that whenever something was merged into the de",
+      "guid": "https://news.ycombinator.com/item?id=49230128"
+    },
+    {
+      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+      "link": "https://airy.so",
+      "pubDate": "Sun, 09 Aug 2026 09:29:32 +0000",
+      "date": "Sun, 09 Aug 2026 09:29:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://airy.so\nComments URL: https://news.ycombinator.com/item?id=49229848\nPoints: 4\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49229848"
+    },
+    {
+      "title": "Show HN: A Minimal Python CLI Implementation of Quick Share for Linux",
+      "link": "https://github.com/adityatelange/quickshare-cli-py",
+      "pubDate": "Sun, 09 Aug 2026 09:27:55 +0000",
+      "date": "Sun, 09 Aug 2026 09:27:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A minimal, dependency-light Python CLI for Google Quick Share (formerly Nearby Share) on Linux: send and receive. Run it on a laptop or desktop with no Bluetooth adapter, and Android phones on the same network can send files to it, or receive files from it, the same way they would with another Android device or a ChromeOS/Windows machine.\nComments URL: https://news.ycombinator.com/item?id=49229840\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49229840"
+    },
+    {
+      "title": "Show HN: Find. Fix. Verify. Zero Guesswork",
+      "link": "https://kinetixseo.com",
+      "pubDate": "Sun, 09 Aug 2026 09:10:39 +0000",
+      "date": "Sun, 09 Aug 2026 09:10:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://kinetixseo.com\nComments URL: https://news.ycombinator.com/item?id=49229739\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49229739"
+    },
+    {
+      "title": "Show HN: Open-source binaural-beats engine",
+      "link": "https://github.com/txus/farfield",
+      "pubDate": "Sun, 09 Aug 2026 08:30:30 +0000",
+      "date": "Sun, 09 Aug 2026 08:30:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/txus/farfield\nComments URL: https://news.ycombinator.com/item?id=49229555\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49229555"
+    },
+    {
+      "title": "Show HN: Sous.bio – your sous chef in the lab",
+      "link": "https://sous.bio/",
+      "pubDate": "Sun, 09 Aug 2026 07:30:11 +0000",
+      "date": "Sun, 09 Aug 2026 07:30:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Recording science is a huge bottleneck. In my previous role at a synbio start-up, there was so much we want to do with result --data driven decisions on experiments, analysis on yield from experimental params,  -- but could not as collecting coherent data was hard. The data schema was hard to design, legacy lab instruments was hard to pipe data through, and there's no immediate value to provide the scientists themselves.\nSous is an AI-enabled platform to accelerate this process and allow scienti",
+      "guid": "https://news.ycombinator.com/item?id=49229230"
+    },
+    {
+      "title": "Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
+      "link": "https://github.com/howieyoung/cli-times",
+      "pubDate": "Sun, 09 Aug 2026 07:25:08 +0000",
+      "date": "Sun, 09 Aug 2026 07:25:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/howieyoung/cli-times\nComments URL: https://news.ycombinator.com/item?id=49229204\nPoints: 2\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49229204"
+    },
+    {
+      "title": "Show HN: Gola – a radial launcher for Windows that opens under your cursor",
+      "link": "https://apps.microsoft.com/detail/9nghfh4j7jmd?hl=en-US&gl=US",
+      "pubDate": "Sun, 09 Aug 2026 06:54:13 +0000",
+      "date": "Sun, 09 Aug 2026 06:54:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.microsoft.com/detail/9nghfh4j7jmd?hl=en-US&gl=US\nComments URL: https://news.ycombinator.com/item?id=49229043\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49229043"
+    },
+    {
+      "title": "Show HN: I ran 1.3M simulations to fix trade AI in my browser Basketball GM",
+      "link": "https://hoops-gm.com/",
+      "pubDate": "Sun, 09 Aug 2026 06:20:14 +0000",
+      "date": "Sun, 09 Aug 2026 06:20:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hoops-gm.com/\nComments URL: https://news.ycombinator.com/item?id=49228898\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49228898"
+    },
     {
       "title": "Show HN: AppPage – Fix Instagram blocking App Store links in your bio",
       "link": "https://apppage.co/",
@@ -11,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apppage.co/\nComments URL: https://news.ycombinator.com/item?id=49228791\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://apppage.co/\nComments URL: https://news.ycombinator.com/item?id=49228791\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49228791"
     },
     {
@@ -70,127 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49228250"
     },
     {
-      "title": "Show HN: Qwen3.8-Max – Use Qwen Studio and MCP to Code Locally for Free",
-      "link": "https://github.com/tohid4n/qwen3.8-max-local-coding",
-      "pubDate": "Sun, 09 Aug 2026 03:27:44 +0000",
-      "date": "Sun, 09 Aug 2026 03:27:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Qwen3.8-Max + MCP for coding on your local machine, without paying for Qwen Code. Qwen3.8-Max itself runs in the cloud through Qwen Studio — this setup just gives it access to your local files and terminal through MCP.\nMy take: it is slower than Codex and Claude Code, especially in thinking mode, but it does work well. MCP adds some latency too since there’s an extra layer between the model and your machine. In fast mode, it gets noticeably closer.\nI wouldn’t put it in the same category as Fable",
-      "guid": "https://news.ycombinator.com/item?id=49228173"
-    },
-    {
-      "title": "Show HN: Pomona, offline small AI reasoners for agricultural sensors",
-      "link": "https://github.com/okyanu/pomona",
-      "pubDate": "Sun, 09 Aug 2026 03:11:07 +0000",
-      "date": "Sun, 09 Aug 2026 03:11:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/okyanu/pomona\nComments URL: https://news.ycombinator.com/item?id=49228078\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49228078"
-    },
-    {
-      "title": "Show HN: Proxy-or-Not, Proxy Detector",
-      "link": "https://arcades.click/proxy-or-not",
-      "pubDate": "Sun, 09 Aug 2026 02:47:33 +0000",
-      "date": "Sun, 09 Aug 2026 02:47:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "My humble attempt to detect residential proxies while limiting false positives on things like CGNAT.\nSo far, its pretty successful detecting SOAX, BrightData, and a custom proxy app I built for my phone - but I have a pretty limited sample size.\nGive it a spin!\n* https://github.com/JWally/sofa-king-bad-box\n* https://github.com/JWally/sofa-king-bad-box-android\nComments URL: https://news.ycombinator.com/item?id=49227962\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49227962"
-    },
-    {
-      "title": "Show HN: OpsCart – Read-only Kubernetes triage with incident history",
-      "link": "https://github.com/opscart/opscart-k8s-watcher",
-      "pubDate": "Sun, 09 Aug 2026 02:24:57 +0000",
-      "date": "Sun, 09 Aug 2026 02:24:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/opscart/opscart-k8s-watcher\nComments URL: https://news.ycombinator.com/item?id=49227829\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49227829"
-    },
-    {
-      "title": "Show HN: Aidress – LangChain integration for cross-agent discovery and trust",
-      "link": "https://docs.langchain.com/oss/python/integrations/tools",
-      "pubDate": "Sun, 09 Aug 2026 01:27:09 +0000",
-      "date": "Sun, 09 Aug 2026 01:27:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://docs.langchain.com/oss/python/integrations/tools\nComments URL: https://news.ycombinator.com/item?id=49227511\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49227511"
-    },
-    {
-      "title": "Show HN: Tura – Build agent that uses 80% less token and delivers better results",
-      "link": "https://github.com/Tura-AI/tura",
-      "pubDate": "Sun, 09 Aug 2026 00:13:12 +0000",
-      "date": "Sun, 09 Aug 2026 00:13:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Tura-AI/tura\nComments URL: https://news.ycombinator.com/item?id=49227119\nPoints: 5\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49227119"
-    },
-    {
-      "title": "Show HN: Defcon and HN, the only two audiences I might find",
-      "link": "https://news.ycombinator.com/item?id=49226838",
-      "pubDate": "Sat, 08 Aug 2026 23:21:33 +0000",
-      "date": "Sat, 08 Aug 2026 23:21:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "There are exactly two audiences that I can think of that might understand the punchlines which I am rather proud of one is in Las Vegas and the other is right here, which I can reach from my home in Texas. So please check it out.\nhttps://killsignal.net/El_User/dj_defrag_and_uid_zero-el_use...\nIf there is any interest, I can say more. Enjoy!\nComments URL: https://news.ycombinator.com/item?id=49226838\nPoints: 4\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49226838"
-    },
-    {
-      "title": "Show HN: Faaah – Filesystem as an AI Handler",
-      "link": "https://github.com/sebastiancarlos/faaah",
-      "pubDate": "Sat, 08 Aug 2026 23:13:46 +0000",
-      "date": "Sat, 08 Aug 2026 23:13:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/faaah\nComments URL: https://news.ycombinator.com/item?id=49226789\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49226789"
-    },
-    {
-      "title": "Show HN: VD – TUI Password Manager and OTP Authenticator for Unix",
-      "link": "https://github.com/ahmedhosssam/vd",
-      "pubDate": "Sat, 08 Aug 2026 22:59:59 +0000",
-      "date": "Sat, 08 Aug 2026 22:59:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ahmedhosssam/vd\nComments URL: https://news.ycombinator.com/item?id=49226707\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49226707"
-    },
-    {
-      "title": "Show HN: Try Benzi – A coding harness/agent beating Claude Code itself on Sonnet",
-      "link": "https://benzi.fly.dev/about",
-      "pubDate": "Sat, 08 Aug 2026 22:47:56 +0000",
-      "date": "Sat, 08 Aug 2026 22:47:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi y'all. Been working on something that should've been made a long time ago imo. It compiles codebases into O(1) hashmaps that the agent queries to discover the structure of your code/answer questions/write code.\nIt also does complete static analysis checks on any writes the agent makes.\nDon't take my word for it though. Here are the benchmarks: https://benzi.fly.dev/benchmark. on 2/20 tests, Claude Code (mostly Sonnet on one task) regressed or timed out. Benzi didn't because of course, it has ",
-      "guid": "https://news.ycombinator.com/item?id=49226627"
-    },
-    {
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "link": "https://photosynthesis.camera",
-      "pubDate": "Sat, 08 Aug 2026 22:47:10 +0000",
-      "date": "Sat, 08 Aug 2026 22:47:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://photosynthesis.camera\nComments URL: https://news.ycombinator.com/item?id=49226623\nPoints: 5\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49226623"
-    },
-    {
       "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
       "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
       "pubDate": "2026-08-08T22:36:03.000Z",
@@ -200,39 +244,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
-    },
-    {
-      "title": "Show HN: Turn tweets into beautiful, shareable photos",
-      "link": "https://tweet.download/",
-      "pubDate": "Sat, 08 Aug 2026 22:28:48 +0000",
-      "date": "Sat, 08 Aug 2026 22:28:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://tweet.download/\nComments URL: https://news.ycombinator.com/item?id=49226503\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49226503"
-    },
-    {
-      "title": "Show HN: ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
-      "link": "https://github.com/amos-labs/expertcache",
-      "pubDate": "Sat, 08 Aug 2026 22:28:33 +0000",
-      "date": "Sat, 08 Aug 2026 22:28:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/amos-labs/expertcache\nComments URL: https://news.ycombinator.com/item?id=49226502\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49226502"
-    },
-    {
-      "title": "Show HN: Inertia – Not your Grandfathers animation editor",
-      "link": "https://inertiagraphics.com/",
-      "pubDate": "Sat, 08 Aug 2026 22:27:11 +0000",
-      "date": "Sat, 08 Aug 2026 22:27:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://inertiagraphics.com/\nComments URL: https://news.ycombinator.com/item?id=49226487\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49226487"
     }
   ]
 }
