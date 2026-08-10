@@ -1,8 +1,140 @@
 {
-  "generatedAt": "2026-08-10T01:03:49.562Z",
+  "generatedAt": "2026-08-10T07:13:29.521Z",
   "lookbackHours": 24,
   "totalItems": 22,
   "items": [
+    {
+      "title": "Show HN: NexusMem – Local context memory engine for AI coding agents",
+      "link": "https://github.com/yaminbakoh4-dot/NexusMem",
+      "pubDate": "Mon, 10 Aug 2026 06:34:23 +0000",
+      "date": "Mon, 10 Aug 2026 06:34:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/yaminbakoh4-dot/NexusMem\nComments URL: https://news.ycombinator.com/item?id=49240020\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49240020"
+    },
+    {
+      "title": "Show HN: Lector, a FOSS self-hosted language reader (with a cloud option)",
+      "link": "https://lector.dev/",
+      "pubDate": "Mon, 10 Aug 2026 06:32:33 +0000",
+      "date": "Mon, 10 Aug 2026 06:32:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I started building this to learn Afrikaans which has sparse support on language learning apps. It was costing me roughly $50 per month to do my preferred learning routine. The LLM chat and journal corrections are excellent learning tools.\nIt has grown to support 12 modern languages with more on the way.\nThere's some excellent apps in this space (Lingq, Readlang) but they don't integrate well with Anki, which is just the best flashcard app one can choose, and they own your data. Self-hosting and ",
+      "guid": "https://news.ycombinator.com/item?id=49239997"
+    },
+    {
+      "title": "Show HN: Teaching agents how to play Factorio (using RLM, GEPA)",
+      "link": "https://github.com/ukituki/dspy-factorio/",
+      "pubDate": "Mon, 10 Aug 2026 05:50:26 +0000",
+      "date": "Mon, 10 Aug 2026 05:50:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ukituki/dspy-factorio/\nComments URL: https://news.ycombinator.com/item?id=49239678\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49239678"
+    },
+    {
+      "title": "Show HN: Memcode AI goes open source with Claude Code inspired coding agent",
+      "link": "https://github.com/memcode-ai/memcode",
+      "pubDate": "Mon, 10 Aug 2026 05:06:05 +0000",
+      "date": "Mon, 10 Aug 2026 05:06:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/memcode-ai/memcode\nComments URL: https://news.ycombinator.com/item?id=49239401\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49239401"
+    },
+    {
+      "title": "Show HN: Blueferry, iMessage on Linux",
+      "link": "https://github.com/erikwb/blueferry",
+      "pubDate": "Mon, 10 Aug 2026 04:35:53 +0000",
+      "date": "Mon, 10 Aug 2026 04:35:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey;\nBlueferry is an app that connects to your iPhone via Bluetooth to expose an iMessage bridge to your Linux desktop. It supports receiving and sending text-based messages, either 1:1 or in group threads. It requires no phone-side software or jailbreak - just Bluetooth pairing.\nIt accomplishes this by using an undocumented? behavior where enabling ANCS via Bluetooth LE (via https://github.com/pzmarzly/ancs4linux 's technique) causes the phone to accept message capability requests over standard",
+      "guid": "https://news.ycombinator.com/item?id=49239230"
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "link": "https://www.whodunnitai.com/",
+      "pubDate": "Mon, 10 Aug 2026 03:18:40 +0000",
+      "date": "Mon, 10 Aug 2026 03:18:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN!\nI'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.\nI recently had the desire to check out the tech again, and know many of you will be interested.\nInterviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I ha",
+      "guid": "https://news.ycombinator.com/item?id=49238851"
+    },
+    {
+      "title": "Show HN: Weather balloon to the stratosphere with a Raspberry Pi computer",
+      "link": "https://github.com/stratopi-org/stratopi",
+      "pubDate": "Mon, 10 Aug 2026 02:45:24 +0000",
+      "date": "Mon, 10 Aug 2026 02:45:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/stratopi-org/stratopi\nComments URL: https://news.ycombinator.com/item?id=49238670\nPoints: 6\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49238670"
+    },
+    {
+      "title": "Show HN: Gotcha- First on-device AI copilot for Android",
+      "link": "https://samosa-ai.com/gotcha/",
+      "pubDate": "Mon, 10 Aug 2026 02:34:00 +0000",
+      "date": "Mon, 10 Aug 2026 02:34:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://samosa-ai.com/gotcha/\nComments URL: https://news.ycombinator.com/item?id=49238612\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49238612"
+    },
+    {
+      "title": "Show HN: Ask your coding agent to subtitle, translate, and clip video (FFmpeg)",
+      "link": "https://github.com/perso-ai/perso-dubbing-plugin",
+      "pubDate": "Mon, 10 Aug 2026 02:02:56 +0000",
+      "date": "Mon, 10 Aug 2026 02:02:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/perso-ai/perso-dubbing-plugin\nComments URL: https://news.ycombinator.com/item?id=49238442\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49238442"
+    },
+    {
+      "title": "Show HN: CtxRay – see and lock what Codex loads before a task",
+      "link": "https://github.com/FramY2/ctxray",
+      "pubDate": "Mon, 10 Aug 2026 01:26:38 +0000",
+      "date": "Mon, 10 Aug 2026 01:26:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/FramY2/ctxray\nComments URL: https://news.ycombinator.com/item?id=49238209\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49238209"
+    },
+    {
+      "title": "Show HN: SynapsCLI – lightweight agent runtime in Rust, control an agent swarm",
+      "link": "https://github.com/HaseebKhalid1507/SynapsCLI",
+      "pubDate": "Mon, 10 Aug 2026 01:13:05 +0000",
+      "date": "Mon, 10 Aug 2026 01:13:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Synaps is an agent runtime written in Rust. It keeps cost down by optimising caching mechanisms and intelligently orchestrating work across workers. This keeps each worker's context low and fresh, making sessions last longer. It is extremely extensible. It has hooks, plugins and skills that can be imported from pretty much any coding tool.\nIt is an open source project that was started 4 months ago. It was built to optimise for 2 things: Keeping LLM costs down, and keeping resource use low. It bo",
+      "guid": "https://news.ycombinator.com/item?id=49238127"
+    },
+    {
+      "title": "Show HN: Simple, multi-key sorting algorithm for 2D+ points gridification",
+      "link": "https://github.com/ArmanddeCacqueray/Cartesian-Grid-Sort",
+      "pubDate": "Mon, 10 Aug 2026 00:54:36 +0000",
+      "date": "Mon, 10 Aug 2026 00:54:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ArmanddeCacqueray/Cartesian-Grid-Sort\nComments URL: https://news.ycombinator.com/item?id=49238008\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49238008"
+    },
     {
       "title": "Show HN: Acquired Podcast Idea Dinner Returns",
       "link": "https://acquirers.vercel.app/",
@@ -22,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/DatCodeMania/discord-delete\nComments URL: https://news.ycombinator.com/item?id=49237647\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://github.com/DatCodeMania/discord-delete\nComments URL: https://news.ycombinator.com/item?id=49237647\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49237647"
     },
     {
@@ -101,138 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://useairo.co\nComments URL: https://news.ycombinator.com/item?id=49236682\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49236682"
-    },
-    {
-      "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
-      "link": "https://pacslate.com/",
-      "pubDate": "Sun, 09 Aug 2026 21:04:02 +0000",
-      "date": "Sun, 09 Aug 2026 21:04:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I didn't want to buy a standalone computer or repurpose a laptop to run constantly so I could maintain a system to sync my LLMs, so I built this.\nIt's a simple overview of my system, laid out in a way easy to unpack and replicate for yourself. The project is meant to be configured individually, and uniquely, since one solution might not be what's best for another.\nIf anything, maybe it gives you some ideas on how to implement things for your own project.\nBest wishes, Ryan.\nComments URL: https://",
-      "guid": "https://news.ycombinator.com/item?id=49235865"
-    },
-    {
-      "title": "Show HN: Wardline, a Go proxy that auto-blocks compromised AI agents",
-      "link": "https://github.com/kabirnarang39/wardline",
-      "pubDate": "Sun, 09 Aug 2026 21:03:50 +0000",
-      "date": "Sun, 09 Aug 2026 21:03:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/kabirnarang39/wardline\nComments URL: https://news.ycombinator.com/item?id=49235863\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49235863"
-    },
-    {
-      "title": "Show HN: Form cohorts in your city for study and business",
-      "link": "https://chimera.university/event/",
-      "pubDate": "Sun, 09 Aug 2026 20:58:09 +0000",
-      "date": "Sun, 09 Aug 2026 20:58:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chimera.university/event/\nComments URL: https://news.ycombinator.com/item?id=49235803\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49235803"
-    },
-    {
-      "title": "Show HN: Standards – Opinionated Linter",
-      "link": "https://github.com/sarj-ai/standards",
-      "pubDate": "Sun, 09 Aug 2026 20:40:36 +0000",
-      "date": "Sun, 09 Aug 2026 20:40:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I have given the same feedback over years of PR comments. I made a linting tool that flags feedback so you can on pre-commit get coding agents to adhere automatically ship compliant code.\nComments URL: https://news.ycombinator.com/item?id=49235624\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49235624"
-    },
-    {
-      "title": "Show HN: Mandible TUI – rust based CLI manual viewer",
-      "link": "https://github.com/sadigaxund/mandible",
-      "pubDate": "Sun, 09 Aug 2026 20:32:12 +0000",
-      "date": "Sun, 09 Aug 2026 20:32:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sadigaxund/mandible\nComments URL: https://news.ycombinator.com/item?id=49235529\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49235529"
-    },
-    {
-      "title": "Show HN: 35k+ paper psychedelic library that knows LSD from Lumpy Skin Disease",
-      "link": "https://consciousnesslibrary.org/",
-      "pubDate": "Sun, 09 Aug 2026 20:27:32 +0000",
-      "date": "Sun, 09 Aug 2026 20:27:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://consciousnesslibrary.org/\nComments URL: https://news.ycombinator.com/item?id=49235471\nPoints: 8\n# Comments: 8",
-      "guid": "https://news.ycombinator.com/item?id=49235471"
-    },
-    {
-      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
-      "link": "https://alphabetsoup.club",
-      "pubDate": "Sun, 09 Aug 2026 20:15:45 +0000",
-      "date": "Sun, 09 Aug 2026 20:15:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've been working on a simple multiplayer word game called Alphabet Soup.\nIt's a bit like NYT Spelling Bee, except it's multiplayer and only your best (longest) word counts toward your score. So, instead of trying to find as many words as possible, the game is more about finding one unusually good word.\nYou can play with friends in a private match, or, you can join a public Arena match to play against other players who are online. If no one else is around, you'll be matched with a bot.\nThe game ",
-      "guid": "https://news.ycombinator.com/item?id=49235347"
-    },
-    {
-      "title": "Show HN: Whetstone – 20 Claude Code skills, each distilled from one real failure",
-      "link": "https://whetstone.akbarsha.dev/",
-      "pubDate": "Sun, 09 Aug 2026 20:07:58 +0000",
-      "date": "Sun, 09 Aug 2026 20:07:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://whetstone.akbarsha.dev/\nComments URL: https://news.ycombinator.com/item?id=49235255\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49235255"
-    },
-    {
-      "title": "Show HN: Run your GitHub Actions locally or self-hosted in isolated microvms",
-      "link": "https://preloop.dev",
-      "pubDate": "Sun, 09 Aug 2026 19:55:11 +0000",
-      "date": "Sun, 09 Aug 2026 19:55:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN. I've been frustrated with Github Actions' reliability, and inability to run workflows locally. Preloop is a Rust reimplementation of the GitHub Actions, both the runner(tracking the latest version) and the control plane that runs in hardware-isolated microvms on MacOS/Linux/Windows(we use smolvm project that uses the libkrun vmm).The microvms starts in https://preloop.dev\nGithub: https://github.com/preloopdev/preloop\nComments URL: https://news.ycombinator.com/item?id=49235154\nPoints: 3\n#",
-      "guid": "https://news.ycombinator.com/item?id=49235154"
-    },
-    {
-      "title": "Show HN: See how long it takes ChatGPT Sol 5.6 to send a byte across the LAN",
-      "link": "https://robss2020.github.io/sol-vnc-elapsed/",
-      "pubDate": "Sun, 09 Aug 2026 19:54:17 +0000",
-      "date": "Sun, 09 Aug 2026 19:54:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The problem: I noticed that any VNC client I tried wasn't able to reliably send keystrokes (about a byte on average) on my local wired LAN between a Mac Mini and a Windows desktop, both connected with gigabit ethernet cables to the same router.\nKeystrokes would constantly drop out. So I asked ChatGPT 5.6 Sol on Max setting to build a solution that is able to send keystrokes without dropping them.\nIt's building it right now.\nHere you can see how long it takes until it is able to send 1 byte acros",
-      "guid": "https://news.ycombinator.com/item?id=49235142"
-    },
-    {
-      "title": "Show HN: Remaking Unreal engine in Rust for coding agents",
-      "link": "https://machinesatplay.com",
-      "pubDate": "Sun, 09 Aug 2026 19:28:52 +0000",
-      "date": "Sun, 09 Aug 2026 19:28:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN! I'm kevin, cofounder of https://machinesatplay.com, a multiplayer 3d gaming engine for codex/claude code.\nTLDR: we're rebuilding unreal engine without the editor in rust meant to be used through the CLI. its open source/MIT. You prompt your favorite coding harness to create a game, and it'll give you a .machinesatplay.com link\nSome multiplayer games built with it:\ncubg: claudeunknownplayerbattle ground: https://pubg.machinesatplay.com/\ncar soccer: https://benchmark-rocket-league-claude.ma",
-      "guid": "https://news.ycombinator.com/item?id=49234818"
-    },
-    {
-      "title": "Show HN: Kamod UI – open-code components built natively for Preact",
-      "link": "https://kamod-ch.github.io/kamod-ui/",
-      "pubDate": "Sun, 09 Aug 2026 19:18:17 +0000",
-      "date": "Sun, 09 Aug 2026 19:18:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://kamod-ch.github.io/kamod-ui/\nComments URL: https://news.ycombinator.com/item?id=49234694\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49234694"
     },
     {
       "title": "How to Become a Better Principal: Award Winning Principals Speak",
