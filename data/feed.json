@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-08-11T01:03:04.372Z",
+  "generatedAt": "2026-08-11T06:51:16.966Z",
   "lookbackHours": 24,
-  "totalItems": 28,
+  "totalItems": 29,
   "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "2026-08-11T06:51:14.756Z",
+      "date": "2026-08-11T06:51:14.756Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\n\n  \n \n Quickstart · Docs · GitHub · Discord · Twitter · Website \n \n     \n \n \n \n  \n \n \nPaperclip is the app people use to manage AI agents for work.\n \nOpen-source orchestration for teams of AI agents.\n \nIf OpenClaw is an employee, Paperclip is the company.\n \nPaperclip is a Node.js server and React UI that orchestrates a team of AI agents to run a business. Bring your own agents, assign goals, and track work and costs from one dashboard.\n ",
+      "guid": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "title": "Show HN: I read 177 products' websites to find how they got users",
+      "link": "https://howtodistribute.com",
+      "pubDate": "Tue, 11 Aug 2026 06:17:38 +0000",
+      "date": "Tue, 11 Aug 2026 06:17:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://howtodistribute.com\nComments URL: https://news.ycombinator.com/item?id=49254014\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49254014"
+    },
+    {
+      "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+      "link": "https://github.com/activeing123/mcptoon",
+      "pubDate": "Tue, 11 Aug 2026 05:26:58 +0000",
+      "date": "Tue, 11 Aug 2026 05:26:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/activeing123/mcptoon\nComments URL: https://news.ycombinator.com/item?id=49253721\nPoints: 19\n# Comments: 7",
+      "guid": "https://news.ycombinator.com/item?id=49253721"
+    },
+    {
+      "title": "Show HN: ConfigLedger -Find configuration drift across code, CI, Docker and docs",
+      "link": "https://github.com/DevFoundry-labs/configledger/",
+      "pubDate": "Tue, 11 Aug 2026 05:22:30 +0000",
+      "date": "Tue, 11 Aug 2026 05:22:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/DevFoundry-labs/configledger/\nComments URL: https://news.ycombinator.com/item?id=49253699\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49253699"
+    },
+    {
+      "title": "Show HN: NiceShot AI – The analytics layer competitive games forgot to add",
+      "link": "https://github.com/karimm-ai/NiceShot_AI",
+      "pubDate": "Tue, 11 Aug 2026 05:18:28 +0000",
+      "date": "Tue, 11 Aug 2026 05:18:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been working on NiceShot AI for the last 26 months as a way to experiment with computer vision for gameplay analysis.\nThe basic idea is to take a recorded long gameplay session and automatically turn it into structured gameplay information and highlights. Bridging the performance analysis gap between match stats (too short) & lifetime stats (too long).\nThe current pipeline is:\nGameplay video → YOLO detection → event tracking → OCR/context filtering → event timestamps → clips → highlight com",
+      "guid": "https://news.ycombinator.com/item?id=49253675"
+    },
+    {
+      "title": "Show HN: Mychart-CLI, a local-first exporter for records you can view",
+      "link": "https://github.com/lifan-builds/mychart-cli",
+      "pubDate": "Tue, 11 Aug 2026 05:14:24 +0000",
+      "date": "Tue, 11 Aug 2026 05:14:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/lifan-builds/mychart-cli\nComments URL: https://news.ycombinator.com/item?id=49253653\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49253653"
+    },
+    {
+      "title": "Show HN: I vibecoded a heavy lift drone",
+      "link": "https://lukeiseman.substack.com/p/i-vibecoded-a-drone",
+      "pubDate": "Tue, 11 Aug 2026 04:27:40 +0000",
+      "date": "Tue, 11 Aug 2026 04:27:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://lukeiseman.substack.com/p/i-vibecoded-a-drone\nComments URL: https://news.ycombinator.com/item?id=49253378\nPoints: 7\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49253378"
+    },
+    {
+      "title": "Show HN: Seedle, daily -dle for Minecraft seeds",
+      "link": "https://seedle.loch.tools/",
+      "pubDate": "Tue, 11 Aug 2026 03:47:26 +0000",
+      "date": "Tue, 11 Aug 2026 03:47:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "If you're not familiar with RNGdle, it's a daily game that randomly generates a 6 digit code. Pure dopamine delivery with little else of substance, but what else do you really need?\nI love the RNGdle idea, but I thought it might be even more fun as a way to discover Minecraft seeds. So I spent the day making this.\nFor the uninitiated, Minecraft is deterministic, so you can determine what exactly the spawn point of a new world looks like if you know the seed number. This project gamifies that dis",
+      "guid": "https://news.ycombinator.com/item?id=49253141"
+    },
+    {
+      "title": "Show HN: SendPage – turn AI-generated HTML into a shareable link",
+      "link": "https://sendpageapp.com",
+      "pubDate": "Tue, 11 Aug 2026 01:43:59 +0000",
+      "date": "Tue, 11 Aug 2026 01:43:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sendpageapp.com\nComments URL: https://news.ycombinator.com/item?id=49252349\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49252349"
+    },
+    {
+      "title": "Show HN: Insidedb, an interactive, animated explainer of database internals",
+      "link": "https://david-g-3654.github.io/insidedb/",
+      "pubDate": "Tue, 11 Aug 2026 01:19:39 +0000",
+      "date": "Tue, 11 Aug 2026 01:19:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://david-g-3654.github.io/insidedb/\nComments URL: https://news.ycombinator.com/item?id=49252161\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49252161"
+    },
+    {
+      "title": "Show HN: Sketchling – a hand-drawn animation language for coding agents",
+      "link": "https://github.com/AnayGarodia/sketchling",
+      "pubDate": "Tue, 11 Aug 2026 01:18:16 +0000",
+      "date": "Tue, 11 Aug 2026 01:18:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built sketchling this weekend to see if agents can draw something that looks natural and hand-drawn if given the right primitives. This was inspired by Manim after watching how powerful an agent-native way to produce animations can be.\nIt is a small typescript library with shapes that take character parameters like weight, looseness, and energy. It renders through rough.js and GSAP through a headless chromium browser. It has tools like a built-in linter and is meant to be agent-native.\nAs a te",
+      "guid": "https://news.ycombinator.com/item?id=49252149"
+    },
+    {
+      "title": "Show HN: Linejudge – an independent verification harness for coding agents",
+      "link": "https://github.com/phillipmex/linejudge",
+      "pubDate": "Tue, 11 Aug 2026 01:09:22 +0000",
+      "date": "Tue, 11 Aug 2026 01:09:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/phillipmex/linejudge\nComments URL: https://news.ycombinator.com/item?id=49252068\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49252068"
+    },
+    {
+      "title": "Show HN: Airship – Figma-Like Visual Editor for Claude Code, Codex and OpenCode",
+      "link": "https://github.com/0xnyn/airship",
+      "pubDate": "Tue, 11 Aug 2026 01:09:14 +0000",
+      "date": "Tue, 11 Aug 2026 01:09:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I wanted to experiment with my UI like I do in Figma, without having to rebuild it in a separate design tool. So I built Airship.\nIt lets you prototype directly in your running app, select elements, make changes, and explore different directions visually.\nOnce you like something, Airship applies the changes to your source. No mockups to keep in sync, or bouncing back and forth between design and code.\nComments URL: https://news.ycombinator.com/item?id=49252066\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49252066"
+    },
+    {
+      "title": "Show HN: Ohm – Use uBlock Origin cosmetic filters in Chrome again",
+      "link": "https://ohm.wbnns.com/",
+      "pubDate": "Tue, 11 Aug 2026 00:55:13 +0000",
+      "date": "Tue, 11 Aug 2026 00:55:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Ohm parses uBlock Origin cosmetic filter lists client-side and turns them into a real Manifest V3 Chrome extension scoped to exactly a list of sites. It's free, open source, and collects no data.\nComments URL: https://news.ycombinator.com/item?id=49251938\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49251938"
+    },
+    {
+      "title": "Show HN: It's 6 18 am now going to sleep as MVP is made GN",
+      "link": "https://bengu-phi.vercel.app",
+      "pubDate": "Tue, 11 Aug 2026 00:50:49 +0000",
+      "date": "Tue, 11 Aug 2026 00:50:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey i just shifted to Bengaluru got a problem so solved it atleast for myself and been building all night \nGN or GM to you \nBut if you live in Bengaluru or traveling here check it out it's completely free no sign up etc . \nGN :|\nComments URL: https://news.ycombinator.com/item?id=49251901\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49251901"
+    },
     {
       "title": "Show HN: SecondState – what if Hebbia started with raw ERP data?",
       "link": "https://trysecondstate.com/",
@@ -33,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/samiam95124/basht\nComments URL: https://news.ycombinator.com/item?id=49251311\nPoints: 1\n# Comments: 4",
+      "contentSnippet": "Article URL: https://github.com/samiam95124/basht\nComments URL: https://news.ycombinator.com/item?id=49251311\nPoints: 2\n# Comments: 4",
       "guid": "https://news.ycombinator.com/item?id=49251311"
     },
     {
@@ -66,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 24\n# Comments: 2",
+      "contentSnippet": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 145\n# Comments: 42",
       "guid": "https://news.ycombinator.com/item?id=49251179"
     },
     {
@@ -79,160 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "I built Paper Run because i've always wanted a simple page where i can see the latest science and tech news from reputable sources.\nI built it with Laravel and Vue 3 if anyone is curious.\nAny Feedback is appreciated.\nComments URL: https://news.ycombinator.com/item?id=49251142\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49251142"
-    },
-    {
-      "title": "Show HN: AI-powered App Store replies that sound like you",
-      "link": "https://www.replyargus.com",
-      "pubDate": "Mon, 10 Aug 2026 23:03:36 +0000",
-      "date": "Mon, 10 Aug 2026 23:03:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.replyargus.com\nComments URL: https://news.ycombinator.com/item?id=49251080\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49251080"
-    },
-    {
-      "title": "Show HN: Pyrig – A tool that automates project setup and maintenance",
-      "link": "https://github.com/Winipedia/pyrig",
-      "pubDate": "Mon, 10 Aug 2026 22:34:55 +0000",
-      "date": "Mon, 10 Aug 2026 22:34:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "# What is pyrig?\npyrig is a package and tool that *rigs up* your project. It scaffolds and initializes a complete, fully configured, installed and working Python project with one command and makes the process of developing and maintaining it more seamless and efficient by automating things like configuration management, CLI generation, testing infrastructure, and more.\n# Requirements\n* Python 3.12+\n* Git\n* uv\n# Quick Start\n    uv init my-project --python 3.12\n    cd my-project\n    uv add pyrig -",
-      "guid": "https://news.ycombinator.com/item?id=49250815"
-    },
-    {
-      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
-      "link": "https://github.com/leog/ai-pulse",
-      "pubDate": "Mon, 10 Aug 2026 22:07:41 +0000",
-      "date": "Mon, 10 Aug 2026 22:07:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nI run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :D\nI hope you like it and find it useful as I do!\nComments URL: https://news.ycombinator.com/item?id=49250486\nPoints: 4\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49250486"
-    },
-    {
-      "title": "Show HN: Typegres 0.3 – SQL-as-your-API, safely (using Cap'n Web RPC)",
-      "link": "https://typegres.com/",
-      "pubDate": "Mon, 10 Aug 2026 21:49:45 +0000",
-      "date": "Mon, 10 Aug 2026 21:49:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "For three years I worked as CTO of a startup building a huge Postgres app (a WMS) from scratch. We had 100+ inter-related tables and the complexity of delivering feature after feature on this substrate nearly killed us (both the company and our sanity!)\nAfter leaving, I built Typegres to fix the pain with a simpler approach I couldn't find elsewhere:\n1. Define your schema: define your schema as TS classes\n2. Express your data-model: add methods on those classes (encapsulation 101 applied to your",
-      "guid": "https://news.ycombinator.com/item?id=49250266"
-    },
-    {
-      "title": "Show HN: Calldiff – a CLI to see callstack diffs in all major languages",
-      "link": "https://github.com/tanishqkancharla/calldiff",
-      "pubDate": "Mon, 10 Aug 2026 21:47:03 +0000",
-      "date": "Mon, 10 Aug 2026 21:47:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/tanishqkancharla/calldiff\nComments URL: https://news.ycombinator.com/item?id=49250231\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49250231"
-    },
-    {
-      "title": "Show HN: Keen Code – an agentic-engineered coding agent",
-      "link": "https://github.com/mochow13/keen-code",
-      "pubDate": "Mon, 10 Aug 2026 21:47:00 +0000",
-      "date": "Mon, 10 Aug 2026 21:47:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello community!\nI am here to share a coding agent I have built solo from scratch using agentic engineering. Written in Go, it's a proper coding agent, has features you expect from a useful agent for your daily work, with a minimal and simple UI.\nI have named it Keen Code. The repo is here: https://github.com/mochow13/keen-code\nEven though it started as an experiment, it is now a full-fledged coding agent for real software engineering work. It supports multiple providers, skills, MCPs, multi-age",
-      "guid": "https://news.ycombinator.com/item?id=49250229"
-    },
-    {
-      "title": "Show HN: Bananarr – Technology Profiler – Chrome Extension",
-      "link": "https://bananarr.com/",
-      "pubDate": "Mon, 10 Aug 2026 21:41:37 +0000",
-      "date": "Mon, 10 Aug 2026 21:41:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://bananarr.com/\nComments URL: https://news.ycombinator.com/item?id=49250176\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49250176"
-    },
-    {
-      "title": "Show HN: My local climbing gym from photogrammetry",
-      "link": "https://kmcheung12.github.io/climb-preview/tour/ae43c6e5",
-      "pubDate": "Mon, 10 Aug 2026 21:39:03 +0000",
-      "date": "Mon, 10 Aug 2026 21:39:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Commented on yesterday's Ask HN: What are you working on? (August 2026), thought I might as well submit a Show HN.\nIf you see climbing world cup/championship, there is this 3D modelling thing [1]. I want that for my weekly bouldering.\nI scanned my local climbing gym into 3D mesh using iphone. Built a simple editor to trim, merge, move/rotate meshes. You can interact with the mesh, view routes, view climb, etc. So this is unlike many gaussian splatting projects where the main use is for viewing. ",
-      "guid": "https://news.ycombinator.com/item?id=49250141"
-    },
-    {
-      "title": "Show HN: allmcps-server – MCP server for MCP servers",
-      "link": "https://github.com/Jackalope-Dev/allmcps-server",
-      "pubDate": "Mon, 10 Aug 2026 21:32:05 +0000",
-      "date": "Mon, 10 Aug 2026 21:32:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "MCP to hook up your agents to find and install other mcp servers, or submit one you're building yourself directly to our registry.\nComments URL: https://news.ycombinator.com/item?id=49250042\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49250042"
-    },
-    {
-      "title": "Show HN: Graph2agent; Mermaid diagrams, explained for agents",
-      "link": "https://graph2agent.github.io/",
-      "pubDate": "Mon, 10 Aug 2026 21:29:40 +0000",
-      "date": "Mon, 10 Aug 2026 21:29:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "During the implementation of a huge high performance service. \nIn order to keep context small (mainly for humans) I kept the specs into mermaid diagrams.\nWhen communicating with humans; diagrams were easy to follow and to remember. \nBut when I asked the agent to implement what's in the diagram, most of the times it failed.\nSo I came into conclusion that agents are good into writing mermaid diagrams but they are not good into reading them.\nI built graph2agent in order to deterministically (withou",
-      "guid": "https://news.ycombinator.com/item?id=49250014"
-    },
-    {
-      "title": "Show HN: Oqoqo – build evals and custom benchmarks for real-world tasks",
-      "link": "https://oqoqo.ai",
-      "pubDate": "Mon, 10 Aug 2026 21:27:04 +0000",
-      "date": "Mon, 10 Aug 2026 21:27:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Most benchmarks today exist in curated environments and do not translate well to the real world.\nWe built Oqoqo to bridge this gap. Oqoqo makes it super simple to build realistic evals and custom benchmarks for tasks users actually care about.\nOqoqo can:\n- Reliably measure how agent friendly your product surfaces are against Codex, Claude Code, OpenClaw, Hermes, Pi, Opencode, Cursor, GitHub Copilot\n- Regression test MCP, CLI, skills, SDK, and any agent facing interface (we are continuously using",
-      "guid": "https://news.ycombinator.com/item?id=49249987"
-    },
-    {
-      "title": "Show HN: Agents can shop for you, and ship to your door",
-      "link": "https://getsangria.com",
-      "pubDate": "Mon, 10 Aug 2026 21:20:59 +0000",
-      "date": "Mon, 10 Aug 2026 21:20:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey everyone, over the past 6 weeks, we've been building Sangria at Founders Inc.\nWe think agents can make shopping 1000x better, since they have so much context about you, and your preferences. They could predict when your milk is going to run out and prompt you to order again.\nWe wanted to build this future where agents can actually shop for you irl! Do try now, our most popular mode of usage is via the iMessage bot!\nComments URL: https://news.ycombinator.com/item?id=49249917\nPoints: 1\n# Comme",
-      "guid": "https://news.ycombinator.com/item?id=49249917"
-    },
-    {
-      "title": "Show HN: EdgeSpeech; Voice I/O toolkit for your mobile app",
-      "link": "https://github.com/switchboard-sdk/EdgeSpeech",
-      "pubDate": "Mon, 10 Aug 2026 21:12:52 +0000",
-      "date": "Mon, 10 Aug 2026 21:12:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We built this because we wanted to work only in text. No low-level realtime audio code required.\nComments URL: https://news.ycombinator.com/item?id=49249817\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49249817"
-    },
-    {
-      "title": "Show HN: Fun Web page 3D visualization of laundry room status",
-      "link": "https://www.aisloperator.com/brickoven-estates-laundry-room/",
-      "pubDate": "Mon, 10 Aug 2026 21:07:08 +0000",
-      "date": "Mon, 10 Aug 2026 21:07:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "By default, this shows simulated data.  It can show real data, but we don't want to hug-of-death the laundry company IoT.\nClick on a machine, to see how the apartment building attendant responds to people leaving their laundry for hours in high-contention machines.\nThis was a collaboration with Claude Code.  Sometimes Claude wasted time frustratingly, sometimes Claude saved lots of time.  The end product is good enough, the Easter eggs were fun, and it was completed in less time than I could've ",
-      "guid": "https://news.ycombinator.com/item?id=49249740"
     },
     {
       "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
