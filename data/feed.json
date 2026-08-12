@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-08-12T01:10:40.313Z",
+  "generatedAt": "2026-08-12T07:10:22.813Z",
   "lookbackHours": 24,
   "totalItems": 29,
   "items": [
+    {
+      "title": "Show HN: WhatsApp Contact Exporter",
+      "link": "https://chromewebstore.google.com/detail/contact-exporter-for-wa/dfchifnmhmdeahedgneamifgellcajeb",
+      "pubDate": "Wed, 12 Aug 2026 06:18:13 +0000",
+      "date": "Wed, 12 Aug 2026 06:18:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Export WhatsApp contacts with WhatsApp Contact Exporter. Save numbers and names to CSV, Excel, or JSON for easy backup.\nComments URL: https://news.ycombinator.com/item?id=49268468\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49268468"
+    },
+    {
+      "title": "Show HN: Pantheon. Production-ready scientific workflows for the Horus Runtime",
+      "link": "https://github.com/temple-compute/pantheon",
+      "pubDate": "Wed, 12 Aug 2026 06:13:10 +0000",
+      "date": "Wed, 12 Aug 2026 06:13:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/temple-compute/pantheon\nComments URL: https://news.ycombinator.com/item?id=49268432\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49268432"
+    },
+    {
+      "title": "Show HN: Photocopy",
+      "link": "https://photocopy.greg.technology/",
+      "pubDate": "Wed, 12 Aug 2026 05:42:18 +0000",
+      "date": "Wed, 12 Aug 2026 05:42:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://photocopy.greg.technology/\nComments URL: https://news.ycombinator.com/item?id=49268207\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49268207"
+    },
+    {
+      "title": "Show HN: Log what you ship in your voice",
+      "link": "https://shiplog.life/",
+      "pubDate": "Wed, 12 Aug 2026 05:40:45 +0000",
+      "date": "Wed, 12 Aug 2026 05:40:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own the data.\nComments URL: https://news.ycombinator.com/item?id=49268197\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49268197"
+    },
+    {
+      "title": "Show HN: Operator, an open-source web UI for running parallel coding agents",
+      "link": "https://github.com/iishyfishyy/operator-oss",
+      "pubDate": "Wed, 12 Aug 2026 05:34:20 +0000",
+      "date": "Wed, 12 Aug 2026 05:34:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I tried tools like Conductor, but I felt like I was still managing terminal sessions instead of managing work..\nI wanted,\n- Project context written once, then refreshed as the codebase changes so I don't have to repeat myself\n- A kanban/task board with statuses where every task is its own agent\n- Multiple projects running from one place\n- A clear view of what each agent is doing and which tasks need me\n- One git worktree and branch per task\n- Sessions that keep running after I close the browser\n",
+      "guid": "https://news.ycombinator.com/item?id=49268163"
+    },
+    {
+      "title": "Show HN: Tynx - train ONNX models with a PyTorch-shaped API (<20 MB whl)",
+      "link": "https://github.com/blaind/tynx/",
+      "pubDate": "Wed, 12 Aug 2026 05:31:36 +0000",
+      "date": "Wed, 12 Aug 2026 05:31:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Tynx is a small, self-contained ONNX runtime with a PyTorch-shaped API for inference and training.\nThe .whl is less than 20MB. GPU execution uses Burn/CubeCL + wgpu enabling it to run across OSes and GPUs, without requiring any extra libraries.\n    $ pip install tynx\n\n    import tynx as tx\n    model = tx.nn.Sequential(\n      tx.nn.Linear(8, 16), \n      tx.nn.ReLU(), \n      tx.nn.Linear(16, 2)\n    )\n\n    optimizer = tx.optim.Adam(model.parameters(), lr=1e-3)\n\n    loss = tx.nn.functional.cross_ent",
+      "guid": "https://news.ycombinator.com/item?id=49268144"
+    },
+    {
+      "title": "Show HN: Pragma – Stop copying context between AI agents",
+      "link": "https://github.com/pqpo/pragma",
+      "pubDate": "Wed, 12 Aug 2026 05:30:12 +0000",
+      "date": "Wed, 12 Aug 2026 05:30:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I’m currently subscribed to Codex Pro 5x and Gemini, and I also use the DeepSeek API. I have to constantly switch between different CLIs, manually pass context around, and each agent has its own isolated memory.\nTo solve this, I built Pragma: a single interface for interacting with multiple agents. Under the hood, it automatically calls different harnesses and models, passes context between them, and consolidates memory into one shared system.\nWhat do you think?\nComments URL: https://news.ycombi",
+      "guid": "https://news.ycombinator.com/item?id=49268135"
+    },
+    {
+      "title": "Show HN: Dev-loop – parallel coding agents, supervised not just spawned",
+      "link": "https://github.com/choiyounggi/dev-loop",
+      "pubDate": "Wed, 12 Aug 2026 04:21:29 +0000",
+      "date": "Wed, 12 Aug 2026 04:21:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/choiyounggi/dev-loop\nComments URL: https://news.ycombinator.com/item?id=49267781\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49267781"
+    },
+    {
+      "title": "Show HN: Lethe is a portable identity layer – user consented",
+      "link": "https://lethe-ai.vercel.app",
+      "pubDate": "Wed, 12 Aug 2026 03:43:39 +0000",
+      "date": "Wed, 12 Aug 2026 03:43:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "During my mtech I constantly used to navigate across a bunch of AI apps—from Gamma AI for decks to ChatGPT for understanding and navigation to Cursor, Claude, or Deepseek for coding, reorganizing, and more, as when one or other plans expire or take time to reset.\nMy biggest issue—I couldn't transfer all required context and understanding of the same when moving across different LLMs. \nThis is where Lethe comes into use as a base layer for all of these, and it works in the way I want it, that is,",
+      "guid": "https://news.ycombinator.com/item?id=49267611"
+    },
+    {
+      "title": "Show HN: DisplayWave – open-source and simple tool for Mac display management",
+      "link": "https://github.com/kah-ve/DisplayWave",
+      "pubDate": "Wed, 12 Aug 2026 03:15:26 +0000",
+      "date": "Wed, 12 Aug 2026 03:15:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A free display control tool for brightness, warmth, and more.\nExisting apps for handling external monitor controls for mac are either too narrow in focus or are paywalled. Also I found the paywalled ones to be more complicated and feature rich then needed. So I wanted to build something more tailored to the small feature-set I would ever need. Primarily my concern is:\n1. Ability to enable/disable external monitors with good UX on this (e.g. showing names of displays) 2. Very simple and easy to u",
+      "guid": "https://news.ycombinator.com/item?id=49267449"
+    },
+    {
+      "title": "Show HN: Memftprt, a consistent, process-tree-wide memory footprint on Linux",
+      "link": "https://github.com/menzew/memoryfootprint",
+      "pubDate": "Wed, 12 Aug 2026 03:10:43 +0000",
+      "date": "Wed, 12 Aug 2026 03:10:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "memftprt captures a consistent, process-tree-wide memory footprint on Linux. It waits for an application to settle, optionally collects HotSpot JVM Native Memory Tracking data, freezes the complete application tree, and writes both a readable summary and TSV, JSON, or self-contained HTML reports.\nComments URL: https://news.ycombinator.com/item?id=49267426\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49267426"
+    },
+    {
+      "title": "Show HN: Copero Game: Free Football Career Simulator",
+      "link": "https://coperogame.com/en",
+      "pubDate": "Wed, 12 Aug 2026 02:34:49 +0000",
+      "date": "Wed, 12 Aug 2026 02:34:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://coperogame.com/en\nComments URL: https://news.ycombinator.com/item?id=49267214\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49267214"
+    },
+    {
+      "title": "Show HN: AirStats – the lightest Mac menu bar system monitor",
+      "link": "https://airstats.app/",
+      "pubDate": "Wed, 12 Aug 2026 01:39:22 +0000",
+      "date": "Wed, 12 Aug 2026 01:39:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://airstats.app/\nComments URL: https://news.ycombinator.com/item?id=49266874\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49266874"
+    },
+    {
+      "title": "Show HN: Kernelspace- interactive course on systems programming for LLM Serving",
+      "link": "https://kernelspace.naigap.com/",
+      "pubDate": "Wed, 12 Aug 2026 01:20:07 +0000",
+      "date": "Wed, 12 Aug 2026 01:20:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\n*I* built kernelspace - a free and interactive course that takes a backend engineer (like me) with java/python experience to the systems level required to work on LLM serving at scale. (Mostly an attempt for me to understand what everyone's talking about lately and also an attempt at staying up to date to current tech - career wise).\nIt has:\n1. 68 Lessons across 9 tracks, with a rust-from-zero ramp.\n2. 8 rust labs - BPE tokenizer, KV block manager, radix cache, batching scheduler, a toy e",
+      "guid": "https://news.ycombinator.com/item?id=49266750"
+    },
+    {
+      "title": "Show HN: Spend.Report – See what you're spending money on each month",
+      "link": "https://spend.report/",
+      "pubDate": "Wed, 12 Aug 2026 01:08:17 +0000",
+      "date": "Wed, 12 Aug 2026 01:08:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://spend.report/\nComments URL: https://news.ycombinator.com/item?id=49266649\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49266649"
+    },
+    {
+      "title": "Show HN: Askance, a human-in-the-loop GUI for agentic coding",
+      "link": "https://github.com/tobico/askance",
+      "pubDate": "Wed, 12 Aug 2026 00:57:32 +0000",
+      "date": "Wed, 12 Aug 2026 00:57:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/tobico/askance\nComments URL: https://news.ycombinator.com/item?id=49266555\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49266555"
+    },
     {
       "title": "Show HN: ListToCart – Turn photo(s) of a school supply list into an Amazon cart",
       "link": "https://listtocart.com/",
@@ -33,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://ktp.nz/waraki/index.html\nComments URL: https://news.ycombinator.com/item?id=49265687\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://ktp.nz/waraki/index.html\nComments URL: https://news.ycombinator.com/item?id=49265687\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49265687"
     },
     {
@@ -44,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://outagedeck.com/developers/mcp\nComments URL: https://news.ycombinator.com/item?id=49265568\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://outagedeck.com/developers/mcp\nComments URL: https://news.ycombinator.com/item?id=49265568\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49265568"
     },
     {
@@ -59,83 +235,6 @@
       "guid": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
     },
     {
-      "title": "Show HN: Quantum Foosball",
-      "link": "https://polkerty.github.io/quantumfoosball/",
-      "pubDate": "Tue, 11 Aug 2026 22:30:54 +0000",
-      "date": "Tue, 11 Aug 2026 22:30:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://polkerty.github.io/quantumfoosball/\nComments URL: https://news.ycombinator.com/item?id=49265380\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49265380"
-    },
-    {
-      "title": "Show HN: I wrote the emudev hello world (CHIP-8 emulator in C)",
-      "link": "https://github.com/Tackx/c8",
-      "pubDate": "Tue, 11 Aug 2026 22:09:33 +0000",
-      "date": "Tue, 11 Aug 2026 22:09:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Yep, just another CHIP-8 emulator. But for me, as someone who has never written anything this low level and never touched C before, it was quite the challenge at first. But after writing the first few instructions (drawing especially), it slowly became almost a breeze. Until I had to debug why my font sprites were rendering all messed up.\nIt's still work in progress, definitely not finished, but today I have tried to run some official CHIP-8 ROMs instead of just tests and my super simple test RO",
-      "guid": "https://news.ycombinator.com/item?id=49265167"
-    },
-    {
-      "title": "Show HN: MacPacker – open-source archive manager for macOS, now edits ZIPs",
-      "link": "https://github.com/sarensw/MacPacker",
-      "pubDate": "Tue, 11 Aug 2026 22:04:55 +0000",
-      "date": "Tue, 11 Aug 2026 22:04:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sarensw/MacPacker\nComments URL: https://news.ycombinator.com/item?id=49265124\nPoints: 3\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49265124"
-    },
-    {
-      "title": "Show HN: Supply-Wizard; Start Selling Data with an Easy Vendor Checklist",
-      "link": "https://brickroad.network/supplier-wizard",
-      "pubDate": "Tue, 11 Aug 2026 22:04:29 +0000",
-      "date": "Tue, 11 Aug 2026 22:04:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://brickroad.network/supplier-wizard\nComments URL: https://news.ycombinator.com/item?id=49265119\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49265119"
-    },
-    {
-      "title": "Show HN: Longscribe – free transcription for long videos and podcasts",
-      "link": "https://longscribe.com/",
-      "pubDate": "Tue, 11 Aug 2026 21:50:02 +0000",
-      "date": "Tue, 11 Aug 2026 21:50:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://longscribe.com/\nComments URL: https://news.ycombinator.com/item?id=49264986\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264986"
-    },
-    {
-      "title": "Show HN: Microfeed – open-source agentic CMS on Cloudflare",
-      "link": "https://github.com/microfeed/microfeed",
-      "pubDate": "Tue, 11 Aug 2026 21:26:17 +0000",
-      "date": "Tue, 11 Aug 2026 21:26:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/microfeed/microfeed\nComments URL: https://news.ycombinator.com/item?id=49264728\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264728"
-    },
-    {
-      "title": "Show HN: Log-decisions – an append-only decision journal for AI agents",
-      "link": "https://github.com/swe-workflow/log-decisions",
-      "pubDate": "Tue, 11 Aug 2026 21:15:55 +0000",
-      "date": "Tue, 11 Aug 2026 21:15:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/swe-workflow/log-decisions\nComments URL: https://news.ycombinator.com/item?id=49264597\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264597"
-    },
-    {
       "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
       "link": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
       "pubDate": "Tue, 11 Aug 2026 21:07:00 GMT",
@@ -145,105 +244,6 @@
       "icon": "📰",
       "contentSnippet": "SpaceXAI, the division of SpaceX formerly known as xAI, is launching an early beta version of Grok Bot, a new agent designed to move AI assistants beyond answering prompts and toward continuously executing work across the software employees already use.\nThe central idea is straightforward: instead of opening an AI assistant whenever a task arises, users create persistent Bots with specific jobs, give them access to applications and websites, and delegate work much as they would to a teammate. \nE",
       "guid": "4Rq5PLcM0fUB9Gqv8wnUuP"
-    },
-    {
-      "title": "Show HN: CSS corner-shape generator with border-radius fallback",
-      "link": "https://a-dev.github.io/probes/corner-shape/",
-      "pubDate": "Tue, 11 Aug 2026 21:06:01 +0000",
-      "date": "Tue, 11 Aug 2026 21:06:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://a-dev.github.io/probes/corner-shape/\nComments URL: https://news.ycombinator.com/item?id=49264478\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264478"
-    },
-    {
-      "title": "Show HN: A extension for fast research and citations",
-      "link": "https://github.com/fluryjanis/ResearchWheel",
-      "pubDate": "Tue, 11 Aug 2026 20:59:36 +0000",
-      "date": "Tue, 11 Aug 2026 20:59:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/fluryjanis/ResearchWheel\nComments URL: https://news.ycombinator.com/item?id=49264396\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264396"
-    },
-    {
-      "title": "Show HN: Architecture as the source of truth instead of source code",
-      "link": "https://sidai.live/blog/dis",
-      "pubDate": "Tue, 11 Aug 2026 20:58:13 +0000",
-      "date": "Tue, 11 Aug 2026 20:58:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sidai.live/blog/dis\nComments URL: https://news.ycombinator.com/item?id=49264379\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264379"
-    },
-    {
-      "title": "Show HN: Edgepad – tool for configuring edge touchpad gestures on Linux laptops",
-      "link": "https://github.com/assembledev/edgepad",
-      "pubDate": "Tue, 11 Aug 2026 20:46:46 +0000",
-      "date": "Tue, 11 Aug 2026 20:46:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/assembledev/edgepad\nComments URL: https://news.ycombinator.com/item?id=49264243\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264243"
-    },
-    {
-      "title": "Show HN: Get an email when Dario Amodei (or 230 others) gives an interview",
-      "link": "https://recordal.app",
-      "pubDate": "Tue, 11 Aug 2026 20:41:27 +0000",
-      "date": "Tue, 11 Aug 2026 20:41:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I follow a handful of people to understand how they are thinking about the future. I kept finding out weeks later that one of them had sat for an interview somewhere. Subscribing to and tracking tons of YouTube channels and podcasts is a waste of time. So I built Recordal (https://recordal.app/). Pick the people you like and get an email when they do a new interview.\nThe hard part was filtering out news coverage, SEO junk, and re-hosted copies of the original. Nothing is ranked or recommended; t",
-      "guid": "https://news.ycombinator.com/item?id=49264178"
-    },
-    {
-      "title": "Show HN: Cut LLM turns in MCP interactions by 75%+",
-      "link": "https://github.com/Tura-AI/tura",
-      "pubDate": "Tue, 11 Aug 2026 20:39:32 +0000",
-      "date": "Tue, 11 Aug 2026 20:39:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Tura-AI/tura\nComments URL: https://news.ycombinator.com/item?id=49264157\nPoints: 9\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49264157"
-    },
-    {
-      "title": "Show HN: LidAwake – Keep your Mac awake with the lid closed (200 lines of Swift)",
-      "link": "https://github.com/deezeddd/LidAwake-Mac",
-      "pubDate": "Tue, 11 Aug 2026 20:13:23 +0000",
-      "date": "Tue, 11 Aug 2026 20:13:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/deezeddd/LidAwake-Mac\nComments URL: https://news.ycombinator.com/item?id=49263800\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49263800"
-    },
-    {
-      "title": "Show HN: Personal AI Policy Directory",
-      "link": "https://howiai.directory/",
-      "pubDate": "Tue, 11 Aug 2026 20:11:37 +0000",
-      "date": "Tue, 11 Aug 2026 20:11:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://howiai.directory/\nComments URL: https://news.ycombinator.com/item?id=49263772\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49263772"
-    },
-    {
-      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-      "link": "https://github.com/therepanic/openleetcode",
-      "pubDate": "Tue, 11 Aug 2026 19:54:48 +0000",
-      "date": "Tue, 11 Aug 2026 19:54:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.\nIt currently supports around 1000 problems and multiple languages, including Python, C++, Rust, Java, Go, TypeScript, Swift, and others.\nThe project is still an MVP. System design, SQL, and concurrency problems are not supported yet, but support for more problem types is planned.\nMade in Haskell!\nComments UR",
-      "guid": "https://news.ycombinator.com/item?id=49263574"
     },
     {
       "title": "Vibe Coding with Gemini: Build Your Own Classroom Tools",
