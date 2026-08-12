@@ -1,84 +1,282 @@
 {
-  "generatedAt": "2026-08-12T12:48:09.558Z",
+  "generatedAt": "2026-08-12T18:50:51.853Z",
   "lookbackHours": 24,
-  "totalItems": 31,
+  "totalItems": 34,
   "items": [
     {
-      "title": "Show HN: DejaVu – instant replay for Windows that survives crashes (160 KB exe)",
-      "link": "https://github.com/blancodagoat/DejaVu",
-      "pubDate": "Wed, 12 Aug 2026 11:56:29 +0000",
-      "date": "Wed, 12 Aug 2026 11:56:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/blancodagoat/DejaVu\nComments URL: https://news.ycombinator.com/item?id=49271000\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49271000"
+      "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+      "link": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "pubDate": "Wed, 12 Aug 2026 18:44:50 GMT",
+      "date": "Wed, 12 Aug 2026 18:44:50 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Visa's president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic's Mythos at Visa's own payment network. The model stitched minor weaknesses into working exploit chains, and Visa open-sourced the harness that governed the hunt.\nThat's what it looks like when an enterprise has the engineering depth to act on what it finds. Most don't get there. Just over half, or 53%, of enterprises have already had an agentic security incident or near-miss. Sixty-five ",
+      "guid": "25BzNNF98R8oyiUSeHNY5l"
     },
     {
-      "title": "Show HN: A deterministic gate that checks agent tool calls before they run",
-      "link": "https://github.com/login",
-      "pubDate": "Wed, 12 Aug 2026 11:55:26 +0000",
-      "date": "Wed, 12 Aug 2026 11:55:26 +0000",
+      "title": "Show HN: A better, free client for iMessage power-users",
+      "link": "https://news.ycombinator.com/item?id=49276601",
+      "pubDate": "Wed, 12 Aug 2026 18:22:01 +0000",
+      "date": "Wed, 12 Aug 2026 18:22:01 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/login\nComments URL: https://news.ycombinator.com/item?id=49270982\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270982"
+      "contentSnippet": "TLDR: Your iMessage inbox is a mess. Go to attention dot righthand dot ai.\nit's a free app for mac. It's like Superhuman for iMessage.\n___\nYou text your friends and family in iMessage.  You text your colleagues in iMessage. If you run a business, you likely text prospects and leads in iMessage. I text our customers in iMessage - I want them to know they've got the fastest way to reach me. In 2026 you even text your AI agents in iMessage (Linq raises $20M to enable AI assistants to live in iMessa",
+      "guid": "https://news.ycombinator.com/item?id=49276601"
     },
     {
-      "title": "Show HN: KidScreen, a finite YouTube shelf chosen by parents",
-      "link": "https://kidscreen.app",
-      "pubDate": "Wed, 12 Aug 2026 11:44:40 +0000",
-      "date": "Wed, 12 Aug 2026 11:44:40 +0000",
+      "title": "Show HN: Drift Fever – an HTML5 arcade game with an original soundtrack",
+      "link": "https://driftfever.com/",
+      "pubDate": "Wed, 12 Aug 2026 18:15:31 +0000",
+      "date": "Wed, 12 Aug 2026 18:15:31 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://kidscreen.app\nComments URL: https://news.ycombinator.com/item?id=49270881\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270881"
+      "contentSnippet": "Made entirely with Claude Opus 5 on the mobile Claude app through a combination of chats and Claude Code.\nFor the music, I used Gemini for the lyrics and Mureka for the actual generation.\n5 tracks a day, forever. Plays instantly on any browser and any device. No ads, no logins, no loading. Just instant play.\nEnjoy! Really looking forward to your thoughts.\nThanks guys\nComments URL: https://news.ycombinator.com/item?id=49276512\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49276512"
     },
     {
-      "title": "Show HN: The Digital Junk Drawer – a shoebox of tiny web apps",
-      "link": "https://the-digital-junk-drawer.vercel.app/",
-      "pubDate": "Wed, 12 Aug 2026 11:43:31 +0000",
-      "date": "Wed, 12 Aug 2026 11:43:31 +0000",
+      "title": "Show HN: Apollodorus Video – batch video editor in the browser that runs locally",
+      "link": "https://apollodorus.pages.dev/video",
+      "pubDate": "Wed, 12 Aug 2026 18:10:36 +0000",
+      "date": "Wed, 12 Aug 2026 18:10:36 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "a little site that's basically a shoebox of micro web apps, mini games, and pointless-but-fun tools. It's open source, and anyone can add their own app to it too (just drop in an HTML file + thumbnail and open a PR).\nComments URL: https://news.ycombinator.com/item?id=49270868\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270868"
+      "contentSnippet": "A few weeks ago, I made a browser-based batch image editor called Apollodorus. The idea was simple enough: pass in as many images as I want, have the same operations (crop, resize, watermark, etc) applied to all of them, and then it spits out all those images with the edits applied. Everything is done client-side too, which is good for privacy, and also good because I was worried about slow WiFi and bandwidth limits. The overall idea was simple, it worked fine in practice, and everything was goo",
+      "guid": "https://news.ycombinator.com/item?id=49276457"
     },
     {
-      "title": "Show HN: Play Chess. Earn coins. Build an army",
-      "link": "https://chesspoly.com/",
-      "pubDate": "Wed, 12 Aug 2026 11:39:30 +0000",
-      "date": "Wed, 12 Aug 2026 11:39:30 +0000",
+      "title": "Show HN: QSBS Calculator for Company Stock",
+      "link": "https://signed.com/tools/qsbs-calculator",
+      "pubDate": "Wed, 12 Aug 2026 18:06:57 +0000",
+      "date": "Wed, 12 Aug 2026 18:06:57 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi there.\nI'm testing this hypothesis with new chess rules. These changes to the rules can be easily brought to offline games as well.\nAlso if you are brave and have an Apple device here is the link to TestFlight to play with mobile version https://testflight.apple.com/join/e3YHrhJs\nComments URL: https://news.ycombinator.com/item?id=49270820\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270820"
+      "contentSnippet": "Article URL: https://signed.com/tools/qsbs-calculator\nComments URL: https://news.ycombinator.com/item?id=49276417\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49276417"
     },
     {
-      "title": "Show HN: A voice layer over my whole computer: shell, agents, mouse, keyboard",
-      "link": "https://github.com/PersonalJarvis/PersonalJarvis",
-      "pubDate": "Wed, 12 Aug 2026 11:35:49 +0000",
-      "date": "Wed, 12 Aug 2026 11:35:49 +0000",
+      "title": "Show HN: StarryKit – MCP for editable slides, posters and all visual designs",
+      "link": "https://github.com/StarryKit/starrykit-plugin/",
+      "pubDate": "Wed, 12 Aug 2026 18:04:12 +0000",
+      "date": "Wed, 12 Aug 2026 18:04:12 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/PersonalJarvis/PersonalJarvis\nComments URL: https://news.ycombinator.com/item?id=49270788\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49270788"
+      "contentSnippet": "Article URL: https://github.com/StarryKit/starrykit-plugin/\nComments URL: https://news.ycombinator.com/item?id=49276368\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49276368"
     },
     {
-      "title": "Show HN: FlightWifi – Know if a flight's Wi-Fi can hold a video call",
-      "link": "https://chromewebstore.google.com/detail/flightwifi/omoclebljmjljikaoaogdpahjlbmdbin",
-      "pubDate": "Wed, 12 Aug 2026 11:02:24 +0000",
-      "date": "Wed, 12 Aug 2026 11:02:24 +0000",
+      "title": "Show HN: Forge code a fun coding challenge website",
+      "link": "https://forgecode.org",
+      "pubDate": "Wed, 12 Aug 2026 18:01:49 +0000",
+      "date": "Wed, 12 Aug 2026 18:01:49 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Google Flights tells you a flight has \"Wi-Fi for a fee\" but never whether it can hold a video call.\nThis adds an honest verdict to each flight on\nGoogle Flights and Skyscanner etc, built from researching 237 airlines against their own pages.\nNo permissions, no network requests, no accounts.\nComments URL: https://news.ycombinator.com/item?id=49270508\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270508"
+      "contentSnippet": "Article URL: https://forgecode.org\nComments URL: https://news.ycombinator.com/item?id=49276337\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49276337"
+    },
+    {
+      "title": "Show HN: Open Analytics – open-source and self hostable web analytics",
+      "link": "https://getopen.so",
+      "pubDate": "Wed, 12 Aug 2026 17:55:14 +0000",
+      "date": "Wed, 12 Aug 2026 17:55:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://getopen.so\nComments URL: https://news.ycombinator.com/item?id=49276245\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49276245"
+    },
+    {
+      "title": "Show HN: AutoCorrect PC – Autocorrect, predictive text, AI writing for Windows",
+      "link": "https://www.autocorrectforpc.com",
+      "pubDate": "Wed, 12 Aug 2026 17:39:55 +0000",
+      "date": "Wed, 12 Aug 2026 17:39:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.autocorrectforpc.com\nComments URL: https://news.ycombinator.com/item?id=49276049\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49276049"
+    },
+    {
+      "title": "Show HN: Programmdle, a daily Wordle game for guessing programming languages",
+      "link": "https://programmdle.dev",
+      "pubDate": "Wed, 12 Aug 2026 17:37:00 +0000",
+      "date": "Wed, 12 Aug 2026 17:37:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://programmdle.dev\nComments URL: https://news.ycombinator.com/item?id=49276014\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49276014"
+    },
+    {
+      "title": "Show HN: Reallyfrom.me – vouch that your message is from you",
+      "link": "https://news.ycombinator.com/item?id=49275954",
+      "pubDate": "Wed, 12 Aug 2026 17:33:04 +0000",
+      "date": "Wed, 12 Aug 2026 17:33:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Having a message sent from someone who cared enough to read and write that message to you is important.  But with agentic and autonomous methods of sending messages, it's harder to trust that any effort has gone into writing a message.\nSo we created ReallyFrom.me -- write a message, generate a hash code and send the message to whomever with the link we create.  The recipient can paste your message to confirm that it's identical.  You can also have an option to make your message public on the ver",
+      "guid": "https://news.ycombinator.com/item?id=49275954"
+    },
+    {
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "link": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "pubDate": "Wed, 12 Aug 2026 17:26:58 GMT",
+      "date": "Wed, 12 Aug 2026 17:26:58 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Elon Musk's company SpaceXAI, formerly known as xAI, has released Grok 4.6, its latest frontier AI model, with a focus on long-running agents, coding and knowledge work — and a pricing strategy designed to make those workloads cheaper to run.\nThe model scores 61 on the third-party Artificial Analysis Intelligence Index, surpassing the popular open weights Chinese model from Moonshot, Kimi K3, and tying rival OpenAI's GPT-5.6 Sol Max and improving five points over Grok 4.5 High. Anthropic's Claud",
+      "guid": "20h3oQUu5AOXtHvAJsXUsA"
+    },
+    {
+      "title": "Show HN: VocalCode",
+      "link": "https://news.ycombinator.com/item?id=49275720",
+      "pubDate": "Wed, 12 Aug 2026 17:17:10 +0000",
+      "date": "Wed, 12 Aug 2026 17:17:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I represent VocalCode and am sharing it as a maker introduction. The project is available at https://vocalcode.app/. I’d appreciate good-faith feedback on the site, clarity of the presentation, and any questions you have.\nComments URL: https://news.ycombinator.com/item?id=49275720\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49275720"
+    },
+    {
+      "title": "Show HN: Sonny OS – An async Rust microkernel replacing ROS 2/DDS with Zenoh",
+      "link": "https://github.com/JackTrainer/Sonny",
+      "pubDate": "Wed, 12 Aug 2026 17:09:09 +0000",
+      "date": "Wed, 12 Aug 2026 17:09:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/JackTrainer/Sonny\nComments URL: https://news.ycombinator.com/item?id=49275583\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49275583"
+    },
+    {
+      "title": "Show HN: An idle desktop incremental game driven by coding-agent",
+      "link": "https://news.ycombinator.com/item?id=49275479",
+      "pubDate": "Wed, 12 Aug 2026 17:01:02 +0000",
+      "date": "Wed, 12 Aug 2026 17:01:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "While Codex or Claude is thinking or using tools, the game rains balls. As soon as the agent yields, new balls stop falling.\nI built it because I was bored of waiting during coding sessions—and I didn’t want to spend that time doomscrolling.\nThe idea was inspired by a trip to Tokyo, where I saw people staring almost hypnotically at pachinko machines after work. I found it fascinating: something visually stimulating, interactive, and strangely relaxing, but with clear limitations.\nAt first, the p",
+      "guid": "https://news.ycombinator.com/item?id=49275479"
+    },
+    {
+      "title": "Show HN: Claude Code kept ignoring our MCP tools, so we used hooks instead",
+      "link": "https://github.com/NanoNets/Graft",
+      "pubDate": "Wed, 12 Aug 2026 16:54:54 +0000",
+      "date": "Wed, 12 Aug 2026 16:54:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/NanoNets/Graft\nComments URL: https://news.ycombinator.com/item?id=49275395\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49275395"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "pubDate": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "date": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
+      "guid": "https://www.technologyreview.com/?p=1141032"
+    },
+    {
+      "title": "Show HN: Snipsy – turn photos into a dated stamp keepsake, sent the same day",
+      "link": "https://hosting-pages.netlify.app/snipsy",
+      "pubDate": "Wed, 12 Aug 2026 16:46:50 +0000",
+      "date": "Wed, 12 Aug 2026 16:46:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hosting-pages.netlify.app/snipsy\nComments URL: https://news.ycombinator.com/item?id=49275253\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49275253"
+    },
+    {
+      "title": "Show HN: Harbofly, reclaim the 20–100GB of dev caches on your Mac",
+      "link": "https://harbofly.app",
+      "pubDate": "Wed, 12 Aug 2026 16:41:48 +0000",
+      "date": "Wed, 12 Aug 2026 16:41:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://harbofly.app\nComments URL: https://news.ycombinator.com/item?id=49275175\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49275175"
+    },
+    {
+      "title": "Show HN: Tanchi – Open-source AI prospecting agent that only automates email",
+      "link": "https://github.com/tanchihq/tanchi",
+      "pubDate": "Wed, 12 Aug 2026 16:28:30 +0000",
+      "date": "Wed, 12 Aug 2026 16:28:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/tanchihq/tanchi\nComments URL: https://news.ycombinator.com/item?id=49274973\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49274973"
+    },
+    {
+      "title": "Show HN: Pane – An open-source browser that turns your work into living websites",
+      "link": "https://github.com/abhishek-verma/Pane",
+      "pubDate": "Wed, 12 Aug 2026 16:25:16 +0000",
+      "date": "Wed, 12 Aug 2026 16:25:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "TLDR: I wasn't satisfied with any of the AI browsers available right now. So, I went wild and built exactly what I wanted. I built a browser that's as comprehensive as an autonomous agent like Hermes, while removing the need for hundreds of integrations since this is literally your browser.\nThen I thought, what if the browser could build websites that are built just for my work, and can grow with my work. So my workflow changes from chatting with a bot to navigating these websites and clicking b",
+      "guid": "https://news.ycombinator.com/item?id=49274936"
+    },
+    {
+      "title": "Show HN: My first app got 97% on MacSources",
+      "link": "https://macsources.com/tickernotch-macos-app-review/",
+      "pubDate": "Wed, 12 Aug 2026 16:18:32 +0000",
+      "date": "Wed, 12 Aug 2026 16:18:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Background of my idea:\nI trade as a side hustle. I used to keep browser tabs or use paid software (e.g. TradingView) just to check charts and news. I was ending up spending countless hours just staring at charts and falling into news rabbit holes overanalyzing and getting distracted (thanks to my ADHD too). I have a MacBook Pro and noticed some apps taking advantage of the notch (which I never got used to it NGL). So my idea was to build an app from scratch that shows everything I needed to stay",
+      "guid": "https://news.ycombinator.com/item?id=49274824"
+    },
+    {
+      "title": "Show HN: CrewScore – coverage check for AI agent prompts (0.6.11)",
+      "link": "https://crewscore.ai/",
+      "pubDate": "Wed, 12 Aug 2026 16:17:31 +0000",
+      "date": "Wed, 12 Aug 2026 16:17:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://crewscore.ai/\nComments URL: https://news.ycombinator.com/item?id=49274808\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49274808"
+    },
+    {
+      "title": "Base Power Company: Chapter 3",
+      "link": "https://www.notboring.co/p/base-power-company-chapter-3",
+      "pubDate": "Wed, 12 Aug 2026 13:53:37 GMT",
+      "date": "Wed, 12 Aug 2026 13:53:37 GMT",
+      "source": "Not Boring",
+      "category": "voices",
+      "icon": "🚀",
+      "contentSnippet": "Manufacturing the Capability Cannon",
+      "guid": "https://www.notboring.co/p/base-power-company-chapter-3"
+    },
+    {
+      "title": "How to Teach Quantum Physics to Littles (and Older Students Too)",
+      "link": "https://www.coolcatteacher.com/how-to-teach-quantum-physics-to-littles-and-older-students-too/",
+      "pubDate": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "date": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nDr. Nneka McGee says that quantum computing today is where AI was nine years ago. So, she's learned how to teach superposition and entanglement to five-year-olds with a penny and a paper plate. (No computer, just concepts.) She also shares why waiting for the breakthrough means waiting too long. \nThe post How to Teach Quantum Physics to Littles (and ",
+      "guid": "https://www.coolcatteacher.com/?p=35158"
     },
     {
       "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
@@ -92,72 +290,6 @@
       "guid": "7r8IBdT0iOvfNCe2cw1yM"
     },
     {
-      "title": "Show HN: A declarative, SwiftUI toolkit that renders to <canvas>",
-      "link": "https://pixdeo.github.io/weavekit/",
-      "pubDate": "Wed, 12 Aug 2026 10:53:02 +0000",
-      "date": "Wed, 12 Aug 2026 10:53:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://pixdeo.github.io/weavekit/\nComments URL: https://news.ycombinator.com/item?id=49270419\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270419"
-    },
-    {
-      "title": "Show HN: BentoDesk – Elegant Windows desktop organizer powered by Rust",
-      "link": "https://github.com/ZRainbow1275/bentodesk",
-      "pubDate": "Wed, 12 Aug 2026 10:40:11 +0000",
-      "date": "Wed, 12 Aug 2026 10:40:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ZRainbow1275/bentodesk\nComments URL: https://news.ycombinator.com/item?id=49270304\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270304"
-    },
-    {
-      "title": "Show HN: Gribble – Pixelated pixel art editor in the browser",
-      "link": "https://gribble.app",
-      "pubDate": "Wed, 12 Aug 2026 10:30:31 +0000",
-      "date": "Wed, 12 Aug 2026 10:30:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Last year I started working on this pixel art tool to make pixelated frontend components, and as it evolved I used the tool to improve the tool, and so on. And now after some time it's a full editor with layers, frames and a public gallery running in the browser with pixelated components!\nIt currently has an Android app too, and the iOS app is under review.\nSome of the cooler features to check out:\n- Code export to make pixelated components in CSS or JavaScript canvas\n- A gallery where you can \"",
-      "guid": "https://news.ycombinator.com/item?id=49270238"
-    },
-    {
-      "title": "Show HN: Huntclaw – a fast (maybe fastest) simple find-and-replace utility",
-      "link": "https://github.com/tigerlang/huntclaw",
-      "pubDate": "Wed, 12 Aug 2026 10:22:16 +0000",
-      "date": "Wed, 12 Aug 2026 10:22:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello everyone,\nI’d like to introduce huntclaw—a find-and-replace utility written in Zig that turned out to be faster than sd (written in Rust) and the standard GNU utilities.\n(benchmark as .png and .py script available on github repo, you can verify the accuracy of the benchmark: I've uploaded the test to the repository, including the better tests.)\nThere’s a fairly simple explanation for this high speed: the lack of a regex engine and a focus on speed itself, but I don’t think that’s a bad thi",
-      "guid": "https://news.ycombinator.com/item?id=49270160"
-    },
-    {
-      "title": "Show HN: Visual knowledge graphs using Ollama and Embeddings",
-      "link": "https://github.com/punnerud/Local_Knowledge_Graph",
-      "pubDate": "Wed, 12 Aug 2026 10:15:21 +0000",
-      "date": "Wed, 12 Aug 2026 10:15:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/punnerud/Local_Knowledge_Graph\nComments URL: https://news.ycombinator.com/item?id=49270102\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49270102"
-    },
-    {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "link": "https://woxi.ad-si.com",
-      "pubDate": "Wed, 12 Aug 2026 10:06:29 +0000",
-      "date": "Wed, 12 Aug 2026 10:06:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Woxi is an interpreter for the Wolfram Language written in Rust.\nIt comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python package, npm package, or WASM module.\nCompared with wolframscript / Mathematica, the main differences are:\n- Free and open source\n- Very fast startup - Typically milliseconds rather than seconds for the Wolfram kernel, making Woxi practical for shell scripts, one-liners, and other short-lived processes\n",
-      "guid": "https://news.ycombinator.com/item?id=49270040"
-    },
-    {
       "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
       "link": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
       "pubDate": "Wed, 12 Aug 2026 10:00:00 +0000",
@@ -167,39 +299,6 @@
       "icon": "📊",
       "contentSnippet": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
       "guid": "https://stratechery.com/?p=19684"
-    },
-    {
-      "title": "Show HN: Salary raise calculator with tax and inflation estimates",
-      "link": "https://salaryincreasecalculator.app/",
-      "pubDate": "Wed, 12 Aug 2026 09:51:15 +0000",
-      "date": "Wed, 12 Aug 2026 09:51:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://salaryincreasecalculator.app/\nComments URL: https://news.ycombinator.com/item?id=49269913\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49269913"
-    },
-    {
-      "title": "Show HN: Craft (Minecraft clone) rewritten in Rust under a $120 budgeted (Grok)",
-      "link": "https://zozo123.github.io/Craft/",
-      "pubDate": "Wed, 12 Aug 2026 09:21:41 +0000",
-      "date": "Wed, 12 Aug 2026 09:21:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://zozo123.github.io/Craft/\nComments URL: https://news.ycombinator.com/item?id=49269728\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49269728"
-    },
-    {
-      "title": "Show HN: Replaced news reading with two tiny editions a day, then made it public",
-      "link": "https://cutthroat.news/",
-      "pubDate": "Wed, 12 Aug 2026 09:17:48 +0000",
-      "date": "Wed, 12 Aug 2026 09:17:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I am passionate news reader \"to stay informed\", which used to take 60-90 minutes daily. Then somewhere around February I wrote local news reader to fetch feeds and articles, feed them to AI along with my profile, ending with very tight digest of everything that interests me, joy and few minutes to read. Lots of Python and exposed scripting wires but it worked well. Then other people saw what I had and wanted the same, on their specific topics, which required some planning. Several months later: ",
-      "guid": "https://news.ycombinator.com/item?id=49269702"
     },
     {
       "title": "How we picked 35 of the world’s top young scientists and engineers",
@@ -213,70 +312,15 @@
       "guid": "https://www.technologyreview.com/?p=1141605"
     },
     {
-      "title": "Show HN: Eclipse locator: find the best place to see the solar eclipse",
-      "link": "https://jdlm.info/eclipse-locator/",
-      "pubDate": "Wed, 12 Aug 2026 09:04:48 +0000",
-      "date": "Wed, 12 Aug 2026 09:04:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jdlm.info/eclipse-locator/\nComments URL: https://news.ycombinator.com/item?id=49269616\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49269616"
-    },
-    {
-      "title": "Show HN: SoundGate – Real-time note detection and AI tutor for guitar",
-      "link": "https://soundgate.ai/product/",
-      "pubDate": "Wed, 12 Aug 2026 08:59:38 +0000",
-      "date": "Wed, 12 Aug 2026 08:59:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://soundgate.ai/product/\nComments URL: https://news.ycombinator.com/item?id=49269584\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49269584"
-    },
-    {
-      "title": "Show HN: Team chat you won't dread opening",
-      "link": "https://fosbury.ai/",
-      "pubDate": "Wed, 12 Aug 2026 08:58:22 +0000",
-      "date": "Wed, 12 Aug 2026 08:58:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Fosbury is more enjoyable, more efficient way for product teams to communicate.\nHow a team communicates decides how fast it moves and whether the work is any good. Yet the leading tools were designed for everyone being present and without agents in the loop.\nWhat are we about:\n01 - Speed and zero friction. Keyboard-first, and instant.\n02 - Structure by default. Every thread has an owner, a state and an end.\n03 - Async by default. Nothing rewards you for being online.\nThanks, would love to hear a",
-      "guid": "https://news.ycombinator.com/item?id=49269576"
-    },
-    {
-      "title": "Show HN: YOalphabet – A 4-bit isomorphic graphical interface system",
-      "link": "https://github.com/YOalphabet/YOalphabet",
-      "pubDate": "Wed, 12 Aug 2026 08:51:13 +0000",
-      "date": "Wed, 12 Aug 2026 08:51:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/YOalphabet/YOalphabet\nComments URL: https://news.ycombinator.com/item?id=49269509\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49269509"
-    },
-    {
-      "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
-      "link": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
       "pubDate": "Wed, 12 Aug 2026 07:30:00 GMT",
       "date": "Wed, 12 Aug 2026 07:30:00 GMT",
       "source": "VentureBeat",
       "category": "new-tools",
       "icon": "📰",
-      "contentSnippet": "Across 170 enterprises, AI infrastructure has moved decisively into production — two-thirds now run AI workloads live and three in 10 run them at scale — while the ability to account for what that infrastructure costs has not kept pace. Enterprises have quietly demoted cost in the buying decision: performance and GPU availability now outrank total cost of ownership, and reliability outranks price as the measure of success. That reordering is rational for teams under production pressure, but it l",
-      "guid": "2le85EAeynlfLmZUbMQI1a"
-    },
-    {
-      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
-      "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
-      "pubDate": "Wed, 12 Aug 2026 07:30:00 GMT",
-      "date": "Wed, 12 Aug 2026 07:30:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that evaluations don’t match real-world outcomes fell 10 points. Yet the same share as last month — just under half — shipped an agent that passed its evals and then failed a customer. The reason is visible in the cross-tabs: ",
-      "guid": "5DLHuH5GazRPZOio8lf31u"
+      "contentSnippet": "Across 107 enterprises, agentic orchestration is not a choice of a single platform.\nThe typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthropic leads forward consideration by a wide margin. \nThe AI control plane enterprises expect is deliberately hybrid, meaning it includes use of the leading AI providers, but also provider-independent technologies — and the",
+      "guid": "6TlXV1q216cTaQNNldUgw2"
     },
     {
       "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
@@ -290,15 +334,15 @@
       "guid": "26DkFP2SUmxtYMj1nxS2Kf"
     },
     {
-      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
-      "link": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "link": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
       "pubDate": "Wed, 12 Aug 2026 07:30:00 GMT",
       "date": "Wed, 12 Aug 2026 07:30:00 GMT",
       "source": "VentureBeat",
       "category": "new-tools",
       "icon": "📰",
-      "contentSnippet": "Across 107 enterprises, agentic orchestration is not a choice of a single platform.\nThe typical enterprise runs three orchestration platforms at once, and selects them for flexibility across models rather than affinity to any single one. Microsoft leads primary usage while Anthropic leads forward consideration by a wide margin. \nThe AI control plane enterprises expect is deliberately hybrid, meaning it includes use of the leading AI providers, but also provider-independent technologies — and the",
-      "guid": "6TlXV1q216cTaQNNldUgw2"
+      "contentSnippet": "Across 108 enterprises, trust in automated agent evaluation rose sharply in July — and the failure rate it is supposed to predict did not move at all. The share of organizations that fully trust automated evaluation nearly tripled, from 5% in June to 13%, and the complaint that evaluations don’t match real-world outcomes fell 10 points. Yet the same share as last month — just under half — shipped an agent that passed its evals and then failed a customer. The reason is visible in the cross-tabs: ",
+      "guid": "5DLHuH5GazRPZOio8lf31u"
     },
     {
       "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
@@ -319,7 +363,7 @@
       "source": "EdSurge · Education Tech",
       "category": "ai-education",
       "icon": "📚",
-      "contentSnippet": "I left my school to ask tech executives how to prepare students for the future. The answer wasn’t a software suite; it was a radical commitment to ...",
+      "contentSnippet": "I left my school to ask tech executives how to prepare students for the future.",
       "guid": "post-guid-68ffdfd"
     },
     {
@@ -332,17 +376,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
-    },
-    {
-      "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
-      "link": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
-      "pubDate": "Tue, 11 Aug 2026 21:07:00 GMT",
-      "date": "Tue, 11 Aug 2026 21:07:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "SpaceXAI, the division of SpaceX formerly known as xAI, is launching an early beta version of Grok Bot, a new agent designed to move AI assistants beyond answering prompts and toward continuously executing work across the software employees already use.\nThe central idea is straightforward: instead of opening an AI assistant whenever a task arises, users create persistent Bots with specific jobs, give them access to applications and websites, and delegate work much as they would to a teammate. \nE",
-      "guid": "4Rq5PLcM0fUB9Gqv8wnUuP"
     }
   ]
 }
