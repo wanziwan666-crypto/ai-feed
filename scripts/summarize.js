@@ -13,7 +13,10 @@ const DATA_DIR = path.join(__dirname, '..', 'data');
 const RAW_FILE = path.join(DATA_DIR, 'feed.json');
 const DATA_FILE = path.join(DATA_DIR, 'feeds.json');
 const CLICKS_FILE = path.join(DATA_DIR, 'clicks.json');
+const SEEN_FILE = path.join(DATA_DIR, 'seen.json');
 const MAX_ITEMS_KEEP = 200;
+const SEEN_MAX_AGE_HOURS = 72;
+const SEEN_MAX_ENTRIES = 1000;
 
 const openai = new OpenAI({ apiKey: API_KEY, baseURL: BASE_URL });
 
@@ -24,6 +27,39 @@ function readJson(file) {
     console.error(`Error loading ${file}: ${e.message}`);
   }
   return null;
+}
+
+// 已处理 guid 记录（含 N/A 项），避免每天对无关内容重复调用 LLM
+function loadSeen() {
+  const data = readJson(SEEN_FILE);
+  const guids = new Set();
+  const timestamps = new Map();
+  if (data?.guids) {
+    const cutoff = Date.now() - SEEN_MAX_AGE_HOURS * 3600 * 1000;
+    for (const entry of data.guids) {
+      if (typeof entry === 'string') {
+        guids.add(entry);
+      } else if (entry && entry.guid) {
+        if (entry.ts && entry.ts < cutoff) continue;
+        guids.add(entry.guid);
+        timestamps.set(entry.guid, entry.ts);
+      }
+    }
+  }
+  return { guids, timestamps };
+}
+
+function saveSeen(guids, existing) {
+  const now = Date.now();
+  const cutoff = now - SEEN_MAX_AGE_HOURS * 3600 * 1000;
+  const map = new Map(existing.timestamps);
+  guids.forEach((g) => map.set(g, map.get(g) || now));
+  const entries = [...map.entries()]
+    .filter(([, ts]) => ts >= cutoff)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, SEEN_MAX_ENTRIES)
+    .map(([guid, ts]) => ({ guid, ts }));
+  fs.writeFileSync(SEEN_FILE, JSON.stringify({ updatedAt: new Date().toISOString(), guids: entries }, null, 2), 'utf-8');
 }
 
 // 从历史点击的摘要中提取主题关键词（N-gram fallback）
@@ -255,11 +291,14 @@ async function main() {
   }
   console.log(`Raw items in feed.json: ${rawItems.length}`);
 
-  // 2. 读已有摘要数据，按 guid 去重
+  // 2. 读已有摘要数据 + 已处理记录，按 guid 去重
   const existingData = readJson(DATA_FILE);
-  const existingGuids = new Set((existingData?.items || []).map((i) => i.guid));
-  const newItems = rawItems.filter((i) => !existingGuids.has(i.guid));
-  console.log(`New items: ${newItems.length}, Already summarized: ${rawItems.length - newItems.length}`);
+  const seen = loadSeen();
+  // 首次迁移：feeds.json 里已有的 guid 视为已处理
+  (existingData?.items || []).forEach((i) => seen.guids.add(i.guid));
+
+  const newItems = rawItems.filter((i) => !seen.guids.has(i.guid));
+  console.log(`New items: ${newItems.length}, Already processed: ${rawItems.length - newItems.length}`);
 
   // 3. 生成摘要
   const userPreferences = buildUserPreferences();
@@ -270,6 +309,9 @@ async function main() {
     summarizedNew = await summarizeBatch(newItems, userPreferences);
   }
   const validNew = summarizedNew.filter((i) => i.summary);
+
+  // 记录所有本轮处理过的 guid（含 N/A），下次跳过
+  saveSeen(newItems.map((i) => i.guid), seen);
 
   // 4. 合并历史（保留有摘要的），按时间倒序，最多 200 条
   const allExisting = (existingData?.items || []).filter((i) => i.summary);
