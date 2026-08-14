@@ -1,8 +1,239 @@
 {
-  "generatedAt": "2026-08-13T18:51:43.235Z",
+  "generatedAt": "2026-08-14T01:10:48.197Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 28,
   "items": [
+    {
+      "title": "Show HN: Minesweeper with flowers game you can fork",
+      "link": "https://forkcade.com/gallery/minesweeper-flowers",
+      "pubDate": "Fri, 14 Aug 2026 00:14:41 +0000",
+      "date": "Fri, 14 Aug 2026 00:14:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "This is minesweeper but with flowers, you can fork the game and make it your own with an AI prompt.  I forked the minesweeper game and had it add flowers.\nComments URL: https://news.ycombinator.com/item?id=49293327\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49293327"
+    },
+    {
+      "title": "Show HN: Auto-train the harness, not the LLM. cross-model, cross-benchmark gains",
+      "link": "https://github.com/workofart/harness-training",
+      "pubDate": "Fri, 14 Aug 2026 00:05:34 +0000",
+      "date": "Fri, 14 Aug 2026 00:05:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/workofart/harness-training\nComments URL: https://news.ycombinator.com/item?id=49293267\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49293267"
+    },
+    {
+      "title": "Show HN: Referee.Chat - Set the goal. An AI panel works. Referee clears it done",
+      "link": "https://referee.chat/",
+      "pubDate": "Thu, 13 Aug 2026 23:53:33 +0000",
+      "date": "Thu, 13 Aug 2026 23:53:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://referee.chat/\nComments URL: https://news.ycombinator.com/item?id=49293191\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49293191"
+    },
+    {
+      "title": "Show HN: Code Stitcher Godot Support",
+      "link": "https://news.ycombinator.com/item?id=49293089",
+      "pubDate": "Thu, 13 Aug 2026 23:39:47 +0000",
+      "date": "Thu, 13 Aug 2026 23:39:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Now fully suppporting .tscn and .gd files.  Let AI do all the work, like, ALL of the work.\nOr go back to playing with agents, that's what the REAL coders do.  Spin up agent after agent and wonder where all your money went.\nhttps://github.com/ue-patcher/Code_Stitcher/releases/tag/v3....\nComments URL: https://news.ycombinator.com/item?id=49293089\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49293089"
+    },
+    {
+      "title": "Show HN: YazSes – offline hold-to-talk voice dictation for Linux/macOS/Windows",
+      "link": "https://github.com/MSKazemi/yazses",
+      "pubDate": "Thu, 13 Aug 2026 23:16:29 +0000",
+      "date": "Thu, 13 Aug 2026 23:16:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/MSKazemi/yazses\nComments URL: https://news.ycombinator.com/item?id=49292931\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49292931"
+    },
+    {
+      "title": "Show HN: AI Slop Kitchen",
+      "link": "https://play-kitchen.netlify.app/",
+      "pubDate": "Thu, 13 Aug 2026 22:49:47 +0000",
+      "date": "Thu, 13 Aug 2026 22:49:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been vibe coding small games with my 3 year old.  We stumbled upon this kitchen format\nComments URL: https://news.ycombinator.com/item?id=49292742\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49292742"
+    },
+    {
+      "title": "Show HN: Making Autonomous Work Reviewable",
+      "link": "https://markupbase.com/whitepapers/making-autonomous-work-reviewable/",
+      "pubDate": "Thu, 13 Aug 2026 22:39:02 +0000",
+      "date": "Thu, 13 Aug 2026 22:39:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://markupbase.com/whitepapers/making-autonomous-work-reviewable/\nComments URL: https://news.ycombinator.com/item?id=49292676\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49292676"
+    },
+    {
+      "title": "Show HN: MCP-stama – An ultra-fast Rust MCP server with no dependencies",
+      "link": "https://github.com/StamManif/mcp-stama",
+      "pubDate": "Thu, 13 Aug 2026 22:26:25 +0000",
+      "date": "Thu, 13 Aug 2026 22:26:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/StamManif/mcp-stama\nComments URL: https://news.ycombinator.com/item?id=49292584\nPoints: 71\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49292584"
+    },
+    {
+      "title": "Show HN: Mirage Browser, the deadest of internets. ~1000 tok/s 1998 internet",
+      "link": "https://miragebrowser.xyz/",
+      "pubDate": "Thu, 13 Aug 2026 22:07:41 +0000",
+      "date": "Thu, 13 Aug 2026 22:07:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Mirage browser is a real time, interactive retro internet simulation. You can type any website into the url bar and it will be generated at ~1000 tokens/sec.\nClick on any link and it will generate the consecutive page immediately.\nAdditionally, you can use the 'search engine', classifieds or encyclopedia directly from the browser home page. Or make one up and visit it.\nIf you encounter any phone numbers you have the ability to call it and speak with whoever is on the other side of the line.\nComm",
+      "guid": "https://news.ycombinator.com/item?id=49292452"
+    },
+    {
+      "title": "Show HN: Hearth – a shared family workspace where an agent can build apps",
+      "link": "https://news.ycombinator.com/item?id=49292004",
+      "pubDate": "Thu, 13 Aug 2026 21:18:38 +0000",
+      "date": "Thu, 13 Aug 2026 21:18:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN — I built Hearth for my family: https://ourhearth.ai\nHearth is a shared workspace for a household. We use it for plans, notes, schedules, people, and recurring family rituals, with an AI agent that can work across that context. Kind of like a shared Obsidian with an agent.\nThe cool part is that the agent can also build apps on top of the family's notes and run them inside the same workspace. We have a calendar and a travel app, for instance, and all the apps I use to manage my company's op",
+      "guid": "https://news.ycombinator.com/item?id=49292004"
+    },
+    {
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "pubDate": "Thu, 13 Aug 2026 21:00:00 +0000",
+      "date": "Thu, 13 Aug 2026 21:00:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
+      "guid": "https://www.technologyreview.com/?p=1141399"
+    },
+    {
+      "title": "Show HN: I built a multi-step API testing tool that's designed to be self-hosted",
+      "link": "https://github.com/test-fleet/control-server",
+      "pubDate": "Thu, 13 Aug 2026 20:53:56 +0000",
+      "date": "Thu, 13 Aug 2026 20:53:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/test-fleet/control-server\nComments URL: https://news.ycombinator.com/item?id=49291715\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49291715"
+    },
+    {
+      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
+      "link": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
+      "pubDate": "Thu, 13 Aug 2026 20:14:20 GMT",
+      "date": "Thu, 13 Aug 2026 20:14:20 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Every Claude model Anthropic tested turned on its own, and no attacker made them do it. Given three agents, four hours on one server, and conflicting orders none knew the others held, the models disabled each other's Unix accounts, ran kill scripts randomized to dodge pkill, and planted malware disguised as a rival's work. There was no prompt injection and no adversary. Anthropic's Frontier Red Team published the transcripts on Thursday and called the escalation “increasingly aggressive, self-re",
+      "guid": "5s4nliRe8aMQl0oAyHkrg3"
+    },
+    {
+      "title": "Show HN: Snippety.app – macOS snippet manager I've been building for 6 years",
+      "link": "https://snippety.app",
+      "pubDate": "Thu, 13 Aug 2026 20:12:09 +0000",
+      "date": "Thu, 13 Aug 2026 20:12:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Snippety is my most important project - an advanced, 100% native text expander for Mac and iPhone.\nI originally started building it for myself, but over time I decided to make it useful for others too. I've really enjoyed working on this app, and in March I quit my job to take some time to rest and focus more on Snippety.\nSince then, I've added a lot of features, including a compact interface, conditional blocks, a CLI, and more.\nI've created and maintained this app from top to bottom all by mys",
+      "guid": "https://news.ycombinator.com/item?id=49291244"
+    },
+    {
+      "title": "Show HN: Session Recorder – an always-on system audio tape for macOS",
+      "link": "https://sessionrecorder.com/",
+      "pubDate": "Thu, 13 Aug 2026 20:02:13 +0000",
+      "date": "Thu, 13 Aug 2026 20:02:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sessionrecorder.com/\nComments URL: https://news.ycombinator.com/item?id=49291142\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49291142"
+    },
+    {
+      "title": "Show HN: DynaFX – Simulation meets knowledge graphs",
+      "link": "https://github.com/Achref-Yak/DynaFX",
+      "pubDate": "Thu, 13 Aug 2026 19:56:46 +0000",
+      "date": "Thu, 13 Aug 2026 19:56:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Multi-paradigm system dynamics framework (SD + ABM + DES) with an RDF/OWL/SPARQL knowledge engine.\nComments URL: https://news.ycombinator.com/item?id=49291085\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49291085"
+    },
+    {
+      "title": "Show HN: Multi-version management (by xlings) for DeepSeek Harness",
+      "link": "https://openxlings.github.io/xim-pkgindex/en/packages/dsh/",
+      "pubDate": "Thu, 13 Aug 2026 19:53:34 +0000",
+      "date": "Thu, 13 Aug 2026 19:53:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "xlings support multi-version management for package, I have add support for dsh. you can try it\n## Base Usage\nxlings install dsh@0.1.0-rc.6 -y && xlings install dsh@0.1.0-rc.3 -y\nxlings use dsh\nxlings use dsh 0.1.0-rc.6 && dsh --version\nxlings use dsh 0.1.0-rc.3 && dsh --version\n## Advanced Usage\n### In terminal-1\nxlings subos new dsh-1\nxlings subos use dsh-1\nxlings install dsh@0.1.0-rc.6 -y -u\ndsh --version\n### In terminal-2\nxlings subos new dsh-2\nxlings subos use dsh-2\nxlings install dsh@0.1.0",
+      "guid": "https://news.ycombinator.com/item?id=49291049"
+    },
+    {
+      "title": "Show HN: Bsdkrun – Instant MicroVMs/Unikernels for macOS and Linux",
+      "link": "https://github.com/tsirysndr/bsdkrun",
+      "pubDate": "Thu, 13 Aug 2026 19:47:31 +0000",
+      "date": "Thu, 13 Aug 2026 19:47:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/tsirysndr/bsdkrun\nComments URL: https://news.ycombinator.com/item?id=49290992\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49290992"
+    },
+    {
+      "title": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
+      "link": "https://clixad.io/",
+      "pubDate": "Thu, 13 Aug 2026 19:46:53 +0000",
+      "date": "Thu, 13 Aug 2026 19:46:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://clixad.io/\nComments URL: https://news.ycombinator.com/item?id=49290984\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49290984"
+    },
+    {
+      "title": "Show HN: MLTraining Free AI/ML training resources for everyone",
+      "link": "https://mltraining.org/",
+      "pubDate": "Thu, 13 Aug 2026 19:02:59 +0000",
+      "date": "Thu, 13 Aug 2026 19:02:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mltraining.org/\nComments URL: https://news.ycombinator.com/item?id=49290500\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49290500"
+    },
+    {
+      "title": "Show HN: Cadre.rocks A local-first board for orchestrating coding agents",
+      "link": "https://cadre.rocks/",
+      "pubDate": "Thu, 13 Aug 2026 18:58:10 +0000",
+      "date": "Thu, 13 Aug 2026 18:58:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://cadre.rocks/\nComments URL: https://news.ycombinator.com/item?id=49290445\nPoints: 4\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49290445"
+    },
     {
       "title": "Show HN: LymeScribe – one computer on your network transcribes for the rest",
       "link": "https://transcribe.lymestack.com/",
@@ -13,28 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Transcribed with LymeScribe just before posting this: \"I realize it's a little bit late in the day to be posting on Hacker News. However, I've been looking at this frog for a good two weeks now, and F it, I'm just going to ship it. I've posted on Hacker News now like three or four times with little to no results. So if a tree falls in the woods...\" (I censored the F word, but it transcribed just fine.)\nTL;DR: LymeScribe is local speech to text for Mac and Windows: dictate into any app, or drop i",
       "guid": "https://news.ycombinator.com/item?id=49289952"
-    },
-    {
-      "title": "Show HN: OpenCode Senses, An insanely fast and highly accurate vision plugin",
-      "link": "https://github.com/itsmeadarsh2008/opencode-senses",
-      "pubDate": "Thu, 13 Aug 2026 18:13:42 +0000",
-      "date": "Thu, 13 Aug 2026 18:13:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The vision plugin for OpenCode that truly understands images. Inspect, read, and reason about any screenshot or picture with deeper understanding than any other plugin — fully local, private, and free.\nNormally, it takes 300ms to analyse one image on my laptop, which is pretty fast for a local vision model. I use moondream2 as my vision model, you can set your custom model like moondream3.1 if you have a good GPU (for comparison I have currently  have an RTX 3050). It works cross-platform. Just ",
-      "guid": "https://news.ycombinator.com/item?id=49289890"
-    },
-    {
-      "title": "Show HN: TasmoShelf – local-first iOS/Android app for Tasmota devices",
-      "link": "https://tasmoshelf.app",
-      "pubDate": "Thu, 13 Aug 2026 18:03:55 +0000",
-      "date": "Thu, 13 Aug 2026 18:03:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://tasmoshelf.app\nComments URL: https://news.ycombinator.com/item?id=49289739\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49289739"
     },
     {
       "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
@@ -48,94 +257,6 @@
       "guid": "017W5EU8WmUPzADxzKpTLI"
     },
     {
-      "title": "Show HN: Tired of hand-writing fake API data, so I built a CLI for it",
-      "link": "https://github.com/SukhdevThukral/mockit",
-      "pubDate": "Thu, 13 Aug 2026 17:50:57 +0000",
-      "date": "Thu, 13 Aug 2026 17:50:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/SukhdevThukral/mockit\nComments URL: https://news.ycombinator.com/item?id=49289558\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49289558"
-    },
-    {
-      "title": "Show HN: Sued-rs – a fake demonic oracle for the terminal, in Rust",
-      "link": "https://github.com/Danilo-Guedes/sued-rs",
-      "pubDate": "Thu, 13 Aug 2026 17:47:06 +0000",
-      "date": "Thu, 13 Aug 2026 17:47:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Danilo-Guedes/sued-rs\nComments URL: https://news.ycombinator.com/item?id=49289492\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49289492"
-    },
-    {
-      "title": "Show HN: Taurus Agents, my take on multi-agent hierarchies",
-      "link": "https://taurusagents.com/",
-      "pubDate": "Thu, 13 Aug 2026 17:45:50 +0000",
-      "date": "Thu, 13 Aug 2026 17:45:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN! Serge here, solo founder. I built my own multi-agent orchestrator and it became so useful that for several months I've never had to touch codex or claude code anymore, just using Taurus now. The website explains what it is, but here I wanted to share how and why. If you think multi-agent orchestration is stupid, I'll try to convince you otherwise.\n(And if you'd rather watch a video than read the text, here's the walkthrough: https://www.youtube.com/watch?v=fa5CIxf5Rhk)\nPersistent identity",
-      "guid": "https://news.ycombinator.com/item?id=49289464"
-    },
-    {
-      "title": "Show HN: Sched – On-call rotations for small teams that don't need PagerDuty",
-      "link": "https://getsched.dev/",
-      "pubDate": "Thu, 13 Aug 2026 17:30:53 +0000",
-      "date": "Thu, 13 Aug 2026 17:30:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://getsched.dev/\nComments URL: https://news.ycombinator.com/item?id=49289240\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49289240"
-    },
-    {
-      "title": "Show HN: Zod schema is a binary codec, no IDL, no codegen",
-      "link": "https://github.com/ChiChuRita/shorn",
-      "pubDate": "Thu, 13 Aug 2026 17:29:10 +0000",
-      "date": "Thu, 13 Aug 2026 17:29:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ChiChuRita/shorn\nComments URL: https://news.ycombinator.com/item?id=49289206\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49289206"
-    },
-    {
-      "title": "Show HN: A Free Cloud Container",
-      "link": "https://usebench.dev/",
-      "pubDate": "Thu, 13 Aug 2026 17:27:34 +0000",
-      "date": "Thu, 13 Aug 2026 17:27:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "If I am gonna be honest, this is just another remote machine / VPS environment for your coding agent CLIs. The main difference is it's free\nFree tier is 1 vCPU and 1.5 GB RAM while $6/mo gets you 2 vCPU and 4 GB RAM!\nWorking on scaling the fleet, so capacity may be constrained\nCEZIGPGM\nMQXC94RY\n77TVMJMR\nCI0511U3\n8ZE0KWOS\nComments URL: https://news.ycombinator.com/item?id=49289182\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49289182"
-    },
-    {
-      "title": "Show HN: My first app got 97% on MacSources",
-      "link": "https://bitvibelabs.com/tickernotch/",
-      "pubDate": "Thu, 13 Aug 2026 17:24:33 +0000",
-      "date": "Thu, 13 Aug 2026 17:24:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Review Link: https://macsources.com/tickernotch-macos-app-review/\nBackground of my launch: I trade as a side hustle. I used to keep browser tabs or use paid software (e.g. TradingView) just to check charts and news. I was ending up spending countless hours just staring at charts and falling into news rabbit holes overanalyzing and getting distracted (thanks to my ADHD too). I have a MacBook Pro and noticed some apps taking advantage of the notch (which I never got used to it NGL). So my idea was",
-      "guid": "https://news.ycombinator.com/item?id=49289136"
-    },
-    {
-      "title": "Show HN: Deepmark – Search your bookmarks by what's inside them, not the title",
-      "link": "https://usedeepmark.com/",
-      "pubDate": "Thu, 13 Aug 2026 17:05:44 +0000",
-      "date": "Thu, 13 Aug 2026 17:05:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://usedeepmark.com/\nComments URL: https://news.ycombinator.com/item?id=49288896\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49288896"
-    },
-    {
       "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
       "link": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
       "pubDate": "Thu, 13 Aug 2026 16:47:55 GMT",
@@ -145,105 +266,6 @@
       "icon": "📰",
       "contentSnippet": "DeepSeek is expanding beyond the model layer and deeper into the software developers use to put AI agents to work.\nThe Chinese AI lab on Thursday launched the official version of DeepSeek-V4-Pro, an updated flagship model focused heavily on agentic workloads, alongside DeepSeek Harness v0.1, a new open-source agent harness that gives developers an alternative to integrated coding-agent environments such as Anthropic’s Claude Code.\nTogether, the releases amount to a broader developer push from De",
       "guid": "Mg5d6r5JkyqbXcJfDURku"
-    },
-    {
-      "title": "Show HN: My Claude subscription did $5,868 of API-equivalent work last month",
-      "link": "https://github.com/dpro10/cookbook-meter",
-      "pubDate": "Thu, 13 Aug 2026 16:45:43 +0000",
-      "date": "Thu, 13 Aug 2026 16:45:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/dpro10/cookbook-meter\nComments URL: https://news.ycombinator.com/item?id=49288618\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49288618"
-    },
-    {
-      "title": "Show HN: OpenAI network checker using 31 browser and IP signals",
-      "link": "https://www.getplus.ai/openai-ip-check",
-      "pubDate": "Thu, 13 Aug 2026 16:39:06 +0000",
-      "date": "Thu, 13 Aug 2026 16:39:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.getplus.ai/openai-ip-check\nComments URL: https://news.ycombinator.com/item?id=49288540\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49288540"
-    },
-    {
-      "title": "Show HN: Artificial Analysis tool to create custom benchmarks for any use case",
-      "link": "https://artificialanalysis.ai/optima",
-      "pubDate": "Thu, 13 Aug 2026 16:28:02 +0000",
-      "date": "Thu, 13 Aug 2026 16:28:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://artificialanalysis.ai/optima\nComments URL: https://news.ycombinator.com/item?id=49288389\nPoints: 8\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49288389"
-    },
-    {
-      "title": "Show HN: A UI to see all the assumptions your coding agents are making",
-      "link": "https://github.com/pirate/codex-structured-steering",
-      "pubDate": "Thu, 13 Aug 2026 16:26:31 +0000",
-      "date": "Thu, 13 Aug 2026 16:26:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/pirate/codex-structured-steering\nComments URL: https://news.ycombinator.com/item?id=49288359\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49288359"
-    },
-    {
-      "title": "Show HN: At 16K features, flat autoencoders break. Curved space doesn't",
-      "link": "https://github.com/vishal-dehurdle/hypersae",
-      "pubDate": "Thu, 13 Aug 2026 16:16:41 +0000",
-      "date": "Thu, 13 Aug 2026 16:16:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/vishal-dehurdle/hypersae\nComments URL: https://news.ycombinator.com/item?id=49288198\nPoints: 5\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49288198"
-    },
-    {
-      "title": "Show HN: Virtual Private LLM, fixed fee with no usage or token limits",
-      "link": "https://solheim.ai",
-      "pubDate": "Thu, 13 Aug 2026 16:04:36 +0000",
-      "date": "Thu, 13 Aug 2026 16:04:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Over the last few months I've been exploring a bunch of different startup ideas.\nOne thing that came up time and time again was data safety and sovereignty in AI inference. Once you go looking for EU-based options, your choices become quite thin quite quickly.\nThat's why decided to launch Solheim: Your own \"Virtual Private LLM\", a flat fee for reserved compute, no token meter, 100% EU-based\nComments URL: https://news.ycombinator.com/item?id=49288032\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49288032"
-    },
-    {
-      "title": "Show HN: My Grok Voice Mode System Prompt",
-      "link": "https://news.ycombinator.com/item?id=49287963",
-      "pubDate": "Thu, 13 Aug 2026 16:00:04 +0000",
-      "date": "Thu, 13 Aug 2026 16:00:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Grok's voice mode was nerfed ~2 weeks ago (I suspect the culprit was a change in the system prompt that forces terse responses).\nGrok's responses now feel lazy and abrupt. I've been tinkering with a custom system prompt aka 'personality' (cog -> Personality -> '+') to try to address this but have had underwhelming results.\nCurious to hear if others have had any luck with this?\nHere is mine.\n==================================================\nAlways err heavily on the side of thoroughness and expa",
-      "guid": "https://news.ycombinator.com/item?id=49287963"
-    },
-    {
-      "title": "Show HN: A open-source AI-native coding agent",
-      "link": "https://github.com/missingstudio/eva",
-      "pubDate": "Thu, 13 Aug 2026 15:55:33 +0000",
-      "date": "Thu, 13 Aug 2026 15:55:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/missingstudio/eva\nComments URL: https://news.ycombinator.com/item?id=49287905\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49287905"
-    },
-    {
-      "title": "Show HN: Remarc – comment on anything on your screen and send it to your agent",
-      "link": "https://remarc.app/",
-      "pubDate": "Thu, 13 Aug 2026 15:39:58 +0000",
-      "date": "Thu, 13 Aug 2026 15:39:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Like any side project, Remarc had its innocent beginnings in my own problem — there was no good way to provide contextual feedback to AI agents on their own output.\nSocial media may make building with AI seem like this: ask for the thing, blindly approve the plan, get the thing. Post “omg claude just one-shotted blah”. Profit.\nBut if you’ve ever worked on a real product, you know nothing good is ever one-shotted. Every PRD, design, and build goes through dozens of feedback loops and iterations. ",
-      "guid": "https://news.ycombinator.com/item?id=49287672"
     },
     {
       "title": "Keeping the Teacher at the Center of Classroom AI",
@@ -288,17 +310,6 @@
       "icon": "📰",
       "contentSnippet": "Writer, the enterprise AI agent platform used by Fortune 500 companies including Accenture, Uber, and Vanguard, released its new flagship model Palmyra X6 today, alongside a rebuilt agent orchestration \"harness\" and new governance tools designed to give IT leaders control over runaway token spending.\nThe headline numbers are striking: Writer says its agent product now operates at an average 52% lower cost, with a 48% improvement in speed and a 10% improvement in quality when paired with Palmyra ",
       "guid": "JlKOtZAw1CsCNB4LriHOm"
-    },
-    {
-      "title": "Skilldocs",
-      "link": "https://www.producthunt.com/products/skilldocs",
-      "pubDate": "2026-08-12T21:07:34.000Z",
-      "date": "2026-08-12T21:07:34.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/skilldocs"
     }
   ]
 }
