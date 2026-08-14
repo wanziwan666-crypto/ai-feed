@@ -1,4 +1,8 @@
 node_modules/
 data/clicks.json
 data/bookmarks.json
+data/feeds.json
+data/pushed.json
+data/narrative.txt
+data/feed-report-*.html
 *.env

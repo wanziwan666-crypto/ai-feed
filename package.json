@@ -1,11 +1,16 @@
 {
   "name": "ai-feed",
   "version": "1.0.0",
-  "description": "Multi-source RSS aggregation + AI-powered Chinese summarization for AI industry intelligence. Zero API keys required.",
+  "description": "Multi-source RSS aggregation + AI-powered Chinese summarization for AI industry intelligence.",
   "scripts": {
-    "fetch": "node scripts/prepare-feed.js"
+    "fetch": "node scripts/prepare-feed.js",
+    "summarize": "node scripts/summarize.js",
+    "html": "node scripts/generate-html.js",
+    "push": "node scripts/push-feishu.js",
+    "daily": "bash scripts/daily.sh"
   },
   "dependencies": {
+    "openai": "^4.68.4",
     "rss-parser": "^3.13.0"
   }
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-14T07:11:10.980Z",
+  "generatedAt": "2026-08-14T08:18:34.843Z",
   "lookbackHours": 24,
   "totalItems": 32,
   "items": [
     {
       "title": "cactus-compute/needle",
       "link": "https://github.com/cactus-compute/needle",
-      "pubDate": "2026-08-14T07:11:09.250Z",
-      "date": "2026-08-14T07:11:09.250Z",
+      "pubDate": "2026-08-14T08:18:22.410Z",
+      "date": "2026-08-14T08:18:22.410Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,46 @@
     {
       "title": "altic-dev/FluidVoice",
       "link": "https://github.com/altic-dev/FluidVoice",
-      "pubDate": "2026-08-14T07:11:09.250Z",
-      "date": "2026-08-14T07:11:09.250Z",
+      "pubDate": "2026-08-14T08:18:22.410Z",
+      "date": "2026-08-14T08:18:22.410Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.\n\nFluidVoice\n \n    \n  \n  \n \nOpen source voice-to-text dictation app for macOS with on-device AI enhancement.\n \nInstall with Homebrew: brew install --cask fluidvoice\n \nManual download: latest release\n \n\n \n\n  Note\nFluidVoice is on macOS today. iOS and Windows are on the way — join the waitlist to get notified when ",
       "guid": "https://github.com/altic-dev/FluidVoice"
+    },
+    {
+      "title": "Show HN: 8-player survival Pong, the arena loses a wall every time someone loses",
+      "link": "https://antics.gg/world/side-out-94df7d",
+      "pubDate": "Fri, 14 Aug 2026 07:43:00 +0000",
+      "date": "Fri, 14 Aug 2026 07:43:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "hey hn, here a game I always wanted to make. Every player defends one wall of a polygon,  eight players, eight sides. When you lose your wall shatters and the arena closes the gap, so the shape keeps shrinking.\nDying doesn't put you in a spectator seat. You come back as a saboteur, dropping bumpers, gravity wells and spinner bars on whoever's still alive. It's usually the part people like more than playing.\nIt went around Reddit last week — about 30k plays so far, up to 80 simultaneous plays. Ho",
+      "guid": "https://news.ycombinator.com/item?id=49295743"
+    },
+    {
+      "title": "Show HN: Miser – Cost-Optimised AI Gateway",
+      "link": "https://github.com/rShetty/miser",
+      "pubDate": "Fri, 14 Aug 2026 07:39:14 +0000",
+      "date": "Fri, 14 Aug 2026 07:39:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "AI Gateway that saves you money.\nComments URL: https://news.ycombinator.com/item?id=49295722\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49295722"
+    },
+    {
+      "title": "Show HN: HyperOS Unfcker",
+      "link": "https://github.com/Enki013/hyperosunfcker",
+      "pubDate": "Fri, 14 Aug 2026 07:27:44 +0000",
+      "date": "Fri, 14 Aug 2026 07:27:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Enki013/hyperosunfcker\nComments URL: https://news.ycombinator.com/item?id=49295641\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49295641"
     },
     {
       "title": "Show HN: OpenCode Auto Permissions – automatic review of permission prompts",
@@ -33,7 +66,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I built a small OpenCode plugin for dealing with permission prompt fatigue. Much like that of claude code's auto mode.\nLet me know if its useful or any bugs etc.\nComments URL: https://news.ycombinator.com/item?id=49295425\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "I built a small OpenCode plugin for dealing with permission prompt fatigue. Much like that of claude code's auto mode.\nLet me know if its useful or any bugs etc.\nComments URL: https://news.ycombinator.com/item?id=49295425\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49295425"
     },
     {
@@ -44,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://notabot-five.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49295355\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://notabot-five.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49295355\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49295355"
     },
     {
@@ -88,7 +121,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey HN,\nWe just launched $1/month web hosting for the first year, with only a limited number of spots available.\n20GB NVMe, SSL, malware protection, WordPress support, and one website.\nComments URL: https://news.ycombinator.com/item?id=49294887\nPoints: 6\n# Comments: 0",
+      "contentSnippet": "Hey HN,\nWe just launched $1/month web hosting for the first year, with only a limited number of spots available.\n20GB NVMe, SSL, malware protection, WordPress support, and one website.\nComments URL: https://news.ycombinator.com/item?id=49294887\nPoints: 7\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49294887"
     },
     {
@@ -211,39 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://recoverflow.org/tools/retry-waste-calculator/\nComments URL: https://news.ycombinator.com/item?id=49293477\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49293477"
-    },
-    {
-      "title": "Show HN: Run Log – drop a FIT or GPX file and read what happened on your run",
-      "link": "https://runlogapp.com/",
-      "pubDate": "Fri, 14 Aug 2026 00:30:44 +0000",
-      "date": "Fri, 14 Aug 2026 00:30:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://runlogapp.com/\nComments URL: https://news.ycombinator.com/item?id=49293435\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49293435"
-    },
-    {
-      "title": "Show HN: Inplan – Before Start Coding",
-      "link": "https://github.com/melly-lgtm/inplan",
-      "pubDate": "Fri, 14 Aug 2026 00:29:28 +0000",
-      "date": "Fri, 14 Aug 2026 00:29:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nI'm one of the makers of inplan, which is a tool to anchor comments to design docs to allow deep/focused design specification.\nWe've improved the product - now it supports more features like linking images and constructing multiple documents for complex projects.\nPlease give it a try and share feedback!\nComments URL: https://news.ycombinator.com/item?id=49293419\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49293419"
-    },
-    {
-      "title": "Show HN: Minesweeper with flowers game you can fork",
-      "link": "https://forkcade.com/gallery/minesweeper-flowers",
-      "pubDate": "Fri, 14 Aug 2026 00:14:41 +0000",
-      "date": "Fri, 14 Aug 2026 00:14:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This is minesweeper but with flowers, you can fork the game and make it your own with an AI prompt.  I forked the minesweeper game and had it add flowers.\nComments URL: https://news.ycombinator.com/item?id=49293327\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49293327"
     },
     {
       "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
