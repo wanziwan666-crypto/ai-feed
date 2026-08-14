@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-14T08:18:34.843Z",
+  "generatedAt": "2026-08-14T08:57:45.763Z",
   "lookbackHours": 24,
   "totalItems": 32,
   "items": [
     {
       "title": "cactus-compute/needle",
       "link": "https://github.com/cactus-compute/needle",
-      "pubDate": "2026-08-14T08:18:22.410Z",
-      "date": "2026-08-14T08:18:22.410Z",
+      "pubDate": "2026-08-14T08:57:17.725Z",
+      "date": "2026-08-14T08:57:17.725Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,46 @@
     {
       "title": "altic-dev/FluidVoice",
       "link": "https://github.com/altic-dev/FluidVoice",
-      "pubDate": "2026-08-14T08:18:22.410Z",
-      "date": "2026-08-14T08:18:22.410Z",
+      "pubDate": "2026-08-14T08:57:17.725Z",
+      "date": "2026-08-14T08:57:17.725Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.\n\nFluidVoice\n \n    \n  \n  \n \nOpen source voice-to-text dictation app for macOS with on-device AI enhancement.\n \nInstall with Homebrew: brew install --cask fluidvoice\n \nManual download: latest release\n \n\n \n\n  Note\nFluidVoice is on macOS today. iOS and Windows are on the way — join the waitlist to get notified when ",
       "guid": "https://github.com/altic-dev/FluidVoice"
+    },
+    {
+      "title": "Show HN: Security scanner for SaaS build with AI",
+      "link": "https://sentrint.com/sample",
+      "pubDate": "Fri, 14 Aug 2026 08:37:03 +0000",
+      "date": "Fri, 14 Aug 2026 08:37:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sentrint.com/sample\nComments URL: https://news.ycombinator.com/item?id=49296082\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49296082"
+    },
+    {
+      "title": "Show HN: Native macOS SSH config manager with in-process tunnels",
+      "link": "https://www.sshmanager.app/",
+      "pubDate": "Fri, 14 Aug 2026 08:15:46 +0000",
+      "date": "Fri, 14 Aug 2026 08:15:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.sshmanager.app/\nComments URL: https://news.ycombinator.com/item?id=49295941\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49295941"
+    },
+    {
+      "title": "Show HN: Headlines",
+      "link": "https://pzlgames.com/games/headlines/",
+      "pubDate": "Fri, 14 Aug 2026 08:12:57 +0000",
+      "date": "Fri, 14 Aug 2026 08:12:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://pzlgames.com/games/headlines/\nComments URL: https://news.ycombinator.com/item?id=49295926\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49295926"
     },
     {
       "title": "Show HN: 8-player survival Pong, the arena loses a wall every time someone loses",
@@ -211,39 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://steambrew.app/\nComments URL: https://news.ycombinator.com/item?id=49293894\nPoints: 4\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49293894"
-    },
-    {
-      "title": "Show HN: Agents that run your finances",
-      "link": "https://blaze.money",
-      "pubDate": "Fri, 14 Aug 2026 01:44:04 +0000",
-      "date": "Fri, 14 Aug 2026 01:44:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN. My name is Faiyam, cofounder/CEO of Blaze Money (YC S24). We're sharing here something new we've been working on in the agentic finance space for businesses. TL;DR -- you can use Blaze Money to run your business's finances agentically.\n'Twas a long journey to get here. In 2023 we started in cross border payments after nomading around the world and feeling the struggle of paying international contacts. In the time since we started though the world has completely changed and now it seems o",
-      "guid": "https://news.ycombinator.com/item?id=49293875"
-    },
-    {
-      "title": "SHOW HN: tips Easy to Understand Manual. Better than tealdeer",
-      "link": "https://github.com/derusbel/homebrew-tips",
-      "pubDate": "Fri, 14 Aug 2026 00:58:17 +0000",
-      "date": "Fri, 14 Aug 2026 00:58:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/derusbel/homebrew-tips\nComments URL: https://news.ycombinator.com/item?id=49293594\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49293594"
-    },
-    {
-      "title": "Show HN: Client-side audit of wasted Stripe payment retries",
-      "link": "https://recoverflow.org/tools/retry-waste-calculator/",
-      "pubDate": "Fri, 14 Aug 2026 00:38:16 +0000",
-      "date": "Fri, 14 Aug 2026 00:38:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://recoverflow.org/tools/retry-waste-calculator/\nComments URL: https://news.ycombinator.com/item?id=49293477\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49293477"
     },
     {
       "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
