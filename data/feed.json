@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-15T06:50:53.757Z",
+  "generatedAt": "2026-08-15T12:19:49.688Z",
   "lookbackHours": 24,
   "totalItems": 27,
   "items": [
     {
       "title": "cactus-compute/needle",
       "link": "https://github.com/cactus-compute/needle",
-      "pubDate": "2026-08-15T06:50:46.175Z",
-      "date": "2026-08-15T06:50:46.175Z",
+      "pubDate": "2026-08-15T12:19:47.981Z",
+      "date": "2026-08-15T12:19:47.981Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,189 @@
     {
       "title": "smicallef/spiderfoot",
       "link": "https://github.com/smicallef/spiderfoot",
-      "pubDate": "2026-08-15T06:50:46.175Z",
-      "date": "2026-08-15T06:50:46.175Z",
+      "pubDate": "2026-08-15T12:19:47.981Z",
+      "date": "2026-08-15T12:19:47.981Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.\n\n\n \n       \n \nSpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.\n \nSpiderFoot has an embedded web-server for providing a clean and intuitive web-based interface but can also be used completely via the command-line. It's written in Python 3 and MIT-licensed",
       "guid": "https://github.com/smicallef/spiderfoot"
+    },
+    {
+      "title": "Show HN: Build SaaS Applications Without Writing Back End Code [video]",
+      "link": "https://www.youtube.com/watch?v=qdGSEJaJS78",
+      "pubDate": "Sat, 15 Aug 2026 11:32:54 +0000",
+      "date": "Sat, 15 Aug 2026 11:32:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=qdGSEJaJS78\nComments URL: https://news.ycombinator.com/item?id=49309715\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49309715"
+    },
+    {
+      "title": "Leading With Love: Two National Principals of the Year on What Actually Works",
+      "link": "https://www.coolcatteacher.com/leadwithlove/",
+      "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
+      "date": "Sat, 15 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nTwo women were named a 2026 National Principal of the Year, and when you ask them how they did it, they both use the same word: love. Amanda Jamerson on the discipline framework that cut office referrals 69 percent, and Sonia E. Ruiz on building a middle school where every student belongs.\nThe post Leading With Love: Two National Principals of the Ye",
+      "guid": "https://www.coolcatteacher.com/?p=35197"
+    },
+    {
+      "title": "Show HN: Gogc98 – live visualisation of the go allocator and GC",
+      "link": "https://github.com/MichaelMure/gogc98",
+      "pubDate": "Sat, 15 Aug 2026 10:21:02 +0000",
+      "date": "Sat, 15 Aug 2026 10:21:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/MichaelMure/gogc98\nComments URL: https://news.ycombinator.com/item?id=49309370\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49309370"
+    },
+    {
+      "title": "Show HN: RemindLink – reminders for bookmarks you forgot to revisit",
+      "link": "https://remindlink.app/",
+      "pubDate": "Sat, 15 Aug 2026 09:39:47 +0000",
+      "date": "Sat, 15 Aug 2026 09:39:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Whenever i was used to get useful article/link , I used to save Bookmarks in WhatsApp,Google Keep and even third party bookmark manager to read it later,\nBut when I actually had free time, I would forget to check them, and the unread links kept piling up.\nThere were lot of apps to manage links ,but i couldn’t find one that reminded me to get back to it.\nThat’s the reason I built RemindLink,\nYou can share from link any app ,select RemindLink from ShareSheet and set a Reminder.\nIt also supports re",
+      "guid": "https://news.ycombinator.com/item?id=49309141"
+    },
+    {
+      "title": "Show HN: Open-source, lightweight (300KB+) web and YouTube translator",
+      "link": "https://chromewebstore.google.com/detail/mira-translator/hmmllfdmkbmmfffjekhmmbhhfhhnocmn",
+      "pubDate": "Sat, 15 Aug 2026 09:39:46 +0000",
+      "date": "Sat, 15 Aug 2026 09:39:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/mira-translator/hmmllfdmkbmmfffjekhmmbhhfhhnocmn\nComments URL: https://news.ycombinator.com/item?id=49309140\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49309140"
+    },
+    {
+      "title": "Show HN: Publish directly to handwritten.blog from your reMarkable",
+      "link": "https://handwritten.blog/remarkable",
+      "pubDate": "Sat, 15 Aug 2026 09:38:52 +0000",
+      "date": "Sat, 15 Aug 2026 09:38:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "You simply:\n1. Connect your device.\n2. Create a top-level `handwritten.blog` folder.\n3. Every new notebook in that folder becomes a draft on https://handwritten.blog/\nI hope this eventually obviates the need to look at the ugly upload interface you have to use to now upload your writing.\nComments URL: https://news.ycombinator.com/item?id=49309134\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49309134"
+    },
+    {
+      "title": "Show HN: AI First Virtual Linux Desktop as a Mac App",
+      "link": "https://aifcc.franzai.com/",
+      "pubDate": "Sat, 15 Aug 2026 08:54:44 +0000",
+      "date": "Sat, 15 Aug 2026 08:54:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://aifcc.franzai.com/\nComments URL: https://news.ycombinator.com/item?id=49308944\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49308944"
+    },
+    {
+      "title": "Show HN: UltimateXO – Open-Source Ultimate Tic-Tac-Toe Web Game",
+      "link": "https://ultimatexo.com/",
+      "pubDate": "Sat, 15 Aug 2026 08:39:18 +0000",
+      "date": "Sat, 15 Aug 2026 08:39:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ultimatexo.com/\nComments URL: https://news.ycombinator.com/item?id=49308870\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49308870"
+    },
+    {
+      "title": "Show HN: HN Without AI Stories",
+      "link": "https://hnnoai.readpipe.org/",
+      "pubDate": "Sat, 15 Aug 2026 08:17:41 +0000",
+      "date": "Sat, 15 Aug 2026 08:17:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "URL: https://hnnoai.readpipe.org/\nComments URL: https://news.ycombinator.com/item?id=49308787\nPoints: 6\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49308787"
+    },
+    {
+      "title": "Show HN: Chemistry AI – step-by-step chemistry solver",
+      "link": "https://chemistryai.chat",
+      "pubDate": "Sat, 15 Aug 2026 08:11:48 +0000",
+      "date": "Sat, 15 Aug 2026 08:11:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chemistryai.chat\nComments URL: https://news.ycombinator.com/item?id=49308749\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49308749"
+    },
+    {
+      "title": "Show HN: Homelander – free desktop app that applies for apartments in Germany",
+      "link": "https://www.youtube.com/watch?v=udNWQz3WNBI",
+      "pubDate": "Sat, 15 Aug 2026 08:10:29 +0000",
+      "date": "Sat, 15 Aug 2026 08:10:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built Homelander because searching for apartments in Germany was taking too much time.\nIt collects listings from multiple searches on ImmoScout24 and applies for you. I decided to build it because alternatives were either too techy or too expensive (like 100 euros per months).\nI originally built it for myself, then released it as a free and open-source desktop app. The first release got much more attention than I expected, and the project is now at 92 GitHub stars.\nIt currently supports Mac, W",
+      "guid": "https://news.ycombinator.com/item?id=49308742"
+    },
+    {
+      "title": "Show HN: Sandbox the install step of any NPM package",
+      "link": "https://www.npmjs.com/package/@kenwea/mcp",
+      "pubDate": "Sat, 15 Aug 2026 07:59:05 +0000",
+      "date": "Sat, 15 Aug 2026 07:59:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "It fetches the exact tarball npm install would, runs the declared install scripts in a sandbox (no network, all capabilities dropped, read-only filesystem), and returns a verdict signed under a published Ed25519 key, bound to the sha256 of the bytes. No account, it mints an anonymous rate-limit key on first call. Node and Python, 20 checks/hour.\nI built it to put a denominator under \"npm install runs arbitrary code.\" Of 658 MCP-related packages, 20 declare an install script (3.0%). Running the t",
+      "guid": "https://news.ycombinator.com/item?id=49308683"
+    },
+    {
+      "title": "Show HN: TidsOS – a private cloud OS for office PCs that sleep and roam",
+      "link": "https://github.com/santoputhoor/tidsos",
+      "pubDate": "Sat, 15 Aug 2026 07:13:27 +0000",
+      "date": "Sat, 15 Aug 2026 07:13:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/santoputhoor/tidsos\nComments URL: https://news.ycombinator.com/item?id=49308454\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49308454"
+    },
+    {
+      "title": "Show HN: Bernstein – run 44 CLI coding agents from one deterministic scheduler",
+      "link": "https://github.com/sipyourdrink-ltd/bernstein",
+      "pubDate": "Sat, 15 Aug 2026 06:19:02 +0000",
+      "date": "Sat, 15 Aug 2026 06:19:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sipyourdrink-ltd/bernstein\nComments URL: https://news.ycombinator.com/item?id=49308165\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49308165"
+    },
+    {
+      "title": "Show HN: Local Duolingo like course authoring for independent creators",
+      "link": "https://www.asakiri.com/",
+      "pubDate": "Sat, 15 Aug 2026 06:16:32 +0000",
+      "date": "Sat, 15 Aug 2026 06:16:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.asakiri.com/\nComments URL: https://news.ycombinator.com/item?id=49308153\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49308153"
+    },
+    {
+      "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
+      "link": "https://riffn.io/how-riffn-works/",
+      "pubDate": "Sat, 15 Aug 2026 06:05:09 +0000",
+      "date": "Sat, 15 Aug 2026 06:05:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I get my best ideas when I'm out walking or driving. I built Riffn to make sure I can capitalize on those ideas when and where they happen - while I'm away from my desk, usually outside. I used to use voice recording a lot. So I built Riffn to replace that with a direct voice link to any model or agent I wanted to talk to when my hands and eyes were busy. This lets me develop ideas and keep pushing forward on my apps and other projects when I'm out and about.\nRiffn is an iOS app that gives you a",
+      "guid": "https://news.ycombinator.com/item?id=49308095"
     },
     {
       "title": "Show HN: NexusMem – local memory for coding agents, not just Git log",
@@ -33,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/yaminbkk/NexusMem\nComments URL: https://news.ycombinator.com/item?id=49307927\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/yaminbkk/NexusMem\nComments URL: https://news.ycombinator.com/item?id=49307927\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49307927"
     },
     {
@@ -44,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://whizi.io/\nComments URL: https://news.ycombinator.com/item?id=49307880\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://whizi.io/\nComments URL: https://news.ycombinator.com/item?id=49307880\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49307880"
     },
     {
@@ -81,138 +257,6 @@
       "guid": "https://news.ycombinator.com/item?id=49307773"
     },
     {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "link": "https://chenxiachan.github.io/thoughtdag/",
-      "pubDate": "Sat, 15 Aug 2026 04:42:07 +0000",
-      "date": "Sat, 15 Aug 2026 04:42:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chenxiachan.github.io/thoughtdag/\nComments URL: https://news.ycombinator.com/item?id=49307700\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49307700"
-    },
-    {
-      "title": "Show HN: Supervice – process supervisor for agentic processes. zero dependencies",
-      "link": "https://github.com/rodmena-limited/supervice",
-      "pubDate": "Sat, 15 Aug 2026 03:48:15 +0000",
-      "date": "Sat, 15 Aug 2026 03:48:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/rodmena-limited/supervice\nComments URL: https://news.ycombinator.com/item?id=49307456\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49307456"
-    },
-    {
-      "title": "Show HN: I serve my website with a swarm of ESP32 microcontrollers on a shelf",
-      "link": "https://github.com/Novotarskyi/ivan-bohun",
-      "pubDate": "Sat, 15 Aug 2026 02:58:54 +0000",
-      "date": "Sat, 15 Aug 2026 02:58:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Novotarskyi/ivan-bohun\nComments URL: https://news.ycombinator.com/item?id=49307171\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49307171"
-    },
-    {
-      "title": "Show HN: BeCharts – online chart maker (templates, CSV, PNG/SVG/PDF)",
-      "link": "https://www.becharts.com/editor",
-      "pubDate": "Sat, 15 Aug 2026 02:22:08 +0000",
-      "date": "Sat, 15 Aug 2026 02:22:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.becharts.com/editor\nComments URL: https://news.ycombinator.com/item?id=49306995\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49306995"
-    },
-    {
-      "title": "Show HN: WMTrace – See how LLM text watermarks work (Anthropic just adopted one)",
-      "link": "https://github.com/gtesei/llm-watermark",
-      "pubDate": "Sat, 15 Aug 2026 02:15:26 +0000",
-      "date": "Sat, 15 Aug 2026 02:15:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/gtesei/llm-watermark\nComments URL: https://news.ycombinator.com/item?id=49306973\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49306973"
-    },
-    {
-      "title": "Show HN: Nakso – Your Desktop Sketchpad",
-      "link": "https://github.com/niklauslee/nakso",
-      "pubDate": "Sat, 15 Aug 2026 02:05:08 +0000",
-      "date": "Sat, 15 Aug 2026 02:05:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/niklauslee/nakso\nComments URL: https://news.ycombinator.com/item?id=49306920\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49306920"
-    },
-    {
-      "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
-      "link": "https://github.com/AntoineChatry/Dictata",
-      "pubDate": "Sat, 15 Aug 2026 00:58:34 +0000",
-      "date": "Sat, 15 Aug 2026 00:58:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/AntoineChatry/Dictata\nComments URL: https://news.ycombinator.com/item?id=49306462\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49306462"
-    },
-    {
-      "title": "Show HN: Nikon F100 Film Camera Repair Notes",
-      "link": "https://github.com/enthdegree/f100",
-      "pubDate": "Sat, 15 Aug 2026 00:50:57 +0000",
-      "date": "Sat, 15 Aug 2026 00:50:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/enthdegree/f100\nComments URL: https://news.ycombinator.com/item?id=49306415\nPoints: 5\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49306415"
-    },
-    {
-      "title": "Show HN: Bloxwap – The Easiest Way to Trade",
-      "link": "https://bloxwap.com/trade/HYPE",
-      "pubDate": "Sat, 15 Aug 2026 00:05:39 +0000",
-      "date": "Sat, 15 Aug 2026 00:05:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://bloxwap.com/trade/HYPE\nComments URL: https://news.ycombinator.com/item?id=49306126\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49306126"
-    },
-    {
-      "title": "Show HN: Macsomnia – close your MacBook lid while keeping long jobs alive",
-      "link": "https://github.com/iamdadzilla/Macsomnia",
-      "pubDate": "Fri, 14 Aug 2026 23:13:11 +0000",
-      "date": "Fri, 14 Aug 2026 23:13:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/iamdadzilla/Macsomnia\nComments URL: https://news.ycombinator.com/item?id=49305721\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49305721"
-    },
-    {
-      "title": "Show HN: Kvcachescope – Why Nvidia-smi is blind to vLLM KV cache leaks",
-      "link": "https://github.com/brian-mwirigi/kvcachescope",
-      "pubDate": "Fri, 14 Aug 2026 23:11:14 +0000",
-      "date": "Fri, 14 Aug 2026 23:11:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/brian-mwirigi/kvcachescope\nComments URL: https://news.ycombinator.com/item?id=49305702\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49305702"
-    },
-    {
-      "title": "Show HN: A prompt to check Supabase DB security",
-      "link": "https://defencecore.com/audit",
-      "pubDate": "Fri, 14 Aug 2026 22:59:13 +0000",
-      "date": "Fri, 14 Aug 2026 22:59:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey guys,\nWe wrote an agent prompt that you can simply give to your claude, codex agents, and it will automatically verify the RLS policy on each and every table in your supabase project.\nComments URL: https://news.ycombinator.com/item?id=49305628\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49305628"
-    },
-    {
       "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
       "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
       "pubDate": "Fri, 14 Aug 2026 22:56:16 GMT",
@@ -222,39 +266,6 @@
       "icon": "📰",
       "contentSnippet": "Chinese AI startup Z.ai, known internationally for its growing lineup of powerful, largely open source GLM series of language models, today released GLM-5.3 with substantial gains in long-horizon coding and a more consequential — and potentially sensitive — jump in cybersecurity capabilities.\nAlready, GLM-5.3's cyber capabilities have found a \"potentially serious vulnerability in Cursor,\" the AI coding startup recently acquired by SpaceX, according to z.ai developer advocate Lou, posting on X. V",
       "guid": "65fLrIS0quprLcAMRZ04SD"
-    },
-    {
-      "title": "Show HN: Another Markdown editor, but this one is a web app",
-      "link": "https://marty.zalega.me/markdawn/",
-      "pubDate": "Fri, 14 Aug 2026 22:41:48 +0000",
-      "date": "Fri, 14 Aug 2026 22:41:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I write a lot of notes, and Markdown is my preferred format. Apple Notes is my go-to for notes, but Vim was my choice for blogs and docs. That is, until I had to work with images.\nI take lots of screenshots, and when working with Markdown, I find it such a pain to add a screenshot when I am writing. Apps like Confluence do this well, but I just want to use the editor on my local files, no cloud service.\nThis is what eventually drove me to create Markdawn. Just a simple and easy editor that requi",
-      "guid": "https://news.ycombinator.com/item?id=49305516"
-    },
-    {
-      "title": "Show HN: Musical social media site where you can throw tomatoes at each other",
-      "link": "https://mazurka.cafe/",
-      "pubDate": "Fri, 14 Aug 2026 22:27:58 +0000",
-      "date": "Fri, 14 Aug 2026 22:27:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "For those who never had the pleasure of using plug.dj and similar sites, the deal is that you create or join rooms where people queue up to DJ music and listen together.\nOne of my friend groups used to use plug.dj weekly every Friday, then it died, and a few alternatives popped up, some of which are still around, but I really dislike all of them. I've been a web developer for 10 years, so I figured I'd take a whack at it. Feel free to poke around as a guest, or create an account (no email requir",
-      "guid": "https://news.ycombinator.com/item?id=49305393"
-    },
-    {
-      "title": "Show HN: WorldClock.free – Current local time from anywhere in the world",
-      "link": "https://worldclock.free/",
-      "pubDate": "Fri, 14 Aug 2026 22:17:21 +0000",
-      "date": "Fri, 14 Aug 2026 22:17:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://worldclock.free/\nComments URL: https://news.ycombinator.com/item?id=49305283\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49305283"
     },
     {
       "title": "2026.33: The CapEx Train Keeps Rolling",
@@ -288,17 +299,6 @@
       "icon": "🚀",
       "contentSnippet": "Drones, Lakers, Recast, Fuse neutrons, and Rick Rubin + Extra Doses",
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-206"
-    },
-    {
-      "title": "Who Smarted? Why Human-Made Kids’ Media Still Beats the Bots",
-      "link": "https://www.coolcatteacher.com/e969/",
-      "pubDate": "Fri, 14 Aug 2026 11:00:00 +0000",
-      "date": "Fri, 14 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nJerry Kolber built Nat Geo's Brain Games and Netflix's Brainchild, then moved his team off screens entirely. How teachers use kids' podcasts for transition time, how to get the free ad-free classroom version, and why human accountability still beats AI-generated content.\nThe post Who Smarted? Why Human-Made Kids’ Media Still Beats the Bots appeared f",
-      "guid": "https://www.coolcatteacher.com/?p=35188"
     }
   ]
 }
