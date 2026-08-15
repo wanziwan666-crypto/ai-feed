@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-15T06:22:01.304Z",
+  "generatedAt": "2026-08-15T06:50:53.757Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 27,
   "items": [
     {
       "title": "cactus-compute/needle",
       "link": "https://github.com/cactus-compute/needle",
-      "pubDate": "2026-08-15T06:21:59.647Z",
-      "date": "2026-08-15T06:21:59.647Z",
+      "pubDate": "2026-08-15T06:50:46.175Z",
+      "date": "2026-08-15T06:50:46.175Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "smicallef/spiderfoot",
       "link": "https://github.com/smicallef/spiderfoot",
-      "pubDate": "2026-08-15T06:21:59.647Z",
-      "date": "2026-08-15T06:21:59.647Z",
+      "pubDate": "2026-08-15T06:50:46.175Z",
+      "date": "2026-08-15T06:50:46.175Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -268,6 +268,17 @@
       "guid": "https://stratechery.com/?p=19695"
     },
     {
+      "title": "Screen-free math games, free VR field trips, and the BBC’s Bluey library",
+      "link": "https://www.coolcatteacher.com/screen-free-math-games-free-vr-field-trips-and-the-bbcs-bluey-library/",
+      "pubDate": "Fri, 14 Aug 2026 16:45:36 +0000",
+      "date": "Fri, 14 Aug 2026 16:45:36 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nHello Reader, Happy back to school for some of you. Whatever time of year it is, I hope you’ll work hard to notice kids doing great things. My goal has always been to make the first contact home a positive one. I mentioned this on X and Teach Up Education said, Agreed. I had a new student one year who just transferred in. And when I called home to te",
+      "guid": "https://www.coolcatteacher.com/?p=35128"
+    },
+    {
       "title": "Weekly Dose of Optimism #206",
       "link": "https://www.notboring.co/p/weekly-dose-of-optimism-206",
       "pubDate": "Fri, 14 Aug 2026 13:10:36 GMT",
@@ -277,6 +288,17 @@
       "icon": "🚀",
       "contentSnippet": "Drones, Lakers, Recast, Fuse neutrons, and Rick Rubin + Extra Doses",
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-206"
+    },
+    {
+      "title": "Who Smarted? Why Human-Made Kids’ Media Still Beats the Bots",
+      "link": "https://www.coolcatteacher.com/e969/",
+      "pubDate": "Fri, 14 Aug 2026 11:00:00 +0000",
+      "date": "Fri, 14 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nJerry Kolber built Nat Geo's Brain Games and Netflix's Brainchild, then moved his team off screens entirely. How teachers use kids' podcasts for transition time, how to get the free ad-free classroom version, and why human accountability still beats AI-generated content.\nThe post Who Smarted? Why Human-Made Kids’ Media Still Beats the Bots appeared f",
+      "guid": "https://www.coolcatteacher.com/?p=35188"
     }
   ]
 }
