@@ -9,3 +9,4 @@ data/feed-report-*.html
 *.env
 .DS_Store
 ai-feed-intro/
+dist/
