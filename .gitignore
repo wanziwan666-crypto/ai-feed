@@ -7,3 +7,5 @@ data/seen.json
 data/narrative.txt
 data/feed-report-*.html
 *.env
+.DS_Store
+ai-feed-intro/

@@ -8,7 +8,8 @@ Follow builders, educators, and AI thinkers — get curated summaries of what ma
 
 1. Install the skill in your AI agent (Claude Code, OpenClaw, or similar)
 2. Say "获取AI资讯" or "fetch AI feed"
-3. Your agent fetches the central feed, processes it with its own intelligence, and delivers a digest
+3. **First run?** Your agent proactively asks 3 quick questions (who you are, what you focus on, practical vs. depth) and writes `~/.ai-feed/profile.json` for you — no manual editing needed. Say "跳过" to use defaults
+4. Your agent fetches the central feed, processes it with its own intelligence, and delivers a digest tailored to your profile
 
 **No API keys. No configuration. It just works.**
 
@@ -34,7 +35,7 @@ EdSurge, Khan Academy Blog
 
 ## Customization
 
-Override the default profile by creating `~/.ai-feed/profile.json`:
+Your profile is created automatically on first run (the agent interviews you). To change it later, edit `~/.ai-feed/profile.json` directly, or just tell your agent "改我的 profile":
 
 ```json
 {

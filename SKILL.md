@@ -4,7 +4,8 @@ description: |
   Multi-source RSS aggregation + AI-powered Chinese summarization for AI industry intelligence.
   Use this skill whenever the user wants to: fetch latest AI news, aggregate RSS feeds, get AI industry updates,
   check what's trending in AI, "抓取AI资讯", "RSS抓取", "AI信息聚合", "看看最近AI有什么新东西", "帮我收集AI动态",
-  "获取AI资讯", "生成资讯HTML", "run ai-feed", "update ai feed", "refresh feed".
+  "获取AI资讯", "生成资讯HTML", "run ai-feed", "update ai feed", "refresh feed",
+  "改我的profile", "换个定位", "定制我的资讯定位".
   Also triggers for scheduling requests: "设置定时抓取", "每天自动抓取AI资讯", "定时推送日报",
   "set up cron for ai-feed", "schedule daily fetch", "自动推送到飞书/Telegram".
   No API keys required for on-demand use — all AI processing is done by the agent itself.
@@ -53,10 +54,12 @@ ai-feed/
 
 如果文件不存在或为空，告诉用户："暂无新内容，请稍后再试。"
 
-### Step 2: 读取配置
+### Step 2: 读取配置（首次运行先引导）
 
-读取 `config/profile.json` 获取账号定位（identity + focus + weights）。
-用户可以在 `~/.ai-feed/profile.json` 放置自定义配置覆盖默认值。
+先检查 `~/.ai-feed/profile.json`（用户自定义定位）：
+- **存在** → 直接使用
+- **不存在（首次运行）** → 先走下方「首次运行引导」章节，帮用户生成自己的 profile 后再继续
+- **用户明确跳过引导** → 回退使用 `config/profile.json` 默认值
 
 ### Step 3: 逐条处理
 
@@ -102,6 +105,29 @@ ai-feed/
 | Khan Academy · Blog | ai-education |
 | MIT Tech Review | new-tools |
 | VentureBeat | new-tools |
+
+## 首次运行引导（Onboarding）
+
+Skill 没有安装钩子，clone 完不会自动弹说明。最接近"安装时引导"的时机是**第一次被触发**（判断标准：`~/.ai-feed/profile.json` 不存在）。此时不要静默用默认值，主动引导：
+
+**引导流程：**
+
+1. **说明来意**（一句话）："第一次用 ai-feed。为了让筛出来的内容对你有用，我先问三个问题，30 秒搞定。"
+2. **一次性问三个问题**（不要拆成三轮挤牙膏）：
+   - **你是谁 / 内容给谁看**：如"非技术的普通人" / "AI 老师" / "关注 AI 的投资人"
+   - **最关心什么方向**：列出默认 5 个 focus 供勾选、修改或补充
+   - **更看重实操还是深度**：实操 → `practical` 权重调高；深度 → `depth` 调高；不确定 → 用默认
+3. **生成并写入配置**：
+   ```bash
+   mkdir -p ~/.ai-feed
+   # 按 User Configuration 章节的格式写入 ~/.ai-feed/profile.json
+   ```
+4. **展示配置请用户确认**："这是你的定位，没问题我就开始抓了。"确认后继续正常抓取流程。
+
+**边界情况：**
+- 用户说"跳过 / 用默认"：直接用 `config/profile.json` 默认值，报告末尾附一句"想定制定位，随时说『改我的 profile』"
+- 引导只在首次运行做一次，之后静默读取，不重复问
+- 用户随时说"改我的 profile / 换个定位"：重新走第 2-4 步
 
 ## User Configuration
 
