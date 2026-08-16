@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-16T00:44:47.904Z",
+  "generatedAt": "2026-08-16T06:24:45.153Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 22,
   "items": [
     {
       "title": "cactus-compute/needle",
       "link": "https://github.com/cactus-compute/needle",
-      "pubDate": "2026-08-16T00:44:46.315Z",
-      "date": "2026-08-16T00:44:46.315Z",
+      "pubDate": "2026-08-16T06:24:37.605Z",
+      "date": "2026-08-16T06:24:37.605Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,15 +15,81 @@
       "guid": "https://github.com/cactus-compute/needle"
     },
     {
-      "title": "smicallef/spiderfoot",
-      "link": "https://github.com/smicallef/spiderfoot",
-      "pubDate": "2026-08-16T00:44:46.315Z",
-      "date": "2026-08-16T00:44:46.315Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: I have tried using Honestify instead of sending direct CV/Resume",
+      "link": "https://news.ycombinator.com/item?id=49317091",
+      "pubDate": "Sun, 16 Aug 2026 05:08:41 +0000",
+      "date": "Sun, 16 Aug 2026 05:08:41 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.\n\n\n \n       \n \nSpiderFoot is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.\n \nSpiderFoot has an embedded web-server for providing a clean and intuitive web-based interface but can also be used completely via the command-line. It's written in Python 3 and MIT-licensed",
-      "guid": "https://github.com/smicallef/spiderfoot"
+      "icon": "🔨",
+      "contentSnippet": "Now a days, I am sending my AI profile to recruiters who are reaching out to me on LinkedIn instead of sharing just one page resume.\nOnly few seems to be receptive of this.\nComments URL: https://news.ycombinator.com/item?id=49317091\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49317091"
+    },
+    {
+      "title": "Show HN: DSH Plugin Directory – Every DeepSeek Harness Plugin",
+      "link": "https://dshplugin.online/",
+      "pubDate": "Sun, 16 Aug 2026 04:13:41 +0000",
+      "date": "Sun, 16 Aug 2026 04:13:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://dshplugin.online/\nComments URL: https://news.ycombinator.com/item?id=49316849\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49316849"
+    },
+    {
+      "title": "Show HN: Upscaled screenshots of specific DOM elements",
+      "link": "https://addons.mozilla.org/en-US/firefox/addon/beermusic/",
+      "pubDate": "Sun, 16 Aug 2026 03:32:03 +0000",
+      "date": "Sun, 16 Aug 2026 03:32:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://addons.mozilla.org/en-US/firefox/addon/beermusic/\nComments URL: https://news.ycombinator.com/item?id=49316647\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49316647"
+    },
+    {
+      "title": "Show HN: Grow your SaaS visibility with AI-powered discovery",
+      "link": "https://saaslyra.com",
+      "pubDate": "Sun, 16 Aug 2026 03:29:55 +0000",
+      "date": "Sun, 16 Aug 2026 03:29:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://saaslyra.com\nComments URL: https://news.ycombinator.com/item?id=49316639\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49316639"
+    },
+    {
+      "title": "Show HN: Widen, a native Postgres GUI using Apple's on-device LLM",
+      "link": "https://github.com/betocmn/widen",
+      "pubDate": "Sun, 16 Aug 2026 02:35:51 +0000",
+      "date": "Sun, 16 Aug 2026 02:35:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/betocmn/widen\nComments URL: https://news.ycombinator.com/item?id=49316394\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49316394"
+    },
+    {
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "link": "https://www.micdrop.gg/",
+      "pubDate": "Sun, 16 Aug 2026 00:46:29 +0000",
+      "date": "Sun, 16 Aug 2026 00:46:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.micdrop.gg/\nComments URL: https://news.ycombinator.com/item?id=49315742\nPoints: 42\n# Comments: 16",
+      "guid": "https://news.ycombinator.com/item?id=49315742"
+    },
+    {
+      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+      "link": "https://waku.sh",
+      "pubDate": "Sun, 16 Aug 2026 00:38:44 +0000",
+      "date": "Sun, 16 Aug 2026 00:38:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://waku.sh\nComments URL: https://news.ycombinator.com/item?id=49315709\nPoints: 23\n# Comments: 10",
+      "guid": "https://news.ycombinator.com/item?id=49315709"
     },
     {
       "title": "Show HN: Snafu: Agentic flow to help you with \"naming things\" in source code",
@@ -33,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/snafu\nComments URL: https://news.ycombinator.com/item?id=49315282\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/snafu\nComments URL: https://news.ycombinator.com/item?id=49315282\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49315282"
     },
     {
@@ -44,7 +110,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg\nComments URL: https://news.ycombinator.com/item?id=49315249\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/techflare/lbbkmioghlgfnbkciibfglcopkncdfpg\nComments URL: https://news.ycombinator.com/item?id=49315249\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49315249"
     },
     {
@@ -55,7 +121,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.joinstratum.app/\nComments URL: https://news.ycombinator.com/item?id=49314936\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://www.joinstratum.app/\nComments URL: https://news.ycombinator.com/item?id=49314936\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49314936"
     },
     {
@@ -66,7 +132,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://elevenmusic.io/sounds\nComments URL: https://news.ycombinator.com/item?id=49314834\nPoints: 2\n# Comments: 1",
+      "contentSnippet": "Article URL: https://elevenmusic.io/sounds\nComments URL: https://news.ycombinator.com/item?id=49314834\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49314834"
     },
     {
@@ -77,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://bribes.fyi/compare\nComments URL: https://news.ycombinator.com/item?id=49314765\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://bribes.fyi/compare\nComments URL: https://news.ycombinator.com/item?id=49314765\nPoints: 33\n# Comments: 14",
       "guid": "https://news.ycombinator.com/item?id=49314765"
     },
     {
@@ -132,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://raylers.com\nComments URL: https://news.ycombinator.com/item?id=49314320\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://raylers.com\nComments URL: https://news.ycombinator.com/item?id=49314320\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49314320"
     },
     {
@@ -169,72 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49314164"
     },
     {
-      "title": "Show HN: An interactive UI for the grill-me skill",
-      "link": "https://plannotator.ai/blog/an-interactive-ui-for-the-grill-me-skill/",
-      "pubDate": "Sat, 15 Aug 2026 20:31:24 +0000",
-      "date": "Sat, 15 Aug 2026 20:31:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://plannotator.ai/blog/an-interactive-ui-for-the-grill-me-skill/\nComments URL: https://news.ycombinator.com/item?id=49314054\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49314054"
-    },
-    {
-      "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
-      "link": "https://glad-ia-tor.com",
-      "pubDate": "Sat, 15 Aug 2026 20:29:45 +0000",
-      "date": "Sat, 15 Aug 2026 20:29:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://glad-ia-tor.com\nComments URL: https://news.ycombinator.com/item?id=49314034\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49314034"
-    },
-    {
-      "title": "Show HN: Security scanner for your SaaS. Find and fix Vulnerabilities. 35% off",
-      "link": "https://sentrint.com/sample",
-      "pubDate": "Sat, 15 Aug 2026 20:19:29 +0000",
-      "date": "Sat, 15 Aug 2026 20:19:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sentrint.com/sample\nComments URL: https://news.ycombinator.com/item?id=49313952\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49313952"
-    },
-    {
-      "title": "Show HN: Seedle, daily -dle for Minecraft seeds",
-      "link": "https://seedle.loch.tools/",
-      "pubDate": "Sat, 15 Aug 2026 20:01:25 +0000",
-      "date": "Sat, 15 Aug 2026 20:01:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "If you're not familiar with RNGdle, it's a daily game that randomly generates a 6 digit code. Pure dopamine delivery with little else of substance, but what else do you really need?\nI love the RNGdle idea, but I thought it might be even more fun as a way to discover Minecraft seeds. So I spent the day making this.\nFor the uninitiated, Minecraft is deterministic, so you can determine what exactly the spawn point of a new world looks like if you know the seed number. This project gamifies that dis",
-      "guid": "https://news.ycombinator.com/item?id=49313788"
-    },
-    {
-      "title": "Show HN: Stay connected across Africa, from landing to Safari",
-      "link": "https://safariesim.com/",
-      "pubDate": "Sat, 15 Aug 2026 19:35:26 +0000",
-      "date": "Sat, 15 Aug 2026 19:35:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://safariesim.com/\nComments URL: https://news.ycombinator.com/item?id=49313564\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49313564"
-    },
-    {
-      "title": "Show HN: Every MUNI, BART and Caltrain in SF on a Live Map",
-      "link": "https://github.com/UtpalJayNadiger/wheres-my-muni",
-      "pubDate": "Sat, 15 Aug 2026 19:09:03 +0000",
-      "date": "Sat, 15 Aug 2026 19:09:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/UtpalJayNadiger/wheres-my-muni\nComments URL: https://news.ycombinator.com/item?id=49313340\nPoints: 6\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49313340"
-    },
-    {
       "title": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
       "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
       "pubDate": "Sat, 15 Aug 2026 19:00:00 GMT",
@@ -244,28 +244,6 @@
       "icon": "📰",
       "contentSnippet": "There is a step in the development process for large language model (LLM)-assisted tooling that most teams skip because it's tedious, time-consuming, and doesn't produce results visible to end users: Verifying that what the model is saying is actually correct. Not fluent, not coherent, not topically relevant — correct in the sense of accurately identifying the right answer to the specific problem the tool was built to solve.\nThe gap between \"this output sounds right to me\" and \"this output is ve",
       "guid": "3aqFAE5idF5OcZ4SA8CJIT"
-    },
-    {
-      "title": "Show HN: Premiss – Coding agents for building trading strategies",
-      "link": "https://www.premissai.com",
-      "pubDate": "Sat, 15 Aug 2026 18:59:27 +0000",
-      "date": "Sat, 15 Aug 2026 18:59:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN,\nFirst time posting a Show HN. I've been building Premiss, a platform for researching, building and testing trading strategies with coding agents.\nI started working on it because I felt that a lot of existing trading platforms still make you build strategies through predefined rules and visual editors. Those feel out of date and wrapping a model around an existing interface feels like limiting the model.\nCode doesn't really have that limitation, and with coding agents getting much better,",
-      "guid": "https://news.ycombinator.com/item?id=49313271"
-    },
-    {
-      "title": "Leading With Love: Two National Principals of the Year on What Actually Works",
-      "link": "https://www.coolcatteacher.com/leadwithlove/",
-      "pubDate": "Sat, 15 Aug 2026 11:00:00 +0000",
-      "date": "Sat, 15 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nTwo women were named a 2026 National Principal of the Year, and when you ask them how they did it, they both use the same word: love. Amanda Jamerson on the discipline framework that cut office referrals 69 percent, and Sonia E. Ruiz on building a middle school where every student belongs.\nThe post Leading With Love: Two National Principals of the Ye",
-      "guid": "https://www.coolcatteacher.com/?p=35197"
     }
   ]
 }
