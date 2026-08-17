@@ -1,18 +1,51 @@
 {
-  "generatedAt": "2026-08-17T00:43:48.698Z",
+  "generatedAt": "2026-08-17T03:00:35.399Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
     {
-      "title": "cactus-compute/needle",
-      "link": "https://github.com/cactus-compute/needle",
-      "pubDate": "2026-08-17T00:43:46.277Z",
-      "date": "2026-08-17T00:43:46.277Z",
+      "title": "public-apis/public-apis",
+      "link": "https://github.com/public-apis/public-apis",
+      "pubDate": "2026-08-17T03:00:24.989Z",
+      "date": "2026-08-17T03:00:24.989Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
-      "contentSnippet": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.\n\n\n \nNeedle 2\n \nNeedle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270",
-      "guid": "https://github.com/cactus-compute/needle"
+      "contentSnippet": "A collective list of free APIs\nhttps://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo\n\nAPILayer Unified Suite in now Live! 🎉 🥳\n \nAPILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.\n \nSign up and start building today!\n \nFork our official APILayer Postman Collection",
+      "guid": "https://github.com/public-apis/public-apis"
+    },
+    {
+      "title": "Show HN: An open-source workspace for your agents",
+      "link": "https://github.com/gigeey/launchpad-studio",
+      "pubDate": "Mon, 17 Aug 2026 01:56:31 +0000",
+      "date": "Mon, 17 Aug 2026 01:56:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/gigeey/launchpad-studio\nComments URL: https://news.ycombinator.com/item?id=49325780\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49325780"
+    },
+    {
+      "title": "Show HN: Adding friction to my automatic open Claude reaction",
+      "link": "https://news.ycombinator.com/item?id=49325617",
+      "pubDate": "Mon, 17 Aug 2026 01:29:32 +0000",
+      "date": "Mon, 17 Aug 2026 01:29:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been reaching for claude way too often and wanted to add some friction. Give myself a chance to think about whether or not it's actually necessary :')\nhttps://github.com/aqureshi8/claudeconfirm\nComments URL: https://news.ycombinator.com/item?id=49325617\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49325617"
+    },
+    {
+      "title": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+      "link": "https://continuum-app.xyz/",
+      "pubDate": "Mon, 17 Aug 2026 00:58:35 +0000",
+      "date": "Mon, 17 Aug 2026 00:58:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, I'm Charles, the solo founder of Continuum (https://continuum-app.xyz/).\nContinuum is a financial planning web app for people with 1-15M. It helps you create simulations of job offers, house purchases, and life events. Its goal is to replace human advisors that cost thousands, or even worse, take AUM fees of 1%.\nThe MVP includes AI voice onboarding, scenario and mural creation, and 4 modules. The simulation math engine is code to ensure determinism. The LLMs don't do any simulation math.",
+      "guid": "https://news.ycombinator.com/item?id=49325445"
     },
     {
       "title": "Show HN: Convertix – Fast, 100% in-browser media and QR tools",
@@ -22,7 +55,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://convertix-fast-imager-co.blogspot.com/p/blog-page.html\nComments URL: https://news.ycombinator.com/item?id=49325283\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://convertix-fast-imager-co.blogspot.com/p/blog-page.html\nComments URL: https://news.ycombinator.com/item?id=49325283\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49325283"
     },
     {
@@ -33,7 +66,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "As a network engineer, I use ICMP every day.\nThe default ping utility is ugly, I used a prettyping instead. But it got some bugs, isn't configurable and need bash.\nSo I made my own.\nI hope it will help some other IT guy.\nFor reference, prettyping: https://github.com/denilsonsa/prettyping\nComments URL: https://news.ycombinator.com/item?id=49325004\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "As a network engineer, I use ICMP every day.\nThe default ping utility is ugly, I used a prettyping instead. But it got some bugs, isn't configurable and need bash.\nSo I made my own.\nI hope it will help some other IT guy.\nFor reference, prettyping: https://github.com/denilsonsa/prettyping\nComments URL: https://news.ycombinator.com/item?id=49325004\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49325004"
     },
     {
@@ -66,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tkeeper.org\nComments URL: https://news.ycombinator.com/item?id=49324484\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://tkeeper.org\nComments URL: https://news.ycombinator.com/item?id=49324484\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49324484"
     },
     {
@@ -222,39 +255,6 @@
       "icon": "🔨",
       "contentSnippet": "Sambee turns your storage into a modern workspace by presenting SMB and local files in your browser.\nIn the latest version 0.9 we added single sign-on via OpenID Connect. Given that configuring OIDC auth is not trivial, we tested and refined a lot until we got an implementation that seemed right to us. I've listed some key insights below. What do you think we got right and what should be changed?\n- Treat the IdP as source of truth\n- Configuration: focus on UX and guide the admin through the setu",
       "guid": "https://news.ycombinator.com/item?id=49323492"
-    },
-    {
-      "title": "Show HN: A world map where you pay to put your project's link on your country",
-      "link": "https://themapchallenge.com/",
-      "pubDate": "Sun, 16 Aug 2026 20:24:30 +0000",
-      "date": "Sun, 16 Aug 2026 20:24:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://themapchallenge.com/\nComments URL: https://news.ycombinator.com/item?id=49323316\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49323316"
-    },
-    {
-      "title": "Show HN: World Pop – A world map with countries resized by population, 1800–2100",
-      "link": "https://douwe.com/projects/gapmover",
-      "pubDate": "Sun, 16 Aug 2026 20:08:41 +0000",
-      "date": "Sun, 16 Aug 2026 20:08:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://douwe.com/projects/gapmover\nComments URL: https://news.ycombinator.com/item?id=49323189\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49323189"
-    },
-    {
-      "title": "Show HN: AI activity discovery that brings all activities to one platform",
-      "link": "https://hyp-e.com/",
-      "pubDate": "Sun, 16 Aug 2026 20:04:37 +0000",
-      "date": "Sun, 16 Aug 2026 20:04:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://hyp-e.com/\nComments URL: https://news.ycombinator.com/item?id=49323151\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49323151"
     },
     {
       "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
