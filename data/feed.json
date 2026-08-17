@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-17T12:24:41.820Z",
+  "generatedAt": "2026-08-17T18:24:45.058Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 30,
   "items": [
     {
       "title": "public-apis/public-apis",
       "link": "https://github.com/public-apis/public-apis",
-      "pubDate": "2026-08-17T12:24:40.442Z",
-      "date": "2026-08-17T12:24:40.442Z",
+      "pubDate": "2026-08-17T18:24:33.621Z",
+      "date": "2026-08-17T18:24:33.621Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,92 +15,279 @@
       "guid": "https://github.com/public-apis/public-apis"
     },
     {
-      "title": "Show HN: Logofolio: fresh logo design, daily",
-      "link": "https://logofolio.com",
-      "pubDate": "Mon, 17 Aug 2026 11:30:48 +0000",
-      "date": "Mon, 17 Aug 2026 11:30:48 +0000",
+      "title": "Show HN: Open-source comment section widget, Disqus alternative",
+      "link": "https://github.com/Runn077/PlopKit",
+      "pubDate": "Mon, 17 Aug 2026 18:06:44 +0000",
+      "date": "Mon, 17 Aug 2026 18:06:44 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://logofolio.com\nComments URL: https://news.ycombinator.com/item?id=49329263\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49329263"
+      "contentSnippet": "Article URL: https://github.com/Runn077/PlopKit\nComments URL: https://news.ycombinator.com/item?id=49335166\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49335166"
     },
     {
-      "title": "Show HN: Find images by what they show, AI-rename them, and sort them easily",
-      "link": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
-      "pubDate": "Mon, 17 Aug 2026 11:05:51 +0000",
-      "date": "Mon, 17 Aug 2026 11:05:51 +0000",
+      "title": "Show HN: Schemagic – visual JSON Schema editor",
+      "link": "https://schemagic.app",
+      "pubDate": "Mon, 17 Aug 2026 17:50:46 +0000",
+      "date": "Mon, 17 Aug 2026 17:50:46 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US\nComments URL: https://news.ycombinator.com/item?id=49329074\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49329074"
+      "contentSnippet": "Working with business operations, I’ve found that maintaining data contracts between developers and business teams is hard. As developers, we have a lot of tools: OpenAPI, JSON Schema, validation libraries for our programming languages, and git to keep everything in.\nI think JSON Schema is the most universal option, but it’s still hard for non-technical people to read and edit. Schemagic is my attempt to create a place where technical and non-technical people can work together and share data con",
+      "guid": "https://news.ycombinator.com/item?id=49334928"
     },
     {
-      "title": "Show HN: Port-Light – A self-hosted dashboard to show your server's port usage",
-      "link": "https://github.com/StepaniaH/port-light",
-      "pubDate": "Mon, 17 Aug 2026 10:55:36 +0000",
-      "date": "Mon, 17 Aug 2026 10:55:36 +0000",
+      "title": "Show HN: An Hacker News TUI Reader, handcrafted in Rust",
+      "link": "https://www.hncli.newstackwhodis.com",
+      "pubDate": "Mon, 17 Aug 2026 17:43:13 +0000",
+      "date": "Mon, 17 Aug 2026 17:43:13 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I make this tool, a self-hosted dashboard, to show which host ports are taken, as a traffic-light grid. All the reason because I'm a home server enthusiast, but have a chaotic and terrible memory.\nIt can aggregate ports from your different hosts and VPS as long as the network is reachable. And it merges three local sources into one grid: host listen tables, Docker API, and Compose files.\nAs a beginner, I am open to everyone's comments, and if there are better similar tools, please tell me about ",
-      "guid": "https://news.ycombinator.com/item?id=49328995"
+      "contentSnippet": "I wanted to share what I've been working on and off for the last few years.\nI'm not a CLI GUI, I use GitKraken for Git operations for instance. I'm an avid lurker of Hacker News though, and I found that a read-only TUI reader was a great fit for my usage - and for allowing me to slack a bit at work ;)\nI'm proud of the UX I've developed over the years, and especially proud of the architecture that made it possible [0]. It has contextual help, persistent settings, navigation history, and so on.\nI ",
+      "guid": "https://news.ycombinator.com/item?id=49334829"
     },
     {
-      "title": "Show HN: ChatPack – Open Chat Infrastructure",
-      "link": "https://github.com/chddaniel/chatpack",
-      "pubDate": "Mon, 17 Aug 2026 10:47:34 +0000",
-      "date": "Mon, 17 Aug 2026 10:47:34 +0000",
+      "title": "Show HN: I gave my job search data an MCP interface",
+      "link": "https://ackd.app/agents",
+      "pubDate": "Mon, 17 Aug 2026 17:42:40 +0000",
+      "date": "Mon, 17 Aug 2026 17:42:40 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/chddaniel/chatpack\nComments URL: https://news.ycombinator.com/item?id=49328931\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49328931"
+      "contentSnippet": "Article URL: https://ackd.app/agents\nComments URL: https://news.ycombinator.com/item?id=49334815\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49334815"
     },
     {
-      "title": "Show HN: Fix every weak social card/OG preview on your site",
-      "link": "https://myog.social/tools/og-preview",
-      "pubDate": "Mon, 17 Aug 2026 10:40:24 +0000",
-      "date": "Mon, 17 Aug 2026 10:40:24 +0000",
+      "title": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
+      "link": "https://tesana.ai/en",
+      "pubDate": "Mon, 17 Aug 2026 17:39:02 +0000",
+      "date": "Mon, 17 Aug 2026 17:39:02 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://myog.social/tools/og-preview\nComments URL: https://news.ycombinator.com/item?id=49328874\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49328874"
+      "contentSnippet": "Hey HN! I built https://tesana.ai/en, a game generation platform that allows anyone to create full games with graphics, game logic, and animations from a simple text prompt - without coding.\nTesana has three key features\n1. describe your game idea and have Tesana write a game plan for you \n2.  Build the game iteratively with AI, or let AI self-build the game in a build LOOP.\n3) Launch the game on the web, without setting up an engine\nTesana has 250 000 builders on the platform today\nI believe th",
+      "guid": "https://news.ycombinator.com/item?id=49334754"
     },
     {
-      "title": "Show HN: Cite Hustle – SEO agent that does your content marketing",
-      "link": "https://citehustle.com/",
-      "pubDate": "Mon, 17 Aug 2026 10:32:44 +0000",
-      "date": "Mon, 17 Aug 2026 10:32:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built Cite Hustle because I wanted to automate some of the repetitive parts of running SEO for my own sites.\nIt connects to a CMS and can research topics, draft posts, add internal links, schedule them, and refresh older pages. I am using it for my other apps currently.\nWould love to get feedback on how to improve this further.\nComments URL: https://news.ycombinator.com/item?id=49328818\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49328818"
+      "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
+      "link": "https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers",
+      "pubDate": "Mon, 17 Aug 2026 17:14:46 GMT",
+      "date": "Mon, 17 Aug 2026 17:14:46 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "A retrieval-augmented generation (RAG) system is built to answer strictly from the documents it retrieves. But when engineers optimize these AI pipelines end-to-end, the reader module can learn a shortcut: instead of relying on retrieved evidence, it starts answering from its own internal memory — while the system's overall accuracy keeps climbing. This is the hidden challenge of \"role drift,\" a failure mode in compound AI systems where individual modules learn to bypass their assigned tasks eve",
+      "guid": "4nI4fvd5mLP8PxO3dmgwOc"
     },
     {
-      "title": "Show HN: AgenticSchema – Turn structured web data (Schema.org) into MCP tools",
-      "link": "https://github.com/searchstefano/agenticschema",
-      "pubDate": "Mon, 17 Aug 2026 10:29:49 +0000",
-      "date": "Mon, 17 Aug 2026 10:29:49 +0000",
+      "title": "Show HN: Skybits – A document editor for humans and agents",
+      "link": "https://skybits.ai",
+      "pubDate": "Mon, 17 Aug 2026 17:11:54 +0000",
+      "date": "Mon, 17 Aug 2026 17:11:54 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/searchstefano/agenticschema\nComments URL: https://news.ycombinator.com/item?id=49328791\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49328791"
+      "contentSnippet": "Our business team were heavy users of ChatGPT's canvas feature, but it wasn't very useful once we needed to share a canvas and edit it collaboratively. Some team members were also using a different AI, and we couldn't find a good way to work on docs without sending each other .md files. So we built Skybits to solve that problem. It's free, AI-agnostic, and supports documents, spreadsheets, and HTML.\nComments URL: https://news.ycombinator.com/item?id=49334358\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49334358"
     },
     {
-      "title": "Show HN: Particle – a read-later app for when sites make reading unbearable",
-      "link": "https://particle.crnst8.com/try/",
-      "pubDate": "Mon, 17 Aug 2026 10:24:53 +0000",
-      "date": "Mon, 17 Aug 2026 10:24:53 +0000",
+      "title": "Show HN: Augur – see what is hidden inside your skills",
+      "link": "https://github.com/dejo1307/augur",
+      "pubDate": "Mon, 17 Aug 2026 17:08:18 +0000",
+      "date": "Mon, 17 Aug 2026 17:08:18 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I've seen a few of those \"Every fucking website in 202*\" examples on here the last few days, and I feel it deep in my bones.\nAs a result of the constant auto-play videos, CTAs, cookie warnings etc. etc., this is probably the most used self-developed app I run. It's super simple - just drop in the URL of the article and it'll extract (maintaining structure, formatting, pullquotes, images etc.) and save into an SQLite library if you want to come back to it later.\nSaves nicely as a PWA for tablet /",
-      "guid": "https://news.ycombinator.com/item?id=49328762"
+      "contentSnippet": "Augur is the tool I built having a bit of fear not knowing if something is hidden in the skills I am using more and more.\nIt parses different types of files, works from command line as from the simple TUI, can scan a file or whole folder, and can create clean copies of files with hidden characters or watermarks.\nIt supports jpeg, png, webp, gif, pdf, docsx/xlsx/pptx + ODF, any valid UTF-8, binary, and other formats.\nIt has 13 detectors and 40 finding kinds, decodes four types of schemes, two typ",
+      "guid": "https://news.ycombinator.com/item?id=49334301"
+    },
+    {
+      "title": "Show HN: I turned the ending of Trainspotting into a tiny web art installation",
+      "link": "https://trainspotting.vercel.app",
+      "pubDate": "Mon, 17 Aug 2026 17:07:47 +0000",
+      "date": "Mon, 17 Aug 2026 17:07:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I have always loved the final moments of Trainspotting and Born Slippy! I tried turning them into a small audiovisual experience on the web.\nPut on headphones and give it a couple of minutes.\nComments URL: https://news.ycombinator.com/item?id=49334291\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49334291"
+    },
+    {
+      "title": "Show HN: The Naturalist's Walk – A Web Game Based on William Jardine's Library",
+      "link": "https://www.thenaturalistswalk.com/",
+      "pubDate": "Mon, 17 Aug 2026 16:53:37 +0000",
+      "date": "Mon, 17 Aug 2026 16:53:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.thenaturalistswalk.com/\nComments URL: https://news.ycombinator.com/item?id=49334072\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49334072"
+    },
+    {
+      "title": "Show HN: AI Text Watermarking Playground",
+      "link": "https://watermark.keito.me/",
+      "pubDate": "Mon, 17 Aug 2026 16:36:41 +0000",
+      "date": "Mon, 17 Aug 2026 16:36:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://watermark.keito.me/\nComments URL: https://news.ycombinator.com/item?id=49333808\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49333808"
+    },
+    {
+      "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
+      "link": "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one",
+      "pubDate": "Mon, 17 Aug 2026 16:11:44 GMT",
+      "date": "Mon, 17 Aug 2026 16:11:44 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "A company builds a governed context layer specifically to stop its AI agents from confidently giving wrong answers. Once that layer is live, the company is more than twice as likely to report the failure happening — not less.\nIn the past six months, 68% of enterprises have traced a confident but wrong AI agent answer to missing or inconsistent business context. Thirty-seven percent say it happened more than once, ahead of the 32% who saw it happen only once. The figures come from a VB Pulse July",
+      "guid": "4SAhFZrUBptZZDf5KuFHEU"
+    },
+    {
+      "title": "Show HN: Making every company programmable like a computer [video]",
+      "link": "https://www.youtube.com/watch?v=JCXmYEV9OIQ&list=PLdf47QnV4_58",
+      "pubDate": "Mon, 17 Aug 2026 16:10:37 +0000",
+      "date": "Mon, 17 Aug 2026 16:10:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=JCXmYEV9OIQ&list=PLdf47QnV4_58\nComments URL: https://news.ycombinator.com/item?id=49333327\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49333327"
+    },
+    {
+      "title": "Show HN: Classifier and browser extension to detect rule violating HN comments",
+      "link": "https://classify.stylometry.net/",
+      "pubDate": "Mon, 17 Aug 2026 16:04:30 +0000",
+      "date": "Mon, 17 Aug 2026 16:04:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love HN, but lately I have been sick of reading the same dismissive criticisms over and over again.  Along with political arguments that have been litigated to death, people's issues with smooth scrolling on blogs, etc.  Many of these comments do not get flagged for whatever reason.  So I made a service to automatically classify whether comments violate (a modified form of) the HN guidelines automatically.  In addition there's a Chrome extension to collapse these comments (if they violate your",
+      "guid": "https://news.ycombinator.com/item?id=49333213"
+    },
+    {
+      "title": "Show HN: OpenWebSearch – A router for web search indexes",
+      "link": "https://openwebsearch.ai",
+      "pubDate": "Mon, 17 Aug 2026 16:03:11 +0000",
+      "date": "Mon, 17 Aug 2026 16:03:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I'm one of the people behind OpenWebSearch (https://openwebsearch.ai).\nIt's a router for web search indexes. You POST to one endpoint with a\n`provider` field, and it normalizes both the request and the response for web search indexes like Parallel, Brave, Exa and more\nWhy we built it: we run a model company (Interfaze) and a lot of our models are smaller in size and we're experimenting if given web search can a smaller 9b or 70b model perform the same as 300b or 600b model and we found th",
+      "guid": "https://news.ycombinator.com/item?id=49333187"
+    },
+    {
+      "title": "Show HN: UL-SMF – Open-source linear-complexity ~300x KV-cache compression",
+      "link": "https://github.com/liventruth/UL-SMF-Cache-Compression",
+      "pubDate": "Mon, 17 Aug 2026 15:56:14 +0000",
+      "date": "Mon, 17 Aug 2026 15:56:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/liventruth/UL-SMF-Cache-Compression\nComments URL: https://news.ycombinator.com/item?id=49333084\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49333084"
+    },
+    {
+      "title": "Show HN: AI-Generated Flash Fiction Arena",
+      "link": "https://worldsenoughstudios.com/flash-fight/",
+      "pubDate": "Mon, 17 Aug 2026 15:49:50 +0000",
+      "date": "Mon, 17 Aug 2026 15:49:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Which model will win at writing ~500 word short stories?\nComments URL: https://news.ycombinator.com/item?id=49332976\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49332976"
+    },
+    {
+      "title": "Show HN: An AI-produced news podcast for curious kids",
+      "link": "https://myfirst.news/",
+      "pubDate": "Mon, 17 Aug 2026 15:47:16 +0000",
+      "date": "Mon, 17 Aug 2026 15:47:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://myfirst.news/\nComments URL: https://news.ycombinator.com/item?id=49332933\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49332933"
+    },
+    {
+      "title": "Show HN: Machogs – Find out what's hogging your Mac, in plain English",
+      "link": "https://bnishit.github.io/machogs/",
+      "pubDate": "Mon, 17 Aug 2026 15:47:14 +0000",
+      "date": "Mon, 17 Aug 2026 15:47:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bnishit.github.io/machogs/\nComments URL: https://news.ycombinator.com/item?id=49332932\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49332932"
+    },
+    {
+      "title": "Show HN: PageLM – Open-Source NotebookLM Alternative (React/Node/LangChain)",
+      "link": "https://github.com/CaviraOSS/PageLM",
+      "pubDate": "Mon, 17 Aug 2026 15:25:23 +0000",
+      "date": "Mon, 17 Aug 2026 15:25:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/CaviraOSS/PageLM\nComments URL: https://news.ycombinator.com/item?id=49332584\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49332584"
+    },
+    {
+      "title": "Show HN: Lingerlet – a tool that formats text to look like physical letter",
+      "link": "https://lingerlet.com/draft-digital-letter/",
+      "pubDate": "Mon, 17 Aug 2026 15:23:14 +0000",
+      "date": "Mon, 17 Aug 2026 15:23:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://lingerlet.com/draft-digital-letter/\nComments URL: https://news.ycombinator.com/item?id=49332548\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49332548"
+    },
+    {
+      "title": "Show HN: Curia – Personal Radio and AI Podcasts",
+      "link": "https://curia.surge.sh/",
+      "pubDate": "Mon, 17 Aug 2026 15:19:38 +0000",
+      "date": "Mon, 17 Aug 2026 15:19:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "hi everyone\nI've made this personalised audio app called Curia, that turns articles & links, into audio shows. You can customize the show format, to fit different moments of the day.\nWould love for people to try out and share feedback.\nMy long term vision is to make the personal media company, where user is co-author or co-programmer of their feed, shifting the role away from the algorithm that works in favour of the platform and not the user.\nComments URL: https://news.ycombinator.com/item?id=4",
+      "guid": "https://news.ycombinator.com/item?id=49332496"
+    },
+    {
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "link": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "pubDate": "Mon, 17 Aug 2026 14:37:08 GMT",
+      "date": "Mon, 17 Aug 2026 14:37:08 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Enterprise AI has a new infrastructure problem: companies are accumulating agents faster than they are developing systems to govern them.\nGartner estimates that the average global Fortune 500 company will have more than 150,000 AI agents in use by 2028, up from fewer than 15 in 2025. Yet only 13% of organizations believe they currently have the right AI agent governance in place, according to the research firm.\nThat widening gap is creating a market for infrastructure that sits above individual ",
+      "guid": "5qvzuHXsG1vMec64sNtG75"
+    },
+    {
+      "title": "  How Heidi built production-ready AI for healthcare at global scale",
+      "link": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
+      "pubDate": "Mon, 17 Aug 2026 14:30:00 GMT",
+      "date": "Mon, 17 Aug 2026 14:30:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Presented by MongoDB\n\nBuilding AI that is accurate, secure, and reliable is a major engineering feat for organizations subject to the compliance obligations that govern healthcare, financial services, and transportation. The challenge of delivering AI-driven products is compounded by the fact that technology in these industries has tended to lag behind other sectors because regulation requires organizations to move carefully — and slowly. Now, many are also confronting data infrastructure modern",
+      "guid": "6NEBoASYWLjNNoFtG0dUJ5"
+    },
+    {
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "pubDate": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "date": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
+      "guid": "https://www.technologyreview.com/?p=1142175"
     },
     {
       "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
@@ -114,61 +301,6 @@
       "guid": "https://stratechery.com/?p=19725"
     },
     {
-      "title": "Show HN: AI Signal Bot for project updates",
-      "link": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
-      "pubDate": "Mon, 17 Aug 2026 09:34:52 +0000",
-      "date": "Mon, 17 Aug 2026 09:34:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot\nComments URL: https://news.ycombinator.com/item?id=49328404\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49328404"
-    },
-    {
-      "title": "Show HN: Octoweb – A Keyboard-First Browser with AI as a Citizen",
-      "link": "https://muvon.io/blog/introducing-octoweb-keyboard-first-ai-browser",
-      "pubDate": "Mon, 17 Aug 2026 09:28:04 +0000",
-      "date": "Mon, 17 Aug 2026 09:28:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://muvon.io/blog/introducing-octoweb-keyboard-first-ai-browser\nComments URL: https://news.ycombinator.com/item?id=49328342\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49328342"
-    },
-    {
-      "title": "Show HN: SharpSkill, we gamified a free training platform for tech interviews",
-      "link": "https://sharpskill.dev/en",
-      "pubDate": "Mon, 17 Aug 2026 09:12:51 +0000",
-      "date": "Mon, 17 Aug 2026 09:12:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Gm HN,\nWe built SharpSkill in order to allow everyone to train and increase their success in tech itw.\nWe tried to keep it simple, clean and intuitive.\nComments URL: https://news.ycombinator.com/item?id=49328216\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49328216"
-    },
-    {
-      "title": "Show HN: Mdv – preview, share, verify and fix Markdown from your terminal",
-      "link": "https://github.com/gogainda/mdview-cli",
-      "pubDate": "Mon, 17 Aug 2026 09:06:43 +0000",
-      "date": "Mon, 17 Aug 2026 09:06:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/gogainda/mdview-cli\nComments URL: https://news.ycombinator.com/item?id=49328175\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49328175"
-    },
-    {
-      "title": "Show HN: Selvum – a password manager designed to outlive its developer",
-      "link": "https://www.selvum.app/",
-      "pubDate": "Mon, 17 Aug 2026 09:04:18 +0000",
-      "date": "Mon, 17 Aug 2026 09:04:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.selvum.app/\nComments URL: https://news.ycombinator.com/item?id=49328153\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49328153"
-    },
-    {
       "title": "What happens when a kid’s robot best friend dies?",
       "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "pubDate": "Mon, 17 Aug 2026 09:00:00 +0000",
@@ -178,83 +310,6 @@
       "icon": "🔬",
       "contentSnippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
       "guid": "https://www.technologyreview.com/?p=1141568"
-    },
-    {
-      "title": "Show HN: HRConvert2 – A public facing self hosted file conversion server",
-      "link": "https://github.com/zelon88/HRConvert2",
-      "pubDate": "Mon, 17 Aug 2026 08:49:33 +0000",
-      "date": "Mon, 17 Aug 2026 08:49:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/zelon88/HRConvert2\nComments URL: https://news.ycombinator.com/item?id=49328010\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49328010"
-    },
-    {
-      "title": "Show HN: Split Image",
-      "link": "https://splitimage.cc/",
-      "pubDate": "Mon, 17 Aug 2026 08:49:25 +0000",
-      "date": "Mon, 17 Aug 2026 08:49:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://splitimage.cc/\nComments URL: https://news.ycombinator.com/item?id=49328007\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49328007"
-    },
-    {
-      "title": "Show HN: Winuse – Cross-platform desktop GUI automation for AI agents",
-      "link": "https://github.com/lgxz/winuse",
-      "pubDate": "Mon, 17 Aug 2026 08:47:23 +0000",
-      "date": "Mon, 17 Aug 2026 08:47:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/lgxz/winuse\nComments URL: https://news.ycombinator.com/item?id=49327992\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49327992"
-    },
-    {
-      "title": "Show HN: Bratify – Live speech into charlie xcx brat",
-      "link": "https://baggiest.github.io/bratify/",
-      "pubDate": "Mon, 17 Aug 2026 08:03:25 +0000",
-      "date": "Mon, 17 Aug 2026 08:03:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "If you've fallen for a charliexcx fan use this to on your first date, fork it put your own name and say you made it, works 8 times out of 10. love u bye\nComments URL: https://news.ycombinator.com/item?id=49327725\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49327725"
-    },
-    {
-      "title": "Show HN: Verifying that an auto-submitted job application arrived",
-      "link": "https://aiapplyd.com/",
-      "pubDate": "Mon, 17 Aug 2026 07:56:02 +0000",
-      "date": "Mon, 17 Aug 2026 07:56:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://aiapplyd.com/\nComments URL: https://news.ycombinator.com/item?id=49327676\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49327676"
-    },
-    {
-      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
-      "link": "https://desktopcolors.com",
-      "pubDate": "Mon, 17 Aug 2026 07:51:22 +0000",
-      "date": "Mon, 17 Aug 2026 07:51:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think.\nComments URL: https://news.ycombinator.com/item?id=49327643\nPoints: 22\n# Comments: 5",
-      "guid": "https://news.ycombinator.com/item?id=49327643"
-    },
-    {
-      "title": "Show HN: RAX Compute Gateway – One API for OpenAI, Anthropic, and Gemini",
-      "link": "https://github.com/radium0090/Compute-Gateway",
-      "pubDate": "Mon, 17 Aug 2026 07:21:37 +0000",
-      "date": "Mon, 17 Aug 2026 07:21:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/radium0090/Compute-Gateway\nComments URL: https://news.ycombinator.com/item?id=49327446\nPoints: 6\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49327446"
     },
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
@@ -277,17 +332,6 @@
       "icon": "📰",
       "contentSnippet": "Most teams building retrieval augmented generation (RAG) systems for high stakes classification make the same architectural bet: Route every ambiguous case straight to the language model and trust the retrieved context to sort it out. This works fine in a demo. It falls apart the moment the system has to survive an audit, a regulator, or a compliance officer asking why a specific decision was made six months ago.\nI have spent the last year building RAG based classification systems in regulated e",
       "guid": "2l9E2PbTL1ON7PGJM32oiE"
-    },
-    {
-      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
-      "link": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
-      "pubDate": "Sun, 16 Aug 2026 13:00:00 GMT",
-      "date": "Sun, 16 Aug 2026 13:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "DeepSeek's V4 Flash has topped model leaderboards and been hailed by developers as a \"total monster\" since its rollout. But in real-world testing, it completed just 53.8% of a batch of complex agent tasks. \nComposio ran the model through eight different agent harnesses, including Claude Code, Codex, and OpenCode, on 30 deliberately difficult, multi-step tasks spanning live tools like Gmail, GitHub, Slack, and Google Sheets. Of 240 total runs, 129 passed — and only six of the 30 workflows were co",
-      "guid": "30TtKMdIkDcC2xBxuqAjKE"
     }
   ]
 }
