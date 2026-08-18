@@ -1,18 +1,161 @@
 {
-  "generatedAt": "2026-08-18T00:43:10.793Z",
+  "generatedAt": "2026-08-18T06:27:46.980Z",
   "lookbackHours": 24,
-  "totalItems": 30,
+  "totalItems": 32,
   "items": [
     {
-      "title": "public-apis/public-apis",
-      "link": "https://github.com/public-apis/public-apis",
-      "pubDate": "2026-08-18T00:42:44.497Z",
-      "date": "2026-08-18T00:42:44.497Z",
+      "title": "nautechsystems/nautilus_trader",
+      "link": "https://github.com/nautechsystems/nautilus_trader",
+      "pubDate": "2026-08-18T06:27:44.349Z",
+      "date": "2026-08-18T06:27:44.349Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
-      "contentSnippet": "A collective list of free APIs\nhttps://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo\n\nAPILayer Unified Suite in now Live! 🎉 🥳\n \nAPILayer unified suite allows you to integrate production-grade REST APIs using One Account, One Dashboard, and One API key. Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result.\n \nSign up and start building today!\n \nFork our official APILayer Postman Collection",
-      "guid": "https://github.com/public-apis/public-apis"
+      "contentSnippet": "Production-grade Rust-native trading engine with deterministic event-driven architecture\nhttps://nautilustrader.io\n\n\n \n      \n \n \n  \n  \n \n   Branch \n   Version \n   Status \n  \n \n  \n  \n  \n \n   master \n    \n    \n  \n \n  \n \n   nightly \n    \n    \n  \n \n  \n \n   develop \n    \n    \n  \n \n  \n \n \n  \n  \n \n   Platform \n   Rust \n   Python \n  \n \n  \n  \n  \n \n   Linux (x86_64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   Linux (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   macOS (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n",
+      "guid": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "pubDate": "2026-08-18T06:27:44.349Z",
+      "date": "2026-08-18T06:27:44.349Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nhttps://mahipal.engineer/Anthropic-Cybersecurity-Skills/\n\n  \n \n \n \nAnthropic Cybersecurity Skills\n \n \nThe largest open-source cybersecurity skills library for AI agents\n \n \n             \n \n",
+      "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "2026-08-18T06:27:44.348Z",
+      "date": "2026-08-18T06:27:44.349Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n \n \nMoneyPrinterTurbo 💸\n \n \n一站式 AI 短视频生成工具\n \n \n只需提供视频主题或关键词，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n \n \n   \n \n \n \n \n \n简体中文 | English | 版本发布 | 问题反馈\n \n \n界面预览 🖥️\n \nWebUI\n \n\n \nAPI\n \n\n \n \n特别感谢 ❤️\n \n \n  \n \n感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的",
+      "guid": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "title": "Show HN: Agents Workbook watch Claude Code, Codex write down their working notes",
+      "link": "https://github.com/softcane/agents-workbook",
+      "pubDate": "Tue, 18 Aug 2026 06:21:29 +0000",
+      "date": "Tue, 18 Aug 2026 06:21:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/softcane/agents-workbook\nComments URL: https://news.ycombinator.com/item?id=49342012\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49342012"
+    },
+    {
+      "title": "Show HN: Vyral – Portable contracts for data, retrieval, durable work, and MCP",
+      "link": "https://github.com/Univeracity/vyral",
+      "pubDate": "Tue, 18 Aug 2026 06:04:37 +0000",
+      "date": "Tue, 18 Aug 2026 06:04:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Univeracity/vyral\nComments URL: https://news.ycombinator.com/item?id=49341873\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49341873"
+    },
+    {
+      "title": "Show HN: TextCompare – Local-first diff tools for text, files, and code",
+      "link": "https://compare-text.org/",
+      "pubDate": "Tue, 18 Aug 2026 05:07:23 +0000",
+      "date": "Tue, 18 Aug 2026 05:07:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://compare-text.org/\nComments URL: https://news.ycombinator.com/item?id=49341502\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49341502"
+    },
+    {
+      "title": "Show HN: An open source alternative to Google's Critique",
+      "link": "https://twigg.vc",
+      "pubDate": "Tue, 18 Aug 2026 03:21:59 +0000",
+      "date": "Tue, 18 Aug 2026 03:21:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://twigg.vc\nComments URL: https://news.ycombinator.com/item?id=49340849\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49340849"
+    },
+    {
+      "title": "Show HN: An n8n-like orchestration toolkit for DeepSeek harnesses",
+      "link": "https://github.com/ahamoment-101/Open-DeepSeek-Harness-Desktop",
+      "pubDate": "Tue, 18 Aug 2026 03:04:35 +0000",
+      "date": "Tue, 18 Aug 2026 03:04:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ahamoment-101/Open-DeepSeek-Harness-Desktop\nComments URL: https://news.ycombinator.com/item?id=49340759\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49340759"
+    },
+    {
+      "title": "Show HN: Honeymatcha.io connect your Grok bots for dating, meetups, anything",
+      "link": "https://honeymatcha.io",
+      "pubDate": "Tue, 18 Aug 2026 02:49:41 +0000",
+      "date": "Tue, 18 Aug 2026 02:49:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://honeymatcha.io\nComments URL: https://news.ycombinator.com/item?id=49340634\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49340634"
+    },
+    {
+      "title": "Show HN: Build beautiful web apps faster with UiSvelte",
+      "link": "https://github.com/sappsdev/ui-svelte",
+      "pubDate": "Tue, 18 Aug 2026 02:48:22 +0000",
+      "date": "Tue, 18 Aug 2026 02:48:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A comprehensive Svelte 5 component library that handles the complexity, so you can focus on building great products. Optimized for AI code generation and mobile-first design.\nComments URL: https://news.ycombinator.com/item?id=49340621\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49340621"
+    },
+    {
+      "title": "Show HN: Turtle – Web Browser written from scratch for 2 years",
+      "link": "https://news.ycombinator.com/item?id=49340294",
+      "pubDate": "Tue, 18 Aug 2026 02:10:09 +0000",
+      "date": "Tue, 18 Aug 2026 02:10:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A few weeks ago I posted my solo browser projects and since I have received lots of messages asking the download link.\nI was a bit reluctant to release it since it's not at a stable level yet. However I finally decided to just put it out there as a pre-alpha since so many emails I have received.\nSo now you can grab this pre-alpha from https://code.intellios.ai/cwbrowser/\nNote: Expect bugs, missing features, and crashes. Plenty of the web will render imperfectly or not at all. This is an early lo",
+      "guid": "https://news.ycombinator.com/item?id=49340294"
+    },
+    {
+      "title": "Show HN: SacredCal – A 13-month, 364-day calendar built around seven-day cycles",
+      "link": "https://sacredcal.one",
+      "pubDate": "Tue, 18 Aug 2026 01:59:34 +0000",
+      "date": "Tue, 18 Aug 2026 01:59:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sacredcal.one\nComments URL: https://news.ycombinator.com/item?id=49340221\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49340221"
+    },
+    {
+      "title": "Show HN: Tsampi BFT – Leaderless One-Round Voting with Parameterized Finality [pdf]",
+      "link": "https://www.tsampi.com/tsampi-bft-1.0.pdf",
+      "pubDate": "Tue, 18 Aug 2026 01:34:07 +0000",
+      "date": "Tue, 18 Aug 2026 01:34:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.tsampi.com/tsampi-bft-1.0.pdf\nComments URL: https://news.ycombinator.com/item?id=49340061\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49340061"
+    },
+    {
+      "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
+      "link": "https://getcogni.io/",
+      "pubDate": "Tue, 18 Aug 2026 00:21:14 +0000",
+      "date": "Tue, 18 Aug 2026 00:21:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://getcogni.io/\nComments URL: https://news.ycombinator.com/item?id=49339547\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49339547"
     },
     {
       "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
@@ -77,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/couldbeme/holdline\nComments URL: https://news.ycombinator.com/item?id=49338963\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/couldbeme/holdline\nComments URL: https://news.ycombinator.com/item?id=49338963\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49338963"
     },
     {
@@ -134,127 +277,6 @@
       "icon": "🔨",
       "contentSnippet": "I have been programming in the industry for years now and wondered how safe it was to entrust your code to companies like Github, etc. You are trusting they won't steal your code or allow hackers in. That's alot to ask from someone you don't know, especially when you get others to sign NDA's to look at your stuff. I've worked at big game companies that used Github. Seemed a bit strange.\nI'd feel happier not trusting the server at all but I still want a place to have a copy of my code and for col",
       "guid": "https://news.ycombinator.com/item?id=49337799"
-    },
-    {
-      "title": "Show HN: Solo – portable Linux binaries, solved",
-      "link": "https://github.com/pg83/solo",
-      "pubDate": "Mon, 17 Aug 2026 21:04:54 +0000",
-      "date": "Mon, 17 Aug 2026 21:04:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/pg83/solo\nComments URL: https://news.ycombinator.com/item?id=49337618\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49337618"
-    },
-    {
-      "title": "Show HN: Personal AI tutor that builds and probes your understanding",
-      "link": "https://github.com/grandimam/suki",
-      "pubDate": "Mon, 17 Aug 2026 21:04:38 +0000",
-      "date": "Mon, 17 Aug 2026 21:04:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I used to learn from books and courses. But I kept realising I hadn't built a real mental model. I always needed an LLM on the side to fill in what the books skipped. So, I stopped using books as my direct source of truth and started using LLMs itself: to design the curriculum and probe whether I understood the topic.\nSuki - it's opensource. Given a topic it builds a curriculum from beginner to advanced, then probes your understanding chapter by chapter.\nLink - https://github.com/grandimam/suki\n",
-      "guid": "https://news.ycombinator.com/item?id=49337613"
-    },
-    {
-      "title": "Show HN: Provenance, a daily game about art theft",
-      "link": "https://provenance.avibagla.com/",
-      "pubDate": "Mon, 17 Aug 2026 21:02:53 +0000",
-      "date": "Mon, 17 Aug 2026 21:02:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://provenance.avibagla.com/\nComments URL: https://news.ycombinator.com/item?id=49337592\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49337592"
-    },
-    {
-      "title": "Show HN: Klar, a simple and opinionated programming language",
-      "link": "https://github.com/ProCode-Software/klar",
-      "pubDate": "Mon, 17 Aug 2026 20:59:46 +0000",
-      "date": "Mon, 17 Aug 2026 20:59:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ProCode-Software/klar\nComments URL: https://news.ycombinator.com/item?id=49337555\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49337555"
-    },
-    {
-      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
-      "link": "https://github.com/therepanic/openleetcode",
-      "pubDate": "Mon, 17 Aug 2026 20:44:07 +0000",
-      "date": "Mon, 17 Aug 2026 20:44:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.\nIt currently supports around 1.4k problems and multiple languages, including Python, C++, Rust, Java, Go, TypeScript, Swift, and others.\nThe project is still an MVP. System design, SQL, and concurrency problems are not supported yet, but support for more problem types is planned.\nMade in Haskell!\nComments UR",
-      "guid": "https://news.ycombinator.com/item?id=49337367"
-    },
-    {
-      "title": "Show HN: Engelbart – Mange Goals and TODOs for Claude Code",
-      "link": "https://github.com/divadbaroon/claude-plugins",
-      "pubDate": "Mon, 17 Aug 2026 20:41:03 +0000",
-      "date": "Mon, 17 Aug 2026 20:41:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Context about what I'm trying to build and upcoming TODOs get lost or mixed up as my projects grow more complex and my Claude Code chats compact. We built Engelbart to address this problem, an open-source Claude plugin that infers your goals and TODOs from previous conversation turns and presents them via a web interface that injects context into your Claude Code conversation turns and you update the your project goals.\nComments URL: https://news.ycombinator.com/item?id=49337325\nPoints: 1\n# Comm",
-      "guid": "https://news.ycombinator.com/item?id=49337325"
-    },
-    {
-      "title": "Show HN: Slaunt – control what AI agents can access, do, and execute",
-      "link": "https://slaunt.ai",
-      "pubDate": "Mon, 17 Aug 2026 20:33:01 +0000",
-      "date": "Mon, 17 Aug 2026 20:33:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN, wanted to silently launch what I've building for a bit. Lmk.\nComments URL: https://news.ycombinator.com/item?id=49337228\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49337228"
-    },
-    {
-      "title": "Show HN: Gene Inspector Pro – I built a tool for exploring your own genome",
-      "link": "https://gene-inspector.pro/",
-      "pubDate": "Mon, 17 Aug 2026 20:31:09 +0000",
-      "date": "Mon, 17 Aug 2026 20:31:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I’m Sergey.\nWhen my son was diagnosed with several health conditions, a doctor told us to “learn to live with it.” I refused and started looking for answers.\nI spent the next seven years teaching myself genetics and cellular biology. That search led me to build Gene Inspector and have my family’s DNA sequenced. I now study genomic data from 14 family members across three generations.\nGene Inspector turns raw DNA data into a shortlist of findings people can investigate. Instead of searchin",
-      "guid": "https://news.ycombinator.com/item?id=49337198"
-    },
-    {
-      "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
-      "link": "https://github.com/fu351/Doberman-Core",
-      "pubDate": "Mon, 17 Aug 2026 20:03:00 +0000",
-      "date": "Mon, 17 Aug 2026 20:03:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Landing Page: https://www.trydoberman.dev/\nThe Problem:\nAI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in.\nWhat is Doberman:\nDoberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of the art security guidelines, the second layer is dynamic, learning from your use and personal preferences.\nHow is ",
-      "guid": "https://news.ycombinator.com/item?id=49336757"
-    },
-    {
-      "title": "Show HN: Yet Another OpenCode Plugin",
-      "link": "https://github.com/smokeeaasd/yet-another-opencode-plugin",
-      "pubDate": "Mon, 17 Aug 2026 19:39:43 +0000",
-      "date": "Mon, 17 Aug 2026 19:39:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/smokeeaasd/yet-another-opencode-plugin\nComments URL: https://news.ycombinator.com/item?id=49336496\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49336496"
-    },
-    {
-      "title": "Show HN: Love",
-      "link": "https://01001100011011110111011001100101.ai/",
-      "pubDate": "Mon, 17 Aug 2026 19:20:40 +0000",
-      "date": "Mon, 17 Aug 2026 19:20:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I broke up w/ my GF yesterday; so I am making an AI-native matchmaker. This shit is all a simulation so there has to be some concrete math/algo behind it all.\nComments URL: https://news.ycombinator.com/item?id=49336238\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49336238"
     },
     {
       "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
