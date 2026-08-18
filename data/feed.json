@@ -1,13 +1,24 @@
 {
-  "generatedAt": "2026-08-18T06:27:46.980Z",
+  "generatedAt": "2026-08-18T12:26:44.159Z",
   "lookbackHours": 24,
   "totalItems": 32,
   "items": [
     {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "2026-08-18T12:26:41.562Z",
+      "date": "2026-08-18T12:26:41.562Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n \n \nMoneyPrinterTurbo 💸\n \n \n一站式 AI 短视频生成工具\n \n \n只需提供视频主题或关键词，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n \n \n   \n \n \n \n \n \n简体中文 | English | 版本发布 | 问题反馈\n \n \n界面预览 🖥️\n \nWebUI\n \n\n \nAPI\n \n\n \n \n特别感谢 ❤️\n \n \n  \n \n感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的",
+      "guid": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
       "title": "nautechsystems/nautilus_trader",
       "link": "https://github.com/nautechsystems/nautilus_trader",
-      "pubDate": "2026-08-18T06:27:44.349Z",
-      "date": "2026-08-18T06:27:44.349Z",
+      "pubDate": "2026-08-18T12:26:41.562Z",
+      "date": "2026-08-18T12:26:41.562Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +28,8 @@
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-18T06:27:44.349Z",
-      "date": "2026-08-18T06:27:44.349Z",
+      "pubDate": "2026-08-18T12:26:41.562Z",
+      "date": "2026-08-18T12:26:41.562Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -26,136 +37,246 @@
       "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
-      "title": "harry0703/MoneyPrinterTurbo",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-18T06:27:44.348Z",
-      "date": "2026-08-18T06:27:44.349Z",
-      "source": "GitHub Trending · Daily",
-      "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n \n \nMoneyPrinterTurbo 💸\n \n \n一站式 AI 短视频生成工具\n \n \n只需提供视频主题或关键词，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n \n \n   \n \n \n \n \n \n简体中文 | English | 版本发布 | 问题反馈\n \n \n界面预览 🖥️\n \nWebUI\n \n\n \nAPI\n \n\n \n \n特别感谢 ❤️\n \n \n  \n \n感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的",
-      "guid": "https://github.com/harry0703/MoneyPrinterTurbo"
-    },
-    {
-      "title": "Show HN: Agents Workbook watch Claude Code, Codex write down their working notes",
-      "link": "https://github.com/softcane/agents-workbook",
-      "pubDate": "Tue, 18 Aug 2026 06:21:29 +0000",
-      "date": "Tue, 18 Aug 2026 06:21:29 +0000",
+      "title": "Show HN: Zeroparams, a coding agent with zero parameters because it's just me",
+      "link": "https://zeroparams.itdata.nu",
+      "pubDate": "Tue, 18 Aug 2026 11:54:25 +0000",
+      "date": "Tue, 18 Aug 2026 11:54:25 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/softcane/agents-workbook\nComments URL: https://news.ycombinator.com/item?id=49342012\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49342012"
+      "contentSnippet": "I made an OpenAI-compatible coding agent without an LLM. I hooked up a custom VSCode extension in place of the model, so when someone makes a completion request I get it in a chat window. I can then edit files on their machine with regular tool calls and ask to run CLI commands (hooked into the vscode terminal). Arbitary tools are supported too but not very nicely yet.\nIt's an art project about coding agents and the increasingly strange interface between programmers and models. The subscriptions",
+      "guid": "https://news.ycombinator.com/item?id=49344346"
     },
     {
-      "title": "Show HN: Vyral – Portable contracts for data, retrieval, durable work, and MCP",
-      "link": "https://github.com/Univeracity/vyral",
-      "pubDate": "Tue, 18 Aug 2026 06:04:37 +0000",
-      "date": "Tue, 18 Aug 2026 06:04:37 +0000",
+      "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)",
+      "link": "https://github.com/Tonterias/h2aichat",
+      "pubDate": "Tue, 18 Aug 2026 11:47:04 +0000",
+      "date": "Tue, 18 Aug 2026 11:47:04 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Univeracity/vyral\nComments URL: https://news.ycombinator.com/item?id=49341873\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49341873"
+      "contentSnippet": "Article URL: https://github.com/Tonterias/h2aichat\nComments URL: https://news.ycombinator.com/item?id=49344277\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49344277"
     },
     {
-      "title": "Show HN: TextCompare – Local-first diff tools for text, files, and code",
-      "link": "https://compare-text.org/",
-      "pubDate": "Tue, 18 Aug 2026 05:07:23 +0000",
-      "date": "Tue, 18 Aug 2026 05:07:23 +0000",
+      "title": "Show HN: Kitsunagu – A platform to find English-speaking professionals in Japan",
+      "link": "https://kitsunagu.com/",
+      "pubDate": "Tue, 18 Aug 2026 11:08:53 +0000",
+      "date": "Tue, 18 Aug 2026 11:08:53 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://compare-text.org/\nComments URL: https://news.ycombinator.com/item?id=49341502\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49341502"
+      "contentSnippet": "Hey HN. hrk and I are 2 expats who've been living in Japan for almost 10 years.\nOne of the problems we ran into after moving here is that, even though we were learning Japanese, for some stuff you really want to be helped in a language that you're 100% comfortable in.\nLike if you have to go to the doctor, or even worse, if you need a lawyer for some reason.\nIt turns out, it's not that easy to find English-speaking doctors or lawyers in Japan. Typically we'd just ask people we know but that's ver",
+      "guid": "https://news.ycombinator.com/item?id=49343942"
     },
     {
-      "title": "Show HN: An open source alternative to Google's Critique",
-      "link": "https://twigg.vc",
-      "pubDate": "Tue, 18 Aug 2026 03:21:59 +0000",
-      "date": "Tue, 18 Aug 2026 03:21:59 +0000",
+      "title": "Show HN: AirStats – Mac menu bar system monitor, 0.046% CPU idle, MIT",
+      "link": "https://github.com/byrencheema/airstats",
+      "pubDate": "Tue, 18 Aug 2026 11:00:07 +0000",
+      "date": "Tue, 18 Aug 2026 11:00:07 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://twigg.vc\nComments URL: https://news.ycombinator.com/item?id=49340849\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49340849"
+      "contentSnippet": "Article URL: https://github.com/byrencheema/airstats\nComments URL: https://news.ycombinator.com/item?id=49343879\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343879"
     },
     {
-      "title": "Show HN: An n8n-like orchestration toolkit for DeepSeek harnesses",
-      "link": "https://github.com/ahamoment-101/Open-DeepSeek-Harness-Desktop",
-      "pubDate": "Tue, 18 Aug 2026 03:04:35 +0000",
-      "date": "Tue, 18 Aug 2026 03:04:35 +0000",
+      "title": "Show HN: ImageSage – Find the screenshot you want from 10k messy screenshots",
+      "link": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
+      "pubDate": "Tue, 18 Aug 2026 10:51:33 +0000",
+      "date": "Tue, 18 Aug 2026 10:51:33 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ahamoment-101/Open-DeepSeek-Harness-Desktop\nComments URL: https://news.ycombinator.com/item?id=49340759\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49340759"
+      "contentSnippet": "Smart search → AI rename → move/copy the file in place.\nComments URL: https://news.ycombinator.com/item?id=49343810\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343810"
     },
     {
-      "title": "Show HN: Honeymatcha.io connect your Grok bots for dating, meetups, anything",
-      "link": "https://honeymatcha.io",
-      "pubDate": "Tue, 18 Aug 2026 02:49:41 +0000",
-      "date": "Tue, 18 Aug 2026 02:49:41 +0000",
+      "title": "Show HN: MCP-Proxy Add MCP support to any REST API – no code changes required",
+      "link": "https://github.com/crhuber/mcp-proxy",
+      "pubDate": "Tue, 18 Aug 2026 10:36:18 +0000",
+      "date": "Tue, 18 Aug 2026 10:36:18 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://honeymatcha.io\nComments URL: https://news.ycombinator.com/item?id=49340634\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49340634"
+      "contentSnippet": "We've spent decades building REST APIs. Adding MCP support shouldn't mean reimplementing your business logic. mcp-proxy exposes your existing REST endpoints as MCP tools automatically, with zero changes to your API.\nComments URL: https://news.ycombinator.com/item?id=49343705\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343705"
     },
     {
-      "title": "Show HN: Build beautiful web apps faster with UiSvelte",
-      "link": "https://github.com/sappsdev/ui-svelte",
-      "pubDate": "Tue, 18 Aug 2026 02:48:22 +0000",
-      "date": "Tue, 18 Aug 2026 02:48:22 +0000",
+      "title": "Show HN: MyPdfly – 30 free PDF tools, no signup required",
+      "link": "https://mypdfly.com",
+      "pubDate": "Tue, 18 Aug 2026 10:35:17 +0000",
+      "date": "Tue, 18 Aug 2026 10:35:17 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "A comprehensive Svelte 5 component library that handles the complexity, so you can focus on building great products. Optimized for AI code generation and mobile-first design.\nComments URL: https://news.ycombinator.com/item?id=49340621\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49340621"
+      "contentSnippet": "Article URL: https://mypdfly.com\nComments URL: https://news.ycombinator.com/item?id=49343696\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343696"
     },
     {
-      "title": "Show HN: Turtle – Web Browser written from scratch for 2 years",
-      "link": "https://news.ycombinator.com/item?id=49340294",
-      "pubDate": "Tue, 18 Aug 2026 02:10:09 +0000",
-      "date": "Tue, 18 Aug 2026 02:10:09 +0000",
+      "title": "Show HN: DynaJS – New JavaScript runtime with batteries included",
+      "link": "https://github.com/corporatepiyush/dynajs",
+      "pubDate": "Tue, 18 Aug 2026 10:34:14 +0000",
+      "date": "Tue, 18 Aug 2026 10:34:14 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "A few weeks ago I posted my solo browser projects and since I have received lots of messages asking the download link.\nI was a bit reluctant to release it since it's not at a stable level yet. However I finally decided to just put it out there as a pre-alpha since so many emails I have received.\nSo now you can grab this pre-alpha from https://code.intellios.ai/cwbrowser/\nNote: Expect bugs, missing features, and crashes. Plenty of the web will render imperfectly or not at all. This is an early lo",
-      "guid": "https://news.ycombinator.com/item?id=49340294"
+      "contentSnippet": "Article URL: https://github.com/corporatepiyush/dynajs\nComments URL: https://news.ycombinator.com/item?id=49343688\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343688"
     },
     {
-      "title": "Show HN: SacredCal – A 13-month, 364-day calendar built around seven-day cycles",
-      "link": "https://sacredcal.one",
-      "pubDate": "Tue, 18 Aug 2026 01:59:34 +0000",
-      "date": "Tue, 18 Aug 2026 01:59:34 +0000",
+      "title": "Show HN: The Hacker News Puzzle",
+      "link": "https://pzlgames.com/games/hackernews/",
+      "pubDate": "Tue, 18 Aug 2026 10:18:19 +0000",
+      "date": "Tue, 18 Aug 2026 10:18:19 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://sacredcal.one\nComments URL: https://news.ycombinator.com/item?id=49340221\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49340221"
+      "contentSnippet": "Article URL: https://pzlgames.com/games/hackernews/\nComments URL: https://news.ycombinator.com/item?id=49343596\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343596"
     },
     {
-      "title": "Show HN: Tsampi BFT – Leaderless One-Round Voting with Parameterized Finality [pdf]",
-      "link": "https://www.tsampi.com/tsampi-bft-1.0.pdf",
-      "pubDate": "Tue, 18 Aug 2026 01:34:07 +0000",
-      "date": "Tue, 18 Aug 2026 01:34:07 +0000",
+      "title": "Show HN: Samuel, a Silly Speech Model",
+      "link": "https://samuel.vvolhejn.com/",
+      "pubDate": "Tue, 18 Aug 2026 10:16:50 +0000",
+      "date": "Tue, 18 Aug 2026 10:16:50 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.tsampi.com/tsampi-bft-1.0.pdf\nComments URL: https://news.ycombinator.com/item?id=49340061\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49340061"
+      "contentSnippet": "My original idea was to make a modern supercharged version of SAM, the old-school text-to-speech. Then I remembered Pink Trombone, one of my favorite creative coding projects. In the end, I decided to just make it a model that mimics speech - it would be easy to make a text-to-speech by chaining an existing TTS with a Samuel filter.\nThe phonetics work quite well for vowels - you can try making a sound and then seeing if the predicted tongue prediction matches where your tongue was. It's less acc",
+      "guid": "https://news.ycombinator.com/item?id=49343584"
     },
     {
-      "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
-      "link": "https://getcogni.io/",
-      "pubDate": "Tue, 18 Aug 2026 00:21:14 +0000",
-      "date": "Tue, 18 Aug 2026 00:21:14 +0000",
+      "title": "Show HN: AnyCreature. making 3D creature by agent. harness by 3D assets pipeline",
+      "link": "https://github.com/Ariescar/anyCreature",
+      "pubDate": "Tue, 18 Aug 2026 10:13:40 +0000",
+      "date": "Tue, 18 Aug 2026 10:13:40 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://getcogni.io/\nComments URL: https://news.ycombinator.com/item?id=49339547\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49339547"
+      "contentSnippet": "I’m a Technical Artist. I built anyCreature, an open-source, mesh-based generative harness designed to programmatically quantify and enforce 3D aesthetics through three automated pipeline checks:\n1. QC Thresholds: Automated pass/fail checks for standard game-engine specs (poly count, vertex budget, rigging, and animation tracks).\n2. Quantified Aesthetics: Spatial vertex analysis to objectively measure mass distribution and form tension, ensuring biologically logical anatomy.\n3. Silhouette & Read",
+      "guid": "https://news.ycombinator.com/item?id=49343561"
+    },
+    {
+      "title": "We still don’t know how people are really using AI",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "pubDate": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "date": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research…",
+      "guid": "https://www.technologyreview.com/?p=1142226"
+    },
+    {
+      "title": "Show HN: MeetMoves – video/GIF backgrounds for Google Meet, no OBS needed",
+      "link": "https://chromewebstore.google.com/detail/meetmoves/pcihfjkbfcfademdaplkhmgngdlkfepg",
+      "pubDate": "Tue, 18 Aug 2026 10:06:42 +0000",
+      "date": "Tue, 18 Aug 2026 10:06:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/meetmoves/pcihfjkbfcfademdaplkhmgngdlkfepg\nComments URL: https://news.ycombinator.com/item?id=49343514\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343514"
+    },
+    {
+      "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+      "link": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "date": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
+      "guid": "https://stratechery.com/?p=19734"
+    },
+    {
+      "title": "Show HN: Self University – Interactive puzzles to learn programming",
+      "link": "https://selfuniversity.site/en/welcome",
+      "pubDate": "Tue, 18 Aug 2026 09:31:05 +0000",
+      "date": "Tue, 18 Aug 2026 09:31:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://selfuniversity.site/en/welcome\nComments URL: https://news.ycombinator.com/item?id=49343332\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343332"
+    },
+    {
+      "title": "Show HN: Reproof – A non-linear writing app for perfectionists",
+      "link": "https://reproof.app",
+      "pubDate": "Tue, 18 Aug 2026 09:30:07 +0000",
+      "date": "Tue, 18 Aug 2026 09:30:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN! I've written more words on the internet than I could count, for everyone from Zapier to Wirecutter. And for years it's bugged me that nearly every writing app still treats the writing surface as a linear sheet of paper, with paragraphs one after another and no space for experimentation.\nAnd so I and a friend build Reproof.app as what I've taken to calling a writing app for perfectionists.\nIt's built around paragraph versions. You can add new versions to any paragraphs and swap between th",
+      "guid": "https://news.ycombinator.com/item?id=49343323"
+    },
+    {
+      "title": "Show HN: Roadmark – roadmaps that branch instead of overwriting the plan",
+      "link": "https://yourroadmark.com",
+      "pubDate": "Tue, 18 Aug 2026 09:07:09 +0000",
+      "date": "Tue, 18 Aug 2026 09:07:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Here is a demo board link: https://yourroadmark.com/board/roadmark-demo\nThe data are mostly made up. On the board you can find all pivots, description of “why” it happened, target/completed dates, decisions log, on some milestones confidence rate or how many times date has been moved.\nI built a roadmap management tool that keeps “why” your plan changed and branches the plan instead of overwriting it. The product recently launched and has 15 users on Pro Trial plan.\nThe problem was that I investe",
+      "guid": "https://news.ycombinator.com/item?id=49343198"
+    },
+    {
+      "title": "Show HN: Dozenal – Daily Spatial Math Puzzle",
+      "link": "https://dozenal.game",
+      "pubDate": "Tue, 18 Aug 2026 08:59:34 +0000",
+      "date": "Tue, 18 Aug 2026 08:59:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://dozenal.game\nComments URL: https://news.ycombinator.com/item?id=49343148\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343148"
+    },
+    {
+      "title": "Show HN: Phi – A browser-native and desktop game engine",
+      "link": "https://github.com/float64co/Phi",
+      "pubDate": "Tue, 18 Aug 2026 08:56:44 +0000",
+      "date": "Tue, 18 Aug 2026 08:56:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/float64co/Phi\nComments URL: https://news.ycombinator.com/item?id=49343128\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343128"
+    },
+    {
+      "title": "Show HN: Vianta Connect – file transfer and clipboard sync for Android and Mac",
+      "link": "https://play.google.com/store/apps/details?id=com.vianta.android&hl=en_US",
+      "pubDate": "Tue, 18 Aug 2026 08:41:20 +0000",
+      "date": "Tue, 18 Aug 2026 08:41:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://play.google.com/store/apps/details?id=com.vianta.android&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=49343039\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49343039"
+    },
+    {
+      "title": "Show HN: There are many factories, but this one's *yours",
+      "link": "https://github.com/mikaelweiss/penguin",
+      "pubDate": "Tue, 18 Aug 2026 08:33:24 +0000",
+      "date": "Tue, 18 Aug 2026 08:33:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "# There are many factories, but this one's yours\nAll coding harnesses and code factories have a few major flaws:\n1. You don't get to pick the workflow - someone else decides the workflow for you\n2. It's often unclear when the human is needed - is the agent done, or do you need to verify?\n3. You're limited to prose and all it's downsides - nested logic and complex compesition is pretty much out of the question\n4. We end up relying heavily on agents calling mcp's or cli's for things that should be",
+      "guid": "https://news.ycombinator.com/item?id=49342987"
+    },
+    {
+      "title": "Show HN: Amz-CLI – A command line for Amazon",
+      "link": "https://github.com/tamnd/amz-cli",
+      "pubDate": "Tue, 18 Aug 2026 08:00:50 +0000",
+      "date": "Tue, 18 Aug 2026 08:00:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/tamnd/amz-cli\nComments URL: https://news.ycombinator.com/item?id=49342785\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49342785"
     },
     {
       "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
@@ -169,72 +290,6 @@
       "guid": "1opZh1LWLZwmN1dyqk3dqj"
     },
     {
-      "title": "Show HN: FlashFrame-Free Browser-Based Fast Multiplayer Movie Guessing Game",
-      "link": "https://playflashframe.com/",
-      "pubDate": "Mon, 17 Aug 2026 23:40:54 +0000",
-      "date": "Mon, 17 Aug 2026 23:40:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I'm a movie guy and my friends and I play some daily movie frame guessing games. While fun, none of them are multiplayer or timed. For fun (and learning) Claude Code and I created a fast-paced, multiplayer movie guessing game over the past few weeks, HTML, Node, and PostgresSQL, leveraging the TMDB API. Feel free to check it out and drop me some feedback (link at the bottom of the game or here) on what you like, don't like, and if you see any issues. Enjoy!\nComments URL: https://news.ycombinator",
-      "guid": "https://news.ycombinator.com/item?id=49339210"
-    },
-    {
-      "title": "Show HN: Particle – Extract and save articles in a clean, self-hosted reader",
-      "link": "https://particle.crnst8.com/try/",
-      "pubDate": "Mon, 17 Aug 2026 23:36:08 +0000",
-      "date": "Mon, 17 Aug 2026 23:36:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've seen a few of those \"Every fucking website in 202*\" examples on here the last few days, and I feel it deep in my bones.\nAs a result of the constant auto-play videos, CTAs, cookie warnings etc. etc., this is probably the most used self-developed app I run. It's super simple - just drop in the URL of the article and it'll extract (maintaining structure, formatting, pullquotes, images etc.) and save into an SQLite library if you want to come back to it later.\nSaves nicely as a PWA for tablet /",
-      "guid": "https://news.ycombinator.com/item?id=49339175"
-    },
-    {
-      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
-      "link": "https://forklane.ai",
-      "pubDate": "Mon, 17 Aug 2026 23:33:00 +0000",
-      "date": "Mon, 17 Aug 2026 23:33:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "As a hardcore programmer, I used to attend lots of hackathons, and collaboration was always a huge headache. Especially when everyone on the team was \"vibe coding\" their own parts. Agents would lose context, and individual solutions would end up out of sync and eventually fail to come together at the end.\nTo fix this exact problem, I built Forklane.\nForklane is a multiplayer coding platform with a full, built-in agent and orchestration stack. It’s designed to help dev teams and AI agents collabo",
-      "guid": "https://news.ycombinator.com/item?id=49339145"
-    },
-    {
-      "title": "Show HN: AI-generated music box version of any song (for baby)",
-      "link": "https://lullabyconverter.com",
-      "pubDate": "Mon, 17 Aug 2026 23:14:35 +0000",
-      "date": "Mon, 17 Aug 2026 23:14:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "title basically covers it. project #2 from my paternity leave. My partner & I got frustrated with hearing Brahm's Lullaby and Wheels On The Bus repeatedly. I also stand by that babies can enjoy adult music just as easily as they can enjoy \"kids music\". But most adult music is too dense/complex for babies to understand, so I created this to generate baby-friendly, slowed down versions of songs that we like to play for our baby & sing along with.\nUses BS-roformer for stemming out the input audio +",
-      "guid": "https://news.ycombinator.com/item?id=49338988"
-    },
-    {
-      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
-      "link": "https://github.com/couldbeme/holdline",
-      "pubDate": "Mon, 17 Aug 2026 23:11:48 +0000",
-      "date": "Mon, 17 Aug 2026 23:11:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/couldbeme/holdline\nComments URL: https://news.ycombinator.com/item?id=49338963\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49338963"
-    },
-    {
-      "title": "Show HN: Graphlib -- A new way to create directional graphs in C++",
-      "link": "https://github.com/RANDOMFNP/Graphlib",
-      "pubDate": "Mon, 17 Aug 2026 22:11:26 +0000",
-      "date": "Mon, 17 Aug 2026 22:11:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/RANDOMFNP/Graphlib\nComments URL: https://news.ycombinator.com/item?id=49338367\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49338367"
-    },
-    {
       "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
       "link": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
       "pubDate": "Mon, 17 Aug 2026 22:00:00 GMT",
@@ -244,39 +299,6 @@
       "icon": "📰",
       "contentSnippet": "Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three and a half hours later, GitHub's status page lit up with what became a six-hour-and-forty-two-minute global degradation — error rates near 20% across pull requests, issues and the API, and near 50% on archive and raw file downloads, according to GitHub's incident log. Enterprise single sign-on went down with it: SAML, OIDC, SCIM provisioning and Team Sync all failed. So did Copilot.\nThe",
       "guid": "5LHIDSIGYHf9qFfovJHkqu"
-    },
-    {
-      "title": "Show HN: I made a 3D Globe platform to promote your startup based on your MRR",
-      "link": "https://mrrglo.be",
-      "pubDate": "Mon, 17 Aug 2026 21:38:29 +0000",
-      "date": "Mon, 17 Aug 2026 21:38:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello! I'm Florian. I've been working on a cool project. I  made a website with a 3D globe, fully browsable, without any signups, to promote startups for free, based on MRR. Basically the bigger MRR, the bigger your startup tower will be/grow with time. MRR is pulled straight from Stripe (for now, will add more payment provider connectors if this picks up), so no way of cheating. Also there is the possibility of putting your startup in orbit for better visiblity. Just thought it looked sick, wou",
-      "guid": "https://news.ycombinator.com/item?id=49338015"
-    },
-    {
-      "title": "Show HN: A blockchain that proves instead of storing",
-      "link": "https://github.com/ignotusnemo/parano1d",
-      "pubDate": "Mon, 17 Aug 2026 21:30:46 +0000",
-      "date": "Mon, 17 Aug 2026 21:30:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ignotusnemo/parano1d\nComments URL: https://news.ycombinator.com/item?id=49337918\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49337918"
-    },
-    {
-      "title": "Show HN: Encrypted Git Remote Server",
-      "link": "https://ghostfork.io",
-      "pubDate": "Mon, 17 Aug 2026 21:19:33 +0000",
-      "date": "Mon, 17 Aug 2026 21:19:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I have been programming in the industry for years now and wondered how safe it was to entrust your code to companies like Github, etc. You are trusting they won't steal your code or allow hackers in. That's alot to ask from someone you don't know, especially when you get others to sign NDA's to look at your stuff. I've worked at big game companies that used Github. Seemed a bit strange.\nI'd feel happier not trusting the server at all but I still want a place to have a copy of my code and for col",
-      "guid": "https://news.ycombinator.com/item?id=49337799"
     },
     {
       "title": "One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers",
@@ -323,37 +345,15 @@
       "guid": "6NEBoASYWLjNNoFtG0dUJ5"
     },
     {
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-      "pubDate": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "date": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "source": "MIT Tech Review",
+      "title": "ElevenLabs MCP in Claude",
+      "link": "https://www.producthunt.com/products/elevenlabs-mcp-2",
+      "pubDate": "2026-08-17T14:15:56.000Z",
+      "date": "2026-08-17T14:15:56.000Z",
+      "source": "Product Hunt · AI",
       "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she…",
-      "guid": "https://www.technologyreview.com/?p=1142175"
-    },
-    {
-      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
-      "link": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "pubDate": "Mon, 17 Aug 2026 10:00:00 +0000",
-      "date": "Mon, 17 Aug 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
-      "guid": "https://stratechery.com/?p=19725"
-    },
-    {
-      "title": "What happens when a kid’s robot best friend dies?",
-      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "pubDate": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "date": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
-      "guid": "https://www.technologyreview.com/?p=1141568"
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/elevenlabs-mcp-2"
     }
   ]
 }
