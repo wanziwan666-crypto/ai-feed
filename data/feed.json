@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T03:02:11.455Z",
+  "generatedAt": "2026-08-19T06:28:23.288Z",
   "lookbackHours": 24,
   "totalItems": 32,
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-19T03:02:01.138Z",
-      "date": "2026-08-19T03:02:01.138Z",
+      "pubDate": "2026-08-19T06:28:21.287Z",
+      "date": "2026-08-19T06:28:21.287Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "volcengine/OpenViking",
       "link": "https://github.com/volcengine/OpenViking",
-      "pubDate": "2026-08-19T03:02:01.138Z",
-      "date": "2026-08-19T03:02:01.138Z",
+      "pubDate": "2026-08-19T06:28:21.287Z",
+      "date": "2026-08-19T06:28:21.287Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,13 +28,134 @@
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-19T03:02:01.138Z",
-      "date": "2026-08-19T03:02:01.138Z",
+      "pubDate": "2026-08-19T06:28:21.287Z",
+      "date": "2026-08-19T06:28:21.287Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nhttps://mahipal.engineer/Anthropic-Cybersecurity-Skills/\n\n  \n \n \n \nAnthropic Cybersecurity Skills\n \n \nThe largest open-source cybersecurity skills library for AI agents\n \n \n             \n \n",
       "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "title": "Show HN: AnswerRank – AEO Tool for online businesses",
+      "link": "https://answerrank.so/",
+      "pubDate": "Wed, 19 Aug 2026 05:23:19 +0000",
+      "date": "Wed, 19 Aug 2026 05:23:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://answerrank.so/\nComments URL: https://news.ycombinator.com/item?id=49357202\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49357202"
+    },
+    {
+      "title": "Show HN: Online Bubble Level",
+      "link": "https://abubblelevel.com/",
+      "pubDate": "Wed, 19 Aug 2026 05:20:27 +0000",
+      "date": "Wed, 19 Aug 2026 05:20:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://abubblelevel.com/\nComments URL: https://news.ycombinator.com/item?id=49357175\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49357175"
+    },
+    {
+      "title": "Show HN: I made a comic series explaining Claude – Chat, Cowork, and Code",
+      "link": "https://github.com/Fake4d/claude-school",
+      "pubDate": "Wed, 19 Aug 2026 04:51:40 +0000",
+      "date": "Wed, 19 Aug 2026 04:51:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Fake4d/claude-school\nComments URL: https://news.ycombinator.com/item?id=49356989\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49356989"
+    },
+    {
+      "title": "Show HN: 4bit bridge between AI and humans",
+      "link": "https://github.com/YOalphabet/YOalphabet",
+      "pubDate": "Wed, 19 Aug 2026 04:21:26 +0000",
+      "date": "Wed, 19 Aug 2026 04:21:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/YOalphabet/YOalphabet\nComments URL: https://news.ycombinator.com/item?id=49356777\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49356777"
+    },
+    {
+      "title": "Show HN: CommitLore – Git memory for decisions coding agents keep forgetting",
+      "link": "https://github.com/MongLong0214/commitlore",
+      "pubDate": "Wed, 19 Aug 2026 04:05:59 +0000",
+      "date": "Wed, 19 Aug 2026 04:05:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/MongLong0214/commitlore\nComments URL: https://news.ycombinator.com/item?id=49356637\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49356637"
+    },
+    {
+      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+      "link": "https://plugos.net/plugclaw/",
+      "pubDate": "Wed, 19 Aug 2026 04:03:16 +0000",
+      "date": "Wed, 19 Aug 2026 04:03:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://plugos.net/plugclaw/\nComments URL: https://news.ycombinator.com/item?id=49356609\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49356609"
+    },
+    {
+      "title": "Show HN: Memanto Is a Memory Agent",
+      "link": "https://github.com/moorcheh-ai/memanto",
+      "pubDate": "Wed, 19 Aug 2026 04:01:37 +0000",
+      "date": "Wed, 19 Aug 2026 04:01:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/moorcheh-ai/memanto\nComments URL: https://news.ycombinator.com/item?id=49356590\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49356590"
+    },
+    {
+      "title": "Show HN: I built the YouTube Music TUI I wanted (Vim registers, 0-9 to seek, ..)",
+      "link": "https://github.com/indigo0445/yt-collate",
+      "pubDate": "Wed, 19 Aug 2026 03:47:40 +0000",
+      "date": "Wed, 19 Aug 2026 03:47:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/indigo0445/yt-collate\nComments URL: https://news.ycombinator.com/item?id=49356485\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49356485"
+    },
+    {
+      "title": "Show HN: An outliner where S3 is the database and there's no server",
+      "link": "https://bulletlist.org/",
+      "pubDate": "Wed, 19 Aug 2026 03:42:14 +0000",
+      "date": "Wed, 19 Aug 2026 03:42:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bulletlist.org/\nComments URL: https://news.ycombinator.com/item?id=49356452\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49356452"
+    },
+    {
+      "title": "Show HN: Control AI Agents on Your Old PC at Home from Any Device Anywhere",
+      "link": "https://github.com/elin66alpha/Relay",
+      "pubDate": "Wed, 19 Aug 2026 03:26:59 +0000",
+      "date": "Wed, 19 Aug 2026 03:26:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding agents running there are still tied to that machine’s terminal, I just don't want to ssh/rdp into it every single time.\nRelay brings Claude Code, Codex, OpenCode, and Hermes into one interface that you can access from your phone, browser, or another computer. Sessions stay alive, so you can start work on one device and continue from another. You can upload/dow",
+      "guid": "https://news.ycombinator.com/item?id=49356310"
+    },
+    {
+      "title": "Show HN: Csift – the missing tool to sift your Claude Code sessions",
+      "link": "https://github.com/wdhwg001/csift",
+      "pubDate": "Wed, 19 Aug 2026 03:24:31 +0000",
+      "date": "Wed, 19 Aug 2026 03:24:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built csift to address all my complaints about Claude's handling of its own session files. Claude Code sessions are plain-text JSONL with everything, but they never document the structure anywhere. Every time, Claude has to craft an ad hoc tool to guess, and SKILL.md isn't enough to cover everything.\nThis is what happened in the night that made it a real tool: Claude deleted project files, froze, and said sorry at midnight. I didn't Ralph loop it, and I asked it to recover from its own JSONL a",
+      "guid": "https://news.ycombinator.com/item?id=49356290"
     },
     {
       "title": "Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds",
@@ -44,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://warpdd.com\nComments URL: https://news.ycombinator.com/item?id=49355834\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://warpdd.com\nComments URL: https://news.ycombinator.com/item?id=49355834\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49355834"
     },
     {
@@ -99,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/pl/app/monity-ai/id6761957823\nComments URL: https://news.ycombinator.com/item?id=49354833\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://apps.apple.com/pl/app/monity-ai/id6761957823\nComments URL: https://news.ycombinator.com/item?id=49354833\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49354833"
     },
     {
@@ -110,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 36\n# Comments: 5",
+      "contentSnippet": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 61\n# Comments: 7",
       "guid": "https://news.ycombinator.com/item?id=49354664"
     },
     {
@@ -158,94 +279,6 @@
       "guid": "https://news.ycombinator.com/item?id=49354052"
     },
     {
-      "title": "Show HN: A sample dataset of computer-use tasks on professional software",
-      "link": "https://cua.graderlabs.com/",
-      "pubDate": "Tue, 18 Aug 2026 22:55:29 +0000",
-      "date": "Tue, 18 Aug 2026 22:55:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://cua.graderlabs.com/\nComments URL: https://news.ycombinator.com/item?id=49353985\nPoints: 15\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49353985"
-    },
-    {
-      "title": "Show HN: Clinch – Local-first Warp fork built for agent session management",
-      "link": "https://clinch.sh/",
-      "pubDate": "Tue, 18 Aug 2026 22:31:43 +0000",
-      "date": "Tue, 18 Aug 2026 22:31:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Warp was my daily driver for years, and I still love the core product. But I wanted more privacy, less Oz agent stuff and a better UX experience for managing all my Claude Code/Codex sessions, especially across the repos I'm working on at once.\nSo I forked Warp, gutted all the telemetry, account requirements, Oz agent stuff and have fine tuned the UX over the months to optimize it for session management. The awesome Warp terminal is still first class (auto complete, auto command suggestion etc) ",
-      "guid": "https://news.ycombinator.com/item?id=49353724"
-    },
-    {
-      "title": "Show HN: Crammed – turns lecture PDFs into spaced-repetition flashcards",
-      "link": "https://crammed.study",
-      "pubDate": "Tue, 18 Aug 2026 22:18:11 +0000",
-      "date": "Tue, 18 Aug 2026 22:18:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://crammed.study\nComments URL: https://news.ycombinator.com/item?id=49353559\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49353559"
-    },
-    {
-      "title": "Show HN: Draw.city – geography game where you circle the target population [US]",
-      "link": "https://draw.city/",
-      "pubDate": "Tue, 18 Aug 2026 22:14:37 +0000",
-      "date": "Tue, 18 Aug 2026 22:14:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The core idea is, you draw a circle on a satellite view map and it tells you the population inside + more info.\nThe home page is a daily challenge, I've backfilled some \"past challenges\" so there's more than just the past couple of days to play, and there is also a free-draw mode that tells you population + some census demographic info & points-of-interest data from OpenStreetMap.\nIn most cases, the data comes from taking the census blocks w/ centroids contained in your circle and summing their ",
-      "guid": "https://news.ycombinator.com/item?id=49353515"
-    },
-    {
-      "title": "Show HN: Roost – top for your Claude Code sessions",
-      "link": "https://github.com/gmhoward9289-ops/roost",
-      "pubDate": "Tue, 18 Aug 2026 22:10:08 +0000",
-      "date": "Tue, 18 Aug 2026 22:10:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/gmhoward9289-ops/roost\nComments URL: https://news.ycombinator.com/item?id=49353452\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49353452"
-    },
-    {
-      "title": "Show HN: Keystroke Biometrics Demo",
-      "link": "https://demo.behavlabs.com/",
-      "pubDate": "Tue, 18 Aug 2026 21:56:32 +0000",
-      "date": "Tue, 18 Aug 2026 21:56:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN community,\nMy name is Zacharie Rodière (emphasis on the accent), a recent MS ECE graduate from Georgia Tech, originally from France. Since my graduation, I decided to work on a startup in the field of continuous authentication and behavioral AI. The name of my company is BehavLabs.\nI recently released our first continuous auth demo using keystroke biometrics. The model is trained on mostly open-access data but I can't much discuss the model architecture here (if any ML engineers want to di",
-      "guid": "https://news.ycombinator.com/item?id=49353290"
-    },
-    {
-      "title": "Show HN: RoamIQ – Travel and workation platform for digital nomads",
-      "link": "https://nomads-travel-indol.vercel.app",
-      "pubDate": "Tue, 18 Aug 2026 21:49:31 +0000",
-      "date": "Tue, 18 Aug 2026 21:49:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nomads-travel-indol.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49353202\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49353202"
-    },
-    {
-      "title": "Show HN: HashNotch – Premium AI Integrated Dynamic Island for the Mac OS",
-      "link": "https://news.ycombinator.com/item?id=49353148",
-      "pubDate": "Tue, 18 Aug 2026 21:45:48 +0000",
-      "date": "Tue, 18 Aug 2026 21:45:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hash made the Dynamic Island every Mac user deserves.\nSee the unseen.\nWhat's playing, how fast your internet is, what your battery is doing, how hot the chip is running, what you have spent on AI today — all of it a glance away. No account. No telemetry. Nothing about you ever leaves your Mac.\nComments URL: https://news.ycombinator.com/item?id=49353148\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49353148"
-    },
-    {
       "title": "Mojo🔥 is now open source",
       "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "pubDate": "2026-08-18T21:39:20.000Z",
@@ -255,39 +288,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/"
-    },
-    {
-      "title": "Show HN: Extctl, a super simple systemd-sysext wrapper",
-      "link": "https://github.com/OperatorProject/extctl",
-      "pubDate": "Tue, 18 Aug 2026 21:38:54 +0000",
-      "date": "Tue, 18 Aug 2026 21:38:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/OperatorProject/extctl\nComments URL: https://news.ycombinator.com/item?id=49353063\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49353063"
-    },
-    {
-      "title": "Show HN: Live 1v1 push-up battles with friends or random people",
-      "link": "https://apps.apple.com/us/app/pushrank-push-up-counter-game/id6796676940",
-      "pubDate": "Tue, 18 Aug 2026 21:11:44 +0000",
-      "date": "Tue, 18 Aug 2026 21:11:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/pushrank-push-up-counter-game/id6796676940\nComments URL: https://news.ycombinator.com/item?id=49352776\nPoints: 3\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49352776"
-    },
-    {
-      "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
-      "link": "https://chatoss.ai",
-      "pubDate": "Tue, 18 Aug 2026 20:42:19 +0000",
-      "date": "Tue, 18 Aug 2026 20:42:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "ChatOSS is built on Ollama. If you use Ollama, ChatOSS local works out of the box.\nChatOSS is a GUI desktop app that has multiple agentic coding apps and a kanban board integrated into coding sessions.\nThere's also a simple way to create your own AI powered apps that can run inside of ChatOSS.\nComments URL: https://news.ycombinator.com/item?id=49352394\nPoints: 5\n# Comments: 5",
-      "guid": "https://news.ycombinator.com/item?id=49352394"
     },
     {
       "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
