@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T00:43:16.736Z",
+  "generatedAt": "2026-08-19T02:48:21.661Z",
   "lookbackHours": 24,
-  "totalItems": 30,
+  "totalItems": 31,
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-19T00:42:49.911Z",
-      "date": "2026-08-19T00:42:49.911Z",
+      "pubDate": "2026-08-19T02:47:24.082Z",
+      "date": "2026-08-19T02:47:24.082Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,26 +15,59 @@
       "guid": "https://github.com/harry0703/MoneyPrinterTurbo"
     },
     {
-      "title": "nautechsystems/nautilus_trader",
-      "link": "https://github.com/nautechsystems/nautilus_trader",
-      "pubDate": "2026-08-19T00:42:49.911Z",
-      "date": "2026-08-19T00:42:49.911Z",
+      "title": "volcengine/OpenViking",
+      "link": "https://github.com/volcengine/OpenViking",
+      "pubDate": "2026-08-19T02:47:24.082Z",
+      "date": "2026-08-19T02:47:24.082Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
-      "contentSnippet": "Production-grade Rust-native trading engine with deterministic event-driven architecture\nhttps://nautilustrader.io\n\n\n \n      \n \n \n  \n  \n \n   Branch \n   Version \n   Status \n  \n \n  \n  \n  \n \n   master \n    \n    \n  \n \n  \n \n   nightly \n    \n    \n  \n \n  \n \n   develop \n    \n    \n  \n \n  \n \n \n  \n  \n \n   Platform \n   Rust \n   Python \n  \n \n  \n  \n  \n \n   Linux (x86_64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   Linux (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   macOS (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n",
-      "guid": "https://github.com/nautechsystems/nautilus_trader"
+      "contentSnippet": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.\nhttps://openviking.ai/\n\n \n  \n  \n \n    \n  \n  \n \nOpenViking: The Context Database for AI Agents\n \n \nEnglish / 中文 / 日本語\n \n \nWebsite · Live Demo · GitHub · Issues · Docs\n \n \n     \n \n \n👋 Join our Community\n \n \n📱 Lark Group · WeChat · Discord · X\n \n \n\n \n \n \nWhat is OpenViking\n \nOpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual filesystem unde",
+      "guid": "https://github.com/volcengine/OpenViking"
     },
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-19T00:42:49.911Z",
-      "date": "2026-08-19T00:42:49.911Z",
+      "pubDate": "2026-08-19T02:47:24.082Z",
+      "date": "2026-08-19T02:47:24.082Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nhttps://mahipal.engineer/Anthropic-Cybersecurity-Skills/\n\n  \n \n \n \nAnthropic Cybersecurity Skills\n \n \nThe largest open-source cybersecurity skills library for AI agents\n \n \n             \n \n",
       "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+      "link": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
+      "pubDate": "Wed, 19 Aug 2026 02:00:00 GMT",
+      "date": "Wed, 19 Aug 2026 02:00:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has now hit the application programming interface (API) — allowing developers the ability to build atop it and plug it into their agents and applications. \nDevelopers who previously subscribed to a GLM Coding Plan are currently limited to the OpenAI Chat Completions-compatible pr",
+      "guid": "6TKv8ZtUA2tSZ8JCTJav06"
+    },
+    {
+      "title": "Show HN: Search inside podcast episodes and read transcript while listening",
+      "link": "https://metapodcast.net",
+      "pubDate": "Wed, 19 Aug 2026 00:28:42 +0000",
+      "date": "Wed, 19 Aug 2026 00:28:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://metapodcast.net\nComments URL: https://news.ycombinator.com/item?id=49354953\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49354953"
+    },
+    {
+      "title": "Show HN: Monity.ai – Get notified when any website changes",
+      "link": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+      "pubDate": "Wed, 19 Aug 2026 00:15:24 +0000",
+      "date": "Wed, 19 Aug 2026 00:15:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/pl/app/monity-ai/id6761957823\nComments URL: https://news.ycombinator.com/item?id=49354833\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49354833"
     },
     {
       "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
@@ -44,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 30\n# Comments: 4",
       "guid": "https://news.ycombinator.com/item?id=49354664"
     },
     {
@@ -198,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/OperatorProject/extctl\nComments URL: https://news.ycombinator.com/item?id=49353063\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/OperatorProject/extctl\nComments URL: https://news.ycombinator.com/item?id=49353063\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49353063"
     },
     {
@@ -255,28 +288,6 @@
       "icon": "🔨",
       "contentSnippet": "today everyone seems to be announcing new git remotes, so I made my own: git·vodka.\nit is a small custom git remote for friends and family, and it contains its own source code. the goal was basically to have a nicer ux than bare repos without turning it into a huge platform.\neverything runs on Cloudflare infra: workers, R2 for blob storage and d1 for the database. currently it is running entirely on the workers free plan, which is honestly pretty awesome.\nyou can visit git.vodka to see and test ",
       "guid": "https://news.ycombinator.com/item?id=49351598"
-    },
-    {
-      "title": "Show HN: Hackwithus – a Hackathon for getting your first users",
-      "link": "https://www.hackwithus.dev/join",
-      "pubDate": "Tue, 18 Aug 2026 19:46:05 +0000",
-      "date": "Tue, 18 Aug 2026 19:46:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.hackwithus.dev/join\nComments URL: https://news.ycombinator.com/item?id=49351574\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49351574"
-    },
-    {
-      "title": "Show HN: Claw-coder- the first autonomous local first coding agent",
-      "link": "https://openmindedai.org/product",
-      "pubDate": "Tue, 18 Aug 2026 19:32:09 +0000",
-      "date": "Tue, 18 Aug 2026 19:32:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello everyone , my name is Gabriel Blessed and I have been working in claw-coder for 6 months but I have wanted real user feedback on claw-coder, claw-coder is a local autonomous coding agent that lives in your terminal and I have built it specifically to solve the privacy and security problem, and also bridging the gap between local first and autonomous coding agent perfectly compared to existing product.\nClaw-coder has access to very powerful tools and uses them really well to solve complex p",
-      "guid": "https://news.ycombinator.com/item?id=49351356"
     },
     {
       "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
