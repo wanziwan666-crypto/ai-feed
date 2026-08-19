@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T06:28:23.288Z",
+  "generatedAt": "2026-08-19T12:27:11.914Z",
   "lookbackHours": 24,
-  "totalItems": 32,
+  "totalItems": 34,
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-19T06:28:21.287Z",
-      "date": "2026-08-19T06:28:21.287Z",
+      "pubDate": "2026-08-19T12:27:09.366Z",
+      "date": "2026-08-19T12:27:09.366Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "volcengine/OpenViking",
       "link": "https://github.com/volcengine/OpenViking",
-      "pubDate": "2026-08-19T06:28:21.287Z",
-      "date": "2026-08-19T06:28:21.287Z",
+      "pubDate": "2026-08-19T12:27:09.366Z",
+      "date": "2026-08-19T12:27:09.366Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,8 +28,8 @@
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-19T06:28:21.287Z",
-      "date": "2026-08-19T06:28:21.287Z",
+      "pubDate": "2026-08-19T12:27:09.366Z",
+      "date": "2026-08-19T12:27:09.366Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -37,136 +37,257 @@
       "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
     },
     {
-      "title": "Show HN: AnswerRank – AEO Tool for online businesses",
-      "link": "https://answerrank.so/",
-      "pubDate": "Wed, 19 Aug 2026 05:23:19 +0000",
-      "date": "Wed, 19 Aug 2026 05:23:19 +0000",
+      "title": "Show HN: Sley UI, React components with one density knob",
+      "link": "https://sley-ui.dev/",
+      "pubDate": "Wed, 19 Aug 2026 12:00:23 +0000",
+      "date": "Wed, 19 Aug 2026 12:00:23 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://answerrank.so/\nComments URL: https://news.ycombinator.com/item?id=49357202\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49357202"
+      "contentSnippet": "Article URL: https://sley-ui.dev/\nComments URL: https://news.ycombinator.com/item?id=49360355\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49360355"
     },
     {
-      "title": "Show HN: Online Bubble Level",
-      "link": "https://abubblelevel.com/",
-      "pubDate": "Wed, 19 Aug 2026 05:20:27 +0000",
-      "date": "Wed, 19 Aug 2026 05:20:27 +0000",
+      "title": "Show HN: Deploy apps with agents, no humans required",
+      "link": "https://up.compartment.dev/humans.html",
+      "pubDate": "Wed, 19 Aug 2026 11:58:11 +0000",
+      "date": "Wed, 19 Aug 2026 11:58:11 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://abubblelevel.com/\nComments URL: https://news.ycombinator.com/item?id=49357175\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49357175"
+      "contentSnippet": "Hi HN, we built Compartment with a simple idea in mind: deployment should be as simple as possible.\nJust write this to Claude or Codex: “Deploy this app to up.compartment.dev.”\nYour agent authorizes itself, inspects any existing deployment files or generates the necessary configuration, builds and deploys your app, then gives you a URL.\nBasically, Compartment is built for agents, and humans don’t need to interact with it in any way. I believe this is how software will work in the next couple of ",
+      "guid": "https://news.ycombinator.com/item?id=49360331"
     },
     {
-      "title": "Show HN: I made a comic series explaining Claude – Chat, Cowork, and Code",
-      "link": "https://github.com/Fake4d/claude-school",
-      "pubDate": "Wed, 19 Aug 2026 04:51:40 +0000",
-      "date": "Wed, 19 Aug 2026 04:51:40 +0000",
+      "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
+      "link": "https://wram.chat",
+      "pubDate": "Wed, 19 Aug 2026 11:50:17 +0000",
+      "date": "Wed, 19 Aug 2026 11:50:17 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Fake4d/claude-school\nComments URL: https://news.ycombinator.com/item?id=49356989\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49356989"
+      "contentSnippet": "Article URL: https://wram.chat\nComments URL: https://news.ycombinator.com/item?id=49360270\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49360270"
     },
     {
-      "title": "Show HN: 4bit bridge between AI and humans",
-      "link": "https://github.com/YOalphabet/YOalphabet",
-      "pubDate": "Wed, 19 Aug 2026 04:21:26 +0000",
-      "date": "Wed, 19 Aug 2026 04:21:26 +0000",
+      "title": "Show HN: A guestbook with no input boxes",
+      "link": "https://fillo.so/agent-guestbook",
+      "pubDate": "Wed, 19 Aug 2026 11:39:18 +0000",
+      "date": "Wed, 19 Aug 2026 11:39:18 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/YOalphabet/YOalphabet\nComments URL: https://news.ycombinator.com/item?id=49356777\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49356777"
+      "contentSnippet": "I wondered if we need a new way to get in touch with companies, fill in surveys, and do a traditional onboarding form, but with agents?\nWhen I ran the test, it was 5x more token- and time-consuming to have agents fill out these traditional HTML forms than to prepare your site for agents to fill out forms.\nCurious what you think?\nComments URL: https://news.ycombinator.com/item?id=49360178\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49360178"
     },
     {
-      "title": "Show HN: CommitLore – Git memory for decisions coding agents keep forgetting",
-      "link": "https://github.com/MongLong0214/commitlore",
-      "pubDate": "Wed, 19 Aug 2026 04:05:59 +0000",
-      "date": "Wed, 19 Aug 2026 04:05:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/MongLong0214/commitlore\nComments URL: https://news.ycombinator.com/item?id=49356637\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49356637"
+      "title": "What Happens to Your Student’s IEP After High School?",
+      "link": "https://www.coolcatteacher.com/e972/",
+      "pubDate": "Wed, 19 Aug 2026 11:30:00 +0000",
+      "date": "Wed, 19 Aug 2026 11:30:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nYour student has an IEP through high school — then they graduate and it doesn't go with them. Dr. Toby Tomlinson Baker explains what changes legally, why a college can say no, and how to teach self-advocacy before they need it.\nThe post What Happens to Your Student’s IEP After High School? appeared first on Cool Cat Teacher Blog by Vicki Davis @coolc",
+      "guid": "https://www.coolcatteacher.com/?p=35232"
     },
     {
-      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
-      "link": "https://plugos.net/plugclaw/",
-      "pubDate": "Wed, 19 Aug 2026 04:03:16 +0000",
-      "date": "Wed, 19 Aug 2026 04:03:16 +0000",
+      "title": "Show HN: CLI tool to check n8n instances for CVE-2026-21858 credential exposure",
+      "link": "https://github.com/Legion33shadow/legion-n8n-shield",
+      "pubDate": "Wed, 19 Aug 2026 11:29:07 +0000",
+      "date": "Wed, 19 Aug 2026 11:29:07 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://plugos.net/plugclaw/\nComments URL: https://news.ycombinator.com/item?id=49356609\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49356609"
+      "contentSnippet": "Article URL: https://github.com/Legion33shadow/legion-n8n-shield\nComments URL: https://news.ycombinator.com/item?id=49360088\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49360088"
     },
     {
-      "title": "Show HN: Memanto Is a Memory Agent",
-      "link": "https://github.com/moorcheh-ai/memanto",
-      "pubDate": "Wed, 19 Aug 2026 04:01:37 +0000",
-      "date": "Wed, 19 Aug 2026 04:01:37 +0000",
+      "title": "Show HN: An X Live Show for Indie Founders",
+      "link": "https://x.com/jaimememb",
+      "pubDate": "Wed, 19 Aug 2026 11:21:16 +0000",
+      "date": "Wed, 19 Aug 2026 11:21:16 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/moorcheh-ai/memanto\nComments URL: https://news.ycombinator.com/item?id=49356590\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49356590"
+      "contentSnippet": "Article URL: https://x.com/jaimememb\nComments URL: https://news.ycombinator.com/item?id=49360007\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49360007"
     },
     {
-      "title": "Show HN: I built the YouTube Music TUI I wanted (Vim registers, 0-9 to seek, ..)",
-      "link": "https://github.com/indigo0445/yt-collate",
-      "pubDate": "Wed, 19 Aug 2026 03:47:40 +0000",
-      "date": "Wed, 19 Aug 2026 03:47:40 +0000",
+      "title": "Show HN: Idea Katalog (200 B2B software ideas generated and researched by Fable)",
+      "link": "https://ideakatalog.com/",
+      "pubDate": "Wed, 19 Aug 2026 11:15:20 +0000",
+      "date": "Wed, 19 Aug 2026 11:15:20 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/indigo0445/yt-collate\nComments URL: https://news.ycombinator.com/item?id=49356485\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49356485"
+      "contentSnippet": "I built Idea Katalog after I ran out of startup ideas I’d been collecting in my notes app.\nI wanted to work on something new but had no idea what to build, so I used Opus and Fable to generate thousands of B2B software ideas, filter them down, and research the 200 that seemed most promising. I put the results into a browsable list with the problem, target customer, competitors, market, and other research for each idea.\nPlease let me know what you think, and I hope you find your next business ide",
+      "guid": "https://news.ycombinator.com/item?id=49359961"
     },
     {
-      "title": "Show HN: An outliner where S3 is the database and there's no server",
-      "link": "https://bulletlist.org/",
-      "pubDate": "Wed, 19 Aug 2026 03:42:14 +0000",
-      "date": "Wed, 19 Aug 2026 03:42:14 +0000",
+      "title": "Show HN: I made an open-source chat infrastructure",
+      "link": "https://chatpack.dev/",
+      "pubDate": "Wed, 19 Aug 2026 11:04:30 +0000",
+      "date": "Wed, 19 Aug 2026 11:04:30 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://bulletlist.org/\nComments URL: https://news.ycombinator.com/item?id=49356452\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49356452"
+      "contentSnippet": "Article URL: https://chatpack.dev/\nComments URL: https://news.ycombinator.com/item?id=49359866\nPoints: 1\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49359866"
     },
     {
-      "title": "Show HN: Control AI Agents on Your Old PC at Home from Any Device Anywhere",
-      "link": "https://github.com/elin66alpha/Relay",
-      "pubDate": "Wed, 19 Aug 2026 03:26:59 +0000",
-      "date": "Wed, 19 Aug 2026 03:26:59 +0000",
+      "title": "Show HN: Knownbase, an MCP server for persistent AI agent memory",
+      "link": "https://knownbase.dev/",
+      "pubDate": "Wed, 19 Aug 2026 10:43:04 +0000",
+      "date": "Wed, 19 Aug 2026 10:43:04 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding agents running there are still tied to that machine’s terminal, I just don't want to ssh/rdp into it every single time.\nRelay brings Claude Code, Codex, OpenCode, and Hermes into one interface that you can access from your phone, browser, or another computer. Sessions stay alive, so you can start work on one device and continue from another. You can upload/dow",
-      "guid": "https://news.ycombinator.com/item?id=49356310"
+      "contentSnippet": "Article URL: https://knownbase.dev/\nComments URL: https://news.ycombinator.com/item?id=49359680\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49359680"
     },
     {
-      "title": "Show HN: Csift – the missing tool to sift your Claude Code sessions",
-      "link": "https://github.com/wdhwg001/csift",
-      "pubDate": "Wed, 19 Aug 2026 03:24:31 +0000",
-      "date": "Wed, 19 Aug 2026 03:24:31 +0000",
+      "title": "Show HN: Sofka – much faster k9s alternative in Rust",
+      "link": "https://github.com/nklmilojevic/sofka",
+      "pubDate": "Wed, 19 Aug 2026 10:41:58 +0000",
+      "date": "Wed, 19 Aug 2026 10:41:58 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I built csift to address all my complaints about Claude's handling of its own session files. Claude Code sessions are plain-text JSONL with everything, but they never document the structure anywhere. Every time, Claude has to craft an ad hoc tool to guess, and SKILL.md isn't enough to cover everything.\nThis is what happened in the night that made it a real tool: Claude deleted project files, froze, and said sorry at midnight. I didn't Ralph loop it, and I asked it to recover from its own JSONL a",
-      "guid": "https://news.ycombinator.com/item?id=49356290"
+      "contentSnippet": "Hi everyone,\nI was recently much frustrated with speed of k9s that I use regularly and decided to create a rust alternative that is much faster. Architecture comes from me, and (shocking) Fable coded most of the things. My whole company switched to it and experience has been great - much faster, integrated tightly with Flux/helm/externalsecrets and develops much faster. I know that there is an overall sentiment on HN with using LLMs, so YMMV.\nIn terms of speed, you can check the benchmarks:\nhttp",
+      "guid": "https://news.ycombinator.com/item?id=49359674"
     },
     {
-      "title": "Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds",
-      "link": "https://warpdd.com",
-      "pubDate": "Wed, 19 Aug 2026 02:25:47 +0000",
-      "date": "Wed, 19 Aug 2026 02:25:47 +0000",
+      "title": "Show HN: ChatGPT plugin for deterministic world facts",
+      "link": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
+      "pubDate": "Wed, 19 Aug 2026 10:25:13 +0000",
+      "date": "Wed, 19 Aug 2026 10:25:13 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://warpdd.com\nComments URL: https://news.ycombinator.com/item?id=49355834\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49355834"
+      "contentSnippet": "Try it in ChatGPT:\n@emem What has changed around this location? Or ask it something about our world. \nIt is the perfect blend of non-deterministic LLM agent with a deterministic space agent.\nChatGPT app/plugin:\nhttps://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a5908191...\nGitHub:\nhttps://github.com/Vortx-AI/emem\nThanks\nComments URL: https://news.ycombinator.com/item?id=49359526\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49359526"
+    },
+    {
+      "title": "Show HN: Cairn – self-hosted Shape Up tool with a code-aware PM agent",
+      "link": "https://github.com/cairnpm/cairn",
+      "pubDate": "Wed, 19 Aug 2026 10:24:05 +0000",
+      "date": "Wed, 19 Aug 2026 10:24:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/cairnpm/cairn\nComments URL: https://news.ycombinator.com/item?id=49359513\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49359513"
+    },
+    {
+      "title": "Show HN: Basis – A free crypto terminal without paywalls",
+      "link": "https://www.basischarts.com/",
+      "pubDate": "Wed, 19 Aug 2026 10:21:02 +0000",
+      "date": "Wed, 19 Aug 2026 10:21:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.basischarts.com/\nComments URL: https://news.ycombinator.com/item?id=49359483\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49359483"
+    },
+    {
+      "title": "Show HN: Building a full agentic harness around a 4B model is hard",
+      "link": "https://orvena.app/",
+      "pubDate": "Wed, 19 Aug 2026 10:03:46 +0000",
+      "date": "Wed, 19 Aug 2026 10:03:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Around 3 months ago, we were thinking why none of the iPhone apps running an LLM are built as a full harness (as in inference + agentic loop + context management + tools + MCP servers and etc.). It became more interesting when we noticed even the new Siri is not fully on device (and not available in EU for that matter).\nHaving built a few agentic products around a custom harness in the past, we thought this shouldn't be that hard. well, we underestimated how \"dumb\" a 4B model can be, especially ",
+      "guid": "https://news.ycombinator.com/item?id=49359341"
+    },
+    {
+      "title": "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
+      "link": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
+      "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "date": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Apple's App Store is finally facing the reality of lower fees, and the EU should be satisfied with its work; it's ok it's late.",
+      "guid": "https://stratechery.com/?p=19742"
+    },
+    {
+      "title": "Show HN: Carbon8r – Option+click React elements to open their source (React 19)",
+      "link": "https://news.ycombinator.com/item?id=49358636",
+      "pubDate": "Wed, 19 Aug 2026 08:23:58 +0000",
+      "date": "Wed, 19 Aug 2026 08:23:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49358636\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49358636"
+    },
+    {
+      "title": "Show HN: AI PR reviewer built to stay quiet – 89% of merged PRs got no comments",
+      "link": "https://github.com/Kyeom1997/pr-sage",
+      "pubDate": "Wed, 19 Aug 2026 08:20:28 +0000",
+      "date": "Wed, 19 Aug 2026 08:20:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Kyeom1997/pr-sage\nComments URL: https://news.ycombinator.com/item?id=49358609\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49358609"
+    },
+    {
+      "title": "Show HN: Veyra - Self evolving AI agent",
+      "link": "https://github.com/iondodon/veyra",
+      "pubDate": "Wed, 19 Aug 2026 08:02:41 +0000",
+      "date": "Wed, 19 Aug 2026 08:02:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/iondodon/veyra\nComments URL: https://news.ycombinator.com/item?id=49358474\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49358474"
+    },
+    {
+      "title": "Show HN: Made an open source budgeting application (Coinvane)",
+      "link": "https://github.com/JKJWL/Coinvane",
+      "pubDate": "Wed, 19 Aug 2026 07:47:13 +0000",
+      "date": "Wed, 19 Aug 2026 07:47:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/JKJWL/Coinvane\nComments URL: https://news.ycombinator.com/item?id=49358323\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49358323"
+    },
+    {
+      "title": "Show HN: Tracepack – Build local-first evidence packs from your files",
+      "link": "https://dev.tracepack.org/",
+      "pubDate": "Wed, 19 Aug 2026 07:38:24 +0000",
+      "date": "Wed, 19 Aug 2026 07:38:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://dev.tracepack.org/\nComments URL: https://news.ycombinator.com/item?id=49358242\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49358242"
+    },
+    {
+      "title": "Show HN: Superprez.io – Sharing and Collaboration for AI-Generated Decks",
+      "link": "https://www.superprez.io",
+      "pubDate": "Wed, 19 Aug 2026 07:32:03 +0000",
+      "date": "Wed, 19 Aug 2026 07:32:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI've been working on Superprez.io because of something that started bothering me more and more with AI-generated presentations.\nAny AI like Claude, Cursor and ChatGPT can now generate surprisingly good decks — not just visually, but with animations, interactive elements, embedded products, maps, live polling, etc.\nBut a lot of these presentations are ultimately treated like traditional presentations: export them to PDF or PPT and send them around.\nAnd that's where a lot of what makes them",
+      "guid": "https://news.ycombinator.com/item?id=49358183"
+    },
+    {
+      "title": "Claude Watermark",
+      "link": "https://www.producthunt.com/products/claude-watermark",
+      "pubDate": "2026-08-19T06:46:06.000Z",
+      "date": "2026-08-19T06:46:06.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/claude-watermark"
     },
     {
       "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
@@ -180,61 +301,6 @@
       "guid": "6TKv8ZtUA2tSZ8JCTJav06"
     },
     {
-      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-      "link": "https://github.com/katiahayati/lucasartsifier/",
-      "pubDate": "Wed, 19 Aug 2026 01:58:33 +0000",
-      "date": "Wed, 19 Aug 2026 01:58:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.\nSo I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can",
-      "guid": "https://news.ycombinator.com/item?id=49355607"
-    },
-    {
-      "title": "Show HN: SubTrends – 18 years of Reddit data across 100K+ subreddits",
-      "link": "https://subtrends.io/",
-      "pubDate": "Wed, 19 Aug 2026 01:58:22 +0000",
-      "date": "Wed, 19 Aug 2026 01:58:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://subtrends.io/\nComments URL: https://news.ycombinator.com/item?id=49355604\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49355604"
-    },
-    {
-      "title": "Show HN: Search inside podcast episodes and read transcript while listening",
-      "link": "https://metapodcast.net",
-      "pubDate": "Wed, 19 Aug 2026 00:28:42 +0000",
-      "date": "Wed, 19 Aug 2026 00:28:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://metapodcast.net\nComments URL: https://news.ycombinator.com/item?id=49354953\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49354953"
-    },
-    {
-      "title": "Show HN: Monity.ai – Get notified when any website changes",
-      "link": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
-      "pubDate": "Wed, 19 Aug 2026 00:15:24 +0000",
-      "date": "Wed, 19 Aug 2026 00:15:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/pl/app/monity-ai/id6761957823\nComments URL: https://news.ycombinator.com/item?id=49354833\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49354833"
-    },
-    {
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "link": "https://modelmap.cc",
-      "pubDate": "Tue, 18 Aug 2026 23:57:36 +0000",
-      "date": "Tue, 18 Aug 2026 23:57:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 61\n# Comments: 7",
-      "guid": "https://news.ycombinator.com/item?id=49354664"
-    },
-    {
       "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
       "link": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
       "pubDate": "Tue, 18 Aug 2026 23:23:22 GMT",
@@ -244,39 +310,6 @@
       "icon": "📰",
       "contentSnippet": "Block, the technology company founded by former Twitter CEO Jack Dorsey that owns Square, Cash App and the music streaming service Tidal, is open-sourcing Berd, a desktop application it originally built to give its own employees a single environment for working with AI agents across different models, tools and projects.\nBerd is a locally installed graphical desktop application rather than a browser-based workspace. It is available now on GitHub under a permissive Apache 2.0 license — meaning any",
       "guid": "1iTw8gVTC9n4Fy0EuxxwVm"
-    },
-    {
-      "title": "Show HN: Particle – Extract and save articles in a clean, self-hosted reader",
-      "link": "https://particle.crnst8.com/try/",
-      "pubDate": "Tue, 18 Aug 2026 23:14:36 +0000",
-      "date": "Tue, 18 Aug 2026 23:14:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've seen a few of those \"Every fucking website in 202*\" examples on here the last few days, and I feel it deep in my bones. As a result of the constant auto-play videos, CTAs, cookie warnings etc. etc., this is probably the most used self-developed app I run. It's super simple - just drop in the URL of the article and it'll extract (maintaining structure, formatting, pullquotes, images etc.) and save into an SQLite library if you want to come back to it later.\nSaves nicely as a PWA for tablet /",
-      "guid": "https://news.ycombinator.com/item?id=49354204"
-    },
-    {
-      "title": "Show HN: ResumeSkip – automatically tailor your resume to jobs",
-      "link": "https://resumeskip.com/",
-      "pubDate": "Tue, 18 Aug 2026 23:08:56 +0000",
-      "date": "Tue, 18 Aug 2026 23:08:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "just gonna make it simple: all job portals scan resumes with AI now, if you aren't tailoring your resume to each posting you're already behind.. Some companies even use AI to interview ().\nYou can do this yourself for free * (token cost) if you want, but you'll have to craft a good prompt, use a good agent you have access to, and validate the outcomes over time, or have an agent build an app for you to track this. That's the future we're in I guess.\nTL;DR / Why us?\n- ResumeSkip makes it easy to ",
-      "guid": "https://news.ycombinator.com/item?id=49354131"
-    },
-    {
-      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
-      "link": "https://maritime.sh",
-      "pubDate": "Tue, 18 Aug 2026 23:02:32 +0000",
-      "date": "Tue, 18 Aug 2026 23:02:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, my name is Maria, and I’m a co-founder of Maritime. We started Maritime at MIT to build infrastructure for companies that need to run thousands of isolated AI agents for their customers.\nImagine you set up an agent like OpenClaw, or a personal assistant agent with a custom framework, and want to give a separate version of it to every customer/friend. Each customer needs their own agent running in an isolated microVM, with persistent state, secrets, triggers, and sleep/wake behavior.\nBuild",
-      "guid": "https://news.ycombinator.com/item?id=49354052"
     },
     {
       "title": "Mojo🔥 is now open source",
@@ -323,6 +356,17 @@
       "guid": "https://www.coolcatteacher.com/?p=35225"
     },
     {
+      "title": "ChatGPT for Teens",
+      "link": "https://www.producthunt.com/products/openai",
+      "pubDate": "2026-08-18T13:19:56.000Z",
+      "date": "2026-08-18T13:19:56.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/openai"
+    },
+    {
       "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
       "link": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
       "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
@@ -332,28 +376,6 @@
       "icon": "📰",
       "contentSnippet": "Enterprise teams running AI agents at scale are finding that a single model handles every task poorly — either the model is too expensive for simple questions or not capable enough for hard ones. Model routing, which picks the right model for each task automatically, is becoming the fix.\nSnowflake’s Cortex AI Gateway now offers dynamic model routing to address that: enterprises can select “auto” instead of a fixed model, and the system routes each task to whichever model offers the best combinat",
       "guid": "7AAjgw7ustuI3M5hhUuPgJ"
-    },
-    {
-      "title": "We still don’t know how people are really using AI",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "pubDate": "Tue, 18 Aug 2026 10:06:43 +0000",
-      "date": "Tue, 18 Aug 2026 10:06:43 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.  “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
-      "guid": "https://www.technologyreview.com/?p=1142226"
-    },
-    {
-      "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
-      "link": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0000",
-      "date": "Tue, 18 Aug 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Nvidia makes another deal, this time with a frontier lab; Anthropic's revenue continues to amaze; and maybe data finally is oil.",
-      "guid": "https://stratechery.com/?p=19734"
     }
   ]
 }
