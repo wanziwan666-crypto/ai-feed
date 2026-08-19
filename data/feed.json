@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T02:48:21.661Z",
+  "generatedAt": "2026-08-19T03:02:11.455Z",
   "lookbackHours": 24,
-  "totalItems": 31,
+  "totalItems": 32,
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-19T02:47:24.082Z",
-      "date": "2026-08-19T02:47:24.082Z",
+      "pubDate": "2026-08-19T03:02:01.138Z",
+      "date": "2026-08-19T03:02:01.138Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "volcengine/OpenViking",
       "link": "https://github.com/volcengine/OpenViking",
-      "pubDate": "2026-08-19T02:47:24.082Z",
-      "date": "2026-08-19T02:47:24.082Z",
+      "pubDate": "2026-08-19T03:02:01.138Z",
+      "date": "2026-08-19T03:02:01.138Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,13 +28,24 @@
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-19T02:47:24.082Z",
-      "date": "2026-08-19T02:47:24.082Z",
+      "pubDate": "2026-08-19T03:02:01.138Z",
+      "date": "2026-08-19T03:02:01.138Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nhttps://mahipal.engineer/Anthropic-Cybersecurity-Skills/\n\n  \n \n \n \nAnthropic Cybersecurity Skills\n \n \nThe largest open-source cybersecurity skills library for AI agents\n \n \n             \n \n",
       "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "title": "Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds",
+      "link": "https://warpdd.com",
+      "pubDate": "Wed, 19 Aug 2026 02:25:47 +0000",
+      "date": "Wed, 19 Aug 2026 02:25:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://warpdd.com\nComments URL: https://news.ycombinator.com/item?id=49355834\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49355834"
     },
     {
       "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
@@ -46,6 +57,28 @@
       "icon": "📰",
       "contentSnippet": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has now hit the application programming interface (API) — allowing developers the ability to build atop it and plug it into their agents and applications. \nDevelopers who previously subscribed to a GLM Coding Plan are currently limited to the OpenAI Chat Completions-compatible pr",
       "guid": "6TKv8ZtUA2tSZ8JCTJav06"
+    },
+    {
+      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+      "link": "https://github.com/katiahayati/lucasartsifier/",
+      "pubDate": "Wed, 19 Aug 2026 01:58:33 +0000",
+      "date": "Wed, 19 Aug 2026 01:58:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.\nSo I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can",
+      "guid": "https://news.ycombinator.com/item?id=49355607"
+    },
+    {
+      "title": "Show HN: SubTrends – 18 years of Reddit data across 100K+ subreddits",
+      "link": "https://subtrends.io/",
+      "pubDate": "Wed, 19 Aug 2026 01:58:22 +0000",
+      "date": "Wed, 19 Aug 2026 01:58:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://subtrends.io/\nComments URL: https://news.ycombinator.com/item?id=49355604\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49355604"
     },
     {
       "title": "Show HN: Search inside podcast episodes and read transcript while listening",
@@ -77,7 +110,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 30\n# Comments: 4",
+      "contentSnippet": "Article URL: https://modelmap.cc\nComments URL: https://news.ycombinator.com/item?id=49354664\nPoints: 36\n# Comments: 5",
       "guid": "https://news.ycombinator.com/item?id=49354664"
     },
     {
@@ -242,7 +275,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/pushrank-push-up-counter-game/id6796676940\nComments URL: https://news.ycombinator.com/item?id=49352776\nPoints: 3\n# Comments: 1",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/pushrank-push-up-counter-game/id6796676940\nComments URL: https://news.ycombinator.com/item?id=49352776\nPoints: 3\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49352776"
     },
     {
@@ -255,39 +288,6 @@
       "icon": "🔨",
       "contentSnippet": "ChatOSS is built on Ollama. If you use Ollama, ChatOSS local works out of the box.\nChatOSS is a GUI desktop app that has multiple agentic coding apps and a kanban board integrated into coding sessions.\nThere's also a simple way to create your own AI powered apps that can run inside of ChatOSS.\nComments URL: https://news.ycombinator.com/item?id=49352394\nPoints: 5\n# Comments: 5",
       "guid": "https://news.ycombinator.com/item?id=49352394"
-    },
-    {
-      "title": "Show HN: BallGuessr – Football player guessing game",
-      "link": "https://ballguessr.eu/",
-      "pubDate": "Tue, 18 Aug 2026 20:42:11 +0000",
-      "date": "Tue, 18 Aug 2026 20:42:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello everyone, I just wanted to share a little side project I worked on recently called BallGuessr. It's more for the football (soccer) fans under us developers. My idea was just to have a guessing game with football players I could play with others.\nHappy to hear your feedback and ideas. Please note that I just started so there could be a few bugs (oops) :D\nComments URL: https://news.ycombinator.com/item?id=49352391\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49352391"
-    },
-    {
-      "title": "Show HN: Runbook.v1 – governed workflow execution for MCP (fail-closed)",
-      "link": "https://github.com/CorpusIQ/runbook-spec",
-      "pubDate": "Tue, 18 Aug 2026 20:34:11 +0000",
-      "date": "Tue, 18 Aug 2026 20:34:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/CorpusIQ/runbook-spec\nComments URL: https://news.ycombinator.com/item?id=49352299\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49352299"
-    },
-    {
-      "title": "Show HN: Git·vodka – a self-hosting Git remote on Cloudflare's free tier",
-      "link": "https://git.vodka/~c/git-vodka",
-      "pubDate": "Tue, 18 Aug 2026 19:47:16 +0000",
-      "date": "Tue, 18 Aug 2026 19:47:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "today everyone seems to be announcing new git remotes, so I made my own: git·vodka.\nit is a small custom git remote for friends and family, and it contains its own source code. the goal was basically to have a nicer ux than bare repos without turning it into a huge platform.\neverything runs on Cloudflare infra: workers, R2 for blob storage and d1 for the database. currently it is running entirely on the workers free plan, which is honestly pretty awesome.\nyou can visit git.vodka to see and test ",
-      "guid": "https://news.ycombinator.com/item?id=49351598"
     },
     {
       "title": "85% of companies burned by an AI mistake are racing to cut the humans who might catch the next one",
@@ -310,6 +310,17 @@
       "icon": "📰",
       "contentSnippet": "Presented by Rezolve Ai\n\nEnterprise AI investment in commerce has never been higher. And enterprise AI outcomes in commerce have rarely been more inconsistent. That gap is not a coincidence. It is the predictable result of a pattern that has repeated itself across every major technology shift in retail: the industry adds new capabilities faster than it integrates them.\nThat pattern is now playing out in commerce AI.\nThe point solution pattern\nThe dominant approach to commerce AI over the past th",
       "guid": "5C2nrJWbnJkTZW3xPkMGnu"
+    },
+    {
+      "title": "Free Teacher-Facing AI for Behavior and Learning",
+      "link": "https://www.coolcatteacher.com/e971/",
+      "pubDate": "Tue, 18 Aug 2026 14:14:45 +0000",
+      "date": "Tue, 18 Aug 2026 14:14:45 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nMost teachers reaching for AI to help a struggling student are reaching for the wrong kind of AI. Natalie Tamburello of Children's Health Council explains what teacher-facing AI built on vetted research looks like, and how to describe a student without exposing their data.\nThe post Free Teacher-Facing AI for Behavior and Learning appeared first on Co",
+      "guid": "https://www.coolcatteacher.com/?p=35225"
     },
     {
       "title": "Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x",
