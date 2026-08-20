@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-20T06:29:47.395Z",
+  "generatedAt": "2026-08-20T09:17:32.765Z",
   "lookbackHours": 24,
-  "totalItems": 29,
+  "totalItems": 30,
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-20T06:29:44.959Z",
-      "date": "2026-08-20T06:29:44.959Z",
+      "pubDate": "2026-08-20T09:17:22.466Z",
+      "date": "2026-08-20T09:17:22.466Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "volcengine/OpenViking",
       "link": "https://github.com/volcengine/OpenViking",
-      "pubDate": "2026-08-20T06:29:44.959Z",
-      "date": "2026-08-20T06:29:44.959Z",
+      "pubDate": "2026-08-20T09:17:22.466Z",
+      "date": "2026-08-20T09:17:22.466Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,8 +28,8 @@
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-20T06:29:44.959Z",
-      "date": "2026-08-20T06:29:44.959Z",
+      "pubDate": "2026-08-20T09:17:22.466Z",
+      "date": "2026-08-20T09:17:22.466Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -39,13 +39,90 @@
     {
       "title": "nautechsystems/nautilus_trader",
       "link": "https://github.com/nautechsystems/nautilus_trader",
-      "pubDate": "2026-08-20T06:29:44.959Z",
-      "date": "2026-08-20T06:29:44.959Z",
+      "pubDate": "2026-08-20T09:17:22.466Z",
+      "date": "2026-08-20T09:17:22.466Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Production-grade Rust-native trading engine with deterministic event-driven architecture\nhttps://nautilustrader.io\n\n\n \n      \n \n \n  \n  \n \n   Branch \n   Version \n   Status \n  \n \n  \n  \n  \n \n   master \n    \n    \n  \n \n  \n \n   nightly \n    \n    \n  \n \n  \n \n   develop \n    \n    \n  \n \n  \n \n \n  \n  \n \n   Platform \n   Rust \n   Python \n  \n \n  \n  \n  \n \n   Linux (x86_64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   Linux (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   macOS (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n",
       "guid": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+      "title": "Show HN: Nexus Suite – Modular enterprise project management platform",
+      "link": "https://nexus-suite-tau.vercel.app",
+      "pubDate": "Thu, 20 Aug 2026 08:20:10 +0000",
+      "date": "Thu, 20 Aug 2026 08:20:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://nexus-suite-tau.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49371849\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49371849"
+    },
+    {
+      "title": "Show HN: OpenIndex – Organising domain knowledge into structured data for agents",
+      "link": "https://github.com/DrDroidLab/open-index",
+      "pubDate": "Thu, 20 Aug 2026 07:59:48 +0000",
+      "date": "Thu, 20 Aug 2026 07:59:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/DrDroidLab/open-index\nComments URL: https://news.ycombinator.com/item?id=49371703\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49371703"
+    },
+    {
+      "title": "Show HN: Talecut – Turn a movie or TV episode into vertical micro-episodes",
+      "link": "https://talecut.com/",
+      "pubDate": "Thu, 20 Aug 2026 07:44:15 +0000",
+      "date": "Thu, 20 Aug 2026 07:44:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://talecut.com/\nComments URL: https://news.ycombinator.com/item?id=49371610\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49371610"
+    },
+    {
+      "title": "Show HN: Do-over, undo for AI agent shell commands",
+      "link": "https://github.com/CaydenChik/doover",
+      "pubDate": "Thu, 20 Aug 2026 06:42:36 +0000",
+      "date": "Thu, 20 Aug 2026 06:42:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello HN,\nI built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code's hooks and snapshots what a command is about to touch right before it runs.\nI know what you're thinking. Why don't you just commit more often?\nThis tool doesn't seek to replace git. What it does is:\n[1] Protect the stuff git doesn't protect: your untracked/ignored files and files that exist outside your repo (which is how a guy lost 50GB of data - Claude code issue tracker)\n[2] P",
+      "guid": "https://news.ycombinator.com/item?id=49371211"
+    },
+    {
+      "title": "Show HN: Rove – parallel coding agents that can fan out subtasks and report back",
+      "link": "https://github.com/Sma1lboy/rove",
+      "pubDate": "Thu, 20 Aug 2026 05:58:20 +0000",
+      "date": "Thu, 20 Aug 2026 05:58:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Sma1lboy/rove\nComments URL: https://news.ycombinator.com/item?id=49370885\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49370885"
+    },
+    {
+      "title": "Show HN: I fixed a dead Bitcoin ASIC and made a foundry that engraves your words",
+      "link": "https://strikeablock.com/",
+      "pubDate": "Thu, 20 Aug 2026 05:51:55 +0000",
+      "date": "Thu, 20 Aug 2026 05:51:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://strikeablock.com/\nComments URL: https://news.ycombinator.com/item?id=49370845\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49370845"
+    },
+    {
+      "title": "Show HN: UI Inspector for Tauri",
+      "link": "https://github.com/mathematic-inc/tauri-plugin-ui-inspector",
+      "pubDate": "Thu, 20 Aug 2026 05:41:53 +0000",
+      "date": "Thu, 20 Aug 2026 05:41:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Because AI.\nComments URL: https://news.ycombinator.com/item?id=49370774\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49370774"
     },
     {
       "title": "Show HN: Doubletake – a daily spot-the-difference in ink and wash",
@@ -180,6 +257,17 @@
       "guid": "https://news.ycombinator.com/item?id=49369375"
     },
     {
+      "title": "Hermai Brand API",
+      "link": "https://www.producthunt.com/products/hermai-brand-api",
+      "pubDate": "2026-08-20T01:12:56.000Z",
+      "date": "2026-08-20T01:12:56.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/hermai-brand-api"
+    },
+    {
       "title": "Show HN: Otion – Extract and stylize motion shaders from live video (WebGPU)",
       "link": "https://otion.space/",
       "pubDate": "Thu, 20 Aug 2026 00:56:50 +0000",
@@ -191,28 +279,6 @@
       "guid": "https://news.ycombinator.com/item?id=49369177"
     },
     {
-      "title": "Show HN: I built a free FIRE simulator (early retirement tool)",
-      "link": "https://modelfire.online/",
-      "pubDate": "Thu, 20 Aug 2026 00:30:17 +0000",
-      "date": "Thu, 20 Aug 2026 00:30:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://modelfire.online/\nComments URL: https://news.ycombinator.com/item?id=49369001\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49369001"
-    },
-    {
-      "title": "Show HN: Klo – Native Mac video editor you talk to (40 releases in 30 days)",
-      "link": "https://getklo.com/",
-      "pubDate": "Thu, 20 Aug 2026 00:19:00 +0000",
-      "date": "Thu, 20 Aug 2026 00:19:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://getklo.com/\nComments URL: https://news.ycombinator.com/item?id=49368915\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49368915"
-    },
-    {
       "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
       "link": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
       "pubDate": "Wed, 19 Aug 2026 23:50:00 GMT",
@@ -222,61 +288,6 @@
       "icon": "📰",
       "contentSnippet": "Another day, another new AI agent harness is released.\nOnly this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. \nTrueFoundry, a San Francisco B2B machine learning startup co-founded in 2021 by former Meta engineers, has released its own custom TrueForge harness under the permissive MIT License on Github. Thus, it can be used with any of a developer (or their parent enterprise's)",
       "guid": "6P7y6z4gX2Wesbgs7V4xCS"
-    },
-    {
-      "title": "Show HN: MeetingIntro, a macOS menu bar app that interrupts you before a meeting",
-      "link": "https://github.com/templegit9/MeetingIntro",
-      "pubDate": "Wed, 19 Aug 2026 23:44:14 +0000",
-      "date": "Wed, 19 Aug 2026 23:44:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/templegit9/MeetingIntro\nComments URL: https://news.ycombinator.com/item?id=49368674\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49368674"
-    },
-    {
-      "title": "Show HN: Hack Club Folktale: Learn Python, Make a Game, Get Free Stickers",
-      "link": "https://folktale.hackclub.com/",
-      "pubDate": "Wed, 19 Aug 2026 22:37:52 +0000",
-      "date": "Wed, 19 Aug 2026 22:37:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://folktale.hackclub.com/\nComments URL: https://news.ycombinator.com/item?id=49368075\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49368075"
-    },
-    {
-      "title": "Show HN: FerrumPix Photo/RAW-Editor, Viewer, Gallery, Immich &amp; Nextcloud Client",
-      "link": "https://github.com/Bitpainter75/FerrumPix",
-      "pubDate": "Wed, 19 Aug 2026 22:22:47 +0000",
-      "date": "Wed, 19 Aug 2026 22:22:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Bitpainter75/FerrumPix\nComments URL: https://news.ycombinator.com/item?id=49367952\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49367952"
-    },
-    {
-      "title": "Show HN: Overcoming silicon-level aging through fault tolerance (PoC)",
-      "link": "https://github.com/PJHkorea/adiabatic-silicon-aging-guard",
-      "pubDate": "Wed, 19 Aug 2026 22:22:22 +0000",
-      "date": "Wed, 19 Aug 2026 22:22:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/PJHkorea/adiabatic-silicon-aging-guard\nComments URL: https://news.ycombinator.com/item?id=49367946\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49367946"
-    },
-    {
-      "title": "Show HN: A new way to read books, magnifying in and out",
-      "link": "https://book.curiora.space/",
-      "pubDate": "Wed, 19 Aug 2026 22:21:41 +0000",
-      "date": "Wed, 19 Aug 2026 22:21:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "After watching The Odyssey, I thought it would be cool to check out some scenes from the source in detail, but I don't have time to read the whole book. \nSo I came up with a sort of zoom/microscope, that allows to see the whole book at a glance and then zoom in (by pinching) on the part I'm interested in. I can do so down to the actual source text and get the authentic feel the author intended, at the same time I better understand where am I in the text and also the character and places are clic",
-      "guid": "https://news.ycombinator.com/item?id=49367942"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -312,15 +323,15 @@
       "guid": "https://stratechery.com/?p=19742"
     },
     {
-      "title": "Claude Watermark Remover",
-      "link": "https://www.producthunt.com/products/claude-watermark",
-      "pubDate": "2026-08-19T06:46:06.000Z",
-      "date": "2026-08-19T06:46:06.000Z",
+      "title": "Cloudways Managed AI Agents",
+      "link": "https://www.producthunt.com/products/cloudways",
+      "pubDate": "2026-08-19T09:26:37.000Z",
+      "date": "2026-08-19T09:26:37.000Z",
       "source": "Product Hunt · AI",
       "category": "new-tools",
       "icon": "🆕",
       "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/claude-watermark"
+      "guid": "https://www.producthunt.com/products/cloudways"
     }
   ]
 }
