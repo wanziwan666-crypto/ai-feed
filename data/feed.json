@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-20T00:43:22.791Z",
+  "generatedAt": "2026-08-20T06:29:47.395Z",
   "lookbackHours": 24,
   "totalItems": 29,
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-20T00:43:21.094Z",
-      "date": "2026-08-20T00:43:21.094Z",
+      "pubDate": "2026-08-20T06:29:44.959Z",
+      "date": "2026-08-20T06:29:44.959Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "volcengine/OpenViking",
       "link": "https://github.com/volcengine/OpenViking",
-      "pubDate": "2026-08-20T00:43:21.094Z",
-      "date": "2026-08-20T00:43:21.094Z",
+      "pubDate": "2026-08-20T06:29:44.959Z",
+      "date": "2026-08-20T06:29:44.959Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,13 +28,189 @@
     {
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-20T00:43:21.094Z",
-      "date": "2026-08-20T00:43:21.094Z",
+      "pubDate": "2026-08-20T06:29:44.959Z",
+      "date": "2026-08-20T06:29:44.959Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nhttps://mahipal.engineer/Anthropic-Cybersecurity-Skills/\n\n  \n \n \n \nAnthropic Cybersecurity Skills\n \n \nThe largest open-source cybersecurity skills library for AI agents\n \n \n             \n \n",
       "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "title": "nautechsystems/nautilus_trader",
+      "link": "https://github.com/nautechsystems/nautilus_trader",
+      "pubDate": "2026-08-20T06:29:44.959Z",
+      "date": "2026-08-20T06:29:44.959Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "Production-grade Rust-native trading engine with deterministic event-driven architecture\nhttps://nautilustrader.io\n\n\n \n      \n \n \n  \n  \n \n   Branch \n   Version \n   Status \n  \n \n  \n  \n  \n \n   master \n    \n    \n  \n \n  \n \n   nightly \n    \n    \n  \n \n  \n \n   develop \n    \n    \n  \n \n  \n \n \n  \n  \n \n   Platform \n   Rust \n   Python \n  \n \n  \n  \n  \n \n   Linux (x86_64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   Linux (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   macOS (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n",
+      "guid": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+      "title": "Show HN: Doubletake – a daily spot-the-difference in ink and wash",
+      "link": "https://doubletake.day",
+      "pubDate": "Thu, 20 Aug 2026 05:10:05 +0000",
+      "date": "Thu, 20 Aug 2026 05:10:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://doubletake.day\nComments URL: https://news.ycombinator.com/item?id=49370588\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49370588"
+    },
+    {
+      "title": "Show HN: Linux and iPhone Continuity (iMessage / SMS)",
+      "link": "https://github.com/zackb/tether",
+      "pubDate": "Thu, 20 Aug 2026 04:53:51 +0000",
+      "date": "Thu, 20 Aug 2026 04:53:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "After switching to 100% Linux a couple of years ago there was basically only one thing I missed about macOS and that was what Apple calls \"Continuity\". It's where you get texts, notifications, clipboard sync, file transfer (to/from) the iPhone from the Mac desktop. Especially that thing where OTP codes via text autofilled into the browser form I was waiting on.\nIt took about 4 months of work:\n- reverse-engineering Apple/iOS Bluetooth behavior\n- MAP / OBEX\n- Bluetooth LE + Wi-Fi working together\n",
+      "guid": "https://news.ycombinator.com/item?id=49370499"
+    },
+    {
+      "title": "Show HN: MatrAIx – simulate users before reality (Survey/Chat/Web/App)",
+      "link": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+      "pubDate": "Thu, 20 Aug 2026 03:34:52 +0000",
+      "date": "Thu, 20 Aug 2026 03:34:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/MatrAIx-ai/MatrAIx-Persona-8B\nComments URL: https://news.ycombinator.com/item?id=49370103\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49370103"
+    },
+    {
+      "title": "Show HN: AI agents can now safely write to your CRMs",
+      "link": "https://www.archron.app/",
+      "pubDate": "Thu, 20 Aug 2026 03:17:08 +0000",
+      "date": "Thu, 20 Aug 2026 03:17:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN!\nJust wanted to share that I've built Archron - Execution governance for AI in business. It allows agents to safely write to CRMs(starting from Salesforce and hubspot) while maintaining immutable audit logs.\nDemo:\nhttps://youtu.be/uUTWGwJjpdA\nWould love to hear your thoughts about this and feedback. We are offering 3 months free to test it in your business workflow.\nFeel free to reach out: rjimena@archron.app\nComments URL: https://news.ycombinator.com/item?id=49369982\nPoints: 1\n# Comments:",
+      "guid": "https://news.ycombinator.com/item?id=49369982"
+    },
+    {
+      "title": "Show HN: Tempo Checker – Real-time disposable email detection API",
+      "link": "https://tempo-checker.rami-dev.com/",
+      "pubDate": "Thu, 20 Aug 2026 03:14:32 +0000",
+      "date": "Thu, 20 Aug 2026 03:14:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I’m Rami. I recently built Tempo Checker to help developers identify and block disposable, temporary, or burner email addresses during user registration.\nI built the core logic using Go and Python. To make the detection as accurate as possible, the system relies on a multi-layered validation approach:\nLive MX DNS Checks: It verifies the domain actually has mail exchange records configured and can receive mail.\nDomain Blocklists: It cross-references the domain against an aggregated list of",
+      "guid": "https://news.ycombinator.com/item?id=49369968"
+    },
+    {
+      "title": "Show HN: HN Notify",
+      "link": "https://hnnotify.org",
+      "pubDate": "Thu, 20 Aug 2026 02:59:50 +0000",
+      "date": "Thu, 20 Aug 2026 02:59:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A few years ago I built a very simple, though overly complicated, hacker news notification service. I always had dreams for a \"bigger\" application, where I could follow some people and read what they have to post, or specific topics and get notified with they show up, and if you don't want email, you can just have it sent to an RSS feed, or install it as a PWA and get the option for push notifications. Don't want immediate updates, change them to daily/weekly/monthly digest emails instead.\nThe o",
+      "guid": "https://news.ycombinator.com/item?id=49369894"
+    },
+    {
+      "title": "Show HN: Criboku – a daily logic puzzle based on cribbage",
+      "link": "https://criboku.com/",
+      "pubDate": "Thu, 20 Aug 2026 02:22:07 +0000",
+      "date": "Thu, 20 Aug 2026 02:22:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm a longtime member of the American Cribbage Congress, and its chief\nprogrammer. I wanted to develop a daily puzzle page for cribbage nuts like\nmyself, and so Criboku was born.\nCriboku is a daily cribbage-based logic puzzle. You have to fill in a grid from a\ngiven pool of cards to make cribbage hands. Each hand's score must match the\nvalues around the grid. Some cards and scores are given, you have to work out the\nrest.\nThere's a new puzzle every day, and they get harder through the week. Ther",
+      "guid": "https://news.ycombinator.com/item?id=49369701"
+    },
+    {
+      "title": "Show HN: AI Resume Screening – Looking for feedback from recruiters",
+      "link": "https://aiomniu.top/services/resume-screening",
+      "pubDate": "Thu, 20 Aug 2026 02:17:09 +0000",
+      "date": "Thu, 20 Aug 2026 02:17:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "In addition to the resume creation tool we mentioned in our previous post, we've also developed an AI-powered resume screening tool to complement our overall ecosystem. This tool aims to help recruitment teams efficiently review hundreds of resumes without relying on keyword matching.\nThis tool helps teams:\n- Batch upload and parse PDF resumes\n- Compare candidates with job descriptions\n- Review candidates' skills, experience, project experience, and industry fit\n- Provide candidate fit analysis ",
+      "guid": "https://news.ycombinator.com/item?id=49369678"
+    },
+    {
+      "title": "Show HN: Mail client optimized for self-hosted email across multiple domains",
+      "link": "https://mainly.crnst8.com/",
+      "pubDate": "Thu, 20 Aug 2026 01:55:56 +0000",
+      "date": "Thu, 20 Aug 2026 01:55:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "As someone with a clean IP range and ADHD, I manage my inbox by splitting across a variety of accounts for a variety of domains. I’ve never really found a client that scratches all my itches, so I spent some time making one and it’s now become my daily driver.\nIt’s optimised to be visually simple and highly configurable for things like colour, folders/subfolders, sorting and tweaking the search query function to better match what you search for often. There’s also some little nice-to-haves like ",
+      "guid": "https://news.ycombinator.com/item?id=49369578"
+    },
+    {
+      "title": "Show HN: Lutefish Stream (Play Music over Internet)",
+      "link": "https://lutefish.com/",
+      "pubDate": "Thu, 20 Aug 2026 01:36:05 +0000",
+      "date": "Thu, 20 Aug 2026 01:36:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey all,\nDisclaimer: I work on embedded software for Lutefish.\ntldr: If you have good internet and you live within 500 miles of somebody (and ISPs are feeling benevolent that day) you can play music together over the internet (for real tho).\nI know you've probably seen \"make music over the internet but for real this time\" presented from a handful of places over the years. We designed a PCB from scratch to tightly couple the audio and networking layers as close as we possibly could, and we are ab",
+      "guid": "https://news.ycombinator.com/item?id=49369454"
+    },
+    {
+      "title": "Show HN: I made a way for event guests to share photos without installing an app",
+      "link": "https://lensoraevents.com/",
+      "pubDate": "Thu, 20 Aug 2026 01:33:38 +0000",
+      "date": "Thu, 20 Aug 2026 01:33:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://lensoraevents.com/\nComments URL: https://news.ycombinator.com/item?id=49369435\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49369435"
+    },
+    {
+      "title": "Show HN: Mirotalk WebRTC Story",
+      "link": "https://docs.mirotalk.com/story/",
+      "pubDate": "Thu, 20 Aug 2026 01:24:00 +0000",
+      "date": "Thu, 20 Aug 2026 01:24:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://docs.mirotalk.com/story/\nComments URL: https://news.ycombinator.com/item?id=49369375\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49369375"
+    },
+    {
+      "title": "Show HN: Otion – Extract and stylize motion shaders from live video (WebGPU)",
+      "link": "https://otion.space/",
+      "pubDate": "Thu, 20 Aug 2026 00:56:50 +0000",
+      "date": "Thu, 20 Aug 2026 00:56:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://otion.space/\nComments URL: https://news.ycombinator.com/item?id=49369177\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49369177"
+    },
+    {
+      "title": "Show HN: I built a free FIRE simulator (early retirement tool)",
+      "link": "https://modelfire.online/",
+      "pubDate": "Thu, 20 Aug 2026 00:30:17 +0000",
+      "date": "Thu, 20 Aug 2026 00:30:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://modelfire.online/\nComments URL: https://news.ycombinator.com/item?id=49369001\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49369001"
+    },
+    {
+      "title": "Show HN: Klo – Native Mac video editor you talk to (40 releases in 30 days)",
+      "link": "https://getklo.com/",
+      "pubDate": "Thu, 20 Aug 2026 00:19:00 +0000",
+      "date": "Thu, 20 Aug 2026 00:19:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://getklo.com/\nComments URL: https://news.ycombinator.com/item?id=49368915\nPoints: 2\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49368915"
     },
     {
       "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
@@ -55,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/templegit9/MeetingIntro\nComments URL: https://news.ycombinator.com/item?id=49368674\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/templegit9/MeetingIntro\nComments URL: https://news.ycombinator.com/item?id=49368674\nPoints: 2\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49368674"
     },
     {
@@ -66,18 +242,18 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://folktale.hackclub.com/\nComments URL: https://news.ycombinator.com/item?id=49368075\nPoints: 2\n# Comments: 1",
+      "contentSnippet": "Article URL: https://folktale.hackclub.com/\nComments URL: https://news.ycombinator.com/item?id=49368075\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49368075"
     },
     {
-      "title": "Show HN: FerrumPix Photo/RAW-Editor, Viewer, Gallery, Immich & Nextcloud Client",
+      "title": "Show HN: FerrumPix Photo/RAW-Editor, Viewer, Gallery, Immich &amp; Nextcloud Client",
       "link": "https://github.com/Bitpainter75/FerrumPix",
       "pubDate": "Wed, 19 Aug 2026 22:22:47 +0000",
       "date": "Wed, 19 Aug 2026 22:22:47 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Bitpainter75/FerrumPix\nComments URL: https://news.ycombinator.com/item?id=49367952\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/Bitpainter75/FerrumPix\nComments URL: https://news.ycombinator.com/item?id=49367952\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49367952"
     },
     {
@@ -101,171 +277,6 @@
       "icon": "🔨",
       "contentSnippet": "After watching The Odyssey, I thought it would be cool to check out some scenes from the source in detail, but I don't have time to read the whole book. \nSo I came up with a sort of zoom/microscope, that allows to see the whole book at a glance and then zoom in (by pinching) on the part I'm interested in. I can do so down to the actual source text and get the authentic feel the author intended, at the same time I better understand where am I in the text and also the character and places are clic",
       "guid": "https://news.ycombinator.com/item?id=49367942"
-    },
-    {
-      "title": "Show HN: Bests and Worsts Reviews from Amazon",
-      "link": "https://bestsandworsts.greg.technology/review/213786376627934",
-      "pubDate": "Wed, 19 Aug 2026 22:17:24 +0000",
-      "date": "Wed, 19 Aug 2026 22:17:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://bestsandworsts.greg.technology/review/213786376627934\nComments URL: https://news.ycombinator.com/item?id=49367906\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49367906"
-    },
-    {
-      "title": "Show HN: A free accessibility scanner that says what it can't check",
-      "link": "https://a11yscan.win",
-      "pubDate": "Wed, 19 Aug 2026 22:17:20 +0000",
-      "date": "Wed, 19 Aug 2026 22:17:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://a11yscan.win\nComments URL: https://news.ycombinator.com/item?id=49367904\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49367904"
-    },
-    {
-      "title": "Show HN: A React component optimized for 1987",
-      "link": "https://github.com/smysnk/react-retro-display-tty-ansi-ascii",
-      "pubDate": "Wed, 19 Aug 2026 21:54:09 +0000",
-      "date": "Wed, 19 Aug 2026 21:54:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/smysnk/react-retro-display-tty-ansi-ascii\nComments URL: https://news.ycombinator.com/item?id=49367692\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49367692"
-    },
-    {
-      "title": "Show HN: Blade – a terminal UI for starting and supervising project commands",
-      "link": "https://github.com/adnanh/blade",
-      "pubDate": "Wed, 19 Aug 2026 21:49:05 +0000",
-      "date": "Wed, 19 Aug 2026 21:49:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Just wanted to share a little utility I made to scratch my own itch. Having worked on a multi-repo setup, starting a project was sometimes a bit of a chore and having a lot of terminal windows open can sometimes be annoying. It could've been done with tmux probably, but it was a fun exercise for me :-)\nComments URL: https://news.ycombinator.com/item?id=49367646\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49367646"
-    },
-    {
-      "title": "Show HN: Dispositio – a TUI project planner that stores plans as plain Markdown",
-      "link": "https://systemist.net/tools/dispositio",
-      "pubDate": "Wed, 19 Aug 2026 21:44:29 +0000",
-      "date": "Wed, 19 Aug 2026 21:44:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi all! Wanted to show you guys Dispositio, a project planning TUI that saves projects to simple markdown.\nI always have a ton of solo projects cooking, and in the past organized and planned them in increasingly complex `ROADMAP.md` files. After working with bubbletea on another project, and after constantly manually calculating its delivery dates for myself (as my bandwidth was quite limited at the time), I realized it would be cool to combine the two!\nThe result is Dispositio, a tool which:\n- ",
-      "guid": "https://news.ycombinator.com/item?id=49367591"
-    },
-    {
-      "title": "Show HN: Turning websites into micro CLIs for Claude Code to save on tokens",
-      "link": "https://github.com/only-cli/oc",
-      "pubDate": "Wed, 19 Aug 2026 21:26:15 +0000",
-      "date": "Wed, 19 Aug 2026 21:26:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/only-cli/oc\nComments URL: https://news.ycombinator.com/item?id=49367419\nPoints: 3\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49367419"
-    },
-    {
-      "title": "Show HN: ComputeFence – preflight checks for rented GPU training jobs",
-      "link": "https://github.com/Francisco-Booth/ComputeFence",
-      "pubDate": "Wed, 19 Aug 2026 21:02:55 +0000",
-      "date": "Wed, 19 Aug 2026 21:02:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Francisco-Booth/ComputeFence\nComments URL: https://news.ycombinator.com/item?id=49367187\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49367187"
-    },
-    {
-      "title": "Show HN: I forked an agent stack and measured myself against it, losses included",
-      "link": "https://toolbay.ai/stack",
-      "pubDate": "Wed, 19 Aug 2026 20:59:35 +0000",
-      "date": "Wed, 19 Aug 2026 20:59:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://toolbay.ai/stack\nComments URL: https://news.ycombinator.com/item?id=49367151\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49367151"
-    },
-    {
-      "title": "Show HN: Rust Doctor, a code health scanner for Cargo workspaces",
-      "link": "https://github.com/arthjean/rust-doctor",
-      "pubDate": "Wed, 19 Aug 2026 20:29:42 +0000",
-      "date": "Wed, 19 Aug 2026 20:29:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/arthjean/rust-doctor\nComments URL: https://news.ycombinator.com/item?id=49366807\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49366807"
-    },
-    {
-      "title": "Show HN: Jobs extracted from company career pages, before they reach job boards",
-      "link": "https://news.ycombinator.com/item?id=49366648",
-      "pubDate": "Wed, 19 Aug 2026 20:18:55 +0000",
-      "date": "Wed, 19 Aug 2026 20:18:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49366648\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49366648"
-    },
-    {
-      "title": "Show HN: HyperSAE – Sparse Autoencoders, reimagined in hyperbolic space",
-      "link": "https://github.com/vishal-dehurdle/hypersae",
-      "pubDate": "Wed, 19 Aug 2026 20:07:43 +0000",
-      "date": "Wed, 19 Aug 2026 20:07:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/vishal-dehurdle/hypersae\nComments URL: https://news.ycombinator.com/item?id=49366528\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49366528"
-    },
-    {
-      "title": "Show HN: I made myself a library manager for the Kobo Clara",
-      "link": "https://jcurcioconsulting.com/posts/building-a-ebook-management-application-for-the-kobo-clara",
-      "pubDate": "Wed, 19 Aug 2026 20:06:34 +0000",
-      "date": "Wed, 19 Aug 2026 20:06:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jcurcioconsulting.com/posts/building-a-ebook-management-application-for-the-kobo-clara\nComments URL: https://news.ycombinator.com/item?id=49366513\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49366513"
-    },
-    {
-      "title": "Show HN: Servercoin- The first decentralized cloud marketplace with reviews",
-      "link": "https://news.ycombinator.com/item?id=49366480",
-      "pubDate": "Wed, 19 Aug 2026 20:03:43 +0000",
-      "date": "Wed, 19 Aug 2026 20:03:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Yes, I'm aware many decentralized cloud marketplaces have been made before Servercoin. However, they all lack a key feature in any marketplace, reviews. That is why I created Servercoin, along with its review app system.\nServercoin: https://github.com/Servercoin/Servercoin\nServercoin Reviews: https://github.com/Servercoin/ServercoinGUARDapp\nComments URL: https://news.ycombinator.com/item?id=49366480\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49366480"
-    },
-    {
-      "title": "Show HN: CT RailTime, a better way to travel on CTrail",
-      "link": "https://ctrailtime.com/",
-      "pubDate": "Wed, 19 Aug 2026 19:55:47 +0000",
-      "date": "Wed, 19 Aug 2026 19:55:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://ctrailtime.com/\nComments URL: https://news.ycombinator.com/item?id=49366382\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49366382"
-    },
-    {
-      "title": "Show HN: I let an AI agent brick my $2.51 ESP32 on purpose",
-      "link": "https://github.com/GLechevalier/nff-core",
-      "pubDate": "Wed, 19 Aug 2026 19:55:23 +0000",
-      "date": "Wed, 19 Aug 2026 19:55:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/GLechevalier/nff-core\nComments URL: https://news.ycombinator.com/item?id=49366373\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49366373"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -310,17 +321,6 @@
       "icon": "🆕",
       "contentSnippet": "Discussion\n            |\n            Link",
       "guid": "https://www.producthunt.com/products/claude-watermark"
-    },
-    {
-      "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
-      "link": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-      "pubDate": "Wed, 19 Aug 2026 02:00:00 GMT",
-      "date": "Wed, 19 Aug 2026 02:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "After a stunning debut last week with cyber capabilities so advanced they reportedly found a previously undetected vulnerability in Cursor, GLM-5.3, the new frontier open source language model from Chinese startup z.ai, has now hit the application programming interface (API) — allowing developers the ability to build atop it and plug it into their agents and applications. \nDevelopers who previously subscribed to a GLM Coding Plan are currently limited to the OpenAI Chat Completions-compatible pr",
-      "guid": "6TKv8ZtUA2tSZ8JCTJav06"
     }
   ]
 }
