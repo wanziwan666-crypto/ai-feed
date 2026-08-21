@@ -2,9 +2,10 @@
  * config.js — ai-feed 共用配置
  *
  * LLM 供应商自动检测，优先级：
- *   1. Anthropic 兼容端点（ANTHROPIC_AUTH_TOKEN / ANTHROPIC_API_KEY + ANTHROPIC_BASE_URL）
- *   2. 阿里云百炼 DashScope（DASHSCOPE_API_KEY）
- * 两者都走 OpenAI 兼容协议（/v1/chat/completions），所以 summarize.js / generate-html.js 无需改动。
+ *   1. 智谱 GLM（ZHIPU_API_KEY / GLM_API_KEY，OpenAI 兼容 /api/paas/v4）
+ *   2. Anthropic 兼容端点（ANTHROPIC_AUTH_TOKEN / ANTHROPIC_API_KEY + ANTHROPIC_BASE_URL）
+ *   3. 阿里云百炼 DashScope（DASHSCOPE_API_KEY）
+ * 三者都走 OpenAI 兼容协议（/v1/chat/completions），所以 summarize.js / generate-html.js 无需改动。
  *
  * Key 从环境变量或 ~/.ai-feed/.env 加载，不硬编码在源码里。
  * 画像/权重从 ~/.ai-feed/profile.json（用户覆盖）→ config/profile.json（默认）读取。
@@ -36,12 +37,27 @@ const FILE_ENV = readEnvFile(ENV_FILE);
 // 环境变量优先，其次 .env
 const readVar = (name) => process.env[name] || FILE_ENV[name] || '';
 
+const DEFAULT_ZHIPU_BASE = 'https://open.bigmodel.cn/api/paas/v4';
+const DEFAULT_ZHIPU_MODEL = 'glm-5.2';
 const DEFAULT_ANTHROPIC_BASE = 'https://api.anthropic.com';
 const DEFAULT_ANTHROPIC_MODEL = 'claude-haiku-4-5';
 const DEFAULT_DASHSCOPE_MODEL = 'qwen3.7-plus';
 
 function resolveProvider() {
-  // ---- 1. Anthropic（含第三方兼容网关）----
+  // ---- 1. 智谱 GLM（OpenAI 兼容 /api/paas/v4）----
+  const zhipuKey = readVar('ZHIPU_API_KEY') || readVar('GLM_API_KEY');
+  if (zhipuKey) {
+    const base = (readVar('ZHIPU_BASE_URL') || DEFAULT_ZHIPU_BASE).replace(/\/+$/, '');
+    return {
+      provider: 'zhipu',
+      apiKey: zhipuKey,
+      // OpenAI SDK 会在 baseURL 后拼 /chat/completions
+      baseUrl: /\/v\d+$/.test(base) ? base : `${base}/v4`,
+      model: readVar('AI_FEED_MODEL') || DEFAULT_ZHIPU_MODEL,
+    };
+  }
+
+  // ---- 2. Anthropic（含第三方兼容网关）----
   const anthropicKey = readVar('ANTHROPIC_AUTH_TOKEN') || readVar('ANTHROPIC_API_KEY');
   if (anthropicKey) {
     const base = (readVar('ANTHROPIC_BASE_URL') || DEFAULT_ANTHROPIC_BASE).replace(/\/+$/, '');
@@ -54,7 +70,7 @@ function resolveProvider() {
     };
   }
 
-  // ---- 2. DashScope 兜底 ----
+  // ---- 3. DashScope 兜底 ----
   const dashscopeKey = readVar('DASHSCOPE_API_KEY');
   if (dashscopeKey) {
     return {
@@ -67,6 +83,7 @@ function resolveProvider() {
 
   throw new Error(
     `未找到可用的 LLM API Key。请设置以下任一项（环境变量，或写入 ${ENV_FILE}）：\n` +
+      '  ZHIPU_API_KEY=...（智谱 GLM，可选 AI_FEED_MODEL）\n' +
       '  ANTHROPIC_AUTH_TOKEN=...（可选 ANTHROPIC_BASE_URL、AI_FEED_MODEL）\n' +
       '  DASHSCOPE_API_KEY=...'
   );
