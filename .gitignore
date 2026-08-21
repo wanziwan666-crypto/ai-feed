@@ -10,3 +10,4 @@ data/feed-report-*.html
 .DS_Store
 ai-feed-intro/
 dist/
+data/.last-success-date
