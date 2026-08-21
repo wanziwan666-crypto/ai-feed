@@ -5,6 +5,14 @@
 
 REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 LOG="${AI_FEED_LOG:-/tmp/ai-feed-daily.log}"
+MARKER="$REPO_DIR/data/.last-success-date"
+
+# 当天已成功跑完则跳过（防止 RunAtLoad 开机补跑与 11:00 定时跑重复烧钱）
+TODAY_MARKER="$(date +%Y-%m-%d)"
+if [ -f "$MARKER" ] && [ "$(cat "$MARKER")" = "$TODAY_MARKER" ]; then
+  echo "=== $(date) 今天已成功运行过，跳过 ===" >> "$LOG"
+  exit 0
+fi
 
 # git 直连 GitHub 会被间歇性掐断：lowSpeed 让卡死的传输 60s 内自行中断，交给 retry 重试
 # 全局配置了代理 http://127.0.0.1:7890（ClashX Pro）；若本次运行时代理未启动，则临时降级直连
@@ -77,5 +85,8 @@ retry 5 30 git "${GIT_NET_OPTS[@]}" push \
 # 6. 推送飞书
 echo "[6/6] push-feishu..." >> "$LOG"
 node scripts/push-feishu.js >> "$LOG" 2>&1 || echo "[6/6] push-feishu FAILED" >> "$LOG"
+
+# 全部步骤结束（含可能失败）后记录当天已运行，避免 RunAtLoad 重复触发
+echo "$TODAY_MARKER" > "$MARKER"
 
 echo "Done! $(date)" >> "$LOG"
