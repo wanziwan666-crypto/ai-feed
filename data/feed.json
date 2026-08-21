@@ -1,51 +1,183 @@
 {
-  "generatedAt": "2026-08-21T00:46:42.829Z",
+  "generatedAt": "2026-08-21T06:31:29.722Z",
   "lookbackHours": 24,
-  "totalItems": 33,
+  "totalItems": 29,
   "items": [
     {
-      "title": "harry0703/MoneyPrinterTurbo",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-21T00:46:40.665Z",
-      "date": "2026-08-21T00:46:40.665Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: I built an open source video editor that you can control with an LLM",
+      "link": "https://github.com/DonkeyCut/Donkey",
+      "pubDate": "Fri, 21 Aug 2026 05:19:27 +0000",
+      "date": "Fri, 21 Aug 2026 05:19:27 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n \n \nMoneyPrinterTurbo 💸\n \n \n一站式 AI 短视频生成工具\n \n \n只需提供视频主题或关键词，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n \n \n   \n \n \n \n \n \n简体中文 | English | 版本发布 | 问题反馈\n \n \n界面预览 🖥️\n \nWebUI\n \n\n \nAPI\n \n\n \n \n特别感谢 ❤️\n \n \n  \n \n感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准确，匹配到的",
-      "guid": "https://github.com/harry0703/MoneyPrinterTurbo"
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, my name is David. I'm building an open source video editor.\nI'm a novice at video editing and previously only used iMovie. I recently opened iMovie to edit a video but noticed it didn't have some features I wanted, like text overlays. Apple probably hasn't updated it in ages. How hard could it be to build one?\nIt's actually pretty hard. There are so many basic things that need to get right, like behavior in the timeline, drag and drop, coloring, etc. Good thing there are LLMs. I was able",
+      "guid": "https://news.ycombinator.com/item?id=49384105"
     },
     {
-      "title": "volcengine/OpenViking",
-      "link": "https://github.com/volcengine/OpenViking",
-      "pubDate": "2026-08-21T00:46:40.665Z",
-      "date": "2026-08-21T00:46:40.665Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: Just describe your idea and let AI build a playable game for you",
+      "link": "https://run.ceo/coder/",
+      "pubDate": "Fri, 21 Aug 2026 05:04:16 +0000",
+      "date": "Fri, 21 Aug 2026 05:04:16 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.\nhttps://openviking.ai/\n\n \n  \n  \n \n    \n  \n  \n \nOpenViking: The Context Database for AI Agents\n \n \nEnglish / 中文 / 日本語\n \n \nWebsite · Live Demo · GitHub · Issues · Docs\n \n \n     \n \n \n👋 Join our Community\n \n \n📱 Lark Group · WeChat · Discord · X\n \n \n\n \n \n \nWhat is OpenViking\n \nOpenViking is an open-source context database for AI agents. It stores memories, resources, and skills as one virtual filesystem unde",
-      "guid": "https://github.com/volcengine/OpenViking"
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://run.ceo/coder/\nComments URL: https://news.ycombinator.com/item?id=49384010\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49384010"
     },
     {
-      "title": "mukul975/Anthropic-Cybersecurity-Skills",
-      "link": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "pubDate": "2026-08-21T00:46:40.665Z",
-      "date": "2026-08-21T00:46:40.665Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: I completed my cross platform C++ 17 fiber job system",
+      "link": "https://github.com/jay403894-bit/JLib-Scheduler",
+      "pubDate": "Fri, 21 Aug 2026 04:34:21 +0000",
+      "date": "Fri, 21 Aug 2026 04:34:21 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0\nhttps://mahipal.engineer/Anthropic-Cybersecurity-Skills/\n\n  \n \n \n \nAnthropic Cybersecurity Skills\n \n \nThe largest open-source cybersecurity skills library for AI agents\n \n \n             \n \n",
-      "guid": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+      "icon": "🔨",
+      "contentSnippet": "before it was windows only with quite a few deficits and no performance charts. its been optimized and ported to almost every platform now a complete jobs system solution with main thread dag tasks\nComments URL: https://news.ycombinator.com/item?id=49383826\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49383826"
     },
     {
-      "title": "nautechsystems/nautilus_trader",
-      "link": "https://github.com/nautechsystems/nautilus_trader",
-      "pubDate": "2026-08-21T00:46:40.665Z",
-      "date": "2026-08-21T00:46:40.665Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
+      "link": "https://news.ycombinator.com/item?id=49383441",
+      "pubDate": "Fri, 21 Aug 2026 03:32:41 +0000",
+      "date": "Fri, 21 Aug 2026 03:32:41 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "Production-grade Rust-native trading engine with deterministic event-driven architecture\nhttps://nautilustrader.io\n\n\n \n      \n \n \n  \n  \n \n   Branch \n   Version \n   Status \n  \n \n  \n  \n  \n \n   master \n    \n    \n  \n \n  \n \n   nightly \n    \n    \n  \n \n  \n \n   develop \n    \n    \n  \n \n  \n \n \n  \n  \n \n   Platform \n   Rust \n   Python \n  \n \n  \n  \n  \n \n   Linux (x86_64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   Linux (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n \n   macOS (ARM64) \n   1.97.1 \n   3.12-3.14 \n  \n \n  \n",
-      "guid": "https://github.com/nautechsystems/nautilus_trader"
+      "icon": "🔨",
+      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49383441\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49383441"
+    },
+    {
+      "title": "Show HN: Fifteen – buy a spot on a board where your position decays 5% a day",
+      "link": "https://fifteen.show",
+      "pubDate": "Fri, 21 Aug 2026 03:31:35 +0000",
+      "date": "Fri, 21 Aug 2026 03:31:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://fifteen.show\nComments URL: https://news.ycombinator.com/item?id=49383435\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49383435"
+    },
+    {
+      "title": "Show HN: An autonomous AI agent running one project for two months in public",
+      "link": "https://aitoolsinsiderhq.com/log/",
+      "pubDate": "Fri, 21 Aug 2026 03:21:46 +0000",
+      "date": "Fri, 21 Aug 2026 03:21:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://aitoolsinsiderhq.com/log/\nComments URL: https://news.ycombinator.com/item?id=49383353\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49383353"
+    },
+    {
+      "title": "Show HN: Crypto and NFT Project Directory – Other Worlders",
+      "link": "https://otherworlders.com/nft-directory/",
+      "pubDate": "Fri, 21 Aug 2026 02:53:59 +0000",
+      "date": "Fri, 21 Aug 2026 02:53:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://otherworlders.com/nft-directory/\nComments URL: https://news.ycombinator.com/item?id=49383162\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49383162"
+    },
+    {
+      "title": "Show HN: Fsel –. a Rust TUI launcher, fuzzy picker and clipboard browser",
+      "link": "https://github.com/Mjoyufull/fsel",
+      "pubDate": "Fri, 21 Aug 2026 02:28:21 +0000",
+      "date": "Fri, 21 Aug 2026 02:28:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "fsel is a terminal app launcher for Linux/*BSD. It also has a dmenu-style mode for piping arbitrary input through it, and a clipboard-history mode with text and image previews, I started it because I started using otterlauncher and needed a tui app laucnher bc otterlauncher was tui, i looked around and nothing was up to par, then i found Gyr, it was the closest thing but it needed sum work so i add the things I needed, and it eventually grew into fsel.\nits evolved to be more than an app launcher",
+      "guid": "https://news.ycombinator.com/item?id=49382968"
+    },
+    {
+      "title": "Show HN: XListman – one-binary, self-hosted mailing list manager",
+      "link": "https://github.com/barats/xlistman",
+      "pubDate": "Fri, 21 Aug 2026 02:18:33 +0000",
+      "date": "Fri, 21 Aug 2026 02:18:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/barats/xlistman\nComments URL: https://news.ycombinator.com/item?id=49382915\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49382915"
+    },
+    {
+      "title": "Show HN: Steppewm stacking Wayland window manager",
+      "link": "https://keygen.sbs/steppewm/",
+      "pubDate": "Fri, 21 Aug 2026 02:12:13 +0000",
+      "date": "Fri, 21 Aug 2026 02:12:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "a thing I made\nwhy? there's just nothing like icewm in the wayland space. there's labwc but it's jank if you simply want the icewm experience with a taskbar and DE-ish experience. plus, there's a converter for icewm themes. and a good taskbar.\nComments URL: https://news.ycombinator.com/item?id=49382878\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49382878"
+    },
+    {
+      "title": "Show HN: ImageSage – Photo manager using Local AI on Windows",
+      "link": "https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US",
+      "pubDate": "Fri, 21 Aug 2026 02:06:27 +0000",
+      "date": "Fri, 21 Aug 2026 02:06:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US\nComments URL: https://news.ycombinator.com/item?id=49382825\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49382825"
+    },
+    {
+      "title": "Show HN: GatiNow – branded booking pages with built-in payments",
+      "link": "https://www.gatinow.com/features",
+      "pubDate": "Fri, 21 Aug 2026 01:54:25 +0000",
+      "date": "Fri, 21 Aug 2026 01:54:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.gatinow.com/features\nComments URL: https://news.ycombinator.com/item?id=49382733\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49382733"
+    },
+    {
+      "title": "Show HN: A 4 mm aluminium shower shelf held up by the tap cones",
+      "link": "https://blog.oxplot.com/shower-shelf-held-by-taps/",
+      "pubDate": "Fri, 21 Aug 2026 01:28:05 +0000",
+      "date": "Fri, 21 Aug 2026 01:28:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://blog.oxplot.com/shower-shelf-held-by-taps/\nComments URL: https://news.ycombinator.com/item?id=49382552\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49382552"
+    },
+    {
+      "title": "Show HN: Pigame – pi+LLM plays black-box browser games via observe/move tools",
+      "link": "https://github.com/ifoxhz/pigame",
+      "pubDate": "Fri, 21 Aug 2026 01:20:26 +0000",
+      "date": "Fri, 21 Aug 2026 01:20:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "If we compress LLMs into neuromorphic chips to reduce inference latency, would it be relatively easy to achieve low-cost autonomous driving?\nComments URL: https://news.ycombinator.com/item?id=49382504\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49382504"
+    },
+    {
+      "title": "Show HN: Chat Threads",
+      "link": "https://news.ycombinator.com/item?id=49382293",
+      "pubDate": "Fri, 21 Aug 2026 00:48:02 +0000",
+      "date": "Fri, 21 Aug 2026 00:48:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "The reason I wrote Chat Threads was because I started cursing at the AI in the middle of a long conversation. Then I continued with the conversation.\nLater, I wanted to pull that part out. I didn't want to start a new branch somewhere before it happened. I just wanted to take that part out of the middle and keep everything before and after it.\nThat was the original idea behind Chat Threads.\nChat Threads lets you work with a copy of a ChatGPT or Claude conversation. You can remove turns from the ",
+      "guid": "https://news.ycombinator.com/item?id=49382293"
+    },
+    {
+      "title": "Show HN: TakoVM – Serverless file systems for agents",
+      "link": "https://tako-research.github.io/TakoVM/",
+      "pubDate": "Fri, 21 Aug 2026 00:23:30 +0000",
+      "date": "Fri, 21 Aug 2026 00:23:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tako-research.github.io/TakoVM/\nComments URL: https://news.ycombinator.com/item?id=49382104\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49382104"
     },
     {
       "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
@@ -55,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://search.parqdb.io/\nComments URL: https://news.ycombinator.com/item?id=49382022\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://search.parqdb.io/\nComments URL: https://news.ycombinator.com/item?id=49382022\nPoints: 11\n# Comments: 4",
       "guid": "https://news.ycombinator.com/item?id=49382022"
     },
     {
@@ -68,6 +200,17 @@
       "icon": "🔨",
       "contentSnippet": "Hey HN,\nI built CtrlTool because I kept needing small tools for random things and didn't want to install something or sign up for another website.\nIt currently has 132 tools for things like JSON, JWT, Base64, URLs, text, hashes, PDFs, SEO, converters, generators, and other everyday stuff.\nThe main thing I tried to focus on is making the tools fast and simple. For tools where it makes sense, everything runs locally in the browser so the data doesn't need to be uploaded to a server.\nIt's still ver",
       "guid": "https://news.ycombinator.com/item?id=49381949"
+    },
+    {
+      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
+      "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+      "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "date": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Slack wants to drag AI coding out of the terminal and into the group chat.\nThe Salesforce-owned messaging platform today announced Slack Code, a new product that embeds AI coding agents — including Anthropic's Claude Code, Cognition's Devin, GitHub Copilot, and Vercel's agent — directly into dedicated Slack channels where entire teams can watch, steer, review, and ship software together. Slack Code is available on any Slack plan at launch, though customers need their own access to the partner ag",
+      "guid": "39Gkb8DOroFaGfAFokBbtg"
     },
     {
       "title": "Show HN: Icebug-format: immutable, interoperable graph standard",
@@ -101,182 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "As someone with a clean IP range and ADHD, I manage my inbox by splitting across a variety of accounts for a variety of domains. I’ve never really found a client that scratches all my itches, so I spent some time making one and it’s now become my daily driver.\nIt’s optimised to be visually simple and highly configurable for things like colour, folders/subfolders, sorting and tweaking the search query function to better match what you search for often. There’s also some little nice-to-haves like ",
       "guid": "https://news.ycombinator.com/item?id=49381846"
-    },
-    {
-      "title": "Show HN: Post Quantum Liveness, Identity, Provenance. No Biometric Identificatio",
-      "link": "https://github.com/Clockwork-Tree-Inc/atlas-poc-v1/tree/clockwork-tree-atlas-update-v1.2",
-      "pubDate": "Thu, 20 Aug 2026 23:27:49 +0000",
-      "date": "Thu, 20 Aug 2026 23:27:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Clockwork-Tree-Inc/atlas-poc-v1/tree/clockwork-tree-atlas-update-v1.2\nComments URL: https://news.ycombinator.com/item?id=49381677\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49381677"
-    },
-    {
-      "title": "Show HN: luoluoAI – OpenAI-compatible and Claude Messages API gateway",
-      "link": "https://api.luoluocoder.com/",
-      "pubDate": "Thu, 20 Aug 2026 23:27:44 +0000",
-      "date": "Thu, 20 Aug 2026 23:27:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://api.luoluocoder.com/\nComments URL: https://news.ycombinator.com/item?id=49381675\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49381675"
-    },
-    {
-      "title": "Show HN: AI tools with real pricing, submitted in 30 seconds",
-      "link": "https://worthtotry.com",
-      "pubDate": "Thu, 20 Aug 2026 23:13:26 +0000",
-      "date": "Thu, 20 Aug 2026 23:13:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://worthtotry.com\nComments URL: https://news.ycombinator.com/item?id=49381560\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49381560"
-    },
-    {
-      "title": "Show HN: PNGine, Declarative WebGPU in S-expressions that match the spec 1:1",
-      "link": "https://hugodaniel.com/pages/pngine/",
-      "pubDate": "Thu, 20 Aug 2026 23:05:47 +0000",
-      "date": "Thu, 20 Aug 2026 23:05:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://hugodaniel.com/pages/pngine/\nComments URL: https://news.ycombinator.com/item?id=49381489\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49381489"
-    },
-    {
-      "title": "Show HN: Lexicon – Vocabulary That Sticks",
-      "link": "https://lexiconapp.pythonanywhere.com/",
-      "pubDate": "Thu, 20 Aug 2026 22:34:06 +0000",
-      "date": "Thu, 20 Aug 2026 22:34:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://lexiconapp.pythonanywhere.com/\nComments URL: https://news.ycombinator.com/item?id=49381189\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49381189"
-    },
-    {
-      "title": "Show HN: Hackerznews – Yet Another HN Client",
-      "link": "https://hackerznews.vercel.app",
-      "pubDate": "Thu, 20 Aug 2026 22:25:42 +0000",
-      "date": "Thu, 20 Aug 2026 22:25:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Around a little more than a year ago, thanks to the advancements in agentic coding, I created my personal ideal HN reading app.\nThere are oh so many of those, but this one is mine. I couldn’t write syntax in any programming language if my life depended on it, so I was glad to have different models help me in that regard. I’m transparent about it, because a lot of HN users might view this negatively and I don’t want to mislead anyone.\nThe updated feature set includes:\n* Updated UI for everything,",
-      "guid": "https://news.ycombinator.com/item?id=49381124"
-    },
-    {
-      "title": "Show HN: Aristra, your life OS",
-      "link": "https://aristralabs.com",
-      "pubDate": "Thu, 20 Aug 2026 22:19:10 +0000",
-      "date": "Thu, 20 Aug 2026 22:19:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Most AI cares only about the outcome users want. Aristra cares about your process. It works alongside and for you across the things you already use, learning about you and from you, day and night. What works becomes a playbook it reaches for next time. What stops being true quietly fades. How you actually get things done is the most valuable thing about you, and it's the one thing no AI understands. One AI. One memory. Your life OS.\nLaunch vid: https://youtu.be/CoIKF_CKE8g?si=v5QeyHxJvITrCNAy\nCo",
-      "guid": "https://news.ycombinator.com/item?id=49381044"
-    },
-    {
-      "title": "Show HN: Zero () friction local AI for Mac",
-      "link": "https://www.basecompute.co/local",
-      "pubDate": "Thu, 20 Aug 2026 22:13:31 +0000",
-      "date": "Thu, 20 Aug 2026 22:13:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s free, but it’s also a massive headache to configure. So we’ve decided what matters is making the experience completely frictionless for users.\nLocal analyses the hardware of your laptop, optimises the AI for it, and recommends the best models for your specific device.\nIt let’s you do what you’re doing",
-      "guid": "https://news.ycombinator.com/item?id=49380978"
-    },
-    {
-      "title": "Show HN: Youtilitics, energy usage analytics from utility data, no hardware",
-      "link": "https://youtilitics.com/",
-      "pubDate": "Thu, 20 Aug 2026 22:13:14 +0000",
-      "date": "Thu, 20 Aug 2026 22:13:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I posted an early version of this 2 years ago. Rebuilt most of it since then, so posting again with what's actually different.\nYoutilitics still pulls interval data your utility already collects (Green Button/ESPI — 15-60 min whole-house kWh) and turns it into usage analytics.\nThe analytics stack is different: baseline anomaly detection (median/MAD by time-of-day bucket, not a flat threshold), overnight step-change alerts, usage heatmaps, cycle-over-cycle comparisons, etc.\nIt is still based on a",
-      "guid": "https://news.ycombinator.com/item?id=49380974"
-    },
-    {
-      "title": "Show HN: A data viewer for choosing Frigate-compatible IP cameras",
-      "link": "https://github.com/ch-bas/cctv-camera-database",
-      "pubDate": "Thu, 20 Aug 2026 21:40:39 +0000",
-      "date": "Thu, 20 Aug 2026 21:40:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ch-bas/cctv-camera-database\nComments URL: https://news.ycombinator.com/item?id=49380653\nPoints: 34\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49380653"
-    },
-    {
-      "title": "Show HN: Let your coding agents set up your test coverage",
-      "link": "https://blog.codacy.com/introducing-codacy-skills-part-3-let-your-agent-set-up-test-coverage",
-      "pubDate": "Thu, 20 Aug 2026 21:36:44 +0000",
-      "date": "Thu, 20 Aug 2026 21:36:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://blog.codacy.com/introducing-codacy-skills-part-3-let-your-agent-set-up-test-coverage\nComments URL: https://news.ycombinator.com/item?id=49380605\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49380605"
-    },
-    {
-      "title": "Show HN: DumpSort – drop screenshots/PDFs, get a named zip (browser-only)",
-      "link": "https://dumpsort.vercel.app",
-      "pubDate": "Thu, 20 Aug 2026 21:24:23 +0000",
-      "date": "Thu, 20 Aug 2026 21:24:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Drop up to 10 screenshots or PDFs. It reads the text in the browser, groups them (receipts / screenshots / documents), and downloads a zip with names like receipts/2026-08-20_receipts_uber-trip.png.\nNothing is uploaded. No account. Happy to hear where the naming is wrong.\nComments URL: https://news.ycombinator.com/item?id=49380474\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49380474"
-    },
-    {
-      "title": "Show HN: Molecule.dev is an AI-first composable package ecosystem",
-      "link": "https://github.com/molecule-dev/molecule",
-      "pubDate": "Thu, 20 Aug 2026 21:00:07 +0000",
-      "date": "Thu, 20 Aug 2026 21:00:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/molecule-dev/molecule\nComments URL: https://news.ycombinator.com/item?id=49380202\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49380202"
-    },
-    {
-      "title": "Show HN: Praxos – team messaging with built-in memory",
-      "link": "https://www.praxos.ai/",
-      "pubDate": "Thu, 20 Aug 2026 20:55:49 +0000",
-      "date": "Thu, 20 Aug 2026 20:55:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN! What does a regular workflow at a startup look like?\nProbably like this:\n> One founder talks to customers\n> Another founder builds\n> A customer asks for something. The first founder explains it to the second. The second founder explains it to Claude\n> Two weeks any one of the founders asks one of the following questions:\n    \\* Why are we building it this way?\n\n    \\* What happened here?\n\n    \\* What did we promise ACME we’d do?\n\n    \\* How far along are we on X?\n\n\n Then you scream on th",
-      "guid": "https://news.ycombinator.com/item?id=49380160"
-    },
-    {
-      "title": "Show HN: PingChange – monitor web pages and OpenAPI specs for meaningful changes",
-      "link": "https://pingchange.com",
-      "pubDate": "Thu, 20 Aug 2026 20:51:42 +0000",
-      "date": "Thu, 20 Aug 2026 20:51:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built PingChange after watching the same thing happen over and over: a competitor prices change, a company policy is updated or important web content changes but there is often no reliable way to track it and know when it happens.\nThe tool monitors web pages and API on a schedule and alerts your team when something meaningful changes. The keyword here is meaningful. Most monitoring tools trigger alerts for everything (ads, timestamps, cookie banners etc) and could be noisy or spam in your inbo",
-      "guid": "https://news.ycombinator.com/item?id=49380120"
-    },
-    {
-      "title": "Show HN: Verified business dashboards inside ChatGPT and Claude via MCP Apps",
-      "link": "https://www.corpusiq.io/docs/hermes/mcp/mcp-apps-interactive-ui",
-      "pubDate": "Thu, 20 Aug 2026 20:45:36 +0000",
-      "date": "Thu, 20 Aug 2026 20:45:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.corpusiq.io/docs/hermes/mcp/mcp-apps-interactive-ui\nComments URL: https://news.ycombinator.com/item?id=49380035\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49380035"
     },
     {
       "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
@@ -354,17 +321,6 @@
       "icon": "🐱",
       "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nOnly 18% of principals say they feel very confident leading AI this school year — but 7 in 10 schools are already immersed in it. Ronn Nozoe of the National Principals Association and I unpack what school leaders told us, and what teachers can do about it.\nThe post Principals and AI: 7 in 10 Are Already In appeared first on Cool Cat Teacher Blog by V",
       "guid": "https://www.coolcatteacher.com/?p=35237"
-    },
-    {
-      "title": "Hermai Brand API",
-      "link": "https://www.producthunt.com/products/hermai-brand-api",
-      "pubDate": "2026-08-20T01:12:56.000Z",
-      "date": "2026-08-20T01:12:56.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/hermai-brand-api"
     }
   ]
 }
