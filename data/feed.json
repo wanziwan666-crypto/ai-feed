@@ -1,8 +1,85 @@
 {
-  "generatedAt": "2026-08-21T06:31:29.722Z",
+  "generatedAt": "2026-08-21T09:20:01.778Z",
   "lookbackHours": 24,
-  "totalItems": 29,
+  "totalItems": 30,
   "items": [
+    {
+      "title": "When AI designs a drug, who gets the credit?",
+      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "pubDate": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
+      "guid": "https://www.technologyreview.com/?p=1142627"
+    },
+    {
+      "title": "Show HN: Meg – I processed 259M nodes on my laptop using 6.91MB RAM",
+      "link": "https://github.com/blueray313164-a11y/Quantum-Drive-Solver",
+      "pubDate": "Fri, 21 Aug 2026 07:25:35 +0000",
+      "date": "Fri, 21 Aug 2026 07:25:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I got tired of MemoryError crashes. So I built MEG: MemoryError Gone.\nWhat it does: An optimization engine for massive multi-body problems.\nMade to run huge problems on normal hardware.\nThe result:\nGrid: 120x120x120 \nTotal Nodes: 259,200,000\nPeak RAM Usage: 6.91 MB\nStatus: Processing complete - No MemoryError\nIt's just Python. No cloud, no cluster, just a laptop.\nRepo: https://github.com/blueray313164-a11y/Quantum-Drive-Solver\nRepo has more details and benchmark from Google Colab.\nYour code cras",
+      "guid": "https://news.ycombinator.com/item?id=49384910"
+    },
+    {
+      "title": "Show HN: Plainspeak, make AI agents write like a human",
+      "link": "https://sufiyan.cc/plainspeak",
+      "pubDate": "Fri, 21 Aug 2026 07:09:01 +0000",
+      "date": "Fri, 21 Aug 2026 07:09:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sufiyan.cc/plainspeak\nComments URL: https://news.ycombinator.com/item?id=49384788\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49384788"
+    },
+    {
+      "title": "Show HN: I built a TV like website for Indian nostalgic shows",
+      "link": "https://www.dabbatv.xyz/",
+      "pubDate": "Fri, 21 Aug 2026 07:03:48 +0000",
+      "date": "Fri, 21 Aug 2026 07:03:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I used to watch a lot of TV as a kid. I missed the feeling of watching whatever was airing. So, I made Dabba TV. There are multiple channels. Each channel has a theme and all the content being played is according to the theme. Everyone watching it will see the same exact feed. \nThe content is being fetched from YT.\nComments URL: https://news.ycombinator.com/item?id=49384747\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49384747"
+    },
+    {
+      "title": "Show HN: Real Valued Chess – chess on a continuous board",
+      "link": "https://martinylu.com/real-chess",
+      "pubDate": "Fri, 21 Aug 2026 06:59:26 +0000",
+      "date": "Fri, 21 Aug 2026 06:59:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I saw a video on this by @the-adder and got nerd sniped into making this\nComments URL: https://news.ycombinator.com/item?id=49384714\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49384714"
+    },
+    {
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "link": "https://Argentic.network",
+      "pubDate": "Fri, 21 Aug 2026 06:24:16 +0000",
+      "date": "Fri, 21 Aug 2026 06:24:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://Argentic.network\nComments URL: https://news.ycombinator.com/item?id=49384477\nPoints: 7\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49384477"
+    },
+    {
+      "title": "Show HN: Open source math games and puzzles",
+      "link": "https://theorem.games/",
+      "pubDate": "Fri, 21 Aug 2026 05:50:50 +0000",
+      "date": "Fri, 21 Aug 2026 05:50:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://theorem.games/\nComments URL: https://news.ycombinator.com/item?id=49384279\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49384279"
+    },
     {
       "title": "Show HN: I built an open source video editor that you can control with an LLM",
       "link": "https://github.com/DonkeyCut/Donkey",
@@ -22,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://run.ceo/coder/\nComments URL: https://news.ycombinator.com/item?id=49384010\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://run.ceo/coder/\nComments URL: https://news.ycombinator.com/item?id=49384010\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49384010"
     },
     {
@@ -33,7 +110,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "before it was windows only with quite a few deficits and no performance charts. its been optimized and ported to almost every platform now a complete jobs system solution with main thread dag tasks\nComments URL: https://news.ycombinator.com/item?id=49383826\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "before it was windows only with quite a few deficits and no performance charts. its been optimized and ported to almost every platform now a complete jobs system solution with main thread dag tasks\nComments URL: https://news.ycombinator.com/item?id=49383826\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49383826"
     },
     {
@@ -44,7 +121,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49383441\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49383441\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49383441"
     },
     {
@@ -55,7 +132,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://fifteen.show\nComments URL: https://news.ycombinator.com/item?id=49383435\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://fifteen.show\nComments URL: https://news.ycombinator.com/item?id=49383435\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49383435"
     },
     {
@@ -66,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://aitoolsinsiderhq.com/log/\nComments URL: https://news.ycombinator.com/item?id=49383353\nPoints: 1\n# Comments: 2",
+      "contentSnippet": "Article URL: https://aitoolsinsiderhq.com/log/\nComments URL: https://news.ycombinator.com/item?id=49383353\nPoints: 2\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49383353"
     },
     {
@@ -77,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://otherworlders.com/nft-directory/\nComments URL: https://news.ycombinator.com/item?id=49383162\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://otherworlders.com/nft-directory/\nComments URL: https://news.ycombinator.com/item?id=49383162\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49383162"
     },
     {
@@ -99,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/barats/xlistman\nComments URL: https://news.ycombinator.com/item?id=49382915\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/barats/xlistman\nComments URL: https://news.ycombinator.com/item?id=49382915\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49382915"
     },
     {
@@ -110,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "a thing I made\nwhy? there's just nothing like icewm in the wayland space. there's labwc but it's jank if you simply want the icewm experience with a taskbar and DE-ish experience. plus, there's a converter for icewm themes. and a good taskbar.\nComments URL: https://news.ycombinator.com/item?id=49382878\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "a thing I made\nwhy? there's just nothing like icewm in the wayland space. there's labwc but it's jank if you simply want the icewm experience with a taskbar and DE-ish experience. plus, there's a converter for icewm themes. and a good taskbar.\nComments URL: https://news.ycombinator.com/item?id=49382878\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49382878"
     },
     {
@@ -121,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US\nComments URL: https://news.ycombinator.com/item?id=49382825\nPoints: 2\n# Comments: 1",
+      "contentSnippet": "Article URL: https://apps.microsoft.com/detail/9mt89hd9s6sm?hl=en-US&gl=US\nComments URL: https://news.ycombinator.com/item?id=49382825\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49382825"
     },
     {
@@ -132,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.gatinow.com/features\nComments URL: https://news.ycombinator.com/item?id=49382733\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://www.gatinow.com/features\nComments URL: https://news.ycombinator.com/item?id=49382733\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49382733"
     },
     {
@@ -143,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://blog.oxplot.com/shower-shelf-held-by-taps/\nComments URL: https://news.ycombinator.com/item?id=49382552\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://blog.oxplot.com/shower-shelf-held-by-taps/\nComments URL: https://news.ycombinator.com/item?id=49382552\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49382552"
     },
     {
@@ -154,52 +231,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "If we compress LLMs into neuromorphic chips to reduce inference latency, would it be relatively easy to achieve low-cost autonomous driving?\nComments URL: https://news.ycombinator.com/item?id=49382504\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "If we compress LLMs into neuromorphic chips to reduce inference latency, would it be relatively easy to achieve low-cost autonomous driving?\nComments URL: https://news.ycombinator.com/item?id=49382504\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49382504"
-    },
-    {
-      "title": "Show HN: Chat Threads",
-      "link": "https://news.ycombinator.com/item?id=49382293",
-      "pubDate": "Fri, 21 Aug 2026 00:48:02 +0000",
-      "date": "Fri, 21 Aug 2026 00:48:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The reason I wrote Chat Threads was because I started cursing at the AI in the middle of a long conversation. Then I continued with the conversation.\nLater, I wanted to pull that part out. I didn't want to start a new branch somewhere before it happened. I just wanted to take that part out of the middle and keep everything before and after it.\nThat was the original idea behind Chat Threads.\nChat Threads lets you work with a copy of a ChatGPT or Claude conversation. You can remove turns from the ",
-      "guid": "https://news.ycombinator.com/item?id=49382293"
-    },
-    {
-      "title": "Show HN: TakoVM – Serverless file systems for agents",
-      "link": "https://tako-research.github.io/TakoVM/",
-      "pubDate": "Fri, 21 Aug 2026 00:23:30 +0000",
-      "date": "Fri, 21 Aug 2026 00:23:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://tako-research.github.io/TakoVM/\nComments URL: https://news.ycombinator.com/item?id=49382104\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49382104"
-    },
-    {
-      "title": "Show HN: ParqDB – Vector search in the browser from Parquet over HTTP\"",
-      "link": "https://search.parqdb.io/",
-      "pubDate": "Fri, 21 Aug 2026 00:13:39 +0000",
-      "date": "Fri, 21 Aug 2026 00:13:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://search.parqdb.io/\nComments URL: https://news.ycombinator.com/item?id=49382022\nPoints: 11\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49382022"
-    },
-    {
-      "title": "Show HN: CtrlTool – 132 free online tools for developers and everyday tasks",
-      "link": "https://ctrltool.wtf",
-      "pubDate": "Fri, 21 Aug 2026 00:02:27 +0000",
-      "date": "Fri, 21 Aug 2026 00:02:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN,\nI built CtrlTool because I kept needing small tools for random things and didn't want to install something or sign up for another website.\nIt currently has 132 tools for things like JSON, JWT, Base64, URLs, text, hashes, PDFs, SEO, converters, generators, and other everyday stuff.\nThe main thing I tried to focus on is making the tools fast and simple. For tools where it makes sense, everything runs locally in the browser so the data doesn't need to be uploaded to a server.\nIt's still ver",
-      "guid": "https://news.ycombinator.com/item?id=49381949"
     },
     {
       "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
@@ -213,17 +246,6 @@
       "guid": "39Gkb8DOroFaGfAFokBbtg"
     },
     {
-      "title": "Show HN: Icebug-format: immutable, interoperable graph standard",
-      "link": "https://github.com/Ladybug-Memory/icebug-format",
-      "pubDate": "Thu, 20 Aug 2026 23:57:45 +0000",
-      "date": "Thu, 20 Aug 2026 23:57:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Most graph analytics packages have a mutable graph implementation that uses a heap allocated vector to store the graph. It works for toy graphs. But if you're loading a billion edge graph using G.add_edge() it's going to take a while.\nWe don't need to invent new standards. Such interoperable, immutable memory standards already exist: Apache Arrow and Compressed Sparse Rows (CSR). CSR is widely used in scipy, cugraph and columnar graph databases among others. Both on CPUs and GPUs.\nicebug-format ",
-      "guid": "https://news.ycombinator.com/item?id=49381909"
-    },
-    {
       "title": "ChatGPT search now uses the site:operator at scale",
       "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
       "pubDate": "2026-08-20T23:57:32.000Z",
@@ -233,17 +255,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
-    },
-    {
-      "title": "Show HN: Mail client optimized for self-hosted email across multiple domains",
-      "link": "https://mainly.crnst8.com/",
-      "pubDate": "Thu, 20 Aug 2026 23:47:46 +0000",
-      "date": "Thu, 20 Aug 2026 23:47:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "As someone with a clean IP range and ADHD, I manage my inbox by splitting across a variety of accounts for a variety of domains. I’ve never really found a client that scratches all my itches, so I spent some time making one and it’s now become my daily driver.\nIt’s optimised to be visually simple and highly configurable for things like colour, folders/subfolders, sorting and tweaking the search query function to better match what you search for often. There’s also some little nice-to-haves like ",
-      "guid": "https://news.ycombinator.com/item?id=49381846"
     },
     {
       "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
