@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-08-22T00:43:00.887Z",
+  "generatedAt": "2026-08-22T06:23:52.099Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 27,
   "items": [
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "2026-08-22T06:23:49.758Z",
+      "date": "2026-08-22T06:23:49.758Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n \n \nMoneyPrinterTurbo 💸\n \n \n一站式 AI 短视频生成工具\n \n \n只需提供视频主题或关键词，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n \n \n   \n \n \n \n \n \n简体中文 | English | 日本語 | 版本发布 | 问题反馈\n \n \n界面预览 🖥️\n \nWebUI\n \n\n \nAPI\n \n\n \n \n特别感谢 ❤️\n \n \n  \n \n感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准",
+      "guid": "https://github.com/harry0703/MoneyPrinterTurbo"
+    },
+    {
+      "title": "PostHog/posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "pubDate": "2026-08-22T06:23:49.758Z",
+      "date": "2026-08-22T06:23:49.758Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\nhttps://posthog.com\n\n  \n \n        \n \n Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports \n \n    \n \nPostHog is the open source platform for build",
+      "guid": "https://github.com/PostHog/posthog"
+    },
+    {
+      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
+      "link": "https://krishna-modi12.github.io/frontend-design-pro/",
+      "pubDate": "Sat, 22 Aug 2026 05:52:19 +0000",
+      "date": "Sat, 22 Aug 2026 05:52:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://krishna-modi12.github.io/frontend-design-pro/\nComments URL: https://news.ycombinator.com/item?id=49396937\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49396937"
+    },
+    {
+      "title": "Show HN: ScreenshotM8 – Full Page Screenshot Tool",
+      "link": "https://chromewebstore.google.com/detail/screenshotm8-screenshot-t/ocmjnpmhpndnpmgipknfbhcjdgokgiml",
+      "pubDate": "Sat, 22 Aug 2026 05:34:00 +0000",
+      "date": "Sat, 22 Aug 2026 05:34:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/screenshotm8-screenshot-t/ocmjnpmhpndnpmgipknfbhcjdgokgiml\nComments URL: https://news.ycombinator.com/item?id=49396853\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49396853"
+    },
+    {
+      "title": "Show HN: Is-agentic – Score how agentic your product and site is",
+      "link": "https://is-agentic.com",
+      "pubDate": "Sat, 22 Aug 2026 05:32:38 +0000",
+      "date": "Sat, 22 Aug 2026 05:32:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://is-agentic.com\nComments URL: https://news.ycombinator.com/item?id=49396845\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49396845"
+    },
+    {
+      "title": "Show HN: Blitz – Process management CLI that doesn't suck",
+      "link": "https://github.com/hunzo1/Blitz",
+      "pubDate": "Sat, 22 Aug 2026 05:20:59 +0000",
+      "date": "Sat, 22 Aug 2026 05:20:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/hunzo1/Blitz\nComments URL: https://news.ycombinator.com/item?id=49396790\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49396790"
+    },
+    {
+      "title": "Show HN: A fruit fly on the web powered by the real FlyWire connectome",
+      "link": "https://github.com/DustinBrett/daedalOS",
+      "pubDate": "Sat, 22 Aug 2026 03:27:54 +0000",
+      "date": "Sat, 22 Aug 2026 03:27:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I did a port of https://github.com/DenisSergeevitch/desktop-fly for my web desktop environment daedalOS: https://github.com/DustinBrett/daedalOS#desktopfly\nYou can go to https://dustinbrett.com/?app=terminal and type \"fly\" to spawn one, or many.\nI also took the raw FlyWire data and increased the neuron count to 1,275.\nComments URL: https://news.ycombinator.com/item?id=49396322\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49396322"
+    },
+    {
+      "title": "Show HN: I let an subagent workflow refactor my codebase for three days",
+      "link": "https://github.com/ringlochid/oh-my-subagents",
+      "pubDate": "Sat, 22 Aug 2026 02:33:27 +0000",
+      "date": "Sat, 22 Aug 2026 02:33:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49396071\nPoints: 6\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49396071"
+    },
+    {
+      "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
+      "link": "https://www.anjadhe.com/demo",
+      "pubDate": "Sat, 22 Aug 2026 02:12:01 +0000",
+      "date": "Sat, 22 Aug 2026 02:12:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a personal AI assistant for macOS. The main idea is simple: A macOS app where AI does the job of a personal assistant for the user. Not a chat only app where user needs to dig through chats to understand today’s schedule or a project they planned with the ai last week, but a canvas where the user and AI work together around basic tools.\nI started building this as DYI tool for myself, but at this point I see that its tru",
+      "guid": "https://news.ycombinator.com/item?id=49395936"
+    },
+    {
+      "title": "Show HN: ServerKit - Self-hosted control panel for apps, Docker, and databases",
+      "link": "https://github.com/jhd3197/ServerKit",
+      "pubDate": "Sat, 22 Aug 2026 02:08:01 +0000",
+      "date": "Sat, 22 Aug 2026 02:08:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/jhd3197/ServerKit\nComments URL: https://news.ycombinator.com/item?id=49395914\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395914"
+    },
+    {
+      "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
+      "link": "https://github.com/ArihantDeva/heimdall",
+      "pubDate": "Sat, 22 Aug 2026 02:02:14 +0000",
+      "date": "Sat, 22 Aug 2026 02:02:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ArihantDeva/heimdall\nComments URL: https://news.ycombinator.com/item?id=49395883\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395883"
+    },
+    {
+      "title": "Show HN: Plethora – Social platform and SDK around games and interactive content",
+      "link": "https://plethora.studio/",
+      "pubDate": "Sat, 22 Aug 2026 01:29:48 +0000",
+      "date": "Sat, 22 Aug 2026 01:29:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://plethora.studio/\nComments URL: https://news.ycombinator.com/item?id=49395717\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49395717"
+    },
+    {
+      "title": "Show HN: Driftless – your Postgres, provably in sync with Stripe",
+      "link": "https://github.com/quyumkehinde/driftless",
+      "pubDate": "Sat, 22 Aug 2026 01:16:44 +0000",
+      "date": "Sat, 22 Aug 2026 01:16:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/quyumkehinde/driftless\nComments URL: https://news.ycombinator.com/item?id=49395657\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395657"
+    },
+    {
+      "title": "Show HN: Flight Ledger – Track your flights, what they cost, and United status",
+      "link": "https://app.flightledger.net",
+      "pubDate": "Sat, 22 Aug 2026 01:08:58 +0000",
+      "date": "Sat, 22 Aug 2026 01:08:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello HN,\nFlight Ledger is a private ledger of your flights, focused on (but not limited to) the United Airlines ecosystem. I am a physicist who has been based near two United hubs, first SFO and now IAH, and I fly United a lot, mostly for work.\nI built this app to track my flights, flight expenses, and Premier status qualification without having to log into various accounts. All the imports (such as MileagePlus activity csv, .eml receipts, or Flighty/myFlightRadar24 exports) and data filling ar",
+      "guid": "https://news.ycombinator.com/item?id=49395637"
+    },
+    {
+      "title": "Show HN: Pricefight – a website leaderboard where everyone starts at the bottom",
+      "link": "https://pricefight.lol/",
+      "pubDate": "Sat, 22 Aug 2026 00:54:01 +0000",
+      "date": "Sat, 22 Aug 2026 00:54:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://pricefight.lol/\nComments URL: https://news.ycombinator.com/item?id=49395555\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395555"
+    },
+    {
+      "title": "Show HN: Updating my wedding registry website with AI in 275 commits",
+      "link": "https://benhoyt.com/writings/updating-gifty-with-ai/",
+      "pubDate": "Sat, 22 Aug 2026 00:25:24 +0000",
+      "date": "Sat, 22 Aug 2026 00:25:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://benhoyt.com/writings/updating-gifty-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49395371\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395371"
+    },
     {
       "title": "Show HN: AI driven civic dashboard for Palo Alto",
       "link": "https://paloaltocivic.com",
@@ -22,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028\nComments URL: https://news.ycombinator.com/item?id=49395297\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028\nComments URL: https://news.ycombinator.com/item?id=49395297\nPoints: 4\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49395297"
     },
     {
@@ -44,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performance enhancing utilities to reach 2K 240fps on capable hardware to ensure you have a smooth experience.\nComments URL: https://news.ycombinator.com/item?id=49394933\nPoints: 3\n# Comments: 2",
+      "contentSnippet": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performance enhancing utilities to reach 2K 240fps on capable hardware to ensure you have a smooth experience.\nComments URL: https://news.ycombinator.com/item?id=49394933\nPoints: 3\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=49394933"
     },
     {
@@ -68,160 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.\nA lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work.\nWhat I built Oz",
       "guid": "https://news.ycombinator.com/item?id=49394827"
-    },
-    {
-      "title": "Show HN: Python Debug Terminal for VSCode",
-      "link": "https://marketplace.visualstudio.com/items?itemName=ernestofgonzalez.vscode-py-debug-terminal",
-      "pubDate": "Fri, 21 Aug 2026 22:27:39 +0000",
-      "date": "Fri, 21 Aug 2026 22:27:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://marketplace.visualstudio.com/items?itemName=ernestofgonzalez.vscode-py-debug-terminal\nComments URL: https://news.ycombinator.com/item?id=49394483\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49394483"
-    },
-    {
-      "title": "Show HN: Field Guide to SF Slang",
-      "link": "https://sfisms.org/",
-      "pubDate": "Fri, 21 Aug 2026 22:19:45 +0000",
-      "date": "Fri, 21 Aug 2026 22:19:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A friend of mine just moved to San Francisco and was completely lost in our vocab.\nSo I built this for her and everyone like her: sfisms.org\nThe field guide to SF vernacular.\nGot an ism? Pitch it and an agent adds it after expert review by our panel :)\nComments URL: https://news.ycombinator.com/item?id=49394412\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49394412"
-    },
-    {
-      "title": "Show HN: A collection of websites built on .lol",
-      "link": "https://upon.lol/",
-      "pubDate": "Fri, 21 Aug 2026 22:10:38 +0000",
-      "date": "Fri, 21 Aug 2026 22:10:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://upon.lol/\nComments URL: https://news.ycombinator.com/item?id=49394328\nPoints: 1\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49394328"
-    },
-    {
-      "title": "Show HN: Front Page of the Internet",
-      "link": "https://frontpageoftheinternet.lol/",
-      "pubDate": "Fri, 21 Aug 2026 22:06:04 +0000",
-      "date": "Fri, 21 Aug 2026 22:06:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "you can buy the front page of the internet and stay there, while you use it for AI SEO, until someone out bids you and now they are on the front page of the internet, bid now just for a dollar\nComments URL: https://news.ycombinator.com/item?id=49394299\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49394299"
-    },
-    {
-      "title": "Show HN: Flowtube – Distraction Free YouTube",
-      "link": "https://chromewebstore.google.com/detail/flowtube-â-distraction-fr/cppgodeleiojlickmcgobbcdfpjifhdf",
-      "pubDate": "Fri, 21 Aug 2026 22:02:53 +0000",
-      "date": "Fri, 21 Aug 2026 22:02:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/flowtube-â-distraction-fr/cppgodeleiojlickmcgobbcdfpjifhdf\nComments URL: https://news.ycombinator.com/item?id=49394266\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49394266"
-    },
-    {
-      "title": "Show HN: Groovebox – self-hosted music library integrated with Discogs and Tidal",
-      "link": "https://github.com/danielfalbo/groovebox/",
-      "pubDate": "Fri, 21 Aug 2026 20:37:44 +0000",
-      "date": "Fri, 21 Aug 2026 20:37:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/danielfalbo/groovebox/\nComments URL: https://news.ycombinator.com/item?id=49393483\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49393483"
-    },
-    {
-      "title": "Show HN: Zroar – Serialized Roaring Bitmaps in Zig",
-      "link": "https://github.com/manishrjain/zroar",
-      "pubDate": "Fri, 21 Aug 2026 20:18:22 +0000",
-      "date": "Fri, 21 Aug 2026 20:18:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "zroar is a ground-up implementation of Roaring Bitmaps data structure in Zig. zroar stores both the keys and (array, bitmap) containers in a single flat byte buffer, making the in-memory representation equal to the on-disk or over-the-network representation, eliminating the serialization/deserialization step entirely.\nThe design was originally aimed at systems which keep their posting lists on disk, but zroar performs faster than CRoaring even for purely in-memory ops, due to CPU cache locality.",
-      "guid": "https://news.ycombinator.com/item?id=49393285"
-    },
-    {
-      "title": "Show HN: Fast_trimul – Fused Triangle Multiplicative Updates in Python",
-      "link": "https://github.com/tiagomonteiro0715/fast_trimul",
-      "pubDate": "Fri, 21 Aug 2026 20:04:20 +0000",
-      "date": "Fri, 21 Aug 2026 20:04:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/tiagomonteiro0715/fast_trimul\nComments URL: https://news.ycombinator.com/item?id=49393166\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49393166"
-    },
-    {
-      "title": "Show HN: secret_share - simple CLI to share secrets with PKE",
-      "link": "https://github.com/scosman/secret_share",
-      "pubDate": "Fri, 21 Aug 2026 19:46:35 +0000",
-      "date": "Fri, 21 Aug 2026 19:46:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/scosman/secret_share\nComments URL: https://news.ycombinator.com/item?id=49392982\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49392982"
-    },
-    {
-      "title": "Show HN: Ambient Drone Synth URL Preset Encoding",
-      "link": "https://akindoflikeness.net/instruments/phyllotaxis/",
-      "pubDate": "Fri, 21 Aug 2026 19:40:50 +0000",
-      "date": "Fri, 21 Aug 2026 19:40:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://akindoflikeness.net/instruments/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49392928\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49392928"
-    },
-    {
-      "title": "Show HN: CSVtoTable – turn a CSV/XLSX into one self-contained HTML file",
-      "link": "https://github.com/vividvilla/csvtotable",
-      "pubDate": "Fri, 21 Aug 2026 18:53:01 +0000",
-      "date": "Fri, 21 Aug 2026 18:53:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/vividvilla/csvtotable\nComments URL: https://news.ycombinator.com/item?id=49392389\nPoints: 5\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49392389"
-    },
-    {
-      "title": "Show HN: Outbid.lol but for X and LN Profiles",
-      "link": "https://founderboard.lol",
-      "pubDate": "Fri, 21 Aug 2026 18:26:48 +0000",
-      "date": "Fri, 21 Aug 2026 18:26:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built a public board of X and LinkedIn profiles. $1 gets you on it. Highest bid sits at #1. You can list yours or anyone else's.\nComments URL: https://news.ycombinator.com/item?id=49392074\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49392074"
-    },
-    {
-      "title": "Show HN: Lore – build and monetize personal context",
-      "link": "https://github.com/dipakkrishnan/lore-mcp",
-      "pubDate": "Fri, 21 Aug 2026 18:25:23 +0000",
-      "date": "Fri, 21 Aug 2026 18:25:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Personal context will have its own market. Large-scale market research and simulation (and more) require context that isn't available on the Internet. Lore allows you to take what your agent knows about you, augment it with your files / dictations and sell it at a price you set. You control what memories stay private and what becomes available to buyers. This is the first step towards a personal context market, focused on the seller experience today, and powered by personal agent  human interact",
-      "guid": "https://news.ycombinator.com/item?id=49392057"
-    },
-    {
-      "title": "Show HN: Traccia - Observability, Runtime Control &amp; Audit for agents",
-      "link": "https://traccia.ai/",
-      "pubDate": "Fri, 21 Aug 2026 18:20:16 +0000",
-      "date": "Fri, 21 Aug 2026 18:20:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "AI applications are becoming agents, which has started to take autonomous decisions. There are plenty of tools and platform available to trace, and observe what an agent or llms calls does. They are good in what they do, but tracing and observability isnt enough for AI agents era. We need a solution that can help you observe, evaluate, create run time policies to govern and finally audit the actions of the agent. We built Traccia to solve this problem. The good part, all of these can be achieved",
-      "guid": "https://news.ycombinator.com/item?id=49391995"
     },
     {
       "title": "2026.34: App Snore",
@@ -255,6 +277,17 @@
       "icon": "🚀",
       "contentSnippet": "Cancer Vaccine, Attention, Generalist Robot, Routers, Drones + Extra Doses + HBD Puj!",
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-207"
+    },
+    {
+      "title": "Chronic Absenteeism: How to Get Kids Back in School",
+      "link": "https://www.coolcatteacher.com/e974/",
+      "pubDate": "Fri, 21 Aug 2026 11:00:00 +0000",
+      "date": "Fri, 21 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNiles Middle School reduced suspensions by 32% and raised attendance — not by relaxing standards, but by asking why students were absent and connecting each one to an adult who was glad to see them. Dr. Leah Marsh explains how.\nThe post Chronic Absenteeism: How to Get Kids Back in School appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcat",
+      "guid": "https://www.coolcatteacher.com/?p=35246"
     },
     {
       "title": "When AI designs a drug, who gets the credit?",
