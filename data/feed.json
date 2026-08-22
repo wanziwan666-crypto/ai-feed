@@ -1,84 +1,227 @@
 {
-  "generatedAt": "2026-08-21T18:24:00.290Z",
+  "generatedAt": "2026-08-22T00:43:00.887Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 24,
   "items": [
     {
-      "title": "Show HN: Declarative-forms – await an object the way prompt() awaits a string",
-      "link": "https://wolfoo2931.github.io/declarative-forms/",
-      "pubDate": "Fri, 21 Aug 2026 17:40:07 +0000",
-      "date": "Fri, 21 Aug 2026 17:40:07 +0000",
+      "title": "Show HN: AI driven civic dashboard for Palo Alto",
+      "link": "https://paloaltocivic.com",
+      "pubDate": "Sat, 22 Aug 2026 00:17:45 +0000",
+      "date": "Sat, 22 Aug 2026 00:17:45 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://wolfoo2931.github.io/declarative-forms/\nComments URL: https://news.ycombinator.com/item?id=49391469\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49391469"
+      "contentSnippet": "Article URL: https://paloaltocivic.com\nComments URL: https://news.ycombinator.com/item?id=49395316\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395316"
     },
     {
-      "title": "Show HN: All your saved articles in one place",
-      "link": "https://www.topicsapp.net",
-      "pubDate": "Fri, 21 Aug 2026 17:31:00 +0000",
-      "date": "Fri, 21 Aug 2026 17:31:00 +0000",
+      "title": "Show HN: EchoVault, an app that interviews you and answers as you after death",
+      "link": "https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028",
+      "pubDate": "Sat, 22 Aug 2026 00:14:49 +0000",
+      "date": "Sat, 22 Aug 2026 00:14:49 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN.\nI would love to show you beta preview of Topics.\nArticles on the internet are organized by source (publications, social media, personal websites), by recency, or by position in search.\nI believe it’s nicer for the reader if articles are organized by Topics.\nTopics solve problem of decision fatigue, omnipresent AI slop, and people stopping to trust writing on internet and stopping to read.\nI'm grateful for any feedback you might have.\nTOpics app is launching soon.\nX: @topics_official.\nComm",
-      "guid": "https://news.ycombinator.com/item?id=49391352"
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028\nComments URL: https://news.ycombinator.com/item?id=49395297\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395297"
     },
     {
-      "title": "Show HN: Daileon",
-      "link": "https://github.com/ricardoborges/Daileon",
-      "pubDate": "Fri, 21 Aug 2026 17:21:04 +0000",
-      "date": "Fri, 21 Aug 2026 17:21:04 +0000",
+      "title": "Show HN: TUI to attribute experiment slowdown to shared-server congestion",
+      "link": "https://lennart-rth.github.io/server-spy/",
+      "pubDate": "Fri, 21 Aug 2026 23:56:31 +0000",
+      "date": "Fri, 21 Aug 2026 23:56:31 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ricardoborges/Daileon\nComments URL: https://news.ycombinator.com/item?id=49391200\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49391200"
+      "contentSnippet": "Article URL: https://lennart-rth.github.io/server-spy/\nComments URL: https://news.ycombinator.com/item?id=49395189\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49395189"
     },
     {
-      "title": "Show HN: Rotation via Double Reflection",
-      "link": "https://static.laszlokorte.de/rotor-reflect/",
-      "pubDate": "Fri, 21 Aug 2026 17:18:06 +0000",
-      "date": "Fri, 21 Aug 2026 17:18:06 +0000",
+      "title": "Show HN: Kinodesk – Unlimited Remote Desktop Sharing",
+      "link": "https://kinodesk.net/",
+      "pubDate": "Fri, 21 Aug 2026 23:20:53 +0000",
+      "date": "Fri, 21 Aug 2026 23:20:53 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "While studying Geometric Algebra I have built some interactive visualization to demonstrate how geometric transformations (rotation, scaling, translation) can be constructed by just composing reflections.\nAccepting reflection as the most elementary geometric operation was an eye opening moment for me. I think some of you might enjoy the interactive visuals.\nComments URL: https://news.ycombinator.com/item?id=49391168\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49391168"
+      "contentSnippet": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performance enhancing utilities to reach 2K 240fps on capable hardware to ensure you have a smooth experience.\nComments URL: https://news.ycombinator.com/item?id=49394933\nPoints: 3\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49394933"
     },
     {
-      "title": "Show HN: Circuit Breaker – Score Pull Requests",
-      "link": "https://github.com/glassrun/circuit-breaker",
-      "pubDate": "Fri, 21 Aug 2026 17:16:11 +0000",
-      "date": "Fri, 21 Aug 2026 17:16:11 +0000",
+      "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
+      "link": "https://www.chickenbutt.dev/",
+      "pubDate": "Fri, 21 Aug 2026 23:12:23 +0000",
+      "date": "Fri, 21 Aug 2026 23:12:23 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Creation-time PR risk triage GitHub Action, based on Minh et al. MSR '26 (arXiv:2601.00753)\nComments URL: https://news.ycombinator.com/item?id=49391133\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49391133"
+      "contentSnippet": "What's up, ChickenButt?\nI made a free, native GTK client called ChickenButt. :)\nIt lets you chat with local models through Ollama, and I figured some of you might get a kick out of it.\nHere's the repo: https://github.com/pixelhackstudios/ChickenButt\nI've always hated reading long text in the terminal, and I couldn't find anything that ran locally that allowed me to get quick answers from LLMs when I needed them.\nAlso, not everyone has access to the frontier models and whatnot, so I thought helpi",
+      "guid": "https://news.ycombinator.com/item?id=49394859"
     },
     {
-      "title": "Show HN: Visual way to understand things in parallel",
-      "link": "https://wondering.app/canvas",
-      "pubDate": "Fri, 21 Aug 2026 17:06:20 +0000",
-      "date": "Fri, 21 Aug 2026 17:06:20 +0000",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "link": "https://ozbrain.com",
+      "pubDate": "Fri, 21 Aug 2026 23:09:06 +0000",
+      "date": "Fri, 21 Aug 2026 23:09:06 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey HN!\nReally excited to be showing what I think is a better way to understand complex topics with AI.\nYou start a chat with your question, and whenever you want to clarify something or understand some jargon, you can branch out a new chat from that thread.\nThe cool unlock is being able to see all related chat threads in the same context without tab switching, for e.g. I can first dive into understanding world models, then spin a new chat thread on who the key players are in there, and another ",
-      "guid": "https://news.ycombinator.com/item?id=49391007"
+      "contentSnippet": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.\nA lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work.\nWhat I built Oz",
+      "guid": "https://news.ycombinator.com/item?id=49394827"
     },
     {
-      "title": "Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
-      "link": "https://skimmiq.com/pt/",
-      "pubDate": "Fri, 21 Aug 2026 17:05:47 +0000",
-      "date": "Fri, 21 Aug 2026 17:05:47 +0000",
+      "title": "Show HN: Python Debug Terminal for VSCode",
+      "link": "https://marketplace.visualstudio.com/items?itemName=ernestofgonzalez.vscode-py-debug-terminal",
+      "pubDate": "Fri, 21 Aug 2026 22:27:39 +0000",
+      "date": "Fri, 21 Aug 2026 22:27:39 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://skimmiq.com/pt/\nComments URL: https://news.ycombinator.com/item?id=49390993\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49390993"
+      "contentSnippet": "Article URL: https://marketplace.visualstudio.com/items?itemName=ernestofgonzalez.vscode-py-debug-terminal\nComments URL: https://news.ycombinator.com/item?id=49394483\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49394483"
+    },
+    {
+      "title": "Show HN: Field Guide to SF Slang",
+      "link": "https://sfisms.org/",
+      "pubDate": "Fri, 21 Aug 2026 22:19:45 +0000",
+      "date": "Fri, 21 Aug 2026 22:19:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A friend of mine just moved to San Francisco and was completely lost in our vocab.\nSo I built this for her and everyone like her: sfisms.org\nThe field guide to SF vernacular.\nGot an ism? Pitch it and an agent adds it after expert review by our panel :)\nComments URL: https://news.ycombinator.com/item?id=49394412\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49394412"
+    },
+    {
+      "title": "Show HN: A collection of websites built on .lol",
+      "link": "https://upon.lol/",
+      "pubDate": "Fri, 21 Aug 2026 22:10:38 +0000",
+      "date": "Fri, 21 Aug 2026 22:10:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://upon.lol/\nComments URL: https://news.ycombinator.com/item?id=49394328\nPoints: 1\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49394328"
+    },
+    {
+      "title": "Show HN: Front Page of the Internet",
+      "link": "https://frontpageoftheinternet.lol/",
+      "pubDate": "Fri, 21 Aug 2026 22:06:04 +0000",
+      "date": "Fri, 21 Aug 2026 22:06:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "you can buy the front page of the internet and stay there, while you use it for AI SEO, until someone out bids you and now they are on the front page of the internet, bid now just for a dollar\nComments URL: https://news.ycombinator.com/item?id=49394299\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49394299"
+    },
+    {
+      "title": "Show HN: Flowtube – Distraction Free YouTube",
+      "link": "https://chromewebstore.google.com/detail/flowtube-â-distraction-fr/cppgodeleiojlickmcgobbcdfpjifhdf",
+      "pubDate": "Fri, 21 Aug 2026 22:02:53 +0000",
+      "date": "Fri, 21 Aug 2026 22:02:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/flowtube-â-distraction-fr/cppgodeleiojlickmcgobbcdfpjifhdf\nComments URL: https://news.ycombinator.com/item?id=49394266\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49394266"
+    },
+    {
+      "title": "Show HN: Groovebox – self-hosted music library integrated with Discogs and Tidal",
+      "link": "https://github.com/danielfalbo/groovebox/",
+      "pubDate": "Fri, 21 Aug 2026 20:37:44 +0000",
+      "date": "Fri, 21 Aug 2026 20:37:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/danielfalbo/groovebox/\nComments URL: https://news.ycombinator.com/item?id=49393483\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49393483"
+    },
+    {
+      "title": "Show HN: Zroar – Serialized Roaring Bitmaps in Zig",
+      "link": "https://github.com/manishrjain/zroar",
+      "pubDate": "Fri, 21 Aug 2026 20:18:22 +0000",
+      "date": "Fri, 21 Aug 2026 20:18:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "zroar is a ground-up implementation of Roaring Bitmaps data structure in Zig. zroar stores both the keys and (array, bitmap) containers in a single flat byte buffer, making the in-memory representation equal to the on-disk or over-the-network representation, eliminating the serialization/deserialization step entirely.\nThe design was originally aimed at systems which keep their posting lists on disk, but zroar performs faster than CRoaring even for purely in-memory ops, due to CPU cache locality.",
+      "guid": "https://news.ycombinator.com/item?id=49393285"
+    },
+    {
+      "title": "Show HN: Fast_trimul – Fused Triangle Multiplicative Updates in Python",
+      "link": "https://github.com/tiagomonteiro0715/fast_trimul",
+      "pubDate": "Fri, 21 Aug 2026 20:04:20 +0000",
+      "date": "Fri, 21 Aug 2026 20:04:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/tiagomonteiro0715/fast_trimul\nComments URL: https://news.ycombinator.com/item?id=49393166\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49393166"
+    },
+    {
+      "title": "Show HN: secret_share - simple CLI to share secrets with PKE",
+      "link": "https://github.com/scosman/secret_share",
+      "pubDate": "Fri, 21 Aug 2026 19:46:35 +0000",
+      "date": "Fri, 21 Aug 2026 19:46:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/scosman/secret_share\nComments URL: https://news.ycombinator.com/item?id=49392982\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49392982"
+    },
+    {
+      "title": "Show HN: Ambient Drone Synth URL Preset Encoding",
+      "link": "https://akindoflikeness.net/instruments/phyllotaxis/",
+      "pubDate": "Fri, 21 Aug 2026 19:40:50 +0000",
+      "date": "Fri, 21 Aug 2026 19:40:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://akindoflikeness.net/instruments/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49392928\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49392928"
+    },
+    {
+      "title": "Show HN: CSVtoTable – turn a CSV/XLSX into one self-contained HTML file",
+      "link": "https://github.com/vividvilla/csvtotable",
+      "pubDate": "Fri, 21 Aug 2026 18:53:01 +0000",
+      "date": "Fri, 21 Aug 2026 18:53:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/vividvilla/csvtotable\nComments URL: https://news.ycombinator.com/item?id=49392389\nPoints: 5\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49392389"
+    },
+    {
+      "title": "Show HN: Outbid.lol but for X and LN Profiles",
+      "link": "https://founderboard.lol",
+      "pubDate": "Fri, 21 Aug 2026 18:26:48 +0000",
+      "date": "Fri, 21 Aug 2026 18:26:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built a public board of X and LinkedIn profiles. $1 gets you on it. Highest bid sits at #1. You can list yours or anyone else's.\nComments URL: https://news.ycombinator.com/item?id=49392074\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49392074"
+    },
+    {
+      "title": "Show HN: Lore – build and monetize personal context",
+      "link": "https://github.com/dipakkrishnan/lore-mcp",
+      "pubDate": "Fri, 21 Aug 2026 18:25:23 +0000",
+      "date": "Fri, 21 Aug 2026 18:25:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Personal context will have its own market. Large-scale market research and simulation (and more) require context that isn't available on the Internet. Lore allows you to take what your agent knows about you, augment it with your files / dictations and sell it at a price you set. You control what memories stay private and what becomes available to buyers. This is the first step towards a personal context market, focused on the seller experience today, and powered by personal agent  human interact",
+      "guid": "https://news.ycombinator.com/item?id=49392057"
+    },
+    {
+      "title": "Show HN: Traccia - Observability, Runtime Control &amp; Audit for agents",
+      "link": "https://traccia.ai/",
+      "pubDate": "Fri, 21 Aug 2026 18:20:16 +0000",
+      "date": "Fri, 21 Aug 2026 18:20:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "AI applications are becoming agents, which has started to take autonomous decisions. There are plenty of tools and platform available to trace, and observe what an agent or llms calls does. They are good in what they do, but tracing and observability isnt enough for AI agents era. We need a solution that can help you observe, evaluate, create run time policies to govern and finally audit the actions of the agent. We built Traccia to solve this problem. The good part, all of these can be achieved",
+      "guid": "https://news.ycombinator.com/item?id=49391995"
     },
     {
       "title": "2026.34: App Snore",
@@ -92,17 +235,6 @@
       "guid": "https://stratechery.com/?p=19749"
     },
     {
-      "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-      "link": "https://github.com/proliferate-ai/proliferate",
-      "pubDate": "Fri, 21 Aug 2026 16:47:15 +0000",
-      "date": "Fri, 21 Aug 2026 16:47:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN- I'm Pablo, the founder of Proliferate!\nProliferate (https://github.com/proliferate-ai/proliferate) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one place.\nHere's a quick 2m demo of how we use Proliferate to build Proliferate: https://www.youtube.com/watch?v=tGNX0oaWmBY\nI started building Proliferate after my team onboarded to OpenAI Codex. Within days, we were using it for everything: using computer us",
-      "guid": "https://news.ycombinator.com/item?id=49390739"
-    },
-    {
       "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
       "link": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
       "pubDate": "Fri, 21 Aug 2026 16:33:56 GMT",
@@ -112,138 +244,6 @@
       "icon": "📰",
       "contentSnippet": "When an agentic AI system hands a task from a small model to a larger one — or back down again — it pays a steep tax: the receiving model has to recompute the entire conversation from scratch, driving up compute costs and latency. This is a major bottleneck for enterprises building long-horizon, multi-LLM workflows.\nTo solve this challenge, researchers at Nvidia have introduced a cross-model KV cache transfer technique that directly maps the prefilled KV cache from a source model into the target",
       "guid": "7AqGcMB9hCd7buI4KLhDZV"
-    },
-    {
-      "title": "Show HN: Steganeur – Hide secret messages in LLM-generated text (Rust)",
-      "link": "https://github.com/marcsnid/steganeur",
-      "pubDate": "Fri, 21 Aug 2026 16:33:37 +0000",
-      "date": "Fri, 21 Aug 2026 16:33:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN! I made a project that I found really fun and I'm proud of the idea and implementation. This first came up when speaking to a friend, we were talking around how to do steganography in natural text, and realized an LLM's token choices are a natural channel.\nSteganeur accomplishes this by encoding a secret message into the token choices of a language model, producing cover text that reads like a normal sentence. A recipient recovers the message using only the cover text and the model. With t",
-      "guid": "https://news.ycombinator.com/item?id=49390543"
-    },
-    {
-      "title": "Show HN: eInk Optimized Manga with Kindle Comic Converter (+Kobo/KOreader)",
-      "link": "https://github.com/ciromattia/kcc",
-      "pubDate": "Fri, 21 Aug 2026 16:20:36 +0000",
-      "date": "Fri, 21 Aug 2026 16:20:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Kindle Comic Converter optimizes black & white (or color) comics and manga for E-ink ereaders like Kindle, Kobo, ReMarkable, and more. Pages display in fullscreen without margins, with proper fixed layout support. KCC runs on Windows, macOS, and Linux.\nKCC's main goal is maximum image quality at significantly smaller file size. For example, KCC\n1) can compress a 600 MB manga volume from Humble Bundle to 100 MB. This is mostly accomplished by downscaling to the native resolution of your specific ",
-      "guid": "https://news.ycombinator.com/item?id=49390363"
-    },
-    {
-      "title": "Show HN: Roastme.gg – Pay to get publicly roasted by AI",
-      "link": "https://roastme.gg",
-      "pubDate": "Fri, 21 Aug 2026 16:19:20 +0000",
-      "date": "Fri, 21 Aug 2026 16:19:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://roastme.gg\nComments URL: https://news.ycombinator.com/item?id=49390344\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49390344"
-    },
-    {
-      "title": "Show HN: Caspian – Talk to Human Tool for AI Agents",
-      "link": "https://github.com/TryCaspian/caspian-sdk",
-      "pubDate": "Fri, 21 Aug 2026 16:17:58 +0000",
-      "date": "Fri, 21 Aug 2026 16:17:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Sup HN! Dipanshu and Rushant here from Caspian. One is a functional programmer and the other has been deploying AI employees. Together we realized how agents have communication bottleneck.\nGiven the coming agentic economy, we had a thought experiment on what can be the key infrastructure for agents as they get better. Our inspiration for solving for communications infra came from our own time spent just setting up comms while we were deploying open claw for companies plus we noticed about 15%+ o",
-      "guid": "https://news.ycombinator.com/item?id=49390329"
-    },
-    {
-      "title": "Show HN: Mini DBA – monitoring for on prem and cloud databases in 1 place",
-      "link": "https://demo.minidba.com/kiosk-human-check?returnUrl=%2F",
-      "pubDate": "Fri, 21 Aug 2026 16:17:18 +0000",
-      "date": "Fri, 21 Aug 2026 16:17:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Mini DBA is a monitoring tool for SQL Server, PostgreSQL, MySQL, MariaDB and Oracle, including managed cloud databases on AWS and Azure.\nIt provides live activity, performance analysis, alerts and history with a tasteful amount of AI to help out. Free community edition.\nTry the live demo: https://demo.minidba.com/\nComments URL: https://news.ycombinator.com/item?id=49390319\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49390319"
-    },
-    {
-      "title": "Show HN: Whodunit? Solve a daily AI-written Mystery",
-      "link": "https://whodunit.rip",
-      "pubDate": "Fri, 21 Aug 2026 16:04:49 +0000",
-      "date": "Fri, 21 Aug 2026 16:04:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day.\nThe mysteries are all written by LLMs. Some are better than others, but most work nicely.\nThe web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE for content updates, and a turn-based game engine written as a Temporal workflow.\nCheck out the mystery gen write up for more info: https://blog.apartment304.com/whodunit-llm-murder-mysteries\nCommen",
-      "guid": "https://news.ycombinator.com/item?id=49390145"
-    },
-    {
-      "title": "Show HN: Gramola, a CoverFlow-style music dock for macOS",
-      "link": "https://apps.apple.com/us/app/gramola-music-dock/id6801078031?mt=12",
-      "pubDate": "Fri, 21 Aug 2026 15:52:56 +0000",
-      "date": "Fri, 21 Aug 2026 15:52:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I'm a 23yo solo dev from Spain with a passion for UI/UX and I built Gramola, a music dock for macOS that is there when you need it. No more opening a music app to change what you're listening to; just move your mouse to the edge of the screen, and all your music is there in a gorgeous CoverFlow style, or ready to be instantly searched.\nFully usable with a mouse, but also fully usable with keyboard, accessibility built in, and both Spotify and Apple Music support as well as local tracks via the M",
-      "guid": "https://news.ycombinator.com/item?id=49389972"
-    },
-    {
-      "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
-      "link": "https://www.pianoify.net/",
-      "pubDate": "Fri, 21 Aug 2026 15:44:40 +0000",
-      "date": "Fri, 21 Aug 2026 15:44:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "GPU powered models to convert any song to piano\nComments URL: https://news.ycombinator.com/item?id=49389846\nPoints: 5\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49389846"
-    },
-    {
-      "title": "Show HN: Telex Page – Turn secrets into AES 256 encrypted PDFs, locally",
-      "link": "https://telexpage.com/",
-      "pubDate": "Fri, 21 Aug 2026 15:42:46 +0000",
-      "date": "Fri, 21 Aug 2026 15:42:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey! Every time I had to send something confidential, like a password, secret, .env, etc, I ended up using some openssl enchantment. It worked, but it was annoying for the team and impossible for my family.\nPDF docs already support strong AES 256 encryption and open pretty much everywhere. The annoying part was creating a doc and then jumping into a cli just to encrypt it.\nSo I made telexpage.com. It runs 100% local in your browser and makes creating an encrypted PDF from a message as simple as ",
-      "guid": "https://news.ycombinator.com/item?id=49389816"
-    },
-    {
-      "title": "Show HN: Bounded GenAI metrics from Otel traces with O raw prompts",
-      "link": "https://github.com/llm-measurement/otelcol-genai-sketches",
-      "pubDate": "Fri, 21 Aug 2026 15:37:37 +0000",
-      "date": "Fri, 21 Aug 2026 15:37:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi friends,\nAuthor here. Like to present a project I've been working on - Otelcol-GenAI-Sketches, a Otel connector that works on genai/agent traces, and summarizes them (via sketches), to produce:\n() exact request counts/totals for tokens;\n() distinct users/prompts (estimates)\n(*) 'heavy' items in terms of tokens\nWhy does this exist: I'm a data scientist by profession, and needed to look at Otel traces, but soon ran into cardinality and portability issues, along with privacy issues (raw prompts ",
-      "guid": "https://news.ycombinator.com/item?id=49389744"
-    },
-    {
-      "title": "Show HN: ctx 1.0 - `git blame` but for agent sessions",
-      "link": "https://github.com/ctxrs/ctx/releases/tag/v1.0.0",
-      "pubDate": "Fri, 21 Aug 2026 15:30:44 +0000",
-      "date": "Fri, 21 Aug 2026 15:30:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ctxrs/ctx/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=49389641\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49389641"
-    },
-    {
-      "title": "Show HN: SteppeWM – a stacking IceWM-like Wayland compositor",
-      "link": "https://github.com/uncognic/steppewm",
-      "pubDate": "Fri, 21 Aug 2026 15:27:38 +0000",
-      "date": "Fri, 21 Aug 2026 15:27:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/uncognic/steppewm\nComments URL: https://news.ycombinator.com/item?id=49389593\nPoints: 7\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49389593"
     },
     {
       "title": "Weekly Dose of Optimism #207",
@@ -266,39 +266,6 @@
       "icon": "🔬",
       "contentSnippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
       "guid": "https://www.technologyreview.com/?p=1142627"
-    },
-    {
-      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
-      "link": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
-      "pubDate": "Fri, 21 Aug 2026 00:00:00 GMT",
-      "date": "Fri, 21 Aug 2026 00:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Slack wants to drag AI coding out of the terminal and into the group chat.\nThe Salesforce-owned messaging platform today announced Slack Code, a new product that embeds AI coding agents — including Anthropic's Claude Code, Cognition's Devin, GitHub Copilot, and Vercel's agent — directly into dedicated Slack channels where entire teams can watch, steer, review, and ship software together. Slack Code is available on any Slack plan at launch, though customers need their own access to the partner ag",
-      "guid": "39Gkb8DOroFaGfAFokBbtg"
-    },
-    {
-      "title": "ChatGPT search now uses the site:operator at scale",
-      "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-      "pubDate": "2026-08-20T23:57:32.000Z",
-      "date": "2026-08-20T23:57:32.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/"
-    },
-    {
-      "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
-      "link": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
-      "pubDate": "Thu, 20 Aug 2026 19:57:01 GMT",
-      "date": "Thu, 20 Aug 2026 19:57:01 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Enterprise AI teams have stopped betting on a single orchestration platform. The median enterprise now runs three at once — not by accident, but because none of them fully trusts a single vendor to run the show, according to VB Pulse data.\nThis is not just to avoid vendor lock-in and retain flexibility (although that’s a big part of it). There’s still a lot of uncertainty, even distrust, in vendors’ security and permissioning capabilities. Enterprises want the ability to impose their own. \nMicro",
-      "guid": "3G60cdbrg90TuhDORcVSnp"
     }
   ]
 }
