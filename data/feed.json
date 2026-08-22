@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-22T06:23:52.099Z",
+  "generatedAt": "2026-08-22T12:20:57.209Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 25,
   "items": [
     {
       "title": "harry0703/MoneyPrinterTurbo",
       "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-22T06:23:49.758Z",
-      "date": "2026-08-22T06:23:49.758Z",
+      "pubDate": "2026-08-22T12:20:54.644Z",
+      "date": "2026-08-22T12:20:54.644Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,189 @@
     {
       "title": "PostHog/posthog",
       "link": "https://github.com/PostHog/posthog",
-      "pubDate": "2026-08-22T06:23:49.758Z",
-      "date": "2026-08-22T06:23:49.758Z",
+      "pubDate": "2026-08-22T12:20:54.644Z",
+      "date": "2026-08-22T12:20:54.644Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\nhttps://posthog.com\n\n  \n \n        \n \n Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports \n \n    \n \nPostHog is the open source platform for build",
       "guid": "https://github.com/PostHog/posthog"
+    },
+    {
+      "title": "Show HN: Plainsay – 12 MB Mac dictation with local Whisper and Parakeet",
+      "link": "https://github.com/conrader/plainsay",
+      "pubDate": "Sat, 22 Aug 2026 11:24:35 +0000",
+      "date": "Sat, 22 Aug 2026 11:24:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/conrader/plainsay\nComments URL: https://news.ycombinator.com/item?id=49398595\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49398595"
+    },
+    {
+      "title": "Show HN: I ran Benjamin Graham's original checklist on all 503 S&amp;P 500 companies",
+      "link": "https://grahamwise.com",
+      "pubDate": "Sat, 22 Aug 2026 11:18:57 +0000",
+      "date": "Sat, 22 Aug 2026 11:18:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://grahamwise.com\nComments URL: https://news.ycombinator.com/item?id=49398566\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49398566"
+    },
+    {
+      "title": "Show HN: We killed templates and rebuilt presentations from scratch",
+      "link": "https://www.slaide.de",
+      "pubDate": "Sat, 22 Aug 2026 11:10:53 +0000",
+      "date": "Sat, 22 Aug 2026 11:10:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Slaide creates every page around the actual content, uses your files and brand, and exports to editable PowerPoint or Word.\nComments URL: https://news.ycombinator.com/item?id=49398511\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49398511"
+    },
+    {
+      "title": "Show HN: I built a tool for creating mock HTTP endpoints",
+      "link": "https://www.http-response.com/",
+      "pubDate": "Sat, 22 Aug 2026 10:01:14 +0000",
+      "date": "Sat, 22 Aug 2026 10:01:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I use it all the time for work related stuff (inspecting webhooks and mocking api responses). It works like webhook.site but also lets you generate fake data. It doesn't require an account so feel free to try it.\nhttps://www.http-response.com/\nComments URL: https://news.ycombinator.com/item?id=49398199\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49398199"
+    },
+    {
+      "title": "Show HN: Financialdata.net – Stock Market API with Python SDK and MCP Server",
+      "link": "https://financialdata.net/stock-market-api",
+      "pubDate": "Sat, 22 Aug 2026 08:34:25 +0000",
+      "date": "Sat, 22 Aug 2026 08:34:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://financialdata.net/stock-market-api\nComments URL: https://news.ycombinator.com/item?id=49397788\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397788"
+    },
+    {
+      "title": "Show HN: Best of Marketing, an interactive and ranked advertising index",
+      "link": "https://bestmarketingnewsletter.com/",
+      "pubDate": "Sat, 22 Aug 2026 08:19:18 +0000",
+      "date": "Sat, 22 Aug 2026 08:19:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bestmarketingnewsletter.com/\nComments URL: https://news.ycombinator.com/item?id=49397714\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397714"
+    },
+    {
+      "title": "Show HN: Agile AI Development Lifecycle",
+      "link": "https://valeriavg.dev/agile-ai-development-lifecycle",
+      "pubDate": "Sat, 22 Aug 2026 08:08:59 +0000",
+      "date": "Sat, 22 Aug 2026 08:08:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Schrödinger's AI-DLC Framework\nComments URL: https://news.ycombinator.com/item?id=49397671\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397671"
+    },
+    {
+      "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
+      "link": "https://learnleap.xyz",
+      "pubDate": "Sat, 22 Aug 2026 08:07:56 +0000",
+      "date": "Sat, 22 Aug 2026 08:07:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on your material and can create quizzes, flashcards, and exams to test your understanding.\nIt's still early and I'd love feedback from HN on the product and the learning experience. Cheers.\nComments URL: htt",
+      "guid": "https://news.ycombinator.com/item?id=49397663"
+    },
+    {
+      "title": "Show HN: Reverse-engineered a gaming mouse's HID protocol to bring it to Linux",
+      "link": "https://github.com/blak0p/attack-shark-linux",
+      "pubDate": "Sat, 22 Aug 2026 07:47:02 +0000",
+      "date": "Sat, 22 Aug 2026 07:47:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I’ve been reverse-engineering the HID protocol of an Attack Shark X6 gaming mouse (no official Linux support) using Ghidra and USB captures, and building a native Linux desktop app around it in Go + Wails, with a React frontend.\nThe protocol itself is fairly advanced. DPI, RGB lighting, polling rate and button remapping are all documented at the protocol level. The app currently only exposes DPI configuration though, the rest is reverse-engineered but not yet wired into the UI.\nOne piece is stil",
+      "guid": "https://news.ycombinator.com/item?id=49397560"
+    },
+    {
+      "title": "Show HN: PgExtAssure – pre-admission security evidence for PostgreSQL extensions",
+      "link": "https://github.com/borborich/pgextassure",
+      "pubDate": "Sat, 22 Aug 2026 07:28:39 +0000",
+      "date": "Sat, 22 Aug 2026 07:28:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/borborich/pgextassure\nComments URL: https://news.ycombinator.com/item?id=49397454\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397454"
+    },
+    {
+      "title": "Show HN: MiniMax H3 on a 16GB Mac, 5 days after open weights",
+      "link": "https://github.com/tgo-app-dev/vpipe",
+      "pubDate": "Sat, 22 Aug 2026 07:21:38 +0000",
+      "date": "Sat, 22 Aug 2026 07:21:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/tgo-app-dev/vpipe\nComments URL: https://news.ycombinator.com/item?id=49397410\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397410"
+    },
+    {
+      "title": "Show HN: I just want to show this song to you [video]",
+      "link": "https://www.youtube.com/shorts/D_oFnclpt0w",
+      "pubDate": "Sat, 22 Aug 2026 07:21:25 +0000",
+      "date": "Sat, 22 Aug 2026 07:21:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.youtube.com/shorts/D_oFnclpt0w\nComments URL: https://news.ycombinator.com/item?id=49397408\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397408"
+    },
+    {
+      "title": "Show HN: I reverse-engineered Bambu's 3MF color format so GLB keeps the colors",
+      "link": "https://github.com/SamiSalah221/3mf-to-glb",
+      "pubDate": "Sat, 22 Aug 2026 07:02:10 +0000",
+      "date": "Sat, 22 Aug 2026 07:02:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/SamiSalah221/3mf-to-glb\nComments URL: https://news.ycombinator.com/item?id=49397327\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49397327"
+    },
+    {
+      "title": "Show HN: Reachpad MCP – Share fullstack applications using MCP/CLI in minutes",
+      "link": "https://github.com/Reachpad/reachpad-mcp",
+      "pubDate": "Sat, 22 Aug 2026 07:02:07 +0000",
+      "date": "Sat, 22 Aug 2026 07:02:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Reachpad/reachpad-mcp\nComments URL: https://news.ycombinator.com/item?id=49397326\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397326"
+    },
+    {
+      "title": "Show HN: Snoreman – A Snore Detection App",
+      "link": "https://snoreman.com/",
+      "pubDate": "Sat, 22 Aug 2026 06:56:30 +0000",
+      "date": "Sat, 22 Aug 2026 06:56:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://snoreman.com/\nComments URL: https://news.ycombinator.com/item?id=49397296\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397296"
+    },
+    {
+      "title": "Show HN: A self-hosting compiler from an undergraduate mathematics course",
+      "link": "https://github.com/michael-lehn/not-abc",
+      "pubDate": "Sat, 22 Aug 2026 06:07:43 +0000",
+      "date": "Sat, 22 Aug 2026 06:07:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/michael-lehn/not-abc\nComments URL: https://news.ycombinator.com/item?id=49397021\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49397021"
     },
     {
       "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
@@ -33,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://krishna-modi12.github.io/frontend-design-pro/\nComments URL: https://news.ycombinator.com/item?id=49396937\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://krishna-modi12.github.io/frontend-design-pro/\nComments URL: https://news.ycombinator.com/item?id=49396937\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49396937"
     },
     {
@@ -70,182 +246,6 @@
       "guid": "https://news.ycombinator.com/item?id=49396790"
     },
     {
-      "title": "Show HN: A fruit fly on the web powered by the real FlyWire connectome",
-      "link": "https://github.com/DustinBrett/daedalOS",
-      "pubDate": "Sat, 22 Aug 2026 03:27:54 +0000",
-      "date": "Sat, 22 Aug 2026 03:27:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I did a port of https://github.com/DenisSergeevitch/desktop-fly for my web desktop environment daedalOS: https://github.com/DustinBrett/daedalOS#desktopfly\nYou can go to https://dustinbrett.com/?app=terminal and type \"fly\" to spawn one, or many.\nI also took the raw FlyWire data and increased the neuron count to 1,275.\nComments URL: https://news.ycombinator.com/item?id=49396322\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49396322"
-    },
-    {
-      "title": "Show HN: I let an subagent workflow refactor my codebase for three days",
-      "link": "https://github.com/ringlochid/oh-my-subagents",
-      "pubDate": "Sat, 22 Aug 2026 02:33:27 +0000",
-      "date": "Sat, 22 Aug 2026 02:33:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49396071\nPoints: 6\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49396071"
-    },
-    {
-      "title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
-      "link": "https://www.anjadhe.com/demo",
-      "pubDate": "Sat, 22 Aug 2026 02:12:01 +0000",
-      "date": "Sat, 22 Aug 2026 02:12:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a personal AI assistant for macOS. The main idea is simple: A macOS app where AI does the job of a personal assistant for the user. Not a chat only app where user needs to dig through chats to understand today’s schedule or a project they planned with the ai last week, but a canvas where the user and AI work together around basic tools.\nI started building this as DYI tool for myself, but at this point I see that its tru",
-      "guid": "https://news.ycombinator.com/item?id=49395936"
-    },
-    {
-      "title": "Show HN: ServerKit - Self-hosted control panel for apps, Docker, and databases",
-      "link": "https://github.com/jhd3197/ServerKit",
-      "pubDate": "Sat, 22 Aug 2026 02:08:01 +0000",
-      "date": "Sat, 22 Aug 2026 02:08:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/jhd3197/ServerKit\nComments URL: https://news.ycombinator.com/item?id=49395914\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49395914"
-    },
-    {
-      "title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
-      "link": "https://github.com/ArihantDeva/heimdall",
-      "pubDate": "Sat, 22 Aug 2026 02:02:14 +0000",
-      "date": "Sat, 22 Aug 2026 02:02:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ArihantDeva/heimdall\nComments URL: https://news.ycombinator.com/item?id=49395883\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49395883"
-    },
-    {
-      "title": "Show HN: Plethora – Social platform and SDK around games and interactive content",
-      "link": "https://plethora.studio/",
-      "pubDate": "Sat, 22 Aug 2026 01:29:48 +0000",
-      "date": "Sat, 22 Aug 2026 01:29:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://plethora.studio/\nComments URL: https://news.ycombinator.com/item?id=49395717\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49395717"
-    },
-    {
-      "title": "Show HN: Driftless – your Postgres, provably in sync with Stripe",
-      "link": "https://github.com/quyumkehinde/driftless",
-      "pubDate": "Sat, 22 Aug 2026 01:16:44 +0000",
-      "date": "Sat, 22 Aug 2026 01:16:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/quyumkehinde/driftless\nComments URL: https://news.ycombinator.com/item?id=49395657\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49395657"
-    },
-    {
-      "title": "Show HN: Flight Ledger – Track your flights, what they cost, and United status",
-      "link": "https://app.flightledger.net",
-      "pubDate": "Sat, 22 Aug 2026 01:08:58 +0000",
-      "date": "Sat, 22 Aug 2026 01:08:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello HN,\nFlight Ledger is a private ledger of your flights, focused on (but not limited to) the United Airlines ecosystem. I am a physicist who has been based near two United hubs, first SFO and now IAH, and I fly United a lot, mostly for work.\nI built this app to track my flights, flight expenses, and Premier status qualification without having to log into various accounts. All the imports (such as MileagePlus activity csv, .eml receipts, or Flighty/myFlightRadar24 exports) and data filling ar",
-      "guid": "https://news.ycombinator.com/item?id=49395637"
-    },
-    {
-      "title": "Show HN: Pricefight – a website leaderboard where everyone starts at the bottom",
-      "link": "https://pricefight.lol/",
-      "pubDate": "Sat, 22 Aug 2026 00:54:01 +0000",
-      "date": "Sat, 22 Aug 2026 00:54:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://pricefight.lol/\nComments URL: https://news.ycombinator.com/item?id=49395555\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49395555"
-    },
-    {
-      "title": "Show HN: Updating my wedding registry website with AI in 275 commits",
-      "link": "https://benhoyt.com/writings/updating-gifty-with-ai/",
-      "pubDate": "Sat, 22 Aug 2026 00:25:24 +0000",
-      "date": "Sat, 22 Aug 2026 00:25:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://benhoyt.com/writings/updating-gifty-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49395371\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49395371"
-    },
-    {
-      "title": "Show HN: AI driven civic dashboard for Palo Alto",
-      "link": "https://paloaltocivic.com",
-      "pubDate": "Sat, 22 Aug 2026 00:17:45 +0000",
-      "date": "Sat, 22 Aug 2026 00:17:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://paloaltocivic.com\nComments URL: https://news.ycombinator.com/item?id=49395316\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49395316"
-    },
-    {
-      "title": "Show HN: EchoVault, an app that interviews you and answers as you after death",
-      "link": "https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028",
-      "pubDate": "Sat, 22 Aug 2026 00:14:49 +0000",
-      "date": "Sat, 22 Aug 2026 00:14:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/echovault-digital-legacy/id6762042028\nComments URL: https://news.ycombinator.com/item?id=49395297\nPoints: 4\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49395297"
-    },
-    {
-      "title": "Show HN: TUI to attribute experiment slowdown to shared-server congestion",
-      "link": "https://lennart-rth.github.io/server-spy/",
-      "pubDate": "Fri, 21 Aug 2026 23:56:31 +0000",
-      "date": "Fri, 21 Aug 2026 23:56:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://lennart-rth.github.io/server-spy/\nComments URL: https://news.ycombinator.com/item?id=49395189\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49395189"
-    },
-    {
-      "title": "Show HN: Kinodesk – Unlimited Remote Desktop Sharing",
-      "link": "https://kinodesk.net/",
-      "pubDate": "Fri, 21 Aug 2026 23:20:53 +0000",
-      "date": "Fri, 21 Aug 2026 23:20:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performance enhancing utilities to reach 2K 240fps on capable hardware to ensure you have a smooth experience.\nComments URL: https://news.ycombinator.com/item?id=49394933\nPoints: 3\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49394933"
-    },
-    {
-      "title": "Show HN: ChickenButt a Native GTK Chat Client for Ollama on Linux",
-      "link": "https://www.chickenbutt.dev/",
-      "pubDate": "Fri, 21 Aug 2026 23:12:23 +0000",
-      "date": "Fri, 21 Aug 2026 23:12:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "What's up, ChickenButt?\nI made a free, native GTK client called ChickenButt. :)\nIt lets you chat with local models through Ollama, and I figured some of you might get a kick out of it.\nHere's the repo: https://github.com/pixelhackstudios/ChickenButt\nI've always hated reading long text in the terminal, and I couldn't find anything that ran locally that allowed me to get quick answers from LLMs when I needed them.\nAlso, not everyone has access to the frontier models and whatnot, so I thought helpi",
-      "guid": "https://news.ycombinator.com/item?id=49394859"
-    },
-    {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "link": "https://ozbrain.com",
-      "pubDate": "Fri, 21 Aug 2026 23:09:06 +0000",
-      "date": "Fri, 21 Aug 2026 23:09:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.\nA lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my bug backlog is. I want to conduct agents that can execute for me and do great work.\nWhat I built Oz",
-      "guid": "https://news.ycombinator.com/item?id=49394827"
-    },
-    {
       "title": "2026.34: App Snore",
       "link": "https://stratechery.com/2026/app-snore/",
       "pubDate": "Fri, 21 Aug 2026 17:00:00 +0000",
@@ -277,28 +277,6 @@
       "icon": "🚀",
       "contentSnippet": "Cancer Vaccine, Attention, Generalist Robot, Routers, Drones + Extra Doses + HBD Puj!",
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-207"
-    },
-    {
-      "title": "Chronic Absenteeism: How to Get Kids Back in School",
-      "link": "https://www.coolcatteacher.com/e974/",
-      "pubDate": "Fri, 21 Aug 2026 11:00:00 +0000",
-      "date": "Fri, 21 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNiles Middle School reduced suspensions by 32% and raised attendance — not by relaxing standards, but by asking why students were absent and connecting each one to an adult who was glad to see them. Dr. Leah Marsh explains how.\nThe post Chronic Absenteeism: How to Get Kids Back in School appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcat",
-      "guid": "https://www.coolcatteacher.com/?p=35246"
-    },
-    {
-      "title": "When AI designs a drug, who gets the credit?",
-      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "pubDate": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "date": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
-      "guid": "https://www.technologyreview.com/?p=1142627"
     }
   ]
 }
