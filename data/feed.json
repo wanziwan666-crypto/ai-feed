@@ -1,29 +1,150 @@
 {
-  "generatedAt": "2026-08-23T00:47:25.521Z",
+  "generatedAt": "2026-08-23T06:25:22.721Z",
   "lookbackHours": 24,
-  "totalItems": 23,
+  "totalItems": 21,
   "items": [
     {
-      "title": "harry0703/MoneyPrinterTurbo",
-      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "pubDate": "2026-08-23T00:47:23.643Z",
-      "date": "2026-08-23T00:47:23.643Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: A bilingual I Ching and BaZi reflection tool",
+      "link": "https://eastern-divination.vercel.app",
+      "pubDate": "Sun, 23 Aug 2026 05:27:35 +0000",
+      "date": "Sun, 23 Aug 2026 05:27:35 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\n\n \n \nMoneyPrinterTurbo 💸\n \n \n一站式 AI 短视频生成工具\n \n \n只需提供视频主题或关键词，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。\n \n \n   \n \n \n \n \n \n简体中文 | English | 日本語 | 版本发布 | 问题反馈\n \n \n界面预览 🖥️\n \nWebUI\n \n\n \nAPI\n \n\n \n \n特别感谢 ❤️\n \n \n  \n \n感谢 Kimi 赞助本项目！Kimi K3 是 Moonshot AI 迄今能力最强的模型，也是全球首个开源 3T 级模型，拥有原生视觉能力与 100 万 Token 上下文，在知识工作、推理和长周期任务中展现前沿性能。在 MoneyPrinterTurbo 中，K3 能直接驱动视频创作，不仅撰写视频文案，还会提炼素材搜索关键词、决定成片画面；对内容理解越准",
-      "guid": "https://github.com/harry0703/MoneyPrinterTurbo"
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://eastern-divination.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49406252\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49406252"
     },
     {
-      "title": "PostHog/posthog",
-      "link": "https://github.com/PostHog/posthog",
-      "pubDate": "2026-08-23T00:47:23.643Z",
-      "date": "2026-08-23T00:47:23.643Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: Live Sports",
+      "link": "https://tipoffwatch.com/sports",
+      "pubDate": "Sun, 23 Aug 2026 04:57:29 +0000",
+      "date": "Sun, 23 Aug 2026 04:57:29 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\nhttps://posthog.com\n\n  \n \n        \n \n Docs - Community - Roadmap - Why PostHog? - Changelog - Bug reports \n \n    \n \nPostHog is the open source platform for build",
-      "guid": "https://github.com/PostHog/posthog"
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tipoffwatch.com/sports\nComments URL: https://news.ycombinator.com/item?id=49406154\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49406154"
+    },
+    {
+      "title": "Show HN: Mokup – Backend not ready? Mock API responses in Chrome DevTools",
+      "link": "https://chromewebstore.google.com/detail/mokup-mock-apis-in-devtoo/pemnjopjhbagogaojfgcfamailepnebb",
+      "pubDate": "Sun, 23 Aug 2026 04:44:47 +0000",
+      "date": "Sun, 23 Aug 2026 04:44:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/mokup-mock-apis-in-devtoo/pemnjopjhbagogaojfgcfamailepnebb\nComments URL: https://news.ycombinator.com/item?id=49406118\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49406118"
+    },
+    {
+      "title": "Show HN: TDILEARNED – a rabbit-hole machine",
+      "link": "https://til-seven.vercel.app/",
+      "pubDate": "Sun, 23 Aug 2026 04:34:28 +0000",
+      "date": "Sun, 23 Aug 2026 04:34:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://til-seven.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49406090\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49406090"
+    },
+    {
+      "title": "Show HN: One portal for all your MCP servers",
+      "link": "https://onemcp.dev/",
+      "pubDate": "Sun, 23 Aug 2026 04:11:23 +0000",
+      "date": "Sun, 23 Aug 2026 04:11:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Just cooked onemcp.dev, a lightweight, user-friendly take on Cloudflare's MCP Portals powered by MCP Code Mode.\nComments URL: https://news.ycombinator.com/item?id=49406000\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49406000"
+    },
+    {
+      "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+      "link": "https://github.com/AntoineChatry/Dictata",
+      "pubDate": "Sun, 23 Aug 2026 03:50:15 +0000",
+      "date": "Sun, 23 Aug 2026 03:50:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/AntoineChatry/Dictata\nComments URL: https://news.ycombinator.com/item?id=49405912\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49405912"
+    },
+    {
+      "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
+      "link": "https://github.com/gojiplus/layoutlens",
+      "pubDate": "Sun, 23 Aug 2026 02:33:56 +0000",
+      "date": "Sun, 23 Aug 2026 02:33:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/gojiplus/layoutlens\nComments URL: https://news.ycombinator.com/item?id=49405683\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49405683"
+    },
+    {
+      "title": "Show HN: CtrlTool – 132 free online tools for developers and everyday tasks",
+      "link": "https://ctrltool.wtf",
+      "pubDate": "Sun, 23 Aug 2026 01:44:48 +0000",
+      "date": "Sun, 23 Aug 2026 01:44:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, I built CtrlTool because I kept needing small tools for random things and didn't want to install something or sign up for another website.\nIt currently has 132 tools for things like JSON, JWT, Base64, URLs, text, hashes, PDFs, SEO, converters, generators, and other everyday stuff.\nThe main thing I tried to focus on is making the tools fast and simple. For tools where it makes sense, everything runs locally in the browser so the data doesn't need to be uploaded to a server.\nIt's still ver",
+      "guid": "https://news.ycombinator.com/item?id=49405517"
+    },
+    {
+      "title": "Show HN: Hands-Rust MCP/CLI that sees the Windows desktop and clicks real Chrome",
+      "link": "https://news.ycombinator.com/item?id=49405405",
+      "pubDate": "Sun, 23 Aug 2026 01:16:43 +0000",
+      "date": "Sun, 23 Aug 2026 01:16:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built Hands because I wanted a coding agent to use this Windows PC and a real Chrome profile the way I do: look at the screen, move the real mouse, type, click , without turning Chrome into an automation browser.\nIt is a Rust MCP/CLI. A harness (Grok, Codex, Claude Code, OpenCode, etc.) calls tools like observe, click, type, scroll. Observe is a screenshot path plus a small element list (UIA + optional Chrome DOM ids). Click is OS SendInput on a Bézier path, not a Chrome DevTools click.\nThere ",
+      "guid": "https://news.ycombinator.com/item?id=49405405"
+    },
+    {
+      "title": "Show HN: Agent2Creator – a video social network whose members are AI agents",
+      "link": "https://agent2creator.vidmoat.com",
+      "pubDate": "Sun, 23 Aug 2026 01:00:10 +0000",
+      "date": "Sun, 23 Aug 2026 01:00:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://agent2creator.vidmoat.com\nComments URL: https://news.ycombinator.com/item?id=49405354\nPoints: 3\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49405354"
+    },
+    {
+      "title": "Show HN: Nice Licence – An anti-copyleft permissive licence",
+      "link": "https://github.com/Jamedjo/git-hunk/commit/240ac0f7e986fbe783a7de1c220fc047771ee059",
+      "pubDate": "Sun, 23 Aug 2026 00:47:26 +0000",
+      "date": "Sun, 23 Aug 2026 00:47:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Jamedjo/git-hunk/commit/240ac0f7e986fbe783a7de1c220fc047771ee059\nComments URL: https://news.ycombinator.com/item?id=49405284\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49405284"
+    },
+    {
+      "title": "Show HN: Active Source of Truth for Your Coding Agents",
+      "link": "https://meetless.ai",
+      "pubDate": "Sun, 23 Aug 2026 00:43:04 +0000",
+      "date": "Sun, 23 Aug 2026 00:43:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Howdy! Happy Saturday everyone!\nAs a solo founder, I have always tried to maximize my speed by letting coding agents build as much as possible in parallel. However, as an engineer, I don't trust that AI will always make the right decisions and work with the right context. In the past, I always needed to click through my sessions to glance at the AI's output, try to understand what it was doing, and hopefully steer it or stop it in time.\nAs a result, the maximum number of concurrent sessions I co",
+      "guid": "https://news.ycombinator.com/item?id=49405261"
+    },
+    {
+      "title": "Show HN: A comic and manga viewer component for React",
+      "link": "https://react-comic-viewer.kkweb.io",
+      "pubDate": "Sun, 23 Aug 2026 00:28:21 +0000",
+      "date": "Sun, 23 Aug 2026 00:28:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://react-comic-viewer.kkweb.io\nComments URL: https://news.ycombinator.com/item?id=49405173\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49405173"
     },
     {
       "title": "Show HN: Lens AI – generate your JSON-LD files and keep them up-to-date",
@@ -33,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://knowledgelens.ai/\nComments URL: https://news.ycombinator.com/item?id=49405066\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://knowledgelens.ai/\nComments URL: https://news.ycombinator.com/item?id=49405066\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49405066"
     },
     {
@@ -99,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.theburmese.xyz/\nComments URL: https://news.ycombinator.com/item?id=49404182\nPoints: 3\n# Comments: 1",
+      "contentSnippet": "Article URL: https://www.theburmese.xyz/\nComments URL: https://news.ycombinator.com/item?id=49404182\nPoints: 4\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49404182"
     },
     {
@@ -112,149 +233,6 @@
       "icon": "📰",
       "contentSnippet": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much room to run as possible. That assumption is now being tested at scale, in real production environments — and in a lot of deployments it's failing. The companies that end up benefiting from agentic AI won't necessarily be the ones that have given their agents the most flexibility. T",
       "guid": "6y4lGj2ZoY6guqwCLwvG6e"
-    },
-    {
-      "title": "Show HN: Oxbow, a dynamic tiling window manager for the Wayland compositor River",
-      "link": "https://oxbow-wm.readthedocs.io/en/latest/",
-      "pubDate": "Sat, 22 Aug 2026 20:53:44 +0000",
-      "date": "Sat, 22 Aug 2026 20:53:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "It's inspired by dwm, but it's configured via an ipc/init script, like river-classic, which makes it a bit easier to get into/test. Specifically, it has:\n- Tags: Group windows with tag sets, per-tag layouts, and operations on tags.\n- Layouts: dwm-like tiling, niri-ish scrolling in four orientations, “alt-tab” overview, and pure floating.\n- Windows: Scratchpads, sticky windows, user labels, window swallowing, and drag with retile.\n- Rules: Regex window matching to configure initial tags, output, ",
-      "guid": "https://news.ycombinator.com/item?id=49403796"
-    },
-    {
-      "title": "Show HN: Locum – Grok Bot delegates tasks to Claude/Codex CLI on your machine",
-      "link": "https://github.com/HarjjotSinghh/locum",
-      "pubDate": "Sat, 22 Aug 2026 20:41:34 +0000",
-      "date": "Sat, 22 Aug 2026 20:41:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/HarjjotSinghh/locum\nComments URL: https://news.ycombinator.com/item?id=49403691\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49403691"
-    },
-    {
-      "title": "Show HN: Rmd – lightweight reminder daemon and CLI for Linux",
-      "link": "https://github.com/PaulBunch/rmd",
-      "pubDate": "Sat, 22 Aug 2026 20:37:00 +0000",
-      "date": "Sat, 22 Aug 2026 20:37:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/PaulBunch/rmd\nComments URL: https://news.ycombinator.com/item?id=49403650\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49403650"
-    },
-    {
-      "title": "Show HN: Cloudflare Workers boilerplate for your bidding site",
-      "link": "https://outbid-directory.lol/outbid-boilerplate",
-      "pubDate": "Sat, 22 Aug 2026 20:34:28 +0000",
-      "date": "Sat, 22 Aug 2026 20:34:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "started this project yesterday with my own bidding website that lists all the other bidding websites, lol!\ndecided to make a boilerplate out of it, shipper today.\nComments URL: https://news.ycombinator.com/item?id=49403627\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49403627"
-    },
-    {
-      "title": "Show HN: Built a CLI to find and disable telemetry for package.json dependencies",
-      "link": "https://github.com/apvarun/no-telemetry",
-      "pubDate": "Sat, 22 Aug 2026 20:28:12 +0000",
-      "date": "Sat, 22 Aug 2026 20:28:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/apvarun/no-telemetry\nComments URL: https://news.ycombinator.com/item?id=49403546\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49403546"
-    },
-    {
-      "title": "Show HN: A tool that intentionally makes you forget your Screen Time passcode",
-      "link": "https://waittounlock.com/",
-      "pubDate": "Sat, 22 Aug 2026 20:17:44 +0000",
-      "date": "Sat, 22 Aug 2026 20:17:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "iOS Screen Time is a fantastic app blocker because it's built into the OS, unlike third party apps that can simply be uninstalled.\nThe only problem is that it uses a 4 digit passcode. If I set the passcode myself, I can always override my app limits by tapping ignore limit and entering the screetime passcode.\nSo I built WaitToUnlock.com. It's a simple website that generates a random ScreenTime passcode and guides you through entering it in a deliberately confusing way (for example: \"enter 3, ent",
-      "guid": "https://news.ycombinator.com/item?id=49403441"
-    },
-    {
-      "title": "Show HN: ePub reader that lets your coding agent read along",
-      "link": "https://github.com/baturyilmaz/readingisfun",
-      "pubDate": "Sat, 22 Aug 2026 19:09:14 +0000",
-      "date": "Sat, 22 Aug 2026 19:09:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/baturyilmaz/readingisfun\nComments URL: https://news.ycombinator.com/item?id=49402798\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49402798"
-    },
-    {
-      "title": "Show HN: Faber, cost-efficient open-source coding agent that uses code graph",
-      "link": "https://www.npmjs.com/package/faberwright",
-      "pubDate": "Sat, 22 Aug 2026 18:54:39 +0000",
-      "date": "Sat, 22 Aug 2026 18:54:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.npmjs.com/package/faberwright\nComments URL: https://news.ycombinator.com/item?id=49402633\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49402633"
-    },
-    {
-      "title": "Show HN: Make your logo extra bright on HDR screens",
-      "link": "https://www.soverybright.com/",
-      "pubDate": "Sat, 22 Aug 2026 18:43:03 +0000",
-      "date": "Sat, 22 Aug 2026 18:43:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them.\nI dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I've found that isn't stripping them out, but of course you serve them up on your own site.\nI worked with Claude Code to turn it into a little browser-based utility (no registration) and hope you find it useful!\nCommen",
-      "guid": "https://news.ycombinator.com/item?id=49402521"
-    },
-    {
-      "title": "Show HN: Wordpaste – clean Word paste HTML, keep the equations editable",
-      "link": "https://github.com/smrifat1411/wordpaste",
-      "pubDate": "Sat, 22 Aug 2026 18:35:11 +0000",
-      "date": "Sat, 22 Aug 2026 18:35:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/smrifat1411/wordpaste\nComments URL: https://news.ycombinator.com/item?id=49402460\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49402460"
-    },
-    {
-      "title": "Show HN: Swiss clarity for money without borders",
-      "link": "https://montezy.ch/",
-      "pubDate": "Sat, 22 Aug 2026 18:33:04 +0000",
-      "date": "Sat, 22 Aug 2026 18:33:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://montezy.ch/\nComments URL: https://news.ycombinator.com/item?id=49402438\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49402438"
-    },
-    {
-      "title": "Show HN: Wharf – Self-Host Postgres, MySQL, Mongo, Redis, ClickHouse in Docker",
-      "link": "https://github.com/drk1rd/wharf",
-      "pubDate": "Sat, 22 Aug 2026 17:49:02 +0000",
-      "date": "Sat, 22 Aug 2026 17:49:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/drk1rd/wharf\nComments URL: https://news.ycombinator.com/item?id=49402025\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49402025"
-    },
-    {
-      "title": "Show HN: Rackast, a screen recorder with a built in editor, made with Tauri",
-      "link": "https://rackast.com/",
-      "pubDate": "Sat, 22 Aug 2026 17:44:20 +0000",
-      "date": "Sat, 22 Aug 2026 17:44:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://rackast.com/\nComments URL: https://news.ycombinator.com/item?id=49401973\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49401973"
     }
   ]
 }
