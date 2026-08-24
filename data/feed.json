@@ -1,18 +1,51 @@
 {
-  "generatedAt": "2026-08-24T12:29:34.773Z",
+  "generatedAt": "2026-08-24T18:26:52.507Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 9,
   "items": [
     {
-      "title": "Teacher Burnout: Go 10% Slower and Get Your Joy Back",
-      "link": "https://www.coolcatteacher.com/e975/",
-      "pubDate": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "date": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
+      "title": "How to encourage smarter AI use in the classroom",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "date": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+      "guid": "https://www.technologyreview.com/?p=1142630"
+    },
+    {
+      "title": "Beyond the Shiny Object: How to Assess Your System’s True Innovation Readiness",
+      "link": "https://www.gettingsmart.com/2026/08/24/beyond-the-shiny-object-how-to-assess-your-systems-true-innovation-readiness/",
+      "pubDate": "Mon, 24 Aug 2026 13:45:51 +0000",
+      "date": "Mon, 24 Aug 2026 13:45:51 +0000",
+      "source": "Getting Smart",
       "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nDr. Jen Rafferty burned out as a middle school music teacher, rebuilt her life, and now helps educators get back to balance without leaving the classroom. Emotional intelligence, the brain science behind it, and the two-step move to try tonight.\nThe post Teacher Burnout: Go 10% Slower and Get Your Joy Back appeared first on Cool Cat Teacher Blog by V",
-      "guid": "https://www.coolcatteacher.com/?p=35264"
+      "icon": "🌱",
+      "contentSnippet": "Too many districts launch the next big initiative before their systems are ready to sustain it. In this new piece, Getting Smart contributors Nate McClennen and Rebecca Midles introduce the 5 C's of R&D Readiness and 8 Archetypes of System Transformation, a practical framework for honestly diagnosing where your school or district stands before committing to wide-scale change. Whether your system is a Vanguard or a Frozen System, this tool helps leaders move from reactive initiative-chasing to in",
+      "guid": "https://www.gettingsmart.com/?p=132576"
+    },
+    {
+      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+      "link": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "pubDate": "Mon, 24 Aug 2026 13:00:00 GMT",
+      "date": "Mon, 24 Aug 2026 13:00:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Anthropic is making a calculated bet that the biggest bottleneck in enterprise AI isn't model intelligence — it's the fact that most people still use AI alone.\nIn an exclusive interview with VentureBeat, Scott White, Anthropic's head of product for enterprise, laid out the company's thesis for what it calls \"multiplayer AI\": a shift away from the single-user chatbot paradigm toward AI agents that operate across teams, read organizational context, and proactively insert themselves into work — som",
+      "guid": "12euSigLHkI0DDRafGTFMv"
+    },
+    {
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "pubDate": "Mon, 24 Aug 2026 12:10:00 +0000",
+      "date": "Mon, 24 Aug 2026 12:10:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+      "guid": "https://www.technologyreview.com/?p=1142863"
     },
     {
       "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores ",
@@ -48,17 +81,6 @@
       "guid": "https://www.technologyreview.com/?p=1141740"
     },
     {
-      "title": "📸 AI Photos and Deepfakes, Quantum for Littles, and Real Help for Behavior",
-      "link": "https://www.coolcatteacher.com/ai-photos-and-deepfakes-quantum-for-littles-and-real-help-for-behavior/",
-      "pubDate": "Sun, 23 Aug 2026 23:03:34 +0000",
-      "date": "Sun, 23 Aug 2026 23:03:34 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nMy newsletter for the past two weeks with a summary of recent resources and some current links to an AI slop controversy and important information schools need to understand about sharing student images and new legislation that is supposed to protect ai deepfake expliotation.\nThe post 📸 AI Photos and Deepfakes, Quantum for Littles, and Real Help for",
-      "guid": "https://www.coolcatteacher.com/?p=35250"
-    },
-    {
       "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
       "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
       "pubDate": "Sun, 23 Aug 2026 23:00:00 GMT",
@@ -79,193 +101,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
-    },
-    {
-      "title": "Show HN: LAN Sheriff – watch which servers your machine talks to, live on a map",
-      "link": "https://github.com/291-Group/LAN-Sheriff",
-      "pubDate": "Sun, 23 Aug 2026 15:09:49 +0000",
-      "date": "Sun, 23 Aug 2026 15:09:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/291-Group/LAN-Sheriff\nComments URL: https://news.ycombinator.com/item?id=49409438\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49409438"
-    },
-    {
-      "title": "Show HN: Application-Layer Parsing in eBPF",
-      "link": "https://github.com/lbrndnr/beeper",
-      "pubDate": "Sun, 23 Aug 2026 15:01:29 +0000",
-      "date": "Sun, 23 Aug 2026 15:01:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/lbrndnr/beeper\nComments URL: https://news.ycombinator.com/item?id=49409378\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49409378"
-    },
-    {
-      "title": "Show HN: USBHawk – Unlock your PC with ordinary USB Flash drives",
-      "link": "https://usbhawk.com",
-      "pubDate": "Sun, 23 Aug 2026 14:46:56 +0000",
-      "date": "Sun, 23 Aug 2026 14:46:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://usbhawk.com\nComments URL: https://news.ycombinator.com/item?id=49409274\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49409274"
-    },
-    {
-      "title": "Show HN: Telnet Hackerlinks.com",
-      "link": "https://news.ycombinator.com/item?id=49409229",
-      "pubDate": "Sun, 23 Aug 2026 14:41:51 +0000",
-      "date": "Sun, 23 Aug 2026 14:41:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A simple, retro telnet chat. Thought of this as a distraction free alternative for real-time conversations for folks with a terminal. Feel free to join, create own rooms and message people. Enter with \"telnet hackerlinks.com\".\nComments URL: https://news.ycombinator.com/item?id=49409229\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49409229"
-    },
-    {
-      "title": "Show HN: NeonBlocks – A Tokyo neon street billboard",
-      "link": "https://neonblocks.michii.dev",
-      "pubDate": "Sun, 23 Aug 2026 14:34:42 +0000",
-      "date": "Sun, 23 Aug 2026 14:34:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://neonblocks.michii.dev\nComments URL: https://news.ycombinator.com/item?id=49409172\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49409172"
-    },
-    {
-      "title": "Show HN: Writing-eval, local deterministic style checks for AI-written drafts",
-      "link": "https://github.com/majesticlabs-dev/writing-eval",
-      "pubDate": "Sun, 23 Aug 2026 14:31:16 +0000",
-      "date": "Sun, 23 Aug 2026 14:31:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/majesticlabs-dev/writing-eval\nComments URL: https://news.ycombinator.com/item?id=49409152\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49409152"
-    },
-    {
-      "title": "Show HN: Self-Hosted Social Media Agents with Raspberry Pi",
-      "link": "https://www.microphone.computer/",
-      "pubDate": "Sun, 23 Aug 2026 14:24:14 +0000",
-      "date": "Sun, 23 Aug 2026 14:24:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A while back I posted about a project I was working on for a real-time voice agent that runs ads on Meta to build conviction and prioritize side gig/business ideas (https://news.ycombinator.com/item?id=48900788); you yammer away and it automates market research, problem statements and hypotheses. I've been working with some folks from HN on the app since then.\nWhat we've been focused on building is a modern solo-founder GTM tool -- figuring out how to triangulate aspiration, problems only you ca",
-      "guid": "https://news.ycombinator.com/item?id=49409084"
-    },
-    {
-      "title": "Show HN: Squat Counter Uses phone's accelerometer to count squats automatically",
-      "link": "https://julienreszka.github.io/squat-counter/",
-      "pubDate": "Sun, 23 Aug 2026 14:22:37 +0000",
-      "date": "Sun, 23 Aug 2026 14:22:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://julienreszka.github.io/squat-counter/\nComments URL: https://news.ycombinator.com/item?id=49409070\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49409070"
-    },
-    {
-      "title": "Show HN: Box Blanks – free parametric dieline generator for 479 box styles",
-      "link": "https://boxblanks.com/",
-      "pubDate": "Sun, 23 Aug 2026 14:02:11 +0000",
-      "date": "Sun, 23 Aug 2026 14:02:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://boxblanks.com/\nComments URL: https://news.ycombinator.com/item?id=49408931\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49408931"
-    },
-    {
-      "title": "Show HN: Human-Machine Interface",
-      "link": "https://github.com/YOalphabet/YOalphabet",
-      "pubDate": "Sun, 23 Aug 2026 13:58:01 +0000",
-      "date": "Sun, 23 Aug 2026 13:58:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Human-Machine Interface\nFaster UP to 36%\nComments URL: https://news.ycombinator.com/item?id=49408900\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49408900"
-    },
-    {
-      "title": "Show HN: An open knowledge graph of problems, solutions, and real-world outcomes",
-      "link": "https://communityfix.org/",
-      "pubDate": "Sun, 23 Aug 2026 13:57:56 +0000",
-      "date": "Sun, 23 Aug 2026 13:57:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://communityfix.org/\nComments URL: https://news.ycombinator.com/item?id=49408898\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49408898"
-    },
-    {
-      "title": "Show HN: Froging AI – image and video models in one workflow",
-      "link": "https://www.froging.ai",
-      "pubDate": "Sun, 23 Aug 2026 13:30:37 +0000",
-      "date": "Sun, 23 Aug 2026 13:30:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.froging.ai\nComments URL: https://news.ycombinator.com/item?id=49408724\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49408724"
-    },
-    {
-      "title": "Show HN: World Sizer – A world map where area reflects population, GDP, and more",
-      "link": "https://douwe.com/projects/worldsizer",
-      "pubDate": "Sun, 23 Aug 2026 13:21:54 +0000",
-      "date": "Sun, 23 Aug 2026 13:21:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://douwe.com/projects/worldsizer\nComments URL: https://news.ycombinator.com/item?id=49408664\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49408664"
-    },
-    {
-      "title": "Show HN: Ringdl2 – A lightweight Linux downloader in Rust using io_uring",
-      "link": "https://github.com/infomaniac777/ringdl2/blob/master/README.md",
-      "pubDate": "Sun, 23 Aug 2026 13:19:36 +0000",
-      "date": "Sun, 23 Aug 2026 13:19:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/infomaniac777/ringdl2/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=49408649\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49408649"
-    },
-    {
-      "title": "Show HN: Rmp, a Subsonic music player for generating playlists on the fly",
-      "link": "https://github.com/codesoap/rmp",
-      "pubDate": "Sun, 23 Aug 2026 13:00:48 +0000",
-      "date": "Sun, 23 Aug 2026 13:00:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "When listening to music, I often don't play whole albums, but string\ntogether songs that capture my current mood. In the past, I've written\na tool that records my hearings and generates suggestions from my usual\nlistening patterns[1] and used it with some scripts around mpd. This\nmade my way of listening to music easier and worked decently, but I\nwished I could also sync and use this with my phone.\nRecently I've discovered Subsonic, a protocol for music servers\nand players. It caught my eye, bec",
-      "guid": "https://news.ycombinator.com/item?id=49408520"
-    },
-    {
-      "title": "Show HN: Ever Wanted to Call Codex from Claude Code? My Harness Orchestrator",
-      "link": "https://github.com/ptmrio/harness-subagent",
-      "pubDate": "Sun, 23 Aug 2026 12:51:15 +0000",
-      "date": "Sun, 23 Aug 2026 12:51:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ptmrio/harness-subagent\nComments URL: https://news.ycombinator.com/item?id=49408449\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49408449"
-    },
-    {
-      "title": "Show HN: Histiq – Local semantic search for the browser history and PDFs",
-      "link": "https://histiq.com/",
-      "pubDate": "Sun, 23 Aug 2026 12:30:21 +0000",
-      "date": "Sun, 23 Aug 2026 12:30:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://histiq.com/\nComments URL: https://news.ycombinator.com/item?id=49408304\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49408304"
     }
   ]
 }
