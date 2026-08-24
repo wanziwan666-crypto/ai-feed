@@ -43,6 +43,14 @@ const DEFAULT_ANTHROPIC_BASE = 'https://api.anthropic.com';
 const DEFAULT_ANTHROPIC_MODEL = 'claude-haiku-4-5';
 const DEFAULT_DASHSCOPE_MODEL = 'qwen3.7-plus';
 
+// KEY 支持逗号分隔多把（自动轮换见 scripts/llm.js），返回数组；单 key 也兼容
+function parseKeys(raw) {
+  return raw
+    .split(',')
+    .map((k) => k.trim())
+    .filter(Boolean);
+}
+
 function resolveProvider() {
   // ---- 1. 智谱 GLM（OpenAI 兼容 /api/paas/v4）----
   const zhipuKey = readVar('ZHIPU_API_KEY') || readVar('GLM_API_KEY');
@@ -50,7 +58,8 @@ function resolveProvider() {
     const base = (readVar('ZHIPU_BASE_URL') || DEFAULT_ZHIPU_BASE).replace(/\/+$/, '');
     return {
       provider: 'zhipu',
-      apiKey: zhipuKey,
+      apiKey: parseKeys(zhipuKey)[0],
+      apiKeys: parseKeys(zhipuKey),
       // OpenAI SDK 会在 baseURL 后拼 /chat/completions
       baseUrl: /\/v\d+$/.test(base) ? base : `${base}/v4`,
       model: readVar('AI_FEED_MODEL') || DEFAULT_ZHIPU_MODEL,
@@ -63,7 +72,8 @@ function resolveProvider() {
     const base = (readVar('ANTHROPIC_BASE_URL') || DEFAULT_ANTHROPIC_BASE).replace(/\/+$/, '');
     return {
       provider: 'anthropic',
-      apiKey: anthropicKey,
+      apiKey: parseKeys(anthropicKey)[0],
+      apiKeys: parseKeys(anthropicKey),
       // OpenAI SDK 会在 baseURL 后拼 /chat/completions
       baseUrl: /\/v1$/.test(base) ? base : `${base}/v1`,
       model: readVar('AI_FEED_MODEL') || DEFAULT_ANTHROPIC_MODEL,
@@ -75,7 +85,8 @@ function resolveProvider() {
   if (dashscopeKey) {
     return {
       provider: 'dashscope',
-      apiKey: dashscopeKey,
+      apiKey: parseKeys(dashscopeKey)[0],
+      apiKeys: parseKeys(dashscopeKey),
       baseUrl: 'https://dashscope.aliyuncs.com/compatible-mode/v1',
       model: readVar('AI_FEED_MODEL') || DEFAULT_DASHSCOPE_MODEL,
     };
@@ -142,6 +153,7 @@ let _resolved = null;
 const resolved = () => (_resolved || (_resolved = resolveProvider()));
 for (const [key, pick] of [
   ['API_KEY', (r) => r.apiKey],
+  ['API_KEYS', (r) => r.apiKeys],
   ['BASE_URL', (r) => r.baseUrl],
   ['MODEL', (r) => r.model],
   ['PROVIDER', (r) => r.provider],

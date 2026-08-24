@@ -14,11 +14,19 @@ const { FEISHU_USER_OPEN_ID: USER_OPEN_ID } = require('./config');
 
 const DATA_FILE = path.join(__dirname, '..', 'data', 'feeds.json');
 const PUSHED_FILE = path.join(__dirname, '..', 'data', 'pushed.json');
-const REPORT_URL = 'https://wanziwan666-crypto.github.io/ai-feed/';
+const SITE_BASE = 'https://wanziwan666-crypto.github.io/ai-feed/';
 const LARK_CLI = fs.existsSync(path.join(os.homedir(), '.npm-global/bin/lark-cli'))
   ? path.join(os.homedir(), '.npm-global/bin/lark-cli')
   : 'lark-cli';
 const MAX_PUSH = 5;
+
+// 报告链接优先指向当天归档页（旧消息里的链接不再随首页更新"变内容"）；归档未生成时回退首页
+function reportUrl() {
+  const d = new Date();
+  const dateStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  const archiveExists = fs.existsSync(path.join(__dirname, '..', 'docs', `${dateStr}.html`));
+  return archiveExists ? `${SITE_BASE}${dateStr}.html` : SITE_BASE;
+}
 
 if (!USER_OPEN_ID) {
   console.error(
@@ -103,7 +111,7 @@ function main() {
 
   content.push([
     { tag: 'text', text: '👉 ' },
-    { tag: 'a', text: '查看完整 HTML 报告', href: REPORT_URL },
+    { tag: 'a', text: '查看完整 HTML 报告', href: reportUrl() },
   ]);
 
   const postContent = {

@@ -9,14 +9,12 @@
  */
 const fs = require('fs');
 const path = require('path');
-const OpenAI = require('openai');
-const { API_KEY, BASE_URL, MODEL, PROFILE } = require('./config');
+const { MODEL, PROFILE } = require('./config');
+const { chatCreate } = require('./llm');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const DOCS_DIR = path.join(__dirname, '..', 'docs');
 const FEEDS_PATH = path.join(DATA_DIR, 'feeds.json');
-
-const openai = new OpenAI({ apiKey: API_KEY, baseURL: BASE_URL });
 
 function getDateStr() {
   const d = new Date();
@@ -40,7 +38,7 @@ async function generateNarrative(items) {
   const top = items.slice(0, 8);
   const content = top.map((i) => `- ${i.title}：${i.summary || i.contentSnippet || ''}`).join('\n');
   try {
-    const response = await openai.chat.completions.create({
+    const response = await chatCreate({
       model: MODEL,
       messages: [
         {

@@ -6,8 +6,8 @@
  */
 const fs = require('fs');
 const path = require('path');
-const OpenAI = require('openai');
-const { API_KEY, BASE_URL, MODEL, SCORE_WEIGHTS, PROFILE } = require('./config');
+const { MODEL, SCORE_WEIGHTS, PROFILE } = require('./config');
+const { chatCreate } = require('./llm');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const RAW_FILE = path.join(DATA_DIR, 'feed.json');
@@ -17,8 +17,6 @@ const SEEN_FILE = path.join(DATA_DIR, 'seen.json');
 const MAX_ITEMS_KEEP = 200;
 const SEEN_MAX_AGE_HOURS = 72;
 const SEEN_MAX_ENTRIES = 1000;
-
-const openai = new OpenAI({ apiKey: API_KEY, baseURL: BASE_URL });
 
 function readJson(file) {
   try {
@@ -164,7 +162,7 @@ async function generateSummary(item, userPreferences = '') {
       ? `\n\n根据历史阅读记录，用户特别关注以下方向：${userPreferences}。与这些主题或来源相关的内容优先保留。`
       : '';
 
-    const response = await openai.chat.completions.create({
+    const response = await chatCreate({
       model: MODEL,
       messages: [
         {
