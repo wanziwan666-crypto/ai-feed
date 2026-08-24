@@ -24,15 +24,12 @@ function getDateStr() {
 // 今日叙事：优先读本地缓存，其次用 LLM 生成
 async function generateNarrative(items) {
   if (!items.length) return '';
-  const narrativeCache = path.join(DATA_DIR, 'narrative.txt');
+  // 叙事缓存按日期命名：同一天重跑（RunAtLoad 补跑）命中缓存省一次 LLM 调用，跨天必然重写。
+  // 旧的 narrative.txt + 72 小时时效会在漏跑一天后把前一天的叙事带进新报告（2026-08-24 实际发生）。
+  const narrativeCache = path.join(DATA_DIR, `narrative-${getDateStr()}.txt`);
   try {
-    if (fs.existsSync(narrativeCache)) {
-      const cached = fs.readFileSync(narrativeCache, 'utf-8').trim();
-      if (cached) {
-        const stat = fs.statSync(narrativeCache);
-        if (Date.now() - stat.mtimeMs < 72 * 3600 * 1000) return cached;
-      }
-    }
+    const cached = fs.readFileSync(narrativeCache, 'utf-8').trim();
+    if (cached) return cached;
   } catch (e) {}
 
   const top = items.slice(0, 8);
@@ -62,6 +59,9 @@ async function generateNarrative(items) {
     ) {
       return '';
     }
+    try {
+      fs.writeFileSync(narrativeCache, text, 'utf-8');
+    } catch (e) {}
     return text;
   } catch (err) {
     console.error('  Narrative generation failed:', err.message);
