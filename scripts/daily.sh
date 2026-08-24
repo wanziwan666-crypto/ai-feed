@@ -36,6 +36,14 @@ retry() {
   return 1
 }
 
+# 看门狗：run_timed <秒> <命令...> —— macOS 无 timeout(1)，借 perl 的 alarm 实现（定时器跨 exec 仍有效）。
+# 2026-08-22 事故：prepare-feed.js 因超时 socket 未释放挂死 2 天，launchd 视任务为运行中，
+# 后续每天的定时触发全被跳过。任何 node 步骤挂死最多卡到上限，由上层按失败处理。
+run_timed() {
+  local secs=$1; shift
+  perl -e 'alarm shift; exec @ARGV' "$secs" "$@"
+}
+
 # 统计 feed.json 里的条目数（文件损坏/不存在返回 0）
 feed_count() {
   node -e "try{const f=require('$REPO_DIR/data/feed.json');console.log(Array.isArray(f.items)?f.items.length:0)}catch(e){console.log(0)}"
@@ -54,7 +62,8 @@ retry 3 30 git "${GIT_NET_OPTS[@]}" pull --rebase origin main \
 echo "[2/6] prepare-feed..." >> "$LOG"
 FETCH_OK=0
 for attempt in 1 2 3; do
-  node scripts/prepare-feed.js >> "$LOG" 2>&1
+  run_timed 1200 node scripts/prepare-feed.js >> "$LOG" 2>&1 \
+    || echo "[watchdog] prepare-feed 1200s 超时被杀（结果以 feed.json 现状为准）" >> "$LOG"
   N=$(feed_count)
   if [ "$N" -gt 0 ]; then FETCH_OK=1; break; fi
   echo "[2/6] 第 ${attempt}/3 次抓到 0 条，疑似网络中断" >> "$LOG"
@@ -68,11 +77,11 @@ echo "[2/6] 抓到 ${N} 条" >> "$LOG"
 
 # 3. LLM 摘要
 echo "[3/6] summarize..." >> "$LOG"
-node scripts/summarize.js >> "$LOG" 2>&1 || echo "[3/6] summarize FAILED" >> "$LOG"
+run_timed 1800 node scripts/summarize.js >> "$LOG" 2>&1 || echo "[3/6] summarize FAILED（或 1800s 看门狗超时）" >> "$LOG"
 
 # 4. 生成 HTML
 echo "[4/6] generate-html..." >> "$LOG"
-node scripts/generate-html.js >> "$LOG" 2>&1 || echo "[4/6] generate-html FAILED" >> "$LOG"
+run_timed 300 node scripts/generate-html.js >> "$LOG" 2>&1 || echo "[4/6] generate-html FAILED（或 300s 看门狗超时）" >> "$LOG"
 
 # 5. 部署 GitHub Pages（docs/ + feed.json）
 echo "[5/6] deploy..." >> "$LOG"
@@ -84,7 +93,7 @@ retry 5 30 git "${GIT_NET_OPTS[@]}" push \
 
 # 6. 推送飞书
 echo "[6/6] push-feishu..." >> "$LOG"
-node scripts/push-feishu.js >> "$LOG" 2>&1 || echo "[6/6] push-feishu FAILED" >> "$LOG"
+run_timed 120 node scripts/push-feishu.js >> "$LOG" 2>&1 || echo "[6/6] push-feishu FAILED（或 120s 看门狗超时）" >> "$LOG"
 
 # 全部步骤结束（含可能失败）后记录当天已运行，避免 RunAtLoad 重复触发
 echo "$TODAY_MARKER" > "$MARKER"

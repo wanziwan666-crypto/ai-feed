@@ -186,8 +186,10 @@ ${PROFILE.focusText}
         { role: 'user', content: `标题：${item.title}\n摘要：${item.contentSnippet}` },
       ],
       temperature: 0.3,
-      max_tokens: 1024,
-      timeout: 30000,
+      // 4096:推理型模型(如 glm-4.5-flash)的思考过程也计入 max_tokens,
+      // 1024 会被 reasoning 吃光导致 content 为空、条目被静默丢弃
+      max_tokens: 4096,
+      timeout: 60000,
     });
 
     const msgContent = response.choices[0]?.message?.content;
@@ -255,7 +257,9 @@ function computeScore(scores, item) {
 }
 
 async function summarizeBatch(items, userPreferences) {
-  const BATCH_SIZE = 5;
+  // 免费档模型(如 glm-4.5-flash)有严格速率限制:AI_FEED_BATCH_SIZE=1 + AI_FEED_BATCH_DELAY 拉大间隔即可通过
+  const BATCH_SIZE = parseInt(process.env.AI_FEED_BATCH_SIZE || '5', 10) || 5;
+  const BATCH_DELAY = parseInt(process.env.AI_FEED_BATCH_DELAY || '800', 10) || 800;
   const results = [];
   for (let i = 0; i < items.length; i += BATCH_SIZE) {
     const batch = items.slice(i, i + BATCH_SIZE);
@@ -274,7 +278,7 @@ async function summarizeBatch(items, userPreferences) {
       });
     });
     if (i + BATCH_SIZE < items.length) {
-      await new Promise((r) => setTimeout(r, 800));
+      await new Promise((r) => setTimeout(r, BATCH_DELAY));
     }
   }
   return results;

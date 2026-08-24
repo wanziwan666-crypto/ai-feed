@@ -50,7 +50,8 @@ async function generateNarrative(items) {
         { role: 'user', content: `以下是今天的热门AI内容：\n${content}` },
       ],
       temperature: 0.5,
-      max_tokens: 512,
+      // 4096:给推理型模型的思考过程留预算(同 summarize.js 的原因),非推理模型只是上限、不多花钱
+      max_tokens: 4096,
     });
     const text = response.choices[0]?.message?.content?.trim() || '';
     if (

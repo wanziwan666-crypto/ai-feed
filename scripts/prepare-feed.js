@@ -12,7 +12,8 @@ const path = require('path');
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const CONFIG_PATH = path.join(__dirname, '..', 'config', 'sources.json');
 const OUTPUT_PATH = path.join(DATA_DIR, 'feed.json');
-const MAX_AGE_HOURS = 24;
+// 回看窗口默认 24h；补推积压时可用 AI_FEED_LOOKBACK_HOURS 临时放大
+const MAX_AGE_HOURS = parseInt(process.env.AI_FEED_LOOKBACK_HOURS || '24', 10) || 24;
 const MAX_ITEMS_PER_SOURCE = 20;
 
 const config = JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8'));
@@ -119,6 +120,9 @@ async function main() {
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(OUTPUT_PATH, JSON.stringify(output, null, 2), 'utf-8');
   console.log(`\nDone! ${deduped.length} items saved to feed.json`);
+  // 2026-08-22 事故：超时源的 socket 未释放，事件循环排不空，进程打印 Done 后挂死 2 天，
+  // 把 launchd 后续两天的定时触发全堵掉了。此处工作已同步写完，无条件退出。
+  process.exit(0);
 }
 
 main().catch(err => {
