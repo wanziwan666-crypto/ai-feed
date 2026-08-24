@@ -111,7 +111,7 @@ function main() {
 
   content.push([
     { tag: 'text', text: '👉 ' },
-    { tag: 'a', text: '查看完整 HTML 报告', href: reportUrl() },
+    { tag: 'a', text: `查看完整 HTML 报告（${today.split('/').slice(1).join('/')}）`, href: reportUrl() },
   ]);
 
   const postContent = {
