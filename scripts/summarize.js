@@ -235,7 +235,8 @@ ${PROFILE.focusText}
     return { summary, topics, scores };
   } catch (err) {
     console.error(`    Summary error for "${item.title.slice(0, 30)}": ${err.message}`);
-    return null;
+    // API 错误(429/超时等)与"N/A 判定"必须区分:前者不能标 seen,否则条目永久丢失
+    return { failed: true };
   }
 }
 
@@ -259,12 +260,17 @@ async function summarizeBatch(items, userPreferences) {
   const BATCH_SIZE = parseInt(process.env.AI_FEED_BATCH_SIZE || '5', 10) || 5;
   const BATCH_DELAY = parseInt(process.env.AI_FEED_BATCH_DELAY || '800', 10) || 800;
   const results = [];
+  const failed = [];
   for (let i = 0; i < items.length; i += BATCH_SIZE) {
     const batch = items.slice(i, i + BATCH_SIZE);
     console.log(`    [${i + 1}-${i + batch.length}/${items.length}] Summarizing batch...`);
     const summaries = await Promise.all(batch.map((item) => generateSummary(item, userPreferences)));
     batch.forEach((item, idx) => {
       const result = summaries[idx];
+      if (result?.failed) {
+        failed.push(item); // API 错误:不入结果、不标 seen,下次运行自动重试
+        return;
+      }
       const scores = result?.scores || null;
       const score = scores ? computeScore({ ...scores }, item) : 3;
       results.push({
@@ -279,7 +285,7 @@ async function summarizeBatch(items, userPreferences) {
       await new Promise((r) => setTimeout(r, BATCH_DELAY));
     }
   }
-  return results;
+  return { results, failed };
 }
 
 async function main() {
@@ -310,13 +316,19 @@ async function main() {
   if (userPreferences) console.log(`  User reading preferences: ${userPreferences}`);
 
   let summarizedNew = [];
+  let failedItems = [];
   if (newItems.length > 0) {
-    summarizedNew = await summarizeBatch(newItems, userPreferences);
+    ({ results: summarizedNew, failed: failedItems } = await summarizeBatch(newItems, userPreferences));
   }
   const validNew = summarizedNew.filter((i) => i.summary);
 
-  // 记录所有本轮处理过的 guid（含 N/A），下次跳过
-  saveSeen(newItems.map((i) => i.guid), seen);
+  // 只把"拿到了 LLM 判定"的条目记为已处理（含 N/A）；API 错误的不记，下次运行自动重试。
+  // 2026-08-24 智谱 429 期间 24 条被误标 seen 后永久丢失，靠手动脚本才救回。
+  const failedGuids = new Set(failedItems.map((i) => i.guid));
+  saveSeen(newItems.filter((i) => !failedGuids.has(i.guid)).map((i) => i.guid), seen);
+  if (failedItems.length) {
+    console.log(`⚠️ ${failedItems.length} 条因 API 错误未完成摘要（未标记已处理，下次运行自动重试）`);
+  }
 
   // 4. 合并历史（保留有摘要的），按时间倒序，最多 200 条
   const allExisting = (existingData?.items || []).filter((i) => i.summary);
