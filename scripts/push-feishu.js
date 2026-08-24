@@ -1,8 +1,7 @@
 /**
- * push-feishu.js — 读取 data/feeds.json，把最新未推送的内容以富文本格式推送到飞书
- * 每条含：标题（可点击原文链接）+ 摘要 + 分数 + 标签，末尾附完整 HTML 报告链接
- * 推送去重：记录已推送 guid 到 data/pushed.json，每次只推未推过的
- * 排序：时间倒序（最新优先），同时间按分数降序
+ * push-feishu.js — 每日日报链接通知：飞书只推一条消息，带当天报告的链接。
+ * 内容(标题/摘要/评分)都在 HTML 报告页里,消息本体只做"日报已更新"的提醒;
+ * 因此不再按条目推送,也就没有未推送积压。同一天只推一次。
  *
  * 用法: node scripts/push-feishu.js
  */
@@ -18,15 +17,6 @@ const SITE_BASE = 'https://wanziwan666-crypto.github.io/ai-feed/';
 const LARK_CLI = fs.existsSync(path.join(os.homedir(), '.npm-global/bin/lark-cli'))
   ? path.join(os.homedir(), '.npm-global/bin/lark-cli')
   : 'lark-cli';
-const MAX_PUSH = 5;
-
-// 报告链接优先指向当天归档页（旧消息里的链接不再随首页更新"变内容"）；归档未生成时回退首页
-function reportUrl() {
-  const d = new Date();
-  const dateStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
-  const archiveExists = fs.existsSync(path.join(__dirname, '..', 'docs', `${dateStr}.html`));
-  return archiveExists ? `${SITE_BASE}${dateStr}.html` : SITE_BASE;
-}
 
 if (!USER_OPEN_ID) {
   console.error(
@@ -36,26 +26,27 @@ if (!USER_OPEN_ID) {
   process.exit(1);
 }
 
-function loadPushed() {
-  try {
-    if (fs.existsSync(PUSHED_FILE)) {
-      const data = JSON.parse(fs.readFileSync(PUSHED_FILE, 'utf-8'));
-      return new Set(data.guids || []);
-    }
-  } catch (e) {}
-  return new Set();
+function dateStr() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 }
 
-function savePushed(newGuids) {
-  const existing = loadPushed();
-  newGuids.forEach((g) => existing.add(g));
-  const all = [...existing];
-  const trimmed = all.slice(-500);
-  fs.writeFileSync(
-    PUSHED_FILE,
-    JSON.stringify({ guids: trimmed, updatedAt: new Date().toISOString() }, null, 2),
-    'utf-8'
-  );
+// 报告链接优先指向当天归档页（旧消息里的链接不随首页更新"变内容"）；归档未生成时回退首页
+function reportUrl() {
+  const archiveExists = fs.existsSync(path.join(__dirname, '..', 'docs', `${dateStr()}.html`));
+  return archiveExists ? `${SITE_BASE}${dateStr()}.html` : SITE_BASE;
+}
+
+function readPushed() {
+  try {
+    if (fs.existsSync(PUSHED_FILE)) return JSON.parse(fs.readFileSync(PUSHED_FILE, 'utf-8'));
+  } catch (e) {}
+  return { guids: [] }; // guids 为旧的按条目推送时代的历史记录,仅存档
+}
+
+function savePushed(state) {
+  state.updatedAt = new Date().toISOString();
+  fs.writeFileSync(PUSHED_FILE, JSON.stringify(state, null, 2), 'utf-8');
 }
 
 function main() {
@@ -64,66 +55,37 @@ function main() {
     process.exit(1);
   }
 
+  const state = readPushed();
+  const today = dateStr();
+  if (state.reportPushedDate === today) {
+    console.log('今天已推送过日报链接，跳过');
+    return;
+  }
+
+  // 今日新内容条数（近 24h 有摘要的）
   const data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8'));
-  const allItems = (data.items || []).filter((i) => i.summary);
-  if (allItems.length === 0) {
-    console.log('没有带摘要的内容，跳过推送');
-    return;
-  }
+  const dayAgo = Date.now() - 24 * 3600 * 1000;
+  const count = (data.items || []).filter(
+    (i) => i.summary && new Date(i.pubDate).getTime() > dayAgo
+  ).length;
 
-  const pushed = loadPushed();
-  let candidates = allItems.filter((i) => i.guid && !pushed.has(i.guid));
-  if (candidates.length === 0) {
-    console.log('没有新内容需要推送（所有内容已推送过）');
-    return;
-  }
-
-  candidates.sort((a, b) => {
-    const timeDiff = new Date(b.pubDate) - new Date(a.pubDate);
-    if (Math.abs(timeDiff) < 1000) return (b.score || 3) - (a.score || 3);
-    return timeDiff;
-  });
-  const top = candidates.slice(0, MAX_PUSH);
-
-  const today = new Date().toLocaleDateString('zh-CN');
+  const zhToday = new Date().toLocaleDateString('zh-CN'); // 如 2026/8/24
+  const shortDate = zhToday.split('/').slice(1).join('/'); // 8/24
   const content = [];
-  content.push([
-    { tag: 'text', text: `📡 AI 资讯日报 · ${today}\n本期 ${top.length} 条新内容（时间排序）：\n` },
-  ]);
-
-  top.forEach((item, idx) => {
-    const score = item.score != null ? `⭐${Number(item.score).toFixed(1)}` : '';
-    const tags = (item.topics || []).slice(0, 3).join(' / ');
-    const summary = (item.summary || '').slice(0, 100);
-
-    content.push([
-      { tag: 'text', text: `${idx + 1}. ${score} ` },
-      { tag: 'a', text: (item.title || '').slice(0, 60), href: item.link || '#' },
-    ]);
-
-    if (summary) content.push([{ tag: 'text', text: `   ${summary}\n` }]);
-
-    const meta = [];
-    if (item.source) meta.push(`来源: ${item.source}`);
-    if (tags) meta.push(`标签: ${tags}`);
-    content.push([{ tag: 'text', text: `   ${meta.join(' | ')}\n\n` }]);
-  });
-
+  content.push([{ tag: 'text', text: `📡 AI 资讯日报 · ${zhToday}\n今日 ${count} 条新内容已更新\n` }]);
   content.push([
     { tag: 'text', text: '👉 ' },
-    { tag: 'a', text: `查看完整 HTML 报告（${today.split('/').slice(1).join('/')}）`, href: reportUrl() },
+    { tag: 'a', text: `查看完整报告（${shortDate}）`, href: reportUrl() },
   ]);
 
-  const postContent = {
-    zh_cn: { title: `AI 资讯日报 · ${today}`, content },
-  };
+  const postContent = { zh_cn: { title: `AI 资讯日报 · ${zhToday}`, content } };
   const body = {
     receive_id: USER_OPEN_ID,
     msg_type: 'post',
     content: JSON.stringify(postContent),
   };
 
-  console.log(`准备推送 ${top.length} 条新内容到飞书...`);
+  console.log(`推送日报链接通知（今日 ${count} 条）...`);
   try {
     const output = execFileSync(
       LARK_CLI,
@@ -139,9 +101,9 @@ function main() {
     const result = JSON.parse(output);
     if (result.ok) {
       console.log('✅ 推送成功! message_id:', result.data.message_id);
-      console.log(`推送了 ${top.length} 条新内容`);
-      savePushed(top.map((i) => i.guid));
-      console.log('已记录推送历史，下次不会重复推送这些内容');
+      state.reportPushedDate = today;
+      savePushed(state);
+      console.log('已记录推送日期，今天不会重复推送');
     } else {
       console.error('❌ 推送失败:', (result.error && result.error.message) || output.slice(0, 200));
       process.exit(1);
