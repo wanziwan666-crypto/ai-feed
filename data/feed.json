@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-08-23T18:16:20.309Z",
+  "generatedAt": "2026-08-24T00:44:40.238Z",
   "lookbackHours": 24,
-  "totalItems": 21,
+  "totalItems": 22,
   "items": [
+    {
+      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
+      "pubDate": "Sun, 23 Aug 2026 23:00:00 GMT",
+      "date": "Sun, 23 Aug 2026 23:00:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it treats enterprise knowledge as application-specific context rather than a shared enterprise asset.\nAs organizations deploy more AI applications and agents, this model begins to break down. Different teams pr",
+      "guid": "2znePv9XlFXwfla86XQI2g"
+    },
+    {
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "pubDate": "2026-08-23T20:24:52.000Z",
+      "date": "2026-08-23T20:24:52.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
+    },
     {
       "title": "Show HN: LAN Sheriff – watch which servers your machine talks to, live on a map",
       "link": "https://github.com/291-Group/LAN-Sheriff",
@@ -222,17 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://github.com/tooppoo/enozunu\nComments URL: https://news.ycombinator.com/item?id=49408038\nPoints: 5\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49408038"
-    },
-    {
-      "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-      "link": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
-      "pubDate": "Sat, 22 Aug 2026 21:30:00 GMT",
-      "date": "Sat, 22 Aug 2026 21:30:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "For much of the past two years, the general belief in enterprise AI has been that more autonomy equals better performance. Build agents that can plan, decide, and act across multi-step workflows, and give them as much room to run as possible. That assumption is now being tested at scale, in real production environments — and in a lot of deployments it's failing. The companies that end up benefiting from agentic AI won't necessarily be the ones that have given their agents the most flexibility. T",
-      "guid": "6y4lGj2ZoY6guqwCLwvG6e"
     }
   ]
 }
