@@ -1,8 +1,52 @@
 {
-  "generatedAt": "2026-08-25T00:44:11.390Z",
+  "generatedAt": "2026-08-25T03:01:16.003Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 29,
   "items": [
+    {
+      "title": "MadsLorentzen/ai-job-search",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "pubDate": "2026-08-25T03:00:49.137Z",
+      "date": "2026-08-25T03:00:49.137Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
+      "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: Networthy – net-worth tracker that runs on your machine, not my server",
+      "link": "https://github.com/awmanoj/networthy",
+      "pubDate": "Tue, 25 Aug 2026 01:54:21 +0000",
+      "date": "Tue, 25 Aug 2026 01:54:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/awmanoj/networthy\nComments URL: https://news.ycombinator.com/item?id=49428202\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49428202"
+    },
+    {
+      "title": "Show HN: Pyrift – static analyser for silent Python/PyPy behaviour differences",
+      "link": "https://github.com/BHUVANSH855/pyrift",
+      "pubDate": "Tue, 25 Aug 2026 00:47:11 +0000",
+      "date": "Tue, 25 Aug 2026 00:47:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/BHUVANSH855/pyrift\nComments URL: https://news.ycombinator.com/item?id=49427790\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49427790"
+    },
+    {
+      "title": "Show HN: Poka-Yoke – mistake-proofing skills for Claude Code, with a benchmark",
+      "link": "https://github.com/rainmanjam/poka-yoke",
+      "pubDate": "Tue, 25 Aug 2026 00:14:15 +0000",
+      "date": "Tue, 25 Aug 2026 00:14:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/rainmanjam/poka-yoke\nComments URL: https://news.ycombinator.com/item?id=49427559\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49427559"
+    },
     {
       "title": "Show HN: MTL Explorer – Self-hosted archive for GPS tracks",
       "link": "https://github.com/mindalyze-com/mtl-explorer",
@@ -44,7 +88,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://flostep.dev/\nComments URL: https://news.ycombinator.com/item?id=49426877\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://flostep.dev/\nComments URL: https://news.ycombinator.com/item?id=49426877\nPoints: 7\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49426877"
     },
     {
@@ -191,39 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49425303"
     },
     {
-      "title": "Show HN: Noswoosh – instant macOS Space switching, no animation",
-      "link": "https://github.com/mmathys/noswoosh",
-      "pubDate": "Mon, 24 Aug 2026 20:04:54 +0000",
-      "date": "Mon, 24 Aug 2026 20:04:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/mmathys/noswoosh\nComments URL: https://news.ycombinator.com/item?id=49425151\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49425151"
-    },
-    {
-      "title": "Show HN: WorkBase – local-first project manager where a project is a tree",
-      "link": "https://github.com/vocso-com/WorkBase",
-      "pubDate": "Mon, 24 Aug 2026 19:59:57 +0000",
-      "date": "Mon, 24 Aug 2026 19:59:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/vocso-com/WorkBase\nComments URL: https://news.ycombinator.com/item?id=49425095\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49425095"
-    },
-    {
-      "title": "Show HN: Maya Calendar",
-      "link": "https://mcal.qt.ax/",
-      "pubDate": "Mon, 24 Aug 2026 19:57:58 +0000",
-      "date": "Mon, 24 Aug 2026 19:57:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "In a similar vein to the French Republican Calendar app I built a while back (https://frcal.qt.ax/, https://news.ycombinator.com/item?id=30658487), I built this implementation of the Maya calendar.\nFor some more details regarding the implementation, see https://quantum5.ca/2026/07/04/art-of-time-keeping-part-5-ma....\nComments URL: https://news.ycombinator.com/item?id=49425068\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49425068"
-    },
-    {
       "title": "How to encourage smarter AI use in the classroom",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
       "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
@@ -266,6 +277,17 @@
       "icon": "🔬",
       "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
       "guid": "https://www.technologyreview.com/?p=1142863"
+    },
+    {
+      "title": "Teacher Burnout: Go 10% Slower and Get Your Joy Back",
+      "link": "https://www.coolcatteacher.com/e975/",
+      "pubDate": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "date": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nDr. Jen Rafferty burned out as a middle school music teacher, rebuilt her life, and now helps educators get back to balance without leaving the classroom. Emotional intelligence, the brain science behind it, and the two-step move to try tonight.\nThe post Teacher Burnout: Go 10% Slower and Get Your Joy Back appeared first on Cool Cat Teacher Blog by V",
+      "guid": "https://www.coolcatteacher.com/?p=35264"
     },
     {
       "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores ",
