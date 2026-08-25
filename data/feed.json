@@ -1,8 +1,228 @@
 {
-  "generatedAt": "2026-08-24T18:26:52.507Z",
+  "generatedAt": "2026-08-25T00:44:11.390Z",
   "lookbackHours": 24,
-  "totalItems": 9,
+  "totalItems": 27,
   "items": [
+    {
+      "title": "Show HN: MTL Explorer – Self-hosted archive for GPS tracks",
+      "link": "https://github.com/mindalyze-com/mtl-explorer",
+      "pubDate": "Tue, 25 Aug 2026 00:06:31 +0000",
+      "date": "Tue, 25 Aug 2026 00:06:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/mindalyze-com/mtl-explorer\nComments URL: https://news.ycombinator.com/item?id=49427510\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49427510"
+    },
+    {
+      "title": "Show HN: A cloud harness for long autonomous work",
+      "link": "https://www.usebourne.com/",
+      "pubDate": "Mon, 24 Aug 2026 23:42:24 +0000",
+      "date": "Mon, 24 Aug 2026 23:42:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.usebourne.com/\nComments URL: https://news.ycombinator.com/item?id=49427336\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49427336"
+    },
+    {
+      "title": "Show HN: AiSyncing – Back up your AI coding assistant memories to GitHub",
+      "link": "https://github.com/DiegoSalazar/AiSyncing",
+      "pubDate": "Mon, 24 Aug 2026 22:52:08 +0000",
+      "date": "Mon, 24 Aug 2026 22:52:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/DiegoSalazar/AiSyncing\nComments URL: https://news.ycombinator.com/item?id=49426934\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49426934"
+    },
+    {
+      "title": "Show HN: Flostep – Diagrams people can actually walkthrough",
+      "link": "https://flostep.dev/",
+      "pubDate": "Mon, 24 Aug 2026 22:45:24 +0000",
+      "date": "Mon, 24 Aug 2026 22:45:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://flostep.dev/\nComments URL: https://news.ycombinator.com/item?id=49426877\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49426877"
+    },
+    {
+      "title": "Show HN: Mainly – a self-hosted mail client built for your multiple domains",
+      "link": "https://mainly.crnst8.com/",
+      "pubDate": "Mon, 24 Aug 2026 22:36:24 +0000",
+      "date": "Mon, 24 Aug 2026 22:36:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey all,\nI built this mail client to manage my self-hosted mail across multiple domains, and it's ended up being my daily driver (i.e. it gets patched quick) and thought I'd share it again here.\nI wanted something that was fast to parse visually, easy to manage & customize, self-host and easily deploy, so it does all of the above. I'm an inpatient fella, so it also allows you to do things like bulk onboard domains, sort addresses into folders for visual sorting, adjust custom sender images & tag",
+      "guid": "https://news.ycombinator.com/item?id=49426802"
+    },
+    {
+      "title": "Show HN: Stigmergy, a Karpathy-style LLM wiki for a team, not one person",
+      "link": "https://github.com/sturlese/stigmergy",
+      "pubDate": "Mon, 24 Aug 2026 22:32:57 +0000",
+      "date": "Mon, 24 Aug 2026 22:32:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sturlese/stigmergy\nComments URL: https://news.ycombinator.com/item?id=49426770\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49426770"
+    },
+    {
+      "title": "Show HN: Self-hosted tunnels: local directory/port, your domain, HTTPS, passkeys",
+      "link": "https://github.com/schappim/mygrok",
+      "pubDate": "Mon, 24 Aug 2026 22:15:32 +0000",
+      "date": "Mon, 24 Aug 2026 22:15:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/schappim/mygrok\nComments URL: https://news.ycombinator.com/item?id=49426581\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49426581"
+    },
+    {
+      "title": "Show HN: My friend built a Gleam server – let's try to take it down",
+      "link": "https://kms.andrewpavlov.org/",
+      "pubDate": "Mon, 24 Aug 2026 22:08:44 +0000",
+      "date": "Mon, 24 Aug 2026 22:08:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi! My friend, who I'm mentoring, had some free time and was looking for something interesting to build. I suggested he take a look at Gleam, since I've been interested in the language myself, and build both the backend and frontend for a project that fits the spirit of the BEAM ecosystem well.\nThe result is https://kms.andrewpavlov.org/.\nUsing the UI on the website, you can gradually increase the load and watch how the server's CPU and RAM usage respond in real time.\nMaybe the HN effect will do",
+      "guid": "https://news.ycombinator.com/item?id=49426508"
+    },
+    {
+      "title": "Show HN: I calculated how much of every Indian price is tax and duty",
+      "link": "https://thodasa.com",
+      "pubDate": "Mon, 24 Aug 2026 21:57:48 +0000",
+      "date": "Mon, 24 Aug 2026 21:57:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://thodasa.com\nComments URL: https://news.ycombinator.com/item?id=49426390\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49426390"
+    },
+    {
+      "title": "Show HN: Shazam.el",
+      "link": "http://yummymelon.com/devnull/announcing-shazam-el.html",
+      "pubDate": "Mon, 24 Aug 2026 21:28:47 +0000",
+      "date": "Mon, 24 Aug 2026 21:28:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Post describing a simple Elisp package that calls a macOS Shortcut to run Shazam music recognition.\nComments URL: https://news.ycombinator.com/item?id=49426081\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49426081"
+    },
+    {
+      "title": "Show HN: Nonograms TUI",
+      "link": "https://github.com/dtnewman/nonograms",
+      "pubDate": "Mon, 24 Aug 2026 20:59:11 +0000",
+      "date": "Mon, 24 Aug 2026 20:59:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Play Nonograms in the terminal and create/submit your own puzzles.\nComments URL: https://news.ycombinator.com/item?id=49425773\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425773"
+    },
+    {
+      "title": "Show HN: Octophobia – a daily puzzle where you clear the board without making 8",
+      "link": "https://playoctophobia.com/",
+      "pubDate": "Mon, 24 Aug 2026 20:56:38 +0000",
+      "date": "Mon, 24 Aug 2026 20:56:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://playoctophobia.com/\nComments URL: https://news.ycombinator.com/item?id=49425748\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425748"
+    },
+    {
+      "title": "Show HN: Module for LLM Homeostasis (PoC)",
+      "link": "https://github.com/PJHkorea/homeostasis-kernel",
+      "pubDate": "Mon, 24 Aug 2026 20:46:47 +0000",
+      "date": "Mon, 24 Aug 2026 20:46:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/PJHkorea/homeostasis-kernel\nComments URL: https://news.ycombinator.com/item?id=49425617\nPoints: 1\n# Comments: 5",
+      "guid": "https://news.ycombinator.com/item?id=49425617"
+    },
+    {
+      "title": "Show HN: AI stylist and virtual try-on for hair, makeup, and outfits",
+      "link": "https://mybestlook.app",
+      "pubDate": "Mon, 24 Aug 2026 20:44:47 +0000",
+      "date": "Mon, 24 Aug 2026 20:44:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mybestlook.app\nComments URL: https://news.ycombinator.com/item?id=49425597\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425597"
+    },
+    {
+      "title": "Show HN: Transpose Spotify audio and isolate vocals/instruments in realtime",
+      "link": "https://github.com/evanhu1/transposify",
+      "pubDate": "Mon, 24 Aug 2026 20:26:28 +0000",
+      "date": "Mon, 24 Aug 2026 20:26:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Sharing a macOS menu-bar app I made that lets you transpose and separate instrument tracks from Spotify songs in realtime.\nUses Rubberband engine pitch shifting with formant preservation to avoid the ogre-like sound of pitching down, and HTDemucs converted to Core ML (NN model) to do live audio separation via sliding audio windows.\nI think this is the best tool of its kind (lowest latency, highest quality, realtime). It's invaluable for me now with karaoke, practicing singing / piano along with ",
+      "guid": "https://news.ycombinator.com/item?id=49425400"
+    },
+    {
+      "title": "Show HN: Radar 50 – Real-time signal engine for 50 crypto markets, with accuracy",
+      "link": "https://www.marketradar50.com",
+      "pubDate": "Mon, 24 Aug 2026 20:16:57 +0000",
+      "date": "Mon, 24 Aug 2026 20:16:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.marketradar50.com\nComments URL: https://news.ycombinator.com/item?id=49425313\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425313"
+    },
+    {
+      "title": "Show HN: Live dashboard of Great Britain's electricity grid",
+      "link": "https://trydan.uk/",
+      "pubDate": "Mon, 24 Aug 2026 20:16:26 +0000",
+      "date": "Mon, 24 Aug 2026 20:16:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://trydan.uk/\nComments URL: https://news.ycombinator.com/item?id=49425303\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425303"
+    },
+    {
+      "title": "Show HN: Noswoosh – instant macOS Space switching, no animation",
+      "link": "https://github.com/mmathys/noswoosh",
+      "pubDate": "Mon, 24 Aug 2026 20:04:54 +0000",
+      "date": "Mon, 24 Aug 2026 20:04:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/mmathys/noswoosh\nComments URL: https://news.ycombinator.com/item?id=49425151\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425151"
+    },
+    {
+      "title": "Show HN: WorkBase – local-first project manager where a project is a tree",
+      "link": "https://github.com/vocso-com/WorkBase",
+      "pubDate": "Mon, 24 Aug 2026 19:59:57 +0000",
+      "date": "Mon, 24 Aug 2026 19:59:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/vocso-com/WorkBase\nComments URL: https://news.ycombinator.com/item?id=49425095\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425095"
+    },
+    {
+      "title": "Show HN: Maya Calendar",
+      "link": "https://mcal.qt.ax/",
+      "pubDate": "Mon, 24 Aug 2026 19:57:58 +0000",
+      "date": "Mon, 24 Aug 2026 19:57:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "In a similar vein to the French Republican Calendar app I built a while back (https://frcal.qt.ax/, https://news.ycombinator.com/item?id=30658487), I built this implementation of the Maya calendar.\nFor some more details regarding the implementation, see https://quantum5.ca/2026/07/04/art-of-time-keeping-part-5-ma....\nComments URL: https://news.ycombinator.com/item?id=49425068\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49425068"
+    },
     {
       "title": "How to encourage smarter AI use in the classroom",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -79,28 +299,6 @@
       "icon": "🔬",
       "contentSnippet": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of ChatGPT,…",
       "guid": "https://www.technologyreview.com/?p=1141740"
-    },
-    {
-      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
-      "pubDate": "Sun, 23 Aug 2026 23:00:00 GMT",
-      "date": "Sun, 23 Aug 2026 23:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it treats enterprise knowledge as application-specific context rather than a shared enterprise asset.\nAs organizations deploy more AI applications and agents, this model begins to break down. Different teams pr",
-      "guid": "2znePv9XlFXwfla86XQI2g"
-    },
-    {
-      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-      "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-      "pubDate": "2026-08-23T20:24:52.000Z",
-      "date": "2026-08-23T20:24:52.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
     }
   ]
 }
