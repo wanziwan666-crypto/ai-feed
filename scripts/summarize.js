@@ -192,7 +192,10 @@ ${PROFILE.focusText}
 
     const msgContent = response.choices[0]?.message?.content;
     const raw = (typeof msgContent === 'string' && msgContent.trim()) || '';
-    if (!raw || raw.includes('N/A') || raw.includes('与AI无关') || raw.length < 5) return null;
+    // content 为空(限速返回 200+空 choices、reasoning 吃光 token 等)= 没拿到判定,走 failed 重试,
+    // 不能与"N/A 判定"混在同一个 null 里——否则被标 seen 后永久丢失(2026-08-26 并发跑丢 26 条的根因)
+    if (!raw) return { failed: true };
+    if (raw.includes('N/A') || raw.includes('与AI无关') || raw.length < 5) return null;
 
     const lines = raw.split('\n').map((l) => l.trim()).filter(Boolean);
     const tagLine = lines.find((l) => l.includes('[TAGS]')) || '';
@@ -256,9 +259,11 @@ function computeScore(scores, item) {
 }
 
 async function summarizeBatch(items, userPreferences) {
-  // 免费档模型(如 glm-4.5-flash)有严格速率限制:AI_FEED_BATCH_SIZE=1 + AI_FEED_BATCH_DELAY 拉大间隔即可通过
-  const BATCH_SIZE = parseInt(process.env.AI_FEED_BATCH_SIZE || '5', 10) || 5;
-  const BATCH_DELAY = parseInt(process.env.AI_FEED_BATCH_DELAY || '800', 10) || 800;
+  // 免费档模型(如 glm-4.5-flash)有严格速率限制:5 并发会整批 429「速率限制」导致条目丢失
+  // (2026-08-26 补推实测并发只成 9/35)。检测到 flash 模型时默认串行 + 3s 间隔;环境变量仍可覆盖。
+  const isFreeTier = /flash/i.test(MODEL);
+  const BATCH_SIZE = parseInt(process.env.AI_FEED_BATCH_SIZE || (isFreeTier ? '1' : '5'), 10) || 5;
+  const BATCH_DELAY = parseInt(process.env.AI_FEED_BATCH_DELAY || (isFreeTier ? '3000' : '800'), 10) || 800;
   const results = [];
   const failed = [];
   for (let i = 0; i < items.length; i += BATCH_SIZE) {
