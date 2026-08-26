@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T12:33:11.595Z",
+  "generatedAt": "2026-08-26T19:39:10.192Z",
   "lookbackHours": 24,
   "totalItems": 29,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-08-26T12:33:07.491Z",
-      "date": "2026-08-26T12:33:07.491Z",
+      "pubDate": "2026-08-26T19:39:08.988Z",
+      "date": "2026-08-26T19:39:08.988Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,48 +15,257 @@
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
     },
     {
-      "title": "Show HN: ModelMRI – see inside a local LLM, VLM or robot policy while it runs",
-      "link": "https://github.com/muhammadmahadazher/ModelMRI",
-      "pubDate": "Wed, 26 Aug 2026 12:26:31 +0000",
-      "date": "Wed, 26 Aug 2026 12:26:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/muhammadmahadazher/ModelMRI\nComments URL: https://news.ycombinator.com/item?id=49447785\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49447785"
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "pubDate": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "date": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+      "guid": "https://www.technologyreview.com/?p=1143013"
     },
     {
-      "title": "Show HN: Web Game \"Player vs. Computer\"",
-      "link": "https://github.com/Rubinoslaw/Player-vs-Computer/",
-      "pubDate": "Wed, 26 Aug 2026 12:20:21 +0000",
-      "date": "Wed, 26 Aug 2026 12:20:21 +0000",
+      "title": "Show HN: Kudu – A TUI VM Manager on Linux",
+      "link": "https://github.com/pythops/kudu",
+      "pubDate": "Wed, 26 Aug 2026 18:43:44 +0000",
+      "date": "Wed, 26 Aug 2026 18:43:44 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hello! I'm Filip, also called as Rubinosław from REParadoxy channel, and I wanna present to you my first own web video game, which was written in Python using Pygame and Pygbag.\nPlayer vs Computer!\nA funny game where you challenge your computer (not ai) in many ways, testing your durability, and you have to overcome it.\n- Get 5 points more than your computer in Rock Paper Scissors... Water(!) to win!\n- Click The Gigachad without ending to tire your computer,\n- and get some random fun facts, whic",
-      "guid": "https://news.ycombinator.com/item?id=49447717"
+      "contentSnippet": "Article URL: https://github.com/pythops/kudu\nComments URL: https://news.ycombinator.com/item?id=49453833\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49453833"
     },
     {
-      "title": "Show HN: Dependency graph and impact analysis for your GitHub repo",
-      "link": "https://vast-neracu.vercel.app/",
-      "pubDate": "Wed, 26 Aug 2026 12:16:34 +0000",
-      "date": "Wed, 26 Aug 2026 12:16:34 +0000",
+      "title": "Show HN: Nodusfall Wiki – Tracking Verified Game Information and Updates",
+      "link": "https://nodusfallwiki.org/",
+      "pubDate": "Wed, 26 Aug 2026 18:39:23 +0000",
+      "date": "Wed, 26 Aug 2026 18:39:23 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://vast-neracu.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49447666\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49447666"
+      "contentSnippet": "Article URL: https://nodusfallwiki.org/\nComments URL: https://news.ycombinator.com/item?id=49453776\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49453776"
     },
     {
-      "title": "Show HN: Toned, an iPhone darkroom app that models film negatives and paper",
-      "link": "https://news.ycombinator.com/item?id=49447599",
-      "pubDate": "Wed, 26 Aug 2026 12:11:02 +0000",
-      "date": "Wed, 26 Aug 2026 12:11:02 +0000",
+      "title": "Show HN: AI scientist builds an open-source Codex Micro from scratch for $40",
+      "link": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
+      "pubDate": "Wed, 26 Aug 2026 18:16:57 +0000",
+      "date": "Wed, 26 Aug 2026 18:16:57 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I am interested in simulating pyshical processes in software so i decided to build an iPhone app that simulates film negatives and paper.\nIt models in 2 stages:\nscene light -> color negative -> print reflectance\nThe negative uses per-dye-layer H&D curves and the paper also has its own response curves.\nIf you've ever spent time in a real darkroom, I would really like you to try the app and share your opinions.\nApp Store: https://apps.apple.com/app/id6799706160\nComments URL: https://news.ycombinat",
-      "guid": "https://news.ycombinator.com/item?id=49447599"
+      "contentSnippet": "A few weeks ago, we open-sourced our design for a cost-effective but full featured alternative to OpenAI x Work Louder's sold out Codex Micro macropad. And now, we're pleased to share that we've actually built them and they work!\nQuick recap of the I/O:\n- 13 assignable keys with individual LEDs\n- rotary encoder\n- joystick\n- touch disc\n- optional edge-lit LED band\nThe cool part for us was just HOW our agent was able to do it when every other agentic skills, tools, and even commercial platforms fa",
+      "guid": "https://news.ycombinator.com/item?id=49453466"
+    },
+    {
+      "title": "Show HN: Chroncal – A TUI for Calendar",
+      "link": "https://github.com/DouglasdeMoura/chroncal",
+      "pubDate": "Wed, 26 Aug 2026 17:55:35 +0000",
+      "date": "Wed, 26 Aug 2026 17:55:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been working on Chroncal for the past weeks, an open source TUI/CLI with iCalendar (RFC 5545) support and CalDAV sync, using SQLite to store the data.\nMy main goal is to make it easy for LLMs to auto-discover the CLI commands and access the database, while providing a nice TUI for the user (and I also found it paired very well with Omarchy, so, I also made a plugin to integrate in on Quickshell: https://github.com/DouglasdeMoura/chroncal-bar).\nI'd love some feeback, specially to find bugs a",
+      "guid": "https://news.ycombinator.com/item?id=49453176"
+    },
+    {
+      "title": "Show HN: Railo – Deterministic security patch bot using AST and Z3 (no LLMs)",
+      "link": "https://www.railo.dev",
+      "pubDate": "Wed, 26 Aug 2026 17:50:07 +0000",
+      "date": "Wed, 26 Aug 2026 17:50:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.railo.dev\nComments URL: https://news.ycombinator.com/item?id=49453098\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49453098"
+    },
+    {
+      "title": "Show HN: I made a retirement simulator: 125 years of data, 25 countries",
+      "link": "https://foresightplanner.com/",
+      "pubDate": "Wed, 26 Aug 2026 17:41:19 +0000",
+      "date": "Wed, 26 Aug 2026 17:41:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://foresightplanner.com/\nComments URL: https://news.ycombinator.com/item?id=49452974\nPoints: 13\n# Comments: 18",
+      "guid": "https://news.ycombinator.com/item?id=49452974"
+    },
+    {
+      "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
+      "link": "https://timberreader.com/",
+      "pubDate": "Wed, 26 Aug 2026 17:28:46 +0000",
+      "date": "Wed, 26 Aug 2026 17:28:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://timberreader.com/\nComments URL: https://news.ycombinator.com/item?id=49452794\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49452794"
+    },
+    {
+      "title": "Show HN: Caniuse for spreadsheet functions, every LibreOffice result executed",
+      "link": "https://canispreadsheet.com/",
+      "pubDate": "Wed, 26 Aug 2026 17:18:48 +0000",
+      "date": "Wed, 26 Aug 2026 17:18:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://canispreadsheet.com/\nComments URL: https://news.ycombinator.com/item?id=49452645\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49452645"
+    },
+    {
+      "title": "Show HN: I get 25 deeply researched ideas from 19 agents with one single prompt",
+      "link": "https://github.com/ringlochid/oh-my-subagents",
+      "pubDate": "Wed, 26 Aug 2026 17:06:13 +0000",
+      "date": "Wed, 26 Aug 2026 17:06:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49452437\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49452437"
+    },
+    {
+      "title": "Show HN: Automatically hide flamebait/shallow/political comments on HN",
+      "link": "https://classify.stylometry.net/",
+      "pubDate": "Wed, 26 Aug 2026 17:00:51 +0000",
+      "date": "Wed, 26 Aug 2026 17:00:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love HN, but lately I have been sick of reading the same dismissive criticisms over and over again. Along with political arguments that have been litigated to death, people's issues with smooth scrolling on blogs, etc. Many of these comments do not get flagged for whatever reason. So I made a service to automatically classify whether comments violate (a modified form of) the HN guidelines automatically. In addition there's a Chrome extension to collapse these comments (if they violate your sco",
+      "guid": "https://news.ycombinator.com/item?id=49452362"
+    },
+    {
+      "title": "Show HN: Rudder – Red-Green TDD Workflow for Verifiably Comprehensive Specs",
+      "link": "https://github.com/RudderCode/Rudder",
+      "pubDate": "Wed, 26 Aug 2026 17:00:40 +0000",
+      "date": "Wed, 26 Aug 2026 17:00:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Rudder is a local Codex/Claude Code plugin that captures your specs and your coding agent session history to force your agent to rewrite unit tests exclusively from your expressed intent. This turns unit test coverage into a proxy for what percent of the code actually comes from decisions you've made and lets you see how much of your agent's generated code is uncovered by your spec. After showing you an initial coverage percentage, Rudder prompts you with targeted questions to increase coverage ",
+      "guid": "https://news.ycombinator.com/item?id=49452359"
+    },
+    {
+      "title": "Show HN: SSH Session Monitor – read-only Windows OpenSSH monitoring",
+      "link": "https://github.com/issacnitin/SshSessionMonitor",
+      "pubDate": "Wed, 26 Aug 2026 16:55:16 +0000",
+      "date": "Wed, 26 Aug 2026 16:55:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/issacnitin/SshSessionMonitor\nComments URL: https://news.ycombinator.com/item?id=49452281\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49452281"
+    },
+    {
+      "title": "Show HN: Yelp for AI Models/Products",
+      "link": "https://thevibes.dev/",
+      "pubDate": "Wed, 26 Aug 2026 16:40:29 +0000",
+      "date": "Wed, 26 Aug 2026 16:40:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Benchmarks are great but in addition to benchmarks, I thought it would be great to hear first hand reviews from vibe coders (engineers) who use AI models and subscriptions.\nComments URL: https://news.ycombinator.com/item?id=49452051\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49452051"
+    },
+    {
+      "title": "Show HN: FinOps-AI – Autonomous AWS Cost Optimizer and 1-Click IaC Remediator",
+      "link": "https://news.ycombinator.com/item?id=49452046",
+      "pubDate": "Wed, 26 Aug 2026 16:40:16 +0000",
+      "date": "Wed, 26 Aug 2026 16:40:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49452046\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49452046"
+    },
+    {
+      "title": "Show HN: Build your own theme park",
+      "link": "https://www.magicpatterns.com/theme-park",
+      "pubDate": "Wed, 26 Aug 2026 16:40:01 +0000",
+      "date": "Wed, 26 Aug 2026 16:40:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds and connected with paths and rides.\nThe weird part is that I built it using the same ideas we use to make AI-generated websites follow a company’s design system.\nI work as an engineer at Magic Patterns, focused on building our Design System Agent, aimed to use your existing brand, components, and c",
+      "guid": "https://news.ycombinator.com/item?id=49452037"
+    },
+    {
+      "title": "Show HN: eInk Optimized Manga with Kindle Comic Converter (+Kobo/KOreader)",
+      "link": "https://github.com/ciromattia/kcc",
+      "pubDate": "Wed, 26 Aug 2026 16:37:07 +0000",
+      "date": "Wed, 26 Aug 2026 16:37:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Kindle Comic Converter optimizes black & white (or color) comics and manga for E-ink ereaders like Kindle, Kobo, ReMarkable, and more. Pages display in fullscreen without margins, with proper fixed layout support. KCC runs on Windows, macOS, and Linux.\nKCC's main goal is maximum image quality at significantly smaller file size. For example, KCC\n1) can compress a 600 MB manga volume from Humble Bundle to 100 MB. This is mostly accomplished by downscaling to the native resolution of your specific ",
+      "guid": "https://news.ycombinator.com/item?id=49451982"
+    },
+    {
+      "title": "Show HN: Family sync with no server – Apple-signed entitlements on iOS",
+      "link": "https://receiptiq.me/blog-family-sync-architecture",
+      "pubDate": "Wed, 26 Aug 2026 16:33:43 +0000",
+      "date": "Wed, 26 Aug 2026 16:33:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://receiptiq.me/blog-family-sync-architecture\nComments URL: https://news.ycombinator.com/item?id=49451927\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49451927"
+    },
+    {
+      "title": "Show HN: airtxt – iPhone dictation with on-device STT and an AI cleanup pass",
+      "link": "https://apps.apple.com/us/app/airtxt/id6785986350",
+      "pubDate": "Wed, 26 Aug 2026 16:32:53 +0000",
+      "date": "Wed, 26 Aug 2026 16:32:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/airtxt/id6785986350\nComments URL: https://news.ycombinator.com/item?id=49451904\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49451904"
+    },
+    {
+      "title": "Show HN: Have You Heard? Discover great software via browser notifications",
+      "link": "https://haveyouheardof.app/",
+      "pubDate": "Wed, 26 Aug 2026 16:26:36 +0000",
+      "date": "Wed, 26 Aug 2026 16:26:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://haveyouheardof.app/\nComments URL: https://news.ycombinator.com/item?id=49451789\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49451789"
+    },
+    {
+      "title": "Show HN: Llmcanvas.chat Tree-based LLM chat on an infinite canvas",
+      "link": "https://llmcanvas.chat",
+      "pubDate": "Wed, 26 Aug 2026 16:23:17 +0000",
+      "date": "Wed, 26 Aug 2026 16:23:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "No one thinks linearly, yet current LLM interfaces still force you to, and it sucks.\nSo I built llmcanvas.chat. The name says it all; you can branch, regenerate across models and compare: all in one infinite canvas.\nEvery prompt and response is a node in the canvas and it brings ultimate flexibility on how you interact with the LLM, while keeping the old-school way of chatting linearly.\nBring your own keys, 4 providers supported: Anthropic, OpenAI, Gemini, and OpenRouter.\nTry it: llmcanvas.chat.",
+      "guid": "https://news.ycombinator.com/item?id=49451733"
+    },
+    {
+      "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+      "link": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it",
+      "pubDate": "Wed, 26 Aug 2026 16:13:50 GMT",
+      "date": "Wed, 26 Aug 2026 16:13:50 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "A security agent read a Cloudflare log, found an attacker’s prompt-injection payload sitting inside it, and rewrote the company’s DNS. The firewall had already blocked that payload, and blocking it is what wrote it into the log.\nThat chain is GhostJacking, which Tenet Security demonstrated on the DEF CON 34 main stage on August 9. A request hits Cloudflare’s managed ruleset, gets blocked, and is stored byte for byte with its poisoned User-Agent header. An AI coding agent reviewing those blocked ",
+      "guid": "4MqpGZw3o3NwsG49wOjU6h"
+    },
+    {
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "pubDate": "Wed, 26 Aug 2026 14:30:00 GMT",
+      "date": "Wed, 26 Aug 2026 14:30:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.\n\"In the rush to deploy AI, organizations have largely bolted conversational AI onto legacy systems,\" Anand says. \"A",
+      "guid": "7mB2i7HWrsGgSUa5qmwuYz"
     },
     {
       "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
@@ -70,149 +279,6 @@
       "guid": "https://www.technologyreview.com/?p=1143000"
     },
     {
-      "title": "Show HN: A single homepage link you can buy until someone pays $1 more",
-      "link": "https://mostexpensivelink.com/",
-      "pubDate": "Wed, 26 Aug 2026 12:09:59 +0000",
-      "date": "Wed, 26 Aug 2026 12:09:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mostexpensivelink.com/\nComments URL: https://news.ycombinator.com/item?id=49447588\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49447588"
-    },
-    {
-      "title": "Show HN: Routebase – One OpenAPI spec drives your docs, mocks, tests, monitors",
-      "link": "https://routebase.dev/",
-      "pubDate": "Wed, 26 Aug 2026 11:49:59 +0000",
-      "date": "Wed, 26 Aug 2026 11:49:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://routebase.dev/\nComments URL: https://news.ycombinator.com/item?id=49447372\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49447372"
-    },
-    {
-      "title": "Show HN: Zeitgeist Game – guess the date of a HN front page",
-      "link": "https://zeitgeistgame.pages.dev/",
-      "pubDate": "Wed, 26 Aug 2026 11:44:07 +0000",
-      "date": "Wed, 26 Aug 2026 11:44:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://zeitgeistgame.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=49447306\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49447306"
-    },
-    {
-      "title": "Show HN: DBLift – database migration management for Python teams",
-      "link": "https://dblift.com/",
-      "pubDate": "Wed, 26 Aug 2026 11:35:29 +0000",
-      "date": "Wed, 26 Aug 2026 11:35:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I’ve been working for a while on DBLift, an open-source database migration toolkit for Python teams.\nDBLift follows the same model flyway does with the same main commands and the same history table structure making it easy to switch from one to the other with the import_flyway command.\nBy default DBLift is out of order meaning that any unapplied migration is eligible to be applied contrary to flyway which refuse to apply any migration with a lower version until you force it. You can still apply ",
-      "guid": "https://news.ycombinator.com/item?id=49447202"
-    },
-    {
-      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-      "link": "https://typebase.io",
-      "pubDate": "Wed, 26 Aug 2026 11:33:31 +0000",
-      "date": "Wed, 26 Aug 2026 11:33:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN!\nI built Typebase, a library that gives you Convex's DX with Supabase's openness.\nAfter trying Supabase I liked how fast it is to spin up a DB and auth, but really didn't like using RLS and SQL for authorization. With Convex I loved how your server \"lives\" in your code, but disliked the DB model and the realtime-first defaults.\nWith Typebase you just write TS files inside a typebase/ folder in your existing repo. You can define your DB tables inside a schema.ts file and export server func",
-      "guid": "https://news.ycombinator.com/item?id=49447178"
-    },
-    {
-      "title": "Show HN: A local tool that logs every time you swear at your AI coding assistant",
-      "link": "https://github.com/fireinbelly/biomass-conversion-index-monitoring-system",
-      "pubDate": "Wed, 26 Aug 2026 11:23:13 +0000",
-      "date": "Wed, 26 Aug 2026 11:23:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/fireinbelly/biomass-conversion-index-monitoring-system\nComments URL: https://news.ycombinator.com/item?id=49447045\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49447045"
-    },
-    {
-      "title": "Show HN: Vyukov MPSC queue in C++20 with a six-claim formal memory-model proof",
-      "link": "https://github.com/nisgemML/mpsc-queue",
-      "pubDate": "Wed, 26 Aug 2026 11:18:03 +0000",
-      "date": "Wed, 26 Aug 2026 11:18:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/nisgemML/mpsc-queue\nComments URL: https://news.ycombinator.com/item?id=49447000\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49447000"
-    },
-    {
-      "title": "Show HN: Code Stitcher – Apply any LLM output to your local codebase",
-      "link": "https://news.ycombinator.com/item?id=49446964",
-      "pubDate": "Wed, 26 Aug 2026 11:14:14 +0000",
-      "date": "Wed, 26 Aug 2026 11:14:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Exactly what it seems.\nArm the program, copy the code out in text or markdown and have it automatically apply to your local codebase.  Includes python AST checking and  now accepts all GDscript (GODOT) and associated files.\nhttps://github.com/ue-patcher/Code_Stitcher\nComments URL: https://news.ycombinator.com/item?id=49446964\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49446964"
-    },
-    {
-      "title": "Teaching Autistic Learners: Listen, Believe, Then Act",
-      "link": "https://www.coolcatteacher.com/e977/",
-      "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
-      "date": "Wed, 26 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nClaire O'Neill is an autistic teacher, researcher, and neurodiversity consultant from Cork, Ireland who has spent over 20 years teaching autistic students. She describes what an unsupportive classroom feels like from a child's desk, and gives busy teachers one honest place to start with UDL.\nThe post Teaching Autistic Learners: Listen, Believe, Then ",
-      "guid": "https://www.coolcatteacher.com/?p=35266"
-    },
-    {
-      "title": "Show HN: backpressure.systems adds MCP and CLI",
-      "link": "https://backpressure.systems/mcp-and-cli",
-      "pubDate": "Wed, 26 Aug 2026 10:59:32 +0000",
-      "date": "Wed, 26 Aug 2026 10:59:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://backpressure.systems/mcp-and-cli\nComments URL: https://news.ycombinator.com/item?id=49446860\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49446860"
-    },
-    {
-      "title": "Show HN: I fear my tasks",
-      "link": "https://taskroom.autobirds.com/",
-      "pubDate": "Wed, 26 Aug 2026 10:47:51 +0000",
-      "date": "Wed, 26 Aug 2026 10:47:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Task lists are flat. The way I think about my tasks is more like they sit in space. So I made an experiment. My first ever task tool.\nTasks are cardboard boxes on the floor of a room, with the title written on them in marker.\nClick to grab one, drop it on the desk, and its clock starts. Take it off, the clock stops. Time accrues per box forever.\nNo sign-up needed to try it out\nSign in with Google if you want a room that persists.\nOpen question I keep going back and forth on: should the desk hold",
-      "guid": "https://news.ycombinator.com/item?id=49446769"
-    },
-    {
-      "title": "Show HN: Exit planning guidance for private company owners",
-      "link": "https://nextgenseller.com/",
-      "pubDate": "Wed, 26 Aug 2026 10:40:57 +0000",
-      "date": "Wed, 26 Aug 2026 10:40:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nextgenseller.com/\nComments URL: https://news.ycombinator.com/item?id=49446720\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49446720"
-    },
-    {
-      "title": "Show HN: A daily word game where you cut a sentence to five of its words",
-      "link": "https://sheets.works/long-story-short",
-      "pubDate": "Wed, 26 Aug 2026 10:12:55 +0000",
-      "date": "Wed, 26 Aug 2026 10:12:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sheets.works/long-story-short\nComments URL: https://news.ycombinator.com/item?id=49446481\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49446481"
-    },
-    {
       "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
       "link": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
       "pubDate": "Wed, 26 Aug 2026 10:00:00 +0000",
@@ -222,50 +288,6 @@
       "icon": "📊",
       "contentSnippet": "Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
       "guid": "https://stratechery.com/?p=19806"
-    },
-    {
-      "title": "Show HN: Firmament is the Limit – a one-button iPhone flight game",
-      "link": "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878",
-      "pubDate": "Wed, 26 Aug 2026 09:59:39 +0000",
-      "date": "Wed, 26 Aug 2026 09:59:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878\nComments URL: https://news.ycombinator.com/item?id=49446392\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49446392"
-    },
-    {
-      "title": "Show HN: StoreMock, a free, in-browser tool to create app store screenshots",
-      "link": "https://www.storemock.com",
-      "pubDate": "Wed, 26 Aug 2026 09:51:04 +0000",
-      "date": "Wed, 26 Aug 2026 09:51:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.storemock.com\nComments URL: https://news.ycombinator.com/item?id=49446336\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49446336"
-    },
-    {
-      "title": "Show HN: WFY24 weather widget with hyper-local forecasting",
-      "link": "https://wordpress.org/plugins/wfy24-weather-widget/",
-      "pubDate": "Wed, 26 Aug 2026 09:05:45 +0000",
-      "date": "Wed, 26 Aug 2026 09:05:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wordpress.org/plugins/wfy24-weather-widget/\nComments URL: https://news.ycombinator.com/item?id=49445943\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49445943"
-    },
-    {
-      "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-      "link": "https://www.globalsolo.global/data/banking-access-index",
-      "pubDate": "Wed, 26 Aug 2026 09:01:49 +0000",
-      "date": "Wed, 26 Aug 2026 09:01:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.globalsolo.global/data/banking-access-index\nComments URL: https://news.ycombinator.com/item?id=49445908\nPoints: 12\n# Comments: 10",
-      "guid": "https://news.ycombinator.com/item?id=49445908"
     },
     {
       "title": "AI models flub these intelligence tests. Can you fare any better?",
@@ -279,7 +301,7 @@
       "guid": "https://www.technologyreview.com/?p=1141952"
     },
     {
-      "title": "Protecting the Student Mind in the Age of AI",
+      "title": "Protecting Student Cognition in the Age of AI",
       "link": "https://edsurge.com/news/protecting-the-student-mind-in-the-age-of-ai",
       "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
       "date": "Wed, 26 Aug 2026 00:00:00 GMT",
@@ -299,28 +321,6 @@
       "icon": "🔬",
       "contentSnippet": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and…",
       "guid": "https://www.technologyreview.com/?p=1140905"
-    },
-    {
-      "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
-      "link": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
-      "pubDate": "Tue, 25 Aug 2026 17:24:22 GMT",
-      "date": "Tue, 25 Aug 2026 17:24:22 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "A CISO who sees a low CVE count and deprioritizes prompt injection is reading the scoreboard wrong. Prompt injection has held the No. 1 spot on the OWASP Top 10 for LLM Applications for three consecutive years. When two leaders of that list checked it against 6,639 labeled real-world incidents, it came back at No. 12. The drop measures visibility rather than danger, because the attack operates where a vulnerability scanner cannot see it.\nThat finding belongs to Kyriakos “Rock” Lambros and Steve ",
-      "guid": "2N7QzleeaZrEU9uehfXeR4"
-    },
-    {
-      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-      "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-      "pubDate": "Tue, 25 Aug 2026 13:00:00 GMT",
-      "date": "Tue, 25 Aug 2026 13:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Perplexity is launching Portable Computer today, a version of its agentic \"Computer\" platform that runs entirely on hardware users already own — starting with Nvidia's DGX Spark desktop supercomputer and Linux machines equipped with Nvidia RTX GPUs.\nThe launch, developed in close partnership with Nvidia, is one of the most aggressive attempts yet to move serious AI agent workloads off the cloud and onto local devices. The model, the user's files, and the work itself can all stay on the machine. ",
-      "guid": "4snwOnM2K24iEGPc3OBjLw"
     }
   ]
 }
