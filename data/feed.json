@@ -1,18 +1,62 @@
 {
-  "generatedAt": "2026-08-26T04:53:59.275Z",
-  "lookbackHours": 72,
-  "totalItems": 38,
+  "generatedAt": "2026-08-26T06:32:33.210Z",
+  "lookbackHours": 24,
+  "totalItems": 27,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-08-26T04:53:24.636Z",
-      "date": "2026-08-26T04:53:24.636Z",
+      "pubDate": "2026-08-26T06:32:31.720Z",
+      "date": "2026-08-26T06:32:31.720Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: Multiplayer Laser Simulator",
+      "link": "https://prismaduel.com/",
+      "pubDate": "Wed, 26 Aug 2026 05:57:33 +0000",
+      "date": "Wed, 26 Aug 2026 05:57:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://prismaduel.com/\nComments URL: https://news.ycombinator.com/item?id=49444579\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49444579"
+    },
+    {
+      "title": "Show HN: LLM-powered webapp to build LLM-powered webapps",
+      "link": "https://codeplusequalsai.com/dashboard",
+      "pubDate": "Wed, 26 Aug 2026 05:09:37 +0000",
+      "date": "Wed, 26 Aug 2026 05:09:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey all,\nThe goal is to earn on token margins for LLM calls when you build an AI-powered webapp. I proxy OpenAI and Anthropic calls so that when you deploy a site to a subdomain, your users token usage will be tracked. I charge 2x the token cost to the end user, where the webapp creator gets 80% of the profit and I get 20%. The idea is to ramp your revenue from simple AI apps directly with your popularity and real usage\nI've built this over the last 3 years. The system behind it is kind of crazy",
+      "guid": "https://news.ycombinator.com/item?id=49444234"
+    },
+    {
+      "title": "Show HN: Propose and Dual-Control for DNS Changes",
+      "link": "https://www.loom.com/share/16dff02ee5604b7daf3ebc7c9c93d8a4",
+      "pubDate": "Wed, 26 Aug 2026 05:06:25 +0000",
+      "date": "Wed, 26 Aug 2026 05:06:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey, Hacker News. I just want to pick your brain for a feature we're working on.\nI don't know whether you have seen this as a pain point, but when I work in a company, a lot of times I try to launch something and need to change a DNS record.\nIt's always a source of friction in the organization. I have to email someone or give a link to a co-worker. They have to figure out how to do it, but also whether I have a business justification for doing it.\nSo, when we built this platform, we're trying to",
+      "guid": "https://news.ycombinator.com/item?id=49444218"
+    },
+    {
+      "title": "Show HN: Openspender gives your agents wallets",
+      "link": "https://openspender.com/",
+      "pubDate": "Wed, 26 Aug 2026 05:03:24 +0000",
+      "date": "Wed, 26 Aug 2026 05:03:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://openspender.com/\nComments URL: https://news.ycombinator.com/item?id=49444196\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49444196"
     },
     {
       "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
@@ -191,50 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49442062"
     },
     {
-      "title": "Show HN: Use-Fs – A React Hook for the File System Access API and OPFS",
-      "link": "https://use-fs.com/",
-      "pubDate": "Tue, 25 Aug 2026 22:58:37 +0000",
-      "date": "Tue, 25 Aug 2026 22:58:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I'm happy to say that https://use-fs.com 2.0 has been released with brand new OPFS support. If you're building browser-based apps that heavily interact with the file-system this package is a must to have in your package.json!\nA React hook that watches a directory and re-renders when a file is added, changed, or deleted. Point it at a folder the user picked and you're reading and writing their real files — no uploads, no endless file dialogs\nNew in 2.0: it watches the origin private file system t",
-      "guid": "https://news.ycombinator.com/item?id=49441831"
-    },
-    {
-      "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
-      "link": "https://github.com/Wolfe-Jam/slash-tokens",
-      "pubDate": "Tue, 25 Aug 2026 22:48:31 +0000",
-      "date": "Tue, 25 Aug 2026 22:48:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I kept finding out what a call cost after I had already paid, so I built /Slash -- slash-tokens is a 4.8KB WASM that estimates tokens FAST and can block a wasted trip, or switch to cheaper same-provider model before the request leaves your machine. Try it MIT, no account needed: bunx slash-tokens\nOr install the SDK: npm install slash-tokens\nComments URL: https://news.ycombinator.com/item?id=49441725\nPoints: 3\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49441725"
-    },
-    {
-      "title": "Show HN: Game to see if you're over-/under-confident in your own knowledge",
-      "link": "https://est.alejo.ch/",
-      "pubDate": "Tue, 25 Aug 2026 22:39:50 +0000",
-      "date": "Tue, 25 Aug 2026 22:39:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I wrote a simple \"trivia\" game to get a sense about how well calibrated you are in terms of how well you know things: https://est.alejo.ch\nYou get ten simple \"what happened first\" questions and give a confidence level (for each answer). The game tracks your success rates per confidence level and gives you a calibration graph/table (e.g., \"you consistently over-estimate your success rate\"). You can play multiple times to see aggregated statistics.\nAfter 60 games (480 questions), I found out that ",
-      "guid": "https://news.ycombinator.com/item?id=49441660"
-    },
-    {
-      "title": "Show HN: Invoker Game – A lightweight browser speedrun trainer for Dota 2 combos",
-      "link": "https://invokergame.org/",
-      "pubDate": "Tue, 25 Aug 2026 22:27:35 +0000",
-      "date": "Tue, 25 Aug 2026 22:27:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://invokergame.org/\nComments URL: https://news.ycombinator.com/item?id=49441544\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49441544"
-    },
-    {
       "title": "YouTuber finds niche as college admissions mentor",
       "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
       "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
@@ -290,17 +290,6 @@
       "guid": "https://www.notboring.co/p/an-american-engineer-in-china"
     },
     {
-      "title": "AI Agents Explained: What Teachers Need to Know",
-      "link": "https://www.coolcatteacher.com/e976/",
-      "pubDate": "Tue, 25 Aug 2026 11:00:00 +0000",
-      "date": "Tue, 25 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nZach Kinzler tells his story of ChatGPT coming how when he was a junior in college. It is worth listening to as he worked out what it meant to learn with AI.\nThe post AI Agents Explained: What Teachers Need to Know appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing t",
-      "guid": "https://www.coolcatteacher.com/?p=35265"
-    },
-    {
       "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
       "link": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
       "pubDate": "Tue, 25 Aug 2026 10:00:00 +0000",
@@ -310,116 +299,6 @@
       "icon": "📊",
       "contentSnippet": "Netflix is considering selling other streaming services, and I think it's a good idea; it's also a let-down for Netflix's original goals and potential pivots.",
       "guid": "https://stratechery.com/?p=19798"
-    },
-    {
-      "title": "ChatGPT Ad Library",
-      "link": "https://www.producthunt.com/products/chatgpt-ad-library",
-      "pubDate": "2026-08-24T15:40:38.000Z",
-      "date": "2026-08-24T15:40:38.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/chatgpt-ad-library"
-    },
-    {
-      "title": "Beyond the Shiny Object: How to Assess Your System’s True Innovation Readiness",
-      "link": "https://www.gettingsmart.com/2026/08/24/beyond-the-shiny-object-how-to-assess-your-systems-true-innovation-readiness/",
-      "pubDate": "Mon, 24 Aug 2026 13:45:51 +0000",
-      "date": "Mon, 24 Aug 2026 13:45:51 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "Too many districts launch the next big initiative before their systems are ready to sustain it. In this new piece, Getting Smart contributors Nate McClennen and Rebecca Midles introduce the 5 C's of R&D Readiness and 8 Archetypes of System Transformation, a practical framework for honestly diagnosing where your school or district stands before committing to wide-scale change. Whether your system is a Vanguard or a Frozen System, this tool helps leaders move from reactive initiative-chasing to in",
-      "guid": "https://www.gettingsmart.com/?p=132576"
-    },
-    {
-      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-      "link": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-      "pubDate": "Mon, 24 Aug 2026 13:00:00 GMT",
-      "date": "Mon, 24 Aug 2026 13:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Anthropic is making a calculated bet that the biggest bottleneck in enterprise AI isn't model intelligence — it's the fact that most people still use AI alone.\nIn an exclusive interview with VentureBeat, Scott White, Anthropic's head of product for enterprise, laid out the company's thesis for what it calls \"multiplayer AI\": a shift away from the single-user chatbot paradigm toward AI agents that operate across teams, read organizational context, and proactively insert themselves into work — som",
-      "guid": "12euSigLHkI0DDRafGTFMv"
-    },
-    {
-      "title": "Teacher Burnout: Go 10% Slower and Get Your Joy Back",
-      "link": "https://www.coolcatteacher.com/e975/",
-      "pubDate": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "date": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nDr. Jen Rafferty burned out as a middle school music teacher, rebuilt her life, and now helps educators get back to balance without leaving the classroom. Emotional intelligence, the brain science behind it, and the two-step move to try tonight.\nThe post Teacher Burnout: Go 10% Slower and Get Your Joy Back appeared first on Cool Cat Teacher Blog by V",
-      "guid": "https://www.coolcatteacher.com/?p=35264"
-    },
-    {
-      "title": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores ",
-      "link": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
-      "pubDate": "Mon, 24 Aug 2026 11:00:00 GMT",
-      "date": "Mon, 24 Aug 2026 11:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "IBM is announcing today at the annual Hot Chips conference what may be the most consequential change to mainframe architecture in decades: a processor whose cores can natively execute both IBM's own instruction set and Arm's — switching between the two in nanoseconds.\nThe chip, which will power the next generation of IBM Z and LinuxONE systems, is the first dual-architecture mainframe processor ever built. It is designed to let enterprises run the vast and fast-growing ecosystem of Arm-native Li",
-      "guid": "42zTQ8lWVxrydsSXs0FK3U"
-    },
-    {
-      "title": "Autonomy and Innovation",
-      "link": "https://stratechery.com/2026/autonomy-and-innovation/",
-      "pubDate": "Mon, 24 Aug 2026 10:00:00 +0000",
-      "date": "Mon, 24 Aug 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Incentives favor offense when it comes to agentic cybersecurity; it's the same dynamic that will limit incumbents and fuel startups in the long run.",
-      "guid": "https://stratechery.com/?p=19784"
-    },
-    {
-      "title": "📸 AI Photos and Deepfakes, Quantum for Littles, and Real Help for Behavior",
-      "link": "https://www.coolcatteacher.com/ai-photos-and-deepfakes-quantum-for-littles-and-real-help-for-behavior/",
-      "pubDate": "Sun, 23 Aug 2026 23:03:34 +0000",
-      "date": "Sun, 23 Aug 2026 23:03:34 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nMy newsletter for the past two weeks with a summary of recent resources and some current links to an AI slop controversy and important information schools need to understand about sharing student images and new legislation that is supposed to protect ai deepfake expliotation.\nThe post 📸 AI Photos and Deepfakes, Quantum for Littles, and Real Help for",
-      "guid": "https://www.coolcatteacher.com/?p=35250"
-    },
-    {
-      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-      "link": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them",
-      "pubDate": "Sun, 23 Aug 2026 23:00:00 GMT",
-      "date": "Sun, 23 Aug 2026 23:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Enterprise AI has largely been built around context engineering. Teams connect enterprise systems, generate chunks and embeddings, build retrieval pipelines, and assemble the context needed by individual AI applications. While this approach works well for isolated assistants and copilots, it treats enterprise knowledge as application-specific context rather than a shared enterprise asset.\nAs organizations deploy more AI applications and agents, this model begins to break down. Different teams pr",
-      "guid": "2znePv9XlFXwfla86XQI2g"
-    },
-    {
-      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-      "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-      "pubDate": "2026-08-23T20:24:52.000Z",
-      "date": "2026-08-23T20:24:52.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/"
-    },
-    {
-      "title": "Purchase API by Agentcard",
-      "link": "https://www.producthunt.com/products/agent-card",
-      "pubDate": "2026-08-23T19:51:09.000Z",
-      "date": "2026-08-23T19:51:09.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/agent-card"
     }
   ]
 }
