@@ -1,18 +1,260 @@
 {
-  "generatedAt": "2026-08-26T19:39:10.192Z",
+  "generatedAt": "2026-08-27T03:00:54.234Z",
   "lookbackHours": 24,
-  "totalItems": 29,
+  "totalItems": 30,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-08-26T19:39:08.988Z",
-      "date": "2026-08-26T19:39:08.988Z",
+      "pubDate": "2026-08-27T03:00:38.652Z",
+      "date": "2026-08-27T03:00:38.652Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: Browser automation with no chromedriver and no Node driver",
+      "link": "https://github.com/angeldevmobile/Orion",
+      "pubDate": "Thu, 27 Aug 2026 02:18:40 +0000",
+      "date": "Thu, 27 Aug 2026 02:18:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/angeldevmobile/Orion\nComments URL: https://news.ycombinator.com/item?id=49458683\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49458683"
+    },
+    {
+      "title": "Show HN: SPC World – a daily jigsaw with no account and a permanent archive",
+      "link": "https://spcworld.world/play",
+      "pubDate": "Thu, 27 Aug 2026 02:01:22 +0000",
+      "date": "Thu, 27 Aug 2026 02:01:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://spcworld.world/play\nComments URL: https://news.ycombinator.com/item?id=49458558\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49458558"
+    },
+    {
+      "title": "Show HN: Agenteam – Agents that live on your desktop",
+      "link": "https://agenteam.org/",
+      "pubDate": "Thu, 27 Aug 2026 01:48:25 +0000",
+      "date": "Thu, 27 Aug 2026 01:48:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://agenteam.org/\nComments URL: https://news.ycombinator.com/item?id=49458448\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49458448"
+    },
+    {
+      "title": "Show HN: Tokwhois – 14 probes to name the tokenizer family",
+      "link": "https://github.com/fasuizu-br/tokwhois",
+      "pubDate": "Thu, 27 Aug 2026 01:48:17 +0000",
+      "date": "Thu, 27 Aug 2026 01:48:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/fasuizu-br/tokwhois\nComments URL: https://news.ycombinator.com/item?id=49458444\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49458444"
+    },
+    {
+      "title": "Show HN: ABBS – Public Agent Bulletin Board System",
+      "link": "https://abbs.dev/",
+      "pubDate": "Thu, 27 Aug 2026 01:44:46 +0000",
+      "date": "Thu, 27 Aug 2026 01:44:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "a simple thread-based platform for agent collaboration\nopen source: https://github.com/dosu-ai/abbs\nComments URL: https://news.ycombinator.com/item?id=49458405\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49458405"
+    },
+    {
+      "title": "Show HN: KMF Leaderboard – Let GitHub Sponsors vote on issues and message you",
+      "link": "https://my.kmf-lab.com/leaderboard",
+      "pubDate": "Thu, 27 Aug 2026 01:22:58 +0000",
+      "date": "Thu, 27 Aug 2026 01:22:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://my.kmf-lab.com/leaderboard\nComments URL: https://news.ycombinator.com/item?id=49458242\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49458242"
+    },
+    {
+      "title": "Show HN: A shop-owner simulator and visual novel set in the early 2000s [video]",
+      "link": "https://www.youtube.com/watch?v=o2J_H6metLI",
+      "pubDate": "Thu, 27 Aug 2026 00:43:41 +0000",
+      "date": "Thu, 27 Aug 2026 00:43:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "New Trailer premiere. What do you think?\nComments URL: https://news.ycombinator.com/item?id=49457939\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49457939"
+    },
+    {
+      "title": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+      "link": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
+      "pubDate": "Thu, 27 Aug 2026 00:42:20 GMT",
+      "date": "Thu, 27 Aug 2026 00:42:20 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "A week ago, a mystery model called Ox Alpha showed up on OpenRouter — one more entrant among more than 400 models, with roughly 10 new ones launching every week. What made it stand out wasn't just the free price tag; it was quietly good. Hobbyists and indie developers noticed fast, pushing several trillion tokens through it daily, with community estimates for the week ranging from single digits to over 20 trillion.\nAI enthusiasts spent the next six days doing forensics and speculating who could ",
+      "guid": "1CcUdvmM04UAWM53ISrlnZ"
+    },
+    {
+      "title": "Show HN: Tally – Track campaign donors, promises, and voting records",
+      "link": "https://tally-2026.github.io/",
+      "pubDate": "Thu, 27 Aug 2026 00:19:22 +0000",
+      "date": "Thu, 27 Aug 2026 00:19:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tally-2026.github.io/\nComments URL: https://news.ycombinator.com/item?id=49457733\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49457733"
+    },
+    {
+      "title": "Show HN: WhisperBar Trying to Fix Both Reading and Writing in the AI Age",
+      "link": "https://whisperbar.app",
+      "pubDate": "Thu, 27 Aug 2026 00:02:04 +0000",
+      "date": "Thu, 27 Aug 2026 00:02:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I am excited to share WhisperBar with fellow developers or anyone who reads & writes a ton of text when interacting with their AI agent.\nFor the writing part, WhisperBar does what all other Whisper* apps do but a bit faster and more consistent, with a nice, stable, native macOS and iOS app.\nBut where it really shines is in solving a problem that I'm sure you have encountered too: because of AI, we now have to read and comprehend so much more than before.\nText to voice systems are not available e",
+      "guid": "https://news.ycombinator.com/item?id=49457587"
+    },
+    {
+      "title": "Show HN: YC Hack Winner – RepoWorld",
+      "link": "https://github.com/michaelaz774/RepoWorld",
+      "pubDate": "Wed, 26 Aug 2026 23:50:29 +0000",
+      "date": "Wed, 26 Aug 2026 23:50:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/michaelaz774/RepoWorld\nComments URL: https://news.ycombinator.com/item?id=49457514\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49457514"
+    },
+    {
+      "title": "Show HN: Herdr plugin to annotate anything in the terminal",
+      "link": "https://github.com/plannotator/herdr-annotate",
+      "pubDate": "Wed, 26 Aug 2026 23:37:14 +0000",
+      "date": "Wed, 26 Aug 2026 23:37:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Releasing a herdr plugin that was mostly a prototype... annotate anything in herdr.\n  ctrl+b A (create annotation)\n  ctrl+b M (view annotations)\n\n\nComments URL: https://news.ycombinator.com/item?id=49457376\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49457376"
+    },
+    {
+      "title": "Show HN: Agent-hop – a Rust TUI that hops a live Claude Code chat into Codex",
+      "link": "https://github.com/hetpatel-11/agent-hop",
+      "pubDate": "Wed, 26 Aug 2026 23:03:54 +0000",
+      "date": "Wed, 26 Aug 2026 23:03:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN! Agent-hop is a TUI which allows you to use multiple coding agents and lets you hop between agents mid-chat. So, if you are using Claude Code and you do not want to lose context in another agent, you could just hop to another agent (Codex, Pi, Grok Build, OpenCode).\nIt initially started as a resume and search tool, but I noticed some friction in that, and so I decided to create my own TUI.\nHow is this different from Herdr? Herdr does not allow you to hop between agents live.\nComments URL: ",
+      "guid": "https://news.ycombinator.com/item?id=49457119"
+    },
+    {
+      "title": "Show HN: Visualize whether you run too many coding agents, or too few",
+      "link": "https://github.com/JerryZLiu/AgentPlayback",
+      "pubDate": "Wed, 26 Aug 2026 22:45:43 +0000",
+      "date": "Wed, 26 Aug 2026 22:45:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "As models have become more capable of running autonomously, I’ve been running more and more agents in parallel. But it’s never been clear to me what the number of agents I can handle is - should I be conservative and try 2-3 agents at a time, or try to push myself to go 5+?\nSo we set out to create a new kind of agent visualization that answered this question.\nThere were two types of agent visualizations we found in our research. One was cursor-wrapped or git-style visualizations that showed high",
+      "guid": "https://news.ycombinator.com/item?id=49456949"
+    },
+    {
+      "title": "Show HN: We built a live feed for monitoring website changes",
+      "link": "https://app.monity.ai",
+      "pubDate": "Wed, 26 Aug 2026 22:36:24 +0000",
+      "date": "Wed, 26 Aug 2026 22:36:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://app.monity.ai\nComments URL: https://news.ycombinator.com/item?id=49456857\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49456857"
+    },
+    {
+      "title": "Show HN: Tumble: A dice-rolling puzzle game",
+      "link": "https://playtumble.com/",
+      "pubDate": "Wed, 26 Aug 2026 22:08:14 +0000",
+      "date": "Wed, 26 Aug 2026 22:08:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://playtumble.com/\nComments URL: https://news.ycombinator.com/item?id=49456584\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49456584"
+    },
+    {
+      "title": "Show HN: Rook – A multi-Agent harness that lives 100% in a browser extension",
+      "link": "https://chromewebstore.google.com/detail/rook/opojeelojlkcinlhkbahpcekdolfjmhi",
+      "pubDate": "Wed, 26 Aug 2026 22:00:04 +0000",
+      "date": "Wed, 26 Aug 2026 22:00:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "This is something I have been working on, on and off, for about a year but now I feel that it is stable enough to release. It really only has two tool sets, an execute tool for arbitrary code, and a bash tool, both of which run 100% in browser.\nAs of now it's free and you can use your ChatGPT subscription or an OpenAI endpoint. There is an optional companion PWA that allows you to drive the extension from your phone and click captchas for it remotely, which I might charge for in the future. But ",
+      "guid": "https://news.ycombinator.com/item?id=49456492"
+    },
+    {
+      "title": "Show HN: Fab Friends a crowdfunding site for Rwandan college students",
+      "link": "https://www.joinfabfriends.org",
+      "pubDate": "Wed, 26 Aug 2026 21:40:32 +0000",
+      "date": "Wed, 26 Aug 2026 21:40:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN,\nI'm a Rwandan-American software engineer. I was fortunate enough to make it to the US, build a career here, and have opportunities that changed the trajectory of my life.\nI've been thinking for a long time about how I could give something back.\nSo I built joinfabfriends.org.\nThe idea is pretty simple: think GoFundMe, but specifically for Rwandan college students who need help paying for things like tuition and textbooks.\nI'm starting small. I want to learn whether this model works, how t",
+      "guid": "https://news.ycombinator.com/item?id=49456308"
+    },
+    {
+      "title": "Show HN: Which LLMs have the best sense of humor?",
+      "link": "https://laugh.so/research/judge-leaderboard/",
+      "pubDate": "Wed, 26 Aug 2026 21:30:09 +0000",
+      "date": "Wed, 26 Aug 2026 21:30:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "What if LLMs were good banter?\nWell we tested which LLMs have the best sense of humor.\nMore specifically, we tested 16 top LLMs align most with human sense of humor. We ran >100k judgements and got >1.6k human ratings to see where do we agree across clean and dark jokes.\nThe main findings:\n- Gemini 3.7 Flash has the best taste at 64% although it's really close at the top\n- However, we've trained our own judge that reaches 74%\n- Humans agree up to ~80%, the other part is subjectivity\nOther notes:",
+      "guid": "https://news.ycombinator.com/item?id=49456215"
+    },
+    {
+      "title": "Show HN: EDN – macOS workspaces that remember where you left your windows",
+      "link": "https://github.com/jacobalarcon/edn",
+      "pubDate": "Wed, 26 Aug 2026 21:20:53 +0000",
+      "date": "Wed, 26 Aug 2026 21:20:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love FlashSpace, but wanted each virtual workspace to remember and restore its own window layout. I built EDN to solve that. Add the apps you want to a workspace, assign a hotkey, and switch between workspaces with your windows where you left them. It’s a very early build, but I’d love some feedback.\nComments URL: https://news.ycombinator.com/item?id=49456115\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49456115"
+    },
+    {
+      "title": "Show HN: Mdpreview – Markdown in the terminal (images, diagrams, big headings)",
+      "link": "https://github.com/mgranados/mdpreview",
+      "pubDate": "Wed, 26 Aug 2026 21:16:32 +0000",
+      "date": "Wed, 26 Aug 2026 21:16:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Well, everyday I spend more and more time fully inside the terminal and I noticed the time I spend reading markdown now greatly overshadows the time I spend actually writing it, so this helps render markdown nicely. Mermaid diagrams to an extent look good and somewhat understandable without launching any other app. I tried glow and it felt like end of the day I was still looking at markdown like # titles or *effects* didn't hit the same. Inline images and mermaid diagrams are actually what I wan",
+      "guid": "https://news.ycombinator.com/item?id=49456061"
+    },
+    {
+      "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+      "link": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+      "pubDate": "Wed, 26 Aug 2026 20:00:00 GMT",
+      "date": "Wed, 26 Aug 2026 20:00:00 GMT",
+      "source": "VentureBeat",
+      "category": "new-tools",
+      "icon": "📰",
+      "contentSnippet": "Salesforce and Anthropic announced Tuesday a sweeping expansion of their partnership, called Claudeforce, that pushes the world's largest customer relationship management platform directly inside Claude — a tacit acknowledgment that the future of enterprise software may not involve enterprise software's own screens at all.\nThe centerpiece of the announcement is Salesforce in Claude, a plugin for Anthropic's Claude CoWork that ships with 37 pre-built sales skills — covering meeting preparation, d",
+      "guid": "1cneU2xY3d4OOnpVNaA8qs"
     },
     {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -24,226 +266,6 @@
       "icon": "🔬",
       "contentSnippet": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
       "guid": "https://www.technologyreview.com/?p=1143013"
-    },
-    {
-      "title": "Show HN: Kudu – A TUI VM Manager on Linux",
-      "link": "https://github.com/pythops/kudu",
-      "pubDate": "Wed, 26 Aug 2026 18:43:44 +0000",
-      "date": "Wed, 26 Aug 2026 18:43:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/pythops/kudu\nComments URL: https://news.ycombinator.com/item?id=49453833\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49453833"
-    },
-    {
-      "title": "Show HN: Nodusfall Wiki – Tracking Verified Game Information and Updates",
-      "link": "https://nodusfallwiki.org/",
-      "pubDate": "Wed, 26 Aug 2026 18:39:23 +0000",
-      "date": "Wed, 26 Aug 2026 18:39:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nodusfallwiki.org/\nComments URL: https://news.ycombinator.com/item?id=49453776\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49453776"
-    },
-    {
-      "title": "Show HN: AI scientist builds an open-source Codex Micro from scratch for $40",
-      "link": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
-      "pubDate": "Wed, 26 Aug 2026 18:16:57 +0000",
-      "date": "Wed, 26 Aug 2026 18:16:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A few weeks ago, we open-sourced our design for a cost-effective but full featured alternative to OpenAI x Work Louder's sold out Codex Micro macropad. And now, we're pleased to share that we've actually built them and they work!\nQuick recap of the I/O:\n- 13 assignable keys with individual LEDs\n- rotary encoder\n- joystick\n- touch disc\n- optional edge-lit LED band\nThe cool part for us was just HOW our agent was able to do it when every other agentic skills, tools, and even commercial platforms fa",
-      "guid": "https://news.ycombinator.com/item?id=49453466"
-    },
-    {
-      "title": "Show HN: Chroncal – A TUI for Calendar",
-      "link": "https://github.com/DouglasdeMoura/chroncal",
-      "pubDate": "Wed, 26 Aug 2026 17:55:35 +0000",
-      "date": "Wed, 26 Aug 2026 17:55:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've been working on Chroncal for the past weeks, an open source TUI/CLI with iCalendar (RFC 5545) support and CalDAV sync, using SQLite to store the data.\nMy main goal is to make it easy for LLMs to auto-discover the CLI commands and access the database, while providing a nice TUI for the user (and I also found it paired very well with Omarchy, so, I also made a plugin to integrate in on Quickshell: https://github.com/DouglasdeMoura/chroncal-bar).\nI'd love some feeback, specially to find bugs a",
-      "guid": "https://news.ycombinator.com/item?id=49453176"
-    },
-    {
-      "title": "Show HN: Railo – Deterministic security patch bot using AST and Z3 (no LLMs)",
-      "link": "https://www.railo.dev",
-      "pubDate": "Wed, 26 Aug 2026 17:50:07 +0000",
-      "date": "Wed, 26 Aug 2026 17:50:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.railo.dev\nComments URL: https://news.ycombinator.com/item?id=49453098\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49453098"
-    },
-    {
-      "title": "Show HN: I made a retirement simulator: 125 years of data, 25 countries",
-      "link": "https://foresightplanner.com/",
-      "pubDate": "Wed, 26 Aug 2026 17:41:19 +0000",
-      "date": "Wed, 26 Aug 2026 17:41:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://foresightplanner.com/\nComments URL: https://news.ycombinator.com/item?id=49452974\nPoints: 13\n# Comments: 18",
-      "guid": "https://news.ycombinator.com/item?id=49452974"
-    },
-    {
-      "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
-      "link": "https://timberreader.com/",
-      "pubDate": "Wed, 26 Aug 2026 17:28:46 +0000",
-      "date": "Wed, 26 Aug 2026 17:28:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://timberreader.com/\nComments URL: https://news.ycombinator.com/item?id=49452794\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49452794"
-    },
-    {
-      "title": "Show HN: Caniuse for spreadsheet functions, every LibreOffice result executed",
-      "link": "https://canispreadsheet.com/",
-      "pubDate": "Wed, 26 Aug 2026 17:18:48 +0000",
-      "date": "Wed, 26 Aug 2026 17:18:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://canispreadsheet.com/\nComments URL: https://news.ycombinator.com/item?id=49452645\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49452645"
-    },
-    {
-      "title": "Show HN: I get 25 deeply researched ideas from 19 agents with one single prompt",
-      "link": "https://github.com/ringlochid/oh-my-subagents",
-      "pubDate": "Wed, 26 Aug 2026 17:06:13 +0000",
-      "date": "Wed, 26 Aug 2026 17:06:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49452437\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49452437"
-    },
-    {
-      "title": "Show HN: Automatically hide flamebait/shallow/political comments on HN",
-      "link": "https://classify.stylometry.net/",
-      "pubDate": "Wed, 26 Aug 2026 17:00:51 +0000",
-      "date": "Wed, 26 Aug 2026 17:00:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I love HN, but lately I have been sick of reading the same dismissive criticisms over and over again. Along with political arguments that have been litigated to death, people's issues with smooth scrolling on blogs, etc. Many of these comments do not get flagged for whatever reason. So I made a service to automatically classify whether comments violate (a modified form of) the HN guidelines automatically. In addition there's a Chrome extension to collapse these comments (if they violate your sco",
-      "guid": "https://news.ycombinator.com/item?id=49452362"
-    },
-    {
-      "title": "Show HN: Rudder – Red-Green TDD Workflow for Verifiably Comprehensive Specs",
-      "link": "https://github.com/RudderCode/Rudder",
-      "pubDate": "Wed, 26 Aug 2026 17:00:40 +0000",
-      "date": "Wed, 26 Aug 2026 17:00:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Rudder is a local Codex/Claude Code plugin that captures your specs and your coding agent session history to force your agent to rewrite unit tests exclusively from your expressed intent. This turns unit test coverage into a proxy for what percent of the code actually comes from decisions you've made and lets you see how much of your agent's generated code is uncovered by your spec. After showing you an initial coverage percentage, Rudder prompts you with targeted questions to increase coverage ",
-      "guid": "https://news.ycombinator.com/item?id=49452359"
-    },
-    {
-      "title": "Show HN: SSH Session Monitor – read-only Windows OpenSSH monitoring",
-      "link": "https://github.com/issacnitin/SshSessionMonitor",
-      "pubDate": "Wed, 26 Aug 2026 16:55:16 +0000",
-      "date": "Wed, 26 Aug 2026 16:55:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/issacnitin/SshSessionMonitor\nComments URL: https://news.ycombinator.com/item?id=49452281\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49452281"
-    },
-    {
-      "title": "Show HN: Yelp for AI Models/Products",
-      "link": "https://thevibes.dev/",
-      "pubDate": "Wed, 26 Aug 2026 16:40:29 +0000",
-      "date": "Wed, 26 Aug 2026 16:40:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Benchmarks are great but in addition to benchmarks, I thought it would be great to hear first hand reviews from vibe coders (engineers) who use AI models and subscriptions.\nComments URL: https://news.ycombinator.com/item?id=49452051\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49452051"
-    },
-    {
-      "title": "Show HN: FinOps-AI – Autonomous AWS Cost Optimizer and 1-Click IaC Remediator",
-      "link": "https://news.ycombinator.com/item?id=49452046",
-      "pubDate": "Wed, 26 Aug 2026 16:40:16 +0000",
-      "date": "Wed, 26 Aug 2026 16:40:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=49452046\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49452046"
-    },
-    {
-      "title": "Show HN: Build your own theme park",
-      "link": "https://www.magicpatterns.com/theme-park",
-      "pubDate": "Wed, 26 Aug 2026 16:40:01 +0000",
-      "date": "Wed, 26 Aug 2026 16:40:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds and connected with paths and rides.\nThe weird part is that I built it using the same ideas we use to make AI-generated websites follow a company’s design system.\nI work as an engineer at Magic Patterns, focused on building our Design System Agent, aimed to use your existing brand, components, and c",
-      "guid": "https://news.ycombinator.com/item?id=49452037"
-    },
-    {
-      "title": "Show HN: eInk Optimized Manga with Kindle Comic Converter (+Kobo/KOreader)",
-      "link": "https://github.com/ciromattia/kcc",
-      "pubDate": "Wed, 26 Aug 2026 16:37:07 +0000",
-      "date": "Wed, 26 Aug 2026 16:37:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Kindle Comic Converter optimizes black & white (or color) comics and manga for E-ink ereaders like Kindle, Kobo, ReMarkable, and more. Pages display in fullscreen without margins, with proper fixed layout support. KCC runs on Windows, macOS, and Linux.\nKCC's main goal is maximum image quality at significantly smaller file size. For example, KCC\n1) can compress a 600 MB manga volume from Humble Bundle to 100 MB. This is mostly accomplished by downscaling to the native resolution of your specific ",
-      "guid": "https://news.ycombinator.com/item?id=49451982"
-    },
-    {
-      "title": "Show HN: Family sync with no server – Apple-signed entitlements on iOS",
-      "link": "https://receiptiq.me/blog-family-sync-architecture",
-      "pubDate": "Wed, 26 Aug 2026 16:33:43 +0000",
-      "date": "Wed, 26 Aug 2026 16:33:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://receiptiq.me/blog-family-sync-architecture\nComments URL: https://news.ycombinator.com/item?id=49451927\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49451927"
-    },
-    {
-      "title": "Show HN: airtxt – iPhone dictation with on-device STT and an AI cleanup pass",
-      "link": "https://apps.apple.com/us/app/airtxt/id6785986350",
-      "pubDate": "Wed, 26 Aug 2026 16:32:53 +0000",
-      "date": "Wed, 26 Aug 2026 16:32:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/airtxt/id6785986350\nComments URL: https://news.ycombinator.com/item?id=49451904\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49451904"
-    },
-    {
-      "title": "Show HN: Have You Heard? Discover great software via browser notifications",
-      "link": "https://haveyouheardof.app/",
-      "pubDate": "Wed, 26 Aug 2026 16:26:36 +0000",
-      "date": "Wed, 26 Aug 2026 16:26:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://haveyouheardof.app/\nComments URL: https://news.ycombinator.com/item?id=49451789\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49451789"
-    },
-    {
-      "title": "Show HN: Llmcanvas.chat Tree-based LLM chat on an infinite canvas",
-      "link": "https://llmcanvas.chat",
-      "pubDate": "Wed, 26 Aug 2026 16:23:17 +0000",
-      "date": "Wed, 26 Aug 2026 16:23:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "No one thinks linearly, yet current LLM interfaces still force you to, and it sucks.\nSo I built llmcanvas.chat. The name says it all; you can branch, regenerate across models and compare: all in one infinite canvas.\nEvery prompt and response is a node in the canvas and it brings ultimate flexibility on how you interact with the LLM, while keeping the old-school way of chatting linearly.\nBring your own keys, 4 providers supported: Anthropic, OpenAI, Gemini, and OpenRouter.\nTry it: llmcanvas.chat.",
-      "guid": "https://news.ycombinator.com/item?id=49451733"
     },
     {
       "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
@@ -279,6 +301,17 @@
       "guid": "https://www.technologyreview.com/?p=1143000"
     },
     {
+      "title": "Teaching Autistic Learners: Listen, Believe, Then Act",
+      "link": "https://www.coolcatteacher.com/e977/",
+      "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "date": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nClaire O'Neill is an autistic teacher, researcher, and neurodiversity consultant from Cork, Ireland who has spent over 20 years teaching autistic students. She describes what an unsupportive classroom feels like from a child's desk, and gives busy teachers one honest place to start with UDL.\nThe post Teaching Autistic Learners: Listen, Believe, Then ",
+      "guid": "https://www.coolcatteacher.com/?p=35266"
+    },
+    {
       "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
       "link": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
       "pubDate": "Wed, 26 Aug 2026 10:00:00 +0000",
@@ -299,28 +332,6 @@
       "icon": "🔬",
       "contentSnippet": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…",
       "guid": "https://www.technologyreview.com/?p=1141952"
-    },
-    {
-      "title": "Protecting Student Cognition in the Age of AI",
-      "link": "https://edsurge.com/news/protecting-the-student-mind-in-the-age-of-ai",
-      "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "date": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "Educators must shift their focus from preventing cognitive offloading to preserving the critical thinking skills AI threatens to replace.",
-      "guid": "post-guid-1B0E279b"
-    },
-    {
-      "title": "YouTuber finds niche as college admissions mentor",
-      "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "date": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and…",
-      "guid": "https://www.technologyreview.com/?p=1140905"
     }
   ]
 }
