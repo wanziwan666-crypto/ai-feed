@@ -1,18 +1,84 @@
 {
-  "generatedAt": "2026-08-28T01:56:24.631Z",
+  "generatedAt": "2026-08-28T03:01:44.005Z",
   "lookbackHours": 24,
   "totalItems": 28,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-08-28T01:56:22.624Z",
-      "date": "2026-08-28T01:56:22.624Z",
+      "pubDate": "2026-08-28T03:00:58.205Z",
+      "date": "2026-08-28T03:00:58.205Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: Node.js back end library is 1.0 now",
+      "link": "https://github.com/vseryakov/backendjs",
+      "pubDate": "Fri, 28 Aug 2026 02:10:01 +0000",
+      "date": "Fri, 28 Aug 2026 02:10:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "After more of a decade working on my hobby https://github.com/vseryakov/backendjs project and use it many times in many places i am ready to make it 1.0.\nIt has never been ready all this time without documentation and legacy sloppy code, well, it started with nodejs 10, me being lazy or not focused enough to polish it...you know, life, production, startup stress, delivering deadlines, i will do it later...\n(un)Fortunately i had some spare time last year and used LLMs to document what i have, ref",
+      "guid": "https://news.ycombinator.com/item?id=49473557"
+    },
+    {
+      "title": "Show HN: Asking – A simpler customer support inbox for small teams",
+      "link": "https://asking.com.br/",
+      "pubDate": "Fri, 28 Aug 2026 02:00:56 +0000",
+      "date": "Fri, 28 Aug 2026 02:00:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN — I’m William, a frontend engineer from Brazil, and for the past few months I’ve been building Asking.\nAsking brings customer conversations from different channels into one place. It is intended for small teams that need a proper support workflow but don’t want the cost and complexity that usually come with larger platforms.\nTo be transparent, Asking is built on top of Chatwoot. I’m not trying to present its messaging infrastructure as something I created from scratch. I’m using it as a fo",
+      "guid": "https://news.ycombinator.com/item?id=49473507"
+    },
+    {
+      "title": "Show HN: Alphie – see who's on your website and chat with them from Slack",
+      "link": "https://meetalphie.com",
+      "pubDate": "Fri, 28 Aug 2026 02:00:24 +0000",
+      "date": "Fri, 28 Aug 2026 02:00:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, Yura here, co-founder of Alphie.\nIn my previous YC company, we got a lot of good traffic, but only about 3% of it ever converted to demos.\nWe tried RB2B and many other visitor resolution tools - but weren't happy with the accuracy.\nSo, after that company was acquired, we decided to build our own platform.\nWe've found a way to achieve a much higher ID rate and accuracy than most of the previous-generation visitor ID tools.\nCompany-level visitor identification is about 3 times more accurate",
+      "guid": "https://news.ycombinator.com/item?id=49473503"
+    },
+    {
+      "title": "Show HN: A public feed of website changes",
+      "link": "https://app.monity.ai/public/feed",
+      "pubDate": "Fri, 28 Aug 2026 01:32:40 +0000",
+      "date": "Fri, 28 Aug 2026 01:32:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://app.monity.ai/public/feed\nComments URL: https://news.ycombinator.com/item?id=49473365\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49473365"
+    },
+    {
+      "title": "Show HN: Leadcode – per-client account isolation for Claude Code, Codex, and gh",
+      "link": "https://leadcode.build/",
+      "pubDate": "Fri, 28 Aug 2026 01:32:02 +0000",
+      "date": "Fri, 28 Aug 2026 01:32:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://leadcode.build/\nComments URL: https://news.ycombinator.com/item?id=49473362\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49473362"
+    },
+    {
+      "title": "Show HN: Pi-Black – Use Your Claude Max (Or Pro) Subscription with Pi",
+      "link": "https://github.com/paoloanzn/pi-black",
+      "pubDate": "Fri, 28 Aug 2026 01:27:49 +0000",
+      "date": "Fri, 28 Aug 2026 01:27:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/paoloanzn/pi-black\nComments URL: https://news.ycombinator.com/item?id=49473333\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49473333"
     },
     {
       "title": "Show HN: Lightweight reimplementation of YaCy peer as small Go services",
@@ -22,7 +88,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/nikitakarpei/my-yacy-node\nComments URL: https://news.ycombinator.com/item?id=49473163\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/nikitakarpei/my-yacy-node\nComments URL: https://news.ycombinator.com/item?id=49473163\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49473163"
     },
     {
@@ -33,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://marsbase.io/\nComments URL: https://news.ycombinator.com/item?id=49473101\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://marsbase.io/\nComments URL: https://news.ycombinator.com/item?id=49473101\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49473101"
     },
     {
@@ -154,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/elyosh/OpenTIE/\nComments URL: https://news.ycombinator.com/item?id=49471965\nPoints: 54\n# Comments: 13",
+      "contentSnippet": "Article URL: https://github.com/elyosh/OpenTIE/\nComments URL: https://news.ycombinator.com/item?id=49471965\nPoints: 73\n# Comments: 16",
       "guid": "https://news.ycombinator.com/item?id=49471965"
     },
     {
@@ -178,72 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://anyonecanbuy.com/\nComments URL: https://news.ycombinator.com/item?id=49471790\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49471790"
-    },
-    {
-      "title": "Show HN: ArtGram – a notation system for abstract paintings",
-      "link": "https://artgraph.co/artgram",
-      "pubDate": "Thu, 27 Aug 2026 21:47:29 +0000",
-      "date": "Thu, 27 Aug 2026 21:47:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://artgraph.co/artgram\nComments URL: https://news.ycombinator.com/item?id=49471726\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49471726"
-    },
-    {
-      "title": "Show HN: IQ Routing – route every call to the cheapest model that holds quality",
-      "link": "https://iq-routing.com",
-      "pubDate": "Thu, 27 Aug 2026 21:40:02 +0000",
-      "date": "Thu, 27 Aug 2026 21:40:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://iq-routing.com\nComments URL: https://news.ycombinator.com/item?id=49471637\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49471637"
-    },
-    {
-      "title": "Show HN: Per Diem, a daily dice game like Balatro",
-      "link": "https://perdiem.loch.tools",
-      "pubDate": "Thu, 27 Aug 2026 21:39:55 +0000",
-      "date": "Thu, 27 Aug 2026 21:39:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I love Balatro and have had a fascination with daily games recently. RNGdle in particular sparked my interest because of its dopamine-factory style gameplay. Per Diem takes a similar approach.\nIn Per Diem, each day you cast 5 dice from a sack randomly. The pips and patterns (ie. snake eyes) are scored, producing your final score for the day. You get one roll a day, so the challenge is maximizing your scoring potential. Charms are the mechanism by which you tilt the odds in your favour: charms ca",
-      "guid": "https://news.ycombinator.com/item?id=49471634"
-    },
-    {
-      "title": "Show HN: Webtoolio dev tools that run entirely in the browser, nothing uploaded",
-      "link": "https://webtoolio.org/",
-      "pubDate": "Thu, 27 Aug 2026 21:24:51 +0000",
-      "date": "Thu, 27 Aug 2026 21:24:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://webtoolio.org/\nComments URL: https://news.ycombinator.com/item?id=49471479\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49471479"
-    },
-    {
-      "title": "Show HN: A shop that makes it hard to buy things",
-      "link": "https://earnyourdescent.com/",
-      "pubDate": "Thu, 27 Aug 2026 21:24:31 +0000",
-      "date": "Thu, 27 Aug 2026 21:24:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://earnyourdescent.com/\nComments URL: https://news.ycombinator.com/item?id=49471474\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49471474"
-    },
-    {
-      "title": "Show HN: ChessRabbit – The AI Chess Analysis Platform",
-      "link": "https://chessrabbit.com",
-      "pubDate": "Thu, 27 Aug 2026 21:22:39 +0000",
-      "date": "Thu, 27 Aug 2026 21:22:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nI wanted to share with you a chess analysis tool that I was building for the past week.\nFirst of all I want to explain what is the problem that I'm trying to solve:\nChess Engines such as stockfish are superior for us humans, but it's not self explanatory. A player can review their game by stockfish and it will tell them that some moves are very bad and losing, but why? This is the problem that we are trying to solve.\nChessRabbit acts as a chess agent with stockfish evaluation tools. It ta",
-      "guid": "https://news.ycombinator.com/item?id=49471443"
     },
     {
       "title": "New AI Tools Bring Interactive Diagrams and Targeted Practice Thanks to Khan Academy’s Partnership with Google.org ",
