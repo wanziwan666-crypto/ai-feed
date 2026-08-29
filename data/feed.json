@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-29T01:21:46.026Z",
+  "generatedAt": "2026-08-29T03:17:01.298Z",
   "lookbackHours": 24,
   "totalItems": 29,
   "items": [
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-08-29T01:21:44.768Z",
-      "date": "2026-08-29T01:21:44.768Z",
+      "pubDate": "2026-08-29T03:00:34.062Z",
+      "date": "2026-08-29T03:00:34.062Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,79 @@
     {
       "title": "abhigyanpatwari/GitNexus",
       "link": "https://github.com/abhigyanpatwari/GitNexus",
-      "pubDate": "2026-08-29T01:21:44.768Z",
-      "date": "2026-08-29T01:21:44.768Z",
+      "pubDate": "2026-08-29T03:00:34.062Z",
+      "date": "2026-08-29T03:00:34.062Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration\nhttps://gitnexus.vercel.app\n\nGitNexus (Akon Labs)\n \n⚠️ Important Notice: GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any oth",
       "guid": "https://github.com/abhigyanpatwari/GitNexus"
+    },
+    {
+      "title": "Show HN: ArchLex: a small OSS language for AWS, GCP, and Kubernetes diagrams",
+      "link": "https://archlex.dev/",
+      "pubDate": "Sat, 29 Aug 2026 01:10:18 +0000",
+      "date": "Sat, 29 Aug 2026 01:10:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://archlex.dev/\nComments URL: https://news.ycombinator.com/item?id=49485987\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49485987"
+    },
+    {
+      "title": "Show HN: Leiolai, AI that pays users for the compute their devices provide",
+      "link": "https://leiolai.com/",
+      "pubDate": "Sat, 29 Aug 2026 00:58:17 +0000",
+      "date": "Sat, 29 Aug 2026 00:58:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Leiolai runs inference across devices people already own instead of data centers. It saves water with inference and pays users for the computation their devices provide.\nThe app is free to use on iPhone and Android, with no card required. Users can contribute compute, earn money, and level up their chip system to unlock more computation at no additional cost.\nleiolai-1 has an 11-million-token context window. Developers can use it through an OpenAI-compatible API starting at $0.01 per million inp",
+      "guid": "https://news.ycombinator.com/item?id=49485913"
+    },
+    {
+      "title": "Show HN: An annotated archive of S-1 filings, with hindsight",
+      "link": "https://s-1.space/",
+      "pubDate": "Sat, 29 Aug 2026 00:56:38 +0000",
+      "date": "Sat, 29 Aug 2026 00:56:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://s-1.space/\nComments URL: https://news.ycombinator.com/item?id=49485902\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49485902"
+    },
+    {
+      "title": "Show HN: Free lifetime pro access for limited time to crunchbase alternative",
+      "link": "https://startupwiki.tech/blog/free-lifetime-pro-giveaway",
+      "pubDate": "Sat, 29 Aug 2026 00:50:33 +0000",
+      "date": "Sat, 29 Aug 2026 00:50:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://startupwiki.tech/blog/free-lifetime-pro-giveaway\nComments URL: https://news.ycombinator.com/item?id=49485867\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49485867"
+    },
+    {
+      "title": "Show HN: MicroVM daemon, deploy any Docker image",
+      "link": "https://news.ycombinator.com/item?id=49485801",
+      "pubDate": "Sat, 29 Aug 2026 00:39:57 +0000",
+      "date": "Sat, 29 Aug 2026 00:39:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "https://github.com/herd-core/herd\nLately, I have been trying to understand the security aspect of docker containers, and what I have realized is that all docker containers share the host's kernel. Any zero day vulnerability in the kernel can be used to gain access to the host os.\nIn order to deal with this, I did some research turns out Amazon has open sourced the core technology behind their serverless technology lambda. But in its current state its very hard to setup, let alone run anything se",
+      "guid": "https://news.ycombinator.com/item?id=49485801"
+    },
+    {
+      "title": "Show HN: Awe Radio, free 24/7 internet radio stations for anyone",
+      "link": "https://aweradio.app/",
+      "pubDate": "Sat, 29 Aug 2026 00:19:13 +0000",
+      "date": "Sat, 29 Aug 2026 00:19:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://aweradio.app/\nComments URL: https://news.ycombinator.com/item?id=49485708\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49485708"
     },
     {
       "title": "Show HN: NodeAkt – Zero-dependency distributed actor framework for TypeScript",
@@ -33,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tochemey.github.io/nodeakt/\nComments URL: https://news.ycombinator.com/item?id=49485541\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://tochemey.github.io/nodeakt/\nComments URL: https://news.ycombinator.com/item?id=49485541\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49485541"
     },
     {
@@ -88,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/husker/a2acast\nComments URL: https://news.ycombinator.com/item?id=49484874\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/husker/a2acast\nComments URL: https://news.ycombinator.com/item?id=49484874\nPoints: 5\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49484874"
     },
     {
@@ -99,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://adriselab.com/blog/what-is-an-ai-performance-marketer\nComments URL: https://news.ycombinator.com/item?id=49484708\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://adriselab.com/blog/what-is-an-ai-performance-marketer\nComments URL: https://news.ycombinator.com/item?id=49484708\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49484708"
     },
     {
@@ -178,72 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "I live in the Bay Area, and so the weather cools down to a comfy temperature in the evenings. Opening up the windows to let the fresh air in has saved me a decent amount on A/C bills. Checking a forecast every hour to catch that moment is exactly the kind of job a computer should do.\nPorchWeather watches one saved location and a set of conditions you pick (temperature range, wind, rain, dew point, air quality) and sends you a notification when conditions become nice, and another when they stop. ",
       "guid": "https://news.ycombinator.com/item?id=49484064"
-    },
-    {
-      "title": "Show HN: Helm ValueTrace – see which Helm values source actually won",
-      "link": "https://github.com/aboodcs/helm-valuetrace",
-      "pubDate": "Fri, 28 Aug 2026 20:19:43 +0000",
-      "date": "Fri, 28 Aug 2026 20:19:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/aboodcs/helm-valuetrace\nComments URL: https://news.ycombinator.com/item?id=49483714\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49483714"
-    },
-    {
-      "title": "Show HN: Organize ChatGPT and Claude chats. Never lose a conversation",
-      "link": "https://simplefolder.hestenns.com",
-      "pubDate": "Fri, 28 Aug 2026 20:13:58 +0000",
-      "date": "Fri, 28 Aug 2026 20:13:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://simplefolder.hestenns.com\nComments URL: https://news.ycombinator.com/item?id=49483647\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49483647"
-    },
-    {
-      "title": "Show HN: Consequence Gate – agent governance based on what being wrong costs",
-      "link": "https://github.com/zilianglab/consequence-gate",
-      "pubDate": "Fri, 28 Aug 2026 20:11:28 +0000",
-      "date": "Fri, 28 Aug 2026 20:11:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/zilianglab/consequence-gate\nComments URL: https://news.ycombinator.com/item?id=49483616\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49483616"
-    },
-    {
-      "title": "Show HN: Cursor Buddy, get archived Cursor chats out of renderer RAM",
-      "link": "https://github.com/professorpalmer/cursor-buddy",
-      "pubDate": "Fri, 28 Aug 2026 20:09:42 +0000",
-      "date": "Fri, 28 Aug 2026 20:09:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/professorpalmer/cursor-buddy\nComments URL: https://news.ycombinator.com/item?id=49483592\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49483592"
-    },
-    {
-      "title": "Show HN: Dipstick Alerts – Search recalls and service bulletins for your car",
-      "link": "https://dipstickalerts.com",
-      "pubDate": "Fri, 28 Aug 2026 19:58:30 +0000",
-      "date": "Fri, 28 Aug 2026 19:58:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nWhen I bought my first car, a 2019 Subaru Forester, I also bought an extended warranty. I wanted to stay informed about problems that might be covered, so I started checking NHTSA.gov—the website of the National Highway Traffic Safety Administration, a U.S. agency—every month for new service bulletins.\nThose bulletins pointed me to problems I might not otherwise have recognized as repairable. For example, my trunk would not open as far in cold weather. I probably would not have asked the ",
-      "guid": "https://news.ycombinator.com/item?id=49483465"
-    },
-    {
-      "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
-      "link": "https://github.com/nilbuild/rundown",
-      "pubDate": "Fri, 28 Aug 2026 19:55:47 +0000",
-      "date": "Fri, 28 Aug 2026 19:55:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I often find interesting things in Hacker News posts and comments, but threads are often long and take a lot of time to go through.\nI built Rundown for this. It's a cross-platform desktop app with Claude Code and Codex integration that gives me a rundown of the post and comments, with links back to the comments it pulled each bit from. I can also chat with the post or the entire thread.\nComments URL: https://news.ycombinator.com/item?id=49483436\nPoints: 7\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49483436"
     },
     {
       "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
