@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-28T17:55:45.959Z",
+  "generatedAt": "2026-08-29T01:21:46.026Z",
   "lookbackHours": 24,
-  "totalItems": 30,
+  "totalItems": 29,
   "items": [
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-08-28T17:55:44.017Z",
-      "date": "2026-08-28T17:55:44.017Z",
+      "pubDate": "2026-08-29T01:21:44.768Z",
+      "date": "2026-08-29T01:21:44.768Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,233 @@
     {
       "title": "abhigyanpatwari/GitNexus",
       "link": "https://github.com/abhigyanpatwari/GitNexus",
-      "pubDate": "2026-08-28T17:55:44.017Z",
-      "date": "2026-08-28T17:55:44.017Z",
+      "pubDate": "2026-08-29T01:21:44.768Z",
+      "date": "2026-08-29T01:21:44.768Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration\nhttps://gitnexus.vercel.app\n\nGitNexus (Akon Labs)\n \n⚠️ Important Notice: GitNexus has NO official cryptocurrency, token, or coin. Any token/coin using the GitNexus name on Pump.fun or any oth",
       "guid": "https://github.com/abhigyanpatwari/GitNexus"
+    },
+    {
+      "title": "Show HN: NodeAkt – Zero-dependency distributed actor framework for TypeScript",
+      "link": "https://tochemey.github.io/nodeakt/",
+      "pubDate": "Fri, 28 Aug 2026 23:48:06 +0000",
+      "date": "Fri, 28 Aug 2026 23:48:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tochemey.github.io/nodeakt/\nComments URL: https://news.ycombinator.com/item?id=49485541\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49485541"
+    },
+    {
+      "title": "Show HN: Substack and X and Reddit and Crypto = POW",
+      "link": "https://www.proofofwriting.com/",
+      "pubDate": "Fri, 28 Aug 2026 23:19:15 +0000",
+      "date": "Fri, 28 Aug 2026 23:19:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.proofofwriting.com/\nComments URL: https://news.ycombinator.com/item?id=49485378\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49485378"
+    },
+    {
+      "title": "Show HN: Darwin-VM – run the latest iOS and macOS in QEMU",
+      "link": "https://github.com/jprx/darwin-vm",
+      "pubDate": "Fri, 28 Aug 2026 23:01:45 +0000",
+      "date": "Fri, 28 Aug 2026 23:01:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "For the past few months, I've been building support for running the latest SPTM-based versions of iOS and macOS into qemu. The idea is to create a lightweight barebones environment for playing around with / debugging XNU and low-level Darwin internals, kind of like a tiny busybox Linux system except running Darwin, and using an emulated Apple Silicon CPU (custom instructions/ privilege levels and all).\nWith darwin-vm, you can directly boot the system using just an iOS/ macOS kernel and minimal r",
+      "guid": "https://news.ycombinator.com/item?id=49485263"
+    },
+    {
+      "title": "Show HN: 500,000+ AOL Instant Messenger Buddy Icons All at Once",
+      "link": "https://buddyiconarchive.com/",
+      "pubDate": "Fri, 28 Aug 2026 23:01:39 +0000",
+      "date": "Fri, 28 Aug 2026 23:01:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I needed a couple of AOL Instant Messenger buddy icons for a project, and then that turned into a project and before you know it I was trying to scrape every single buddy icon off the internet.\nI have slightly over 500,000 of them live, browseable, and downloadable with a single click on my new totally non-commercial project site buddyiconarchive.com\nI think that I am perhaps 20% of the way to my goal of having a \"complete\" collection of all the buddy icons that ever appeared on the internet, a ",
+      "guid": "https://news.ycombinator.com/item?id=49485262"
+    },
+    {
+      "title": "Show HN: SQLite-diff-log – zero-dependency SQLite audit logging via triggers",
+      "link": "https://github.com/MigMarGil/sqlite-diff-log",
+      "pubDate": "Fri, 28 Aug 2026 22:25:24 +0000",
+      "date": "Fri, 28 Aug 2026 22:25:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/MigMarGil/sqlite-diff-log\nComments URL: https://news.ycombinator.com/item?id=49484994\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49484994"
+    },
+    {
+      "title": "Show HN: A2acast – Let AI agents on different computers work together",
+      "link": "https://github.com/husker/a2acast",
+      "pubDate": "Fri, 28 Aug 2026 22:12:35 +0000",
+      "date": "Fri, 28 Aug 2026 22:12:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/husker/a2acast\nComments URL: https://news.ycombinator.com/item?id=49484874\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49484874"
+    },
+    {
+      "title": "Show HN: AdRiseLab – I built an AI media buyer for my own Meta ads",
+      "link": "https://adriselab.com/blog/what-is-an-ai-performance-marketer",
+      "pubDate": "Fri, 28 Aug 2026 21:56:27 +0000",
+      "date": "Fri, 28 Aug 2026 21:56:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://adriselab.com/blog/what-is-an-ai-performance-marketer\nComments URL: https://news.ycombinator.com/item?id=49484708\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49484708"
+    },
+    {
+      "title": "Show HN: Claude Code Skills – Solving context bloat",
+      "link": "https://github.com/yevhens-hue/claude-skills-starter-kit",
+      "pubDate": "Fri, 28 Aug 2026 21:44:18 +0000",
+      "date": "Fri, 28 Aug 2026 21:44:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/yevhens-hue/claude-skills-starter-kit\nComments URL: https://news.ycombinator.com/item?id=49484600\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49484600"
+    },
+    {
+      "title": "Show HN: Scrinly – A screenshot API that returns page regions and visual diffs",
+      "link": "https://scrinly.com/",
+      "pubDate": "Fri, 28 Aug 2026 20:59:35 +0000",
+      "date": "Fri, 28 Aug 2026 20:59:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://scrinly.com/\nComments URL: https://news.ycombinator.com/item?id=49484191\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49484191"
+    },
+    {
+      "title": "Show HN: Kosh – Bash shell runtime with 100x faster Shellcheck and LSP built-in",
+      "link": "https://github.com/toiletbril/kosh",
+      "pubDate": "Fri, 28 Aug 2026 20:58:32 +0000",
+      "date": "Fri, 28 Aug 2026 20:58:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Kosh is a Bash-compatible runtime focused on VERY detailed diagnostics and performance.\nThe project started from frustration with how difficult shell errors can be to debug. And how slow some tools are.\nThe project is feature-complete and the core is usable enough to experiment with. There is a Language Server that works on shell scrips, but I'm planning to expand it to support every conf/YAML/etc file that may have Bash embedded in, e.g. GitHub workflows.\nReport: bash incompatibility, broken di",
+      "guid": "https://news.ycombinator.com/item?id=49484178"
+    },
+    {
+      "title": "Show HN: Restore real URLs in Google Search results",
+      "link": "https://googlegotourl.com/",
+      "pubDate": "Fri, 28 Aug 2026 20:52:48 +0000",
+      "date": "Fri, 28 Aug 2026 20:52:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://googlegotourl.com/\nComments URL: https://news.ycombinator.com/item?id=49484118\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49484118"
+    },
+    {
+      "title": "Show HN: Kvist – a Lisp for systems programming that compiles to Odin",
+      "link": "https://github.com/kvist-lang/kvist",
+      "pubDate": "Fri, 28 Aug 2026 20:52:21 +0000",
+      "date": "Fri, 28 Aug 2026 20:52:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kvist-lang/kvist\nComments URL: https://news.ycombinator.com/item?id=49484112\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49484112"
+    },
+    {
+      "title": "Show HN: Passively Earn BTC/Sol/Anthropic for Using Claude Code",
+      "link": "https://prmpt.cash/",
+      "pubDate": "Fri, 28 Aug 2026 20:48:38 +0000",
+      "date": "Fri, 28 Aug 2026 20:48:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey guys, I built this platform out to allow users to passively earn crypto for non-intrusive highly targetted ads.\nOne of the things that's awesome is that there's an option to receive payouts in Anthropic's pre-IPO stock (via PreStocks on Solana). So you can use Claude Code and receive Anthropic stock .\nLet me know what you guys think. Feedback is welcome and please give it a try to install.\nComments URL: https://news.ycombinator.com/item?id=49484082\nPoints: 6\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49484082"
+    },
+    {
+      "title": "Show HN: PorchWeather – a free site that pings you when it's nice outside",
+      "link": "https://porchweather.com/",
+      "pubDate": "Fri, 28 Aug 2026 20:46:24 +0000",
+      "date": "Fri, 28 Aug 2026 20:46:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I live in the Bay Area, and so the weather cools down to a comfy temperature in the evenings. Opening up the windows to let the fresh air in has saved me a decent amount on A/C bills. Checking a forecast every hour to catch that moment is exactly the kind of job a computer should do.\nPorchWeather watches one saved location and a set of conditions you pick (temperature range, wind, rain, dew point, air quality) and sends you a notification when conditions become nice, and another when they stop. ",
+      "guid": "https://news.ycombinator.com/item?id=49484064"
+    },
+    {
+      "title": "Show HN: Helm ValueTrace – see which Helm values source actually won",
+      "link": "https://github.com/aboodcs/helm-valuetrace",
+      "pubDate": "Fri, 28 Aug 2026 20:19:43 +0000",
+      "date": "Fri, 28 Aug 2026 20:19:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/aboodcs/helm-valuetrace\nComments URL: https://news.ycombinator.com/item?id=49483714\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49483714"
+    },
+    {
+      "title": "Show HN: Organize ChatGPT and Claude chats. Never lose a conversation",
+      "link": "https://simplefolder.hestenns.com",
+      "pubDate": "Fri, 28 Aug 2026 20:13:58 +0000",
+      "date": "Fri, 28 Aug 2026 20:13:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://simplefolder.hestenns.com\nComments URL: https://news.ycombinator.com/item?id=49483647\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49483647"
+    },
+    {
+      "title": "Show HN: Consequence Gate – agent governance based on what being wrong costs",
+      "link": "https://github.com/zilianglab/consequence-gate",
+      "pubDate": "Fri, 28 Aug 2026 20:11:28 +0000",
+      "date": "Fri, 28 Aug 2026 20:11:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/zilianglab/consequence-gate\nComments URL: https://news.ycombinator.com/item?id=49483616\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49483616"
+    },
+    {
+      "title": "Show HN: Cursor Buddy, get archived Cursor chats out of renderer RAM",
+      "link": "https://github.com/professorpalmer/cursor-buddy",
+      "pubDate": "Fri, 28 Aug 2026 20:09:42 +0000",
+      "date": "Fri, 28 Aug 2026 20:09:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/professorpalmer/cursor-buddy\nComments URL: https://news.ycombinator.com/item?id=49483592\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49483592"
+    },
+    {
+      "title": "Show HN: Dipstick Alerts – Search recalls and service bulletins for your car",
+      "link": "https://dipstickalerts.com",
+      "pubDate": "Fri, 28 Aug 2026 19:58:30 +0000",
+      "date": "Fri, 28 Aug 2026 19:58:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN!\nWhen I bought my first car, a 2019 Subaru Forester, I also bought an extended warranty. I wanted to stay informed about problems that might be covered, so I started checking NHTSA.gov—the website of the National Highway Traffic Safety Administration, a U.S. agency—every month for new service bulletins.\nThose bulletins pointed me to problems I might not otherwise have recognized as repairable. For example, my trunk would not open as far in cold weather. I probably would not have asked the ",
+      "guid": "https://news.ycombinator.com/item?id=49483465"
+    },
+    {
+      "title": "Show HN: Hacker News Client with Claude Code and Codex Integration",
+      "link": "https://github.com/nilbuild/rundown",
+      "pubDate": "Fri, 28 Aug 2026 19:55:47 +0000",
+      "date": "Fri, 28 Aug 2026 19:55:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I often find interesting things in Hacker News posts and comments, but threads are often long and take a lot of time to go through.\nI built Rundown for this. It's a cross-platform desktop app with Claude Code and Codex integration that gives me a rundown of the post and comments, with links back to the comments it pulled each bit from. I can also chat with the post or the entire thread.\nComments URL: https://news.ycombinator.com/item?id=49483436\nPoints: 7\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49483436"
     },
     {
       "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
@@ -48,50 +268,6 @@
       "guid": "https://stratechery.com/?p=19819"
     },
     {
-      "title": "Show HN: ContextSwitch – Make your LLM chats provider agnostic",
-      "link": "https://contextswitch-blue.vercel.app/",
-      "pubDate": "Fri, 28 Aug 2026 16:57:34 +0000",
-      "date": "Fri, 28 Aug 2026 16:57:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://contextswitch-blue.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49481375\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49481375"
-    },
-    {
-      "title": "Show HN: Repobeats – self-hostable GitHub activity cards in Rust",
-      "link": "https://repobeats.com/",
-      "pubDate": "Fri, 28 Aug 2026 16:56:45 +0000",
-      "date": "Fri, 28 Aug 2026 16:56:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI built Repobeats, an open-source, self-hostable service that renders GitHub repository activity as embeddable SVG cards.\nDemo:\nhttps://repobeats.com/AprilNEA/OpenLogi\nSource:\nhttps://github.com/AprilNEA/repobeats\nI had been using Axiom’s Repobeats, but noticed that some cards I relied on were no longer updating consistently. The original service is still online; I wanted an alternative where I could inspect and control the collection, storage, caching, and rendering pipeline.\nRepobeats r",
-      "guid": "https://news.ycombinator.com/item?id=49481365"
-    },
-    {
-      "title": "Show HN: The Million Dollar Homepage, but it gets printed on an iPhone skin",
-      "link": "https://www.skinoftheyear.lol/",
-      "pubDate": "Fri, 28 Aug 2026 16:54:23 +0000",
-      "date": "Fri, 28 Aug 2026 16:54:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.skinoftheyear.lol/\nComments URL: https://news.ycombinator.com/item?id=49481324\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49481324"
-    },
-    {
-      "title": "Show HN: It Was Never You",
-      "link": "https://itwasneveryou.app",
-      "pubDate": "Fri, 28 Aug 2026 16:35:31 +0000",
-      "date": "Fri, 28 Aug 2026 16:35:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN! I made my first iOS app - users can swap out an ex or friend for someone else in their photo library.\nI did this as a bit of a lark. I hope you find it entertaining, at least. At its most serious, it’s a Black Mirror-esque note on the future we’re enabling in the AI age. It’s not an app I’d ever use or recommend people use.\nI suppose that’s the question I’m asking myself, and now you, with this - while I intentionally built something I wouldn’t want to see in the world, how are you dealin",
-      "guid": "https://news.ycombinator.com/item?id=49481007"
-    },
-    {
       "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
       "link": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
       "pubDate": "Fri, 28 Aug 2026 16:33:16 GMT",
@@ -101,94 +277,6 @@
       "icon": "📰",
       "contentSnippet": "Consider an AI agent tasked with a complex enterprise workflow like migrating massive batches of customer records from a legacy CRM to a cloud database. The agent cannot rely solely on its internal context window for a job spanning hours and depends on the runtime layer, aka the harness.\nThis harness provides execution feedback, like server logs, to help the agent maintain an accurate understanding of dynamic API connections. It also provides state trackers and control-flow mechanisms to manage ",
       "guid": "zGxF5lYeYNKZcAqjJi0F1"
-    },
-    {
-      "title": "Show HN: FeatureFlags.app – Feature Management for .NET",
-      "link": "https://featureflags.app/",
-      "pubDate": "Fri, 28 Aug 2026 16:33:09 +0000",
-      "date": "Fri, 28 Aug 2026 16:33:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Feature flags are common these days, and the .NET feature management library provides a lot of the plumbing to make them easy to get started with. The missing piece is a UI for managing flags - unless you are using Azure App Configuration. Relying on `appSettings.json` gets awkward when non-technical users need to change flags, deploys are slow, or the application is running in a distributed environment.\nI built FeatureFlags.app to fill that gap - a simple UI for managing .NET feature flags that",
-      "guid": "https://news.ycombinator.com/item?id=49480960"
-    },
-    {
-      "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
-      "link": "https://github.com/IdoGol24/weir",
-      "pubDate": "Fri, 28 Aug 2026 16:31:56 +0000",
-      "date": "Fri, 28 Aug 2026 16:31:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/IdoGol24/weir\nComments URL: https://news.ycombinator.com/item?id=49480942\nPoints: 4\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49480942"
-    },
-    {
-      "title": "Show HN: URML – safety-eval harness for AI agents on lab and factory hardware",
-      "link": "https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval",
-      "pubDate": "Fri, 28 Aug 2026 16:28:06 +0000",
-      "date": "Fri, 28 Aug 2026 16:28:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval\nComments URL: https://news.ycombinator.com/item?id=49480890\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49480890"
-    },
-    {
-      "title": "Show HN: Adding and Extending Integer Support for MATLAB Code in RunMat",
-      "link": "https://runmat.com/blog/adding-and-extending-integer-support-for-matlab-code-in-runmat",
-      "pubDate": "Fri, 28 Aug 2026 16:24:05 +0000",
-      "date": "Fri, 28 Aug 2026 16:24:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://runmat.com/blog/adding-and-extending-integer-support-for-matlab-code-in-runmat\nComments URL: https://news.ycombinator.com/item?id=49480815\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49480815"
-    },
-    {
-      "title": "Show HN: I read 648 banks' exchange boards daily to show what they charge",
-      "link": "https://myratefx.com/",
-      "pubDate": "Fri, 28 Aug 2026 16:09:44 +0000",
-      "date": "Fri, 28 Aug 2026 16:09:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://myratefx.com/\nComments URL: https://news.ycombinator.com/item?id=49480607\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49480607"
-    },
-    {
-      "title": "Show HN: Free lifetime pro access to a crunchbase alternative",
-      "link": "https://startupwiki.tech/giveaway",
-      "pubDate": "Fri, 28 Aug 2026 16:07:54 +0000",
-      "date": "Fri, 28 Aug 2026 16:07:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A month ago we launched on HackerNews and reached the front page! As a thank you we are now offering free lifetime pro subscriptions to the HN community!\nComments URL: https://news.ycombinator.com/item?id=49480576\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49480576"
-    },
-    {
-      "title": "Show HN: OpenLayer – local Photoshop plugin for ComfyUI (inpaint/outpaint demo)",
-      "link": "https://github.com/MehranMarxian/OpenLayer",
-      "pubDate": "Fri, 28 Aug 2026 15:44:42 +0000",
-      "date": "Fri, 28 Aug 2026 15:44:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/MehranMarxian/OpenLayer\nComments URL: https://news.ycombinator.com/item?id=49480266\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49480266"
-    },
-    {
-      "title": "Show HN: CleanMySheet – Privacy-first CSV/Excel cleaner that runs in the browser",
-      "link": "https://cleanmysheet.in",
-      "pubDate": "Fri, 28 Aug 2026 15:33:14 +0000",
-      "date": "Fri, 28 Aug 2026 15:33:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://cleanmysheet.in\nComments URL: https://news.ycombinator.com/item?id=49480079\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49480079"
     },
     {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
@@ -202,94 +290,6 @@
       "guid": "1EPZirKFGKeZ0bMDg7sHU2"
     },
     {
-      "title": "Show HN: Get agents to do what I want with code documentation",
-      "link": "https://github.com/treadiehq/codecut",
-      "pubDate": "Fri, 28 Aug 2026 15:20:05 +0000",
-      "date": "Fri, 28 Aug 2026 15:20:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/treadiehq/codecut\nComments URL: https://news.ycombinator.com/item?id=49479877\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49479877"
-    },
-    {
-      "title": "Show HN: OutRip – a pay-to-rank board where rank is a card pull, not a bid",
-      "link": "https://outrip.lol",
-      "pubDate": "Fri, 28 Aug 2026 15:09:27 +0000",
-      "date": "Fri, 28 Aug 2026 15:09:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://outrip.lol\nComments URL: https://news.ycombinator.com/item?id=49479716\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49479716"
-    },
-    {
-      "title": "Show HN: Satroot – a semantic ledger rooted in a single Satoshi",
-      "link": "https://satroot.com/",
-      "pubDate": "Fri, 28 Aug 2026 15:08:55 +0000",
-      "date": "Fri, 28 Aug 2026 15:08:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://satroot.com/\nComments URL: https://news.ycombinator.com/item?id=49479709\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49479709"
-    },
-    {
-      "title": "Show HN: Ramanujan-computing: use idle computation to run scientific computing",
-      "link": "https://github.com/Ramanujan-Computing/Ramanujan",
-      "pubDate": "Fri, 28 Aug 2026 15:08:45 +0000",
-      "date": "Fri, 28 Aug 2026 15:08:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "In 1969, humans landed on moon using Apollo-Guidance-Computer (AGC) whose compute power was equivalent to today's scientific calculator. Today we have billions of device which are alteast million times more powerful than AGC lying mostly idle. With this inspiration, have created Ramanujan-Computing which can harness idle computation to run scientific simulations.\nThere is a project BOINC which tries to solve this problem, however for any new kind of simulation, the developer has to create new bi",
-      "guid": "https://news.ycombinator.com/item?id=49479707"
-    },
-    {
-      "title": "Show HN: Marktwin – collaborative workspaces on Markdown files you own",
-      "link": "https://marktwin.com/",
-      "pubDate": "Fri, 28 Aug 2026 14:59:41 +0000",
-      "date": "Fri, 28 Aug 2026 14:59:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nWe built Marktwin because I wanted a place to edit my GitHub Markdown files with my team.\nThe alternatives we found meant either storing our notes somewhere else, having uncomfortable collaboration, or passing through someone else's server.\nMarktwin is a space to edit the files already in your repository, shared peer-to-peer. You can write Markdown, use a canvas, draw, discuss and review changes before syncing them back to GitHub.\nEverything available on marktwin.com is free for now, and ",
-      "guid": "https://news.ycombinator.com/item?id=49479555"
-    },
-    {
-      "title": "Show HN: Fastpotify – a fast, native Spotify client in Rust and egui",
-      "link": "https://github.com/crmne/fastpotify",
-      "pubDate": "Fri, 28 Aug 2026 14:50:32 +0000",
-      "date": "Fri, 28 Aug 2026 14:50:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/crmne/fastpotify\nComments URL: https://news.ycombinator.com/item?id=49479389\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49479389"
-    },
-    {
-      "title": "Show HN: OK or KO the PUBG of boxing — my passion project",
-      "link": "https://okorko.vercel.app",
-      "pubDate": "Fri, 28 Aug 2026 14:49:30 +0000",
-      "date": "Fri, 28 Aug 2026 14:49:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey Guys,\nI made this game to play with my Nephew.\nIt’s full of my random ideas.\nI hope you have fun playing it.\nYou’ll probably experience some bugs please let me know.\nAlso if happen to know what the issue might be that would be great\nThis is my first game, I hope you enjoy it!\nComments URL: https://news.ycombinator.com/item?id=49479373\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49479373"
-    },
-    {
-      "title": "Show HN: OpenInstinct – open-source, self-hostable Instinct clone",
-      "link": "https://github.com/Merit-Systems/OpenInstinct",
-      "pubDate": "Fri, 28 Aug 2026 14:45:41 +0000",
-      "date": "Fri, 28 Aug 2026 14:45:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We love Instinct, but have been increasingly worried about the data footprint we are handing over to them, and what they might do with that data.\nSo we built an oss self-hostable version. It includes a vault that can store cards, logins, and personal information, so it can execute complex tasks on your behalf, like:\n\"Get me two tickets to the odyssey on saturday at my nearest theatre\"\n\"Find me the best golf grip trainer and order it for me\"\n\"Read my email and find opportunities to save money by ",
-      "guid": "https://news.ycombinator.com/item?id=49479314"
-    },
-    {
       "title": "Weekly Dose of Optimism #208",
       "link": "https://www.notboring.co/p/weekly-dose-of-optimism-208",
       "pubDate": "Fri, 28 Aug 2026 12:14:36 GMT",
@@ -301,6 +301,17 @@
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-208"
     },
     {
+      "title": "Student Personal Branding Without Social Media",
+      "link": "https://www.coolcatteacher.com/e979/",
+      "pubDate": "Fri, 28 Aug 2026 11:00:00 +0000",
+      "date": "Fri, 28 Aug 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nElisabeth Bostwick on helping students build a personal brand that starts with who they are, not what they post. Brand colors, digital portfolios in Canva or Google Sites, and a LinkedIn teardown lesson you can run tomorrow with nothing to buy.\nThe post Student Personal Branding Without Social Media appeared first on Cool Cat Teacher Blog by Vicki Da",
+      "guid": "https://www.coolcatteacher.com/?p=35267"
+    },
+    {
       "title": "How to sign up for a virtual power plant—and decide whether you should",
       "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
       "pubDate": "Fri, 28 Aug 2026 09:00:00 +0000",
@@ -310,28 +321,6 @@
       "icon": "🔬",
       "contentSnippet": "MIT Technology Review’s How To series helps you get things done.  Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
       "guid": "https://www.technologyreview.com/?p=1142956"
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-      "pubDate": "2026-08-27T22:50:25.000Z",
-      "date": "2026-08-27T22:50:25.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash",
-      "link": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
-      "pubDate": "2026-08-27T20:52:18.000Z",
-      "date": "2026-08-27T20:52:18.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/gemini-omni-1-1-flash"
     }
   ]
 }
