@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-09-02T02:06:54.922Z",
+  "generatedAt": "2026-08-31T03:05:28.715Z",
   "lookbackHours": 24,
   "totalItems": 31,
   "items": [
     {
-      "title": "THU-MAIC/OpenMAIC",
-      "link": "https://github.com/THU-MAIC/OpenMAIC",
-      "pubDate": "2026-09-02T02:06:53.031Z",
-      "date": "2026-09-02T02:06:53.031Z",
-      "source": "GitHub Trending · Daily",
-      "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\n\n  \n \n Get an immersive, multi-agent learning experience in just one click \n \n      \n \n        \n     \n      \n \n English | Simplified Chinese \n Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw \n \n🎉 OpenMAIC v1.0.0 — Build courses with an agent\n \nOne prompt in, a whole course out — and now you can steer. Released August 27, 2026, OpenMAIC v1.0.0 adds a Pro work",
-      "guid": "https://github.com/THU-MAIC/OpenMAIC"
-    },
-    {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-09-02T02:06:53.031Z",
-      "date": "2026-09-02T02:06:53.031Z",
+      "pubDate": "2026-08-31T03:04:21.101Z",
+      "date": "2026-08-31T03:04:21.101Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -26,10 +15,98 @@
       "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "title": "Show HN: Rust compiler converting CPGs to Nuclei YAML",
-      "link": "https://github.com/Tito0015/cpg-nuclei-compiler",
-      "pubDate": "Wed, 02 Sep 2026 01:26:45 +0000",
-      "date": "Wed, 02 Sep 2026 01:26:45 +0000",
+      "title": "THU-MAIC/OpenMAIC",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "pubDate": "2026-08-31T03:04:21.101Z",
+      "date": "2026-08-31T03:04:21.101Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click\n\n  \n \n Get an immersive, multi-agent learning experience in just one click \n \n      \n \n        \n     \n      \n \n English | Simplified Chinese \n Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw \n \n🎉 OpenMAIC v1.0.0 — Build courses with an agent\n \nOne prompt in, a whole course out — and now you can steer. Released August 27, 2026, OpenMAIC v1.0.0 adds a Pro work",
+      "guid": "https://github.com/THU-MAIC/OpenMAIC"
+    },
+    {
+      "title": "Show HN: Card Shop Directory – Find trading card shops by state, city, and game",
+      "link": "https://cardshopdir.com",
+      "pubDate": "Mon, 31 Aug 2026 02:32:11 +0000",
+      "date": "Mon, 31 Aug 2026 02:32:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://cardshopdir.com\nComments URL: https://news.ycombinator.com/item?id=49504965\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504965"
+    },
+    {
+      "title": "Show HN: I asked LLMs to choose between popular developer tools",
+      "link": "https://github.com/betocmn/preseason",
+      "pubDate": "Mon, 31 Aug 2026 02:29:25 +0000",
+      "date": "Mon, 31 Aug 2026 02:29:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/betocmn/preseason\nComments URL: https://news.ycombinator.com/item?id=49504947\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504947"
+    },
+    {
+      "title": "Show HN: ScoutLayer – a simple API to find contacts from a domain",
+      "link": "https://scoutlayer.io",
+      "pubDate": "Mon, 31 Aug 2026 02:21:47 +0000",
+      "date": "Mon, 31 Aug 2026 02:21:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://scoutlayer.io\nComments URL: https://news.ycombinator.com/item?id=49504899\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504899"
+    },
+    {
+      "title": "Show HN: RecQL – A portable query language for search and recommendation",
+      "link": "https://github.com/recql",
+      "pubDate": "Mon, 31 Aug 2026 01:57:38 +0000",
+      "date": "Mon, 31 Aug 2026 01:57:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/recql\nComments URL: https://news.ycombinator.com/item?id=49504784\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504784"
+    },
+    {
+      "title": "Show HN: Niu Lai Series Website",
+      "link": "https://niulaify.com",
+      "pubDate": "Mon, 31 Aug 2026 01:56:31 +0000",
+      "date": "Mon, 31 Aug 2026 01:56:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Create an original low-poly Niu Lai-inspired AI image from your photo. No prompt writing or account required. Upload, generate, and download for free.\nComments URL: https://news.ycombinator.com/item?id=49504776\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504776"
+    },
+    {
+      "title": "Show HN: Shell utility for encrypting and decrypting files using scrypt",
+      "link": "https://github.com/nodesocket/cryptr",
+      "pubDate": "Mon, 31 Aug 2026 01:55:41 +0000",
+      "date": "Mon, 31 Aug 2026 01:55:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/nodesocket/cryptr\nComments URL: https://news.ycombinator.com/item?id=49504769\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504769"
+    },
+    {
+      "title": "Show HN: How to Fish Game Wiki",
+      "link": "https://howtofish-game.org/",
+      "pubDate": "Mon, 31 Aug 2026 01:55:02 +0000",
+      "date": "Mon, 31 Aug 2026 01:55:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A practical How to Fish game wiki for beginner routes, islands, weapons, bosses, creature trackers, lure lookup, fixes and server guidance.\nComments URL: https://news.ycombinator.com/item?id=49504763\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504763"
+    },
+    {
+      "title": "Show HN: Magic Layers – Turn Any Image into Layers",
+      "link": "https://magiclayers.net",
+      "pubDate": "Mon, 31 Aug 2026 00:40:12 +0000",
+      "date": "Mon, 31 Aug 2026 00:40:12 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
@@ -48,10 +125,54 @@
       "guid": "https://news.ycombinator.com/item?id=49530600"
     },
     {
-      "title": "Claude Fable 5.1 made me a really nice animated pelican",
-      "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-      "pubDate": "2026-09-01T23:57:28.000Z",
-      "date": "2026-09-01T23:57:28.000Z",
+      "title": "Agency and Agents",
+      "link": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "pubDate": "Mon, 31 Aug 2026 00:24:35 GMT",
+      "date": "Mon, 31 Aug 2026 00:24:35 GMT",
+      "source": "Ethan Mollick · One Useful Thing",
+      "category": "voices",
+      "icon": "💡",
+      "contentSnippet": "From the Hugging Face Incident to Twilight Factories",
+      "guid": "https://www.oneusefulthing.org/p/agency-and-agents"
+    },
+    {
+      "title": "Show HN: Clownbid.lol – pay to be the biggest clown on the internet",
+      "link": "https://clownbid.lol/",
+      "pubDate": "Mon, 31 Aug 2026 00:14:00 +0000",
+      "date": "Mon, 31 Aug 2026 00:14:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://clownbid.lol/\nComments URL: https://news.ycombinator.com/item?id=49504201\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504201"
+    },
+    {
+      "title": "Show HN: Break 5, the addictive, free 5 minute, daily word game",
+      "link": "https://break5.co.uk/",
+      "pubDate": "Mon, 31 Aug 2026 00:05:24 +0000",
+      "date": "Mon, 31 Aug 2026 00:05:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "No 3rd party analytics, no tracking, no data sharing. Just a fun, free game where everyone plays the same daily puzzle, in which you are challenged to turn one five-letter word into another five-letter word, changing one letter at a time.\nComments URL: https://news.ycombinator.com/item?id=49504150\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49504150"
+    },
+    {
+      "title": "Show HN: Open-source hands-free mouse control with Tracky Mouse",
+      "link": "https://github.com/1j01/tracky-mouse/",
+      "pubDate": "Mon, 31 Aug 2026 00:00:10 +0000",
+      "date": "Mon, 31 Aug 2026 00:00:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Tracky Mouse lets you control your whole computer with just a webcam.\nIt supports different modes to click, including dwell clicking and facial gestures. It can even provide three button mouse functionality, using closed eyes as modifiers to change what type of click is performed when opening your mouth.\nIt also supports different modes to move the mouse, including Direct, Joystick style, and D-pad style modes.\nIt's free (and ad-free) and will always will be.\nI want to make this the best accessi",
+      "guid": "https://news.ycombinator.com/item?id=49504106"
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "pubDate": "2026-08-30T23:59:47.000Z",
+      "date": "2026-08-30T23:59:47.000Z",
       "source": "Simon Willison",
       "category": "builders",
       "icon": "🛠️",
@@ -268,81 +389,70 @@
       "guid": "500igN2AWBSZfHzX9Ac2ZJ"
     },
     {
-      "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
-      "link": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
-      "pubDate": "Tue, 01 Sep 2026 18:59:54 GMT",
-      "date": "Tue, 01 Sep 2026 18:59:54 GMT",
+      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+      "link": "https://academa.ai/",
+      "pubDate": "Sun, 30 Aug 2026 22:22:23 +0000",
+      "date": "Sun, 30 Aug 2026 22:22:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, we are Sina Atalay and Abdullah Geduk, co-founders of Academa. We are both PhD students.\nWe thought: what if lecture videos were written as code and compiled into video using computer graphics and TTS?\nThen LLMs could write them, and lectures could be fixed with code edits instead of video production.\nOn correctness: LLMs may make mistakes. But these videos are code sitting in our repository, and we can maintain them. Every report and review becomes a fix in the source, and everyone who w",
+      "guid": "https://news.ycombinator.com/item?id=49503421"
+    },
+    {
+      "title": "Show HN: Ration – see your Claude usage across terminals and brag usage",
+      "link": "https://github.com/solodynamo/Ration",
+      "pubDate": "Sun, 30 Aug 2026 22:17:29 +0000",
+      "date": "Sun, 30 Aug 2026 22:17:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A FREE tiny native macOS menu-bar app that shows how hard you're leaning on Claude Code - without leaving your desktop or running a terminal command.\nComments URL: https://news.ycombinator.com/item?id=49503391\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49503391"
+    },
+    {
+      "title": "Show HN: Manage coding norms across your AI agents",
+      "link": "https://github.com/gsttm/norms",
+      "pubDate": "Sun, 30 Aug 2026 22:16:23 +0000",
+      "date": "Sun, 30 Aug 2026 22:16:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Working on a tiny repo to keep coding norms in sync across AI agents. Trying to make it simpler than Ruler / RuleSync.\nWould love feedback on:\n1) Is this the right way to manage coding norms as agent use balloons?\n2) Would it be useful to sync rules with your team through the VSCode extension?\n3) What's the best way to enforce long-term norm consistency as norm and code count increase?\nComments URL: https://news.ycombinator.com/item?id=49503387\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49503387"
+    },
+    {
+      "title": "Show HN: Hide the Mac menu bar or clock, dynamically synced w focus (DND)",
+      "link": "https://github.com/dotcomjack/nocturne",
+      "pubDate": "Sun, 30 Aug 2026 21:07:24 +0000",
+      "date": "Sun, 30 Aug 2026 21:07:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "what up guys, as I'm sure many of you are also, I'm extremely hyper in the brain and juggle hundreds of thoughts a minute. Again just like most of you, I'm often on DND dialed in.\nI've realized a point of friction isn't necessarily time itself but rather the questions we ask ourselves in regards to time; a simple mental example being something like 'oh what time is it' or 'wonder what time it is, I prob should get to bed'... Those are my biggest enemy, they ruin my flow and often pull me out of ",
+      "guid": "https://news.ycombinator.com/item?id=49502826"
+    },
+    {
+      "title": "Show HN: ShaderToyX",
+      "link": "https://github.com/vinay/ShaderToyX",
+      "pubDate": "Sun, 30 Aug 2026 20:24:31 +0000",
+      "date": "Sun, 30 Aug 2026 20:24:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/vinay/ShaderToyX\nComments URL: https://news.ycombinator.com/item?id=49502400\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49502400"
+    },
+    {
+      "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+      "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
+      "pubDate": "Sun, 30 Aug 2026 20:15:00 GMT",
+      "date": "Sun, 30 Aug 2026 20:15:00 GMT",
       "source": "VentureBeat",
       "category": "new-tools",
       "icon": "📰",
-      "contentSnippet": "Egiziago Cioffi is the IT and Enterprise Architect and CEO of SynSphere Italia, a Microsoft partner based in Milan. He built an agent himself. He wrote the indexing job, configured the Azure OpenAI retrieval pipeline, connected it to SharePoint, and watched it pass every evaluation his team ran.\nHis Azure OpenAI email assistant auto-resolves about 60% of inbound customer email, Cioffi told VentureBeat in written responses to our interview questions. The evaluation scores were clean, and the unit",
-      "guid": "6phYfqOh7tv1qmgwfEt5ZD"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
-      "link": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
-      "pubDate": "Tue, 01 Sep 2026 18:41:21 GMT",
-      "date": "Tue, 01 Sep 2026 18:41:21 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "It's only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large language models yet — Claude Fable 5.1 and Claude Mythos 5.1. \nThe two names refer to the same underlying model. Fable 5.1 is the generally available version, with Anthropic’s production safeguards in place. Mythos 5.1 is available through restricted-access programs for vetted cybersecurity and life-sciences organizati",
-      "guid": "3W8GFie5vhr6MHcOcdSSaC"
-    },
-    {
-      "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
-      "link": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-      "pubDate": "Tue, 01 Sep 2026 15:00:00 GMT",
-      "date": "Tue, 01 Sep 2026 15:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Perplexity today launched hybrid compute for its agentic platform, Computer, a system that lets a single AI agent split its work between frontier models running in the cloud and smaller open-weight models running locally on Apple silicon Macs — routing sensitive data to the local machine so it never leaves the device.\nThe company says it is the first time an AI agent can begin a task in the cloud and dynamically hand off the confidential portions of that same task to a model running on the user'",
-      "guid": "0p191ft6pkRIsdJz2MEsp"
-    },
-    {
-      "title": "Making the AI-powered case for legacy modernization",
-      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "pubDate": "Tue, 01 Sep 2026 14:00:00 +0000",
-      "date": "Tue, 01 Sep 2026 14:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
-      "guid": "https://www.technologyreview.com/?p=1142180"
-    },
-    {
-      "title": "AI is redefining the workforce — and most planning models aren’t ready",
-      "link": "https://venturebeat.com/orchestration/ai-is-redefining-the-workforce-and-most-planning-models-arent-ready",
-      "pubDate": "Tue, 01 Sep 2026 14:00:00 GMT",
-      "date": "Tue, 01 Sep 2026 14:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Presented by SAP\n\nHR tracks employees and skills. Finance owns headcount targets and cost. Procurement manages contractors and services spend. Together, they leave executives unable to answer basic questions about how workforce decisions actually translate into business outcomes.\nFragmented planning creates workforce blind spots\nEach function has its own systems, its own planning cadence, and its own assumptions about how work gets done. Recent SAP research found that 62% of C-suite executives a",
-      "guid": "745wt8qqZ5o5pw4p1nyxmD"
-    },
-    {
-      "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
-      "link": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
-      "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000",
-      "date": "Tue, 01 Sep 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
-      "guid": "https://stratechery.com/?p=19853"
-    },
-    {
-      "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
-      "link": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
-      "pubDate": "Tue, 01 Sep 2026 03:26:53 GMT",
-      "date": "Tue, 01 Sep 2026 03:26:53 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "The viral fervor we saw earlier this year around OpenClaw, the open source AI harness that turns powerful language models into autonomous workers the user can message via their favorite channels (Telegram, iMessage, WhatsApp, Discord etc), has cooled off substantially from its peak in March 2026.\nBut over the weekend, OpenClaw's creator Peter Steinberger and current team of co-developers gave the world — especially enterprises — a reason to look at it again, announcing OpenClaw 2.0, billed as th",
-      "guid": "7jbNSZY2giuLPG94cVwBNd"
+      "contentSnippet": "There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.\nThe first layer of risk is not hypothetical. In June, CISA added a LiteLLM flaw to its Known Exploited Vulnerabilities catalog after attackers were caught abusing it in the wild. The bug ran commands on the host through the gateway itself, and chaine",
+      "guid": "CHEt3gwb9kifEFjeUTX3l"
     }
   ]
 }
