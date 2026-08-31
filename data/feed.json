@@ -1,24 +1,13 @@
 {
-  "generatedAt": "2026-08-31T02:31:57.698Z",
+  "generatedAt": "2026-08-31T12:14:01.785Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 27,
   "items": [
-    {
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-08-31T02:31:53.475Z",
-      "date": "2026-08-31T02:31:53.475Z",
-      "source": "GitHub Trending · Daily",
-      "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nhttps://k-dense.ai\n\nScientific Agent Skills\n \n            \n \n \n \n🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility",
-      "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
-    },
     {
       "title": "THU-MAIC/OpenMAIC",
       "link": "https://github.com/THU-MAIC/OpenMAIC",
-      "pubDate": "2026-08-31T02:31:53.475Z",
-      "date": "2026-08-31T02:31:53.475Z",
+      "pubDate": "2026-08-31T12:13:59.201Z",
+      "date": "2026-08-31T12:13:59.201Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -26,26 +15,246 @@
       "guid": "https://github.com/THU-MAIC/OpenMAIC"
     },
     {
-      "title": "Show HN: Magic Layers – Turn Any Image into Layers",
-      "link": "https://magiclayers.net",
-      "pubDate": "Mon, 31 Aug 2026 00:40:12 +0000",
-      "date": "Mon, 31 Aug 2026 00:40:12 +0000",
-      "source": "Hacker News · Show HN",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "pubDate": "2026-08-31T12:13:59.201Z",
+      "date": "2026-08-31T12:13:59.201Z",
+      "source": "GitHub Trending · Daily",
       "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Magic Layers separates a flat PNG or JPEG into layers. Get the text, subject, decorations, and background back as named transparent PNG layers you can download and edit.\nComments URL: https://news.ycombinator.com/item?id=49504366\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49504366"
+      "icon": "⭐",
+      "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nhttps://k-dense.ai\n\nScientific Agent Skills\n \n            \n \n \n \n🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility",
+      "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "title": "Show HN: Python Static Site Generator for Small Businesses",
-      "link": "https://codeberg.org/Marking-Time/MicroStore",
-      "pubDate": "Mon, 31 Aug 2026 00:28:18 +0000",
-      "date": "Mon, 31 Aug 2026 00:28:18 +0000",
+      "title": "Show HN: Evoboard – GitHub style habit heatmaps with automatic activity logging",
+      "link": "https://evoboard.me/",
+      "pubDate": "Mon, 31 Aug 2026 11:41:56 +0000",
+      "date": "Mon, 31 Aug 2026 11:41:56 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "A static site generator for small web based store front for a brick and mortar store. It uses a local data store: FOSS\nThis software is intended to fill the gap between a \"full\" frontend/backend solution and a simple static front end site in that it employs local data stores to create a static website that can be easily updated by the store owner.\nFeatures:\n- A python script run by the user that accesses a local CSV data store and builds a static html page. This greatly reduces complexity while ",
-      "guid": "https://news.ycombinator.com/item?id=49504284"
+      "contentSnippet": "Hey HN!\nI built evoboard, a web app which shows your consistency on a year long heatmap.\nI liked the contribution graphs on GitHub and LeetCode, and wondered if I could make that idea for my everyday habits. I also made it so the habits can be completed automatically when you do them.\nFor example, if you commit to GitHub, play a game of chess, do a LeetCode problem, it can update your habit automatically. You can connect other apps with the use of the API or chrome extension.\nYou can also share ",
+      "guid": "https://news.ycombinator.com/item?id=49508482"
+    },
+    {
+      "title": "Show HN: AI studio with 500 models for headshots, video and images",
+      "link": "https://magicshot.ai",
+      "pubDate": "Mon, 31 Aug 2026 10:52:14 +0000",
+      "date": "Mon, 31 Aug 2026 10:52:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://magicshot.ai\nComments URL: https://news.ycombinator.com/item?id=49508159\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49508159"
+    },
+    {
+      "title": "Show HN: SwiftMo Power captures real-time exercise kinematics from a webcam",
+      "link": "https://app.swiftmo.com/#/stage/:manualMode/:demo",
+      "pubDate": "Mon, 31 Aug 2026 10:37:42 +0000",
+      "date": "Mon, 31 Aug 2026 10:37:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://app.swiftmo.com/#/stage/:manualMode/:demo\nComments URL: https://news.ycombinator.com/item?id=49508062\nPoints: 2\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49508062"
+    },
+    {
+      "title": "Show HN: Floe – an open-source plugin for sample libraries – CLAP/VST3/AU",
+      "link": "https://floe.audio/",
+      "pubDate": "Mon, 31 Aug 2026 10:11:39 +0000",
+      "date": "Mon, 31 Aug 2026 10:11:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm Sam, I make sample libraries (as FrozenPlain). These sample libraries run inside Floe, my audio plugin for Linux, macOS and Windows. It's designed for musicians, composers and producers - typically people involved with film/TV/game scoring or ambient music. I open-sourced it primarily because I'm very fond of this philosophy and I want to open the door for serving a wider audience than just my own libraries.\nIt's totally free, no sign-ups. You'll need a DAW. To try it:\n- Download and install",
+      "guid": "https://news.ycombinator.com/item?id=49507908"
+    },
+    {
+      "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+      "link": "https://stratechery.com/2026/meta-settles-a-framework-for-regulating-content-the-rest-of-big-tech/",
+      "pubDate": "Mon, 31 Aug 2026 10:00:00 +0000",
+      "date": "Mon, 31 Aug 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Meta's settlement makes sense for all parties, but the entire sage highlights why any solution to regulating technology feels off.",
+      "guid": "https://stratechery.com/?p=19845"
+    },
+    {
+      "title": "Show HN: Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing",
+      "link": "https://seenshot.app/",
+      "pubDate": "Mon, 31 Aug 2026 09:56:22 +0000",
+      "date": "Mon, 31 Aug 2026 09:56:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Every day, I send a lot of screenshots. The default app on Mac is useless. I have to do so many steps: take a screenshot, save it, annotate it, save it as an image, then send it as an image in chats. It takes me a few minutes. But it should take just a few seconds.\nMy second use case is sending feedback to my AI agents, and I’ve found they make much better edits when I provide comments and annotations on the screenshot.\nSo I built this app. It lets me instantly capture screenshots, annotate them",
+      "guid": "https://news.ycombinator.com/item?id=49507806"
+    },
+    {
+      "title": "Show HN: Smooth Game streaming with latency on slow mobile networks ,sktstreamer",
+      "link": "https://github.com/sktguha/sktstreamer",
+      "pubDate": "Mon, 31 Aug 2026 09:50:38 +0000",
+      "date": "Mon, 31 Aug 2026 09:50:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "The main goal is pretty different from traditional game streaming like moonlight etc\nInstead of optimizing primarily for competitive, ultra-low-latency gameplay, I'm targeting 4G/5G and other slow or unstable mobile connections, especially for open-world games.\nThink about driving around a huge open-world game.\nYou want the game world to look smooth. You want to enjoy the scenery, roads, lighting, water, forests, etc. But you also need to know where you actually are right now when the network in",
+      "guid": "https://news.ycombinator.com/item?id=49507761"
+    },
+    {
+      "title": "Show HN: Highlander – realtime MiniMax FastH3 with audio at $0.02 per second",
+      "link": "https://www.highlander.sh/",
+      "pubDate": "Mon, 31 Aug 2026 09:29:02 +0000",
+      "date": "Mon, 31 Aug 2026 09:29:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.highlander.sh/\nComments URL: https://news.ycombinator.com/item?id=49507642\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49507642"
+    },
+    {
+      "title": "Show HN: I tracked 55k free proxies for a week – 1.6% were alive",
+      "link": "https://github.com/proxmint/free-proxy-list",
+      "pubDate": "Mon, 31 Aug 2026 09:14:56 +0000",
+      "date": "Mon, 31 Aug 2026 09:14:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/proxmint/free-proxy-list\nComments URL: https://news.ycombinator.com/item?id=49507513\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49507513"
+    },
+    {
+      "title": "Show HN: VajraClaw – Deterministic <1µs execution guardrail for AI agents",
+      "link": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker",
+      "pubDate": "Mon, 31 Aug 2026 09:08:38 +0000",
+      "date": "Mon, 31 Aug 2026 09:08:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker\nComments URL: https://news.ycombinator.com/item?id=49507422\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49507422"
+    },
+    {
+      "title": "Show HN: A Pi extension to monitor your quota for OpenCode GO et CommandCode",
+      "link": "https://github.com/Anhydrite/pi-quota-monitoring",
+      "pubDate": "Mon, 31 Aug 2026 08:50:38 +0000",
+      "date": "Mon, 31 Aug 2026 08:50:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A Pi extension to monitor your quota for Opencode GO et CommandCode (5h and monthly windows)\nComments URL: https://news.ycombinator.com/item?id=49507224\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49507224"
+    },
+    {
+      "title": "Show HN: Catch AI code hallucinations without asking a model",
+      "link": "https://github.com/lovettsendit/hedgemony",
+      "pubDate": "Mon, 31 Aug 2026 08:47:14 +0000",
+      "date": "Mon, 31 Aug 2026 08:47:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/lovettsendit/hedgemony\nComments URL: https://news.ycombinator.com/item?id=49507199\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49507199"
+    },
+    {
+      "title": "Show HN: No Rush – Free macOS ambient places on their own local time and weather",
+      "link": "https://no-rush.app/",
+      "pubDate": "Mon, 31 Aug 2026 08:44:39 +0000",
+      "date": "Mon, 31 Aug 2026 08:44:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://no-rush.app/\nComments URL: https://news.ycombinator.com/item?id=49507180\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49507180"
+    },
+    {
+      "title": "Show HN: Schist – the open source photo editor that feels nice to use",
+      "link": "https://schist.app/",
+      "pubDate": "Mon, 31 Aug 2026 08:33:23 +0000",
+      "date": "Mon, 31 Aug 2026 08:33:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://schist.app/\nComments URL: https://news.ycombinator.com/item?id=49507125\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49507125"
+    },
+    {
+      "title": "Show HN: Sonde, a local code graph for AI agents that refuses to guess",
+      "link": "https://github.com/anishmoncivarghese/sonde",
+      "pubDate": "Mon, 31 Aug 2026 08:21:15 +0000",
+      "date": "Mon, 31 Aug 2026 08:21:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/anishmoncivarghese/sonde\nComments URL: https://news.ycombinator.com/item?id=49507034\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49507034"
+    },
+    {
+      "title": "Show HN: Live, step-through diagram embeds for Confluence",
+      "link": "https://flostep.dev/blog/documentation-diagrams-already-out-of-date",
+      "pubDate": "Mon, 31 Aug 2026 08:08:00 +0000",
+      "date": "Mon, 31 Aug 2026 08:08:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://flostep.dev/blog/documentation-diagrams-already-out-of-date\nComments URL: https://news.ycombinator.com/item?id=49506940\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49506940"
+    },
+    {
+      "title": "Show HN: Type",
+      "link": "https://type.thingg.co/",
+      "pubDate": "Mon, 31 Aug 2026 07:40:24 +0000",
+      "date": "Mon, 31 Aug 2026 07:40:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://type.thingg.co/\nComments URL: https://news.ycombinator.com/item?id=49506762\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49506762"
+    },
+    {
+      "title": "Show HN: Albums Vault, my take on how to manage Spotify album library",
+      "link": "https://codefloe.com/rabc/albums-vault",
+      "pubDate": "Mon, 31 Aug 2026 06:53:07 +0000",
+      "date": "Mon, 31 Aug 2026 06:53:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I am a long-time Spotify user, with tons of albums saved but never with a proper way to manage it: display genres, see what I've already listened, and many other things.\nI was finally able to bring to life the idea on how to handle the tons of music and it is named [Albums Vault](https://codefloe.com/rabc/albums-vault/). It is a macOS app built with Tauri + Rust, with plans to release to more platforms soon.\nSince Spotify now restricts the creation of apps keys, it works in a BYOK: at first inst",
+      "guid": "https://news.ycombinator.com/item?id=49506445"
+    },
+    {
+      "title": "Show HN: FlarePeek – a chrome extension for Cloudflare Worker developers",
+      "link": "https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl",
+      "pubDate": "Mon, 31 Aug 2026 06:31:27 +0000",
+      "date": "Mon, 31 Aug 2026 06:31:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/flarepeek-a-browser-exten/ffdbljcgdjkbbbbodnjbbgpahhnkfbnl\nComments URL: https://news.ycombinator.com/item?id=49506293\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49506293"
+    },
+    {
+      "title": "Show HN: Tracking spec-driven development in the wild",
+      "link": "https://sddobservatory.com/",
+      "pubDate": "Mon, 31 Aug 2026 04:31:04 +0000",
+      "date": "Mon, 31 Aug 2026 04:31:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "An open directory tracking spec-driven development frameworks and real-world projects over time, to evaluate how effective different approaches are in practice.\nComments URL: https://news.ycombinator.com/item?id=49505591\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49505591"
+    },
+    {
+      "title": "Show HN: ScriptSpool – Create code animations in the browser",
+      "link": "https://scriptspool.pixzens.com/en",
+      "pubDate": "Mon, 31 Aug 2026 03:04:57 +0000",
+      "date": "Mon, 31 Aug 2026 03:04:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I originally built ScriptSpool because I wanted to make short code animations for my own development tutorials.\nI looked at a few similar tools and projects online. Many of them felt either too limited, while using a full video editor was just too much work for what I wanted to achieve.\nSo I decided to build something I would actually use: paste some code, choose a theme and animation, adjust the speed, and export.\nIt started as a very simple typing animation tool. I then added line-by-line play",
+      "guid": "https://news.ycombinator.com/item?id=49505146"
     },
     {
       "title": "Agency and Agents",
@@ -59,39 +268,6 @@
       "guid": "https://www.oneusefulthing.org/p/agency-and-agents"
     },
     {
-      "title": "Show HN: Clownbid.lol – pay to be the biggest clown on the internet",
-      "link": "https://clownbid.lol/",
-      "pubDate": "Mon, 31 Aug 2026 00:14:00 +0000",
-      "date": "Mon, 31 Aug 2026 00:14:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://clownbid.lol/\nComments URL: https://news.ycombinator.com/item?id=49504201\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49504201"
-    },
-    {
-      "title": "Show HN: Break 5, the addictive, free 5 minute, daily word game",
-      "link": "https://break5.co.uk/",
-      "pubDate": "Mon, 31 Aug 2026 00:05:24 +0000",
-      "date": "Mon, 31 Aug 2026 00:05:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "No 3rd party analytics, no tracking, no data sharing. Just a fun, free game where everyone plays the same daily puzzle, in which you are challenged to turn one five-letter word into another five-letter word, changing one letter at a time.\nComments URL: https://news.ycombinator.com/item?id=49504150\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49504150"
-    },
-    {
-      "title": "Show HN: Open-source hands-free mouse control with Tracky Mouse",
-      "link": "https://github.com/1j01/tracky-mouse/",
-      "pubDate": "Mon, 31 Aug 2026 00:00:10 +0000",
-      "date": "Mon, 31 Aug 2026 00:00:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Tracky Mouse lets you control your whole computer with just a webcam.\nIt supports different modes to click, including dwell clicking and facial gestures. It can even provide three button mouse functionality, using closed eyes as modifiers to change what type of click is performed when opening your mouth.\nIt also supports different modes to move the mouse, including Direct, Joystick style, and D-pad style modes.\nIt's free (and ad-free) and will always will be.\nI want to make this the best accessi",
-      "guid": "https://news.ycombinator.com/item?id=49504106"
-    },
-    {
       "title": "Understanding ChatGPT Work",
       "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
       "pubDate": "2026-08-30T23:59:47.000Z",
@@ -101,39 +277,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/"
-    },
-    {
-      "title": "Show HN: St. Louis Food Map",
-      "link": "https://stlouing.com/food/",
-      "pubDate": "Sun, 30 Aug 2026 23:51:34 +0000",
-      "date": "Sun, 30 Aug 2026 23:51:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I moved to St. Louis, a city that is said to punch above its weight regarding the food scene. I've been exploring and documenting it on this map.\nAstro site using MapLibre GL, Protomaps and OpenStreetMap using self-hosted .pmtiles for the maps, hosted on GitHub. Interlinked food and neighborhoods throughout.\nComments URL: https://news.ycombinator.com/item?id=49504042\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49504042"
-    },
-    {
-      "title": "Show HN: What Apple's OS updates silently change in the on-device AI model",
-      "link": "https://umer9538.github.io/underfoot/",
-      "pubDate": "Sun, 30 Aug 2026 23:41:50 +0000",
-      "date": "Sun, 30 Aug 2026 23:41:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://umer9538.github.io/underfoot/\nComments URL: https://news.ycombinator.com/item?id=49503958\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49503958"
-    },
-    {
-      "title": "Show HN: I timestamped 34 trading strategy sweeps before running them",
-      "link": "https://mobinmoharami.github.io/sweep-registry/",
-      "pubDate": "Sun, 30 Aug 2026 23:39:55 +0000",
-      "date": "Sun, 30 Aug 2026 23:39:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mobinmoharami.github.io/sweep-registry/\nComments URL: https://news.ycombinator.com/item?id=49503939\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49503939"
     },
     {
       "title": "AI agents need their own identity before they need a gateway",
@@ -147,72 +290,6 @@
       "guid": "15ORBIUcpBMNYcRPSHLXoO"
     },
     {
-      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-      "link": "https://academa.ai/",
-      "pubDate": "Sun, 30 Aug 2026 22:22:23 +0000",
-      "date": "Sun, 30 Aug 2026 22:22:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, we are Sina Atalay and Abdullah Geduk, co-founders of Academa. We are both PhD students.\nWe thought: what if lecture videos were written as code and compiled into video using computer graphics and TTS?\nThen LLMs could write them, and lectures could be fixed with code edits instead of video production.\nOn correctness: LLMs may make mistakes. But these videos are code sitting in our repository, and we can maintain them. Every report and review becomes a fix in the source, and everyone who w",
-      "guid": "https://news.ycombinator.com/item?id=49503421"
-    },
-    {
-      "title": "Show HN: Ration – see your Claude usage across terminals and brag usage",
-      "link": "https://github.com/solodynamo/Ration",
-      "pubDate": "Sun, 30 Aug 2026 22:17:29 +0000",
-      "date": "Sun, 30 Aug 2026 22:17:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A FREE tiny native macOS menu-bar app that shows how hard you're leaning on Claude Code - without leaving your desktop or running a terminal command.\nComments URL: https://news.ycombinator.com/item?id=49503391\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49503391"
-    },
-    {
-      "title": "Show HN: Manage coding norms across your AI agents",
-      "link": "https://github.com/gsttm/norms",
-      "pubDate": "Sun, 30 Aug 2026 22:16:23 +0000",
-      "date": "Sun, 30 Aug 2026 22:16:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Working on a tiny repo to keep coding norms in sync across AI agents. Trying to make it simpler than Ruler / RuleSync.\nWould love feedback on:\n1) Is this the right way to manage coding norms as agent use balloons?\n2) Would it be useful to sync rules with your team through the VSCode extension?\n3) What's the best way to enforce long-term norm consistency as norm and code count increase?\nComments URL: https://news.ycombinator.com/item?id=49503387\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49503387"
-    },
-    {
-      "title": "Show HN: Hide the Mac menu bar or clock, dynamically synced w focus (DND)",
-      "link": "https://github.com/dotcomjack/nocturne",
-      "pubDate": "Sun, 30 Aug 2026 21:07:24 +0000",
-      "date": "Sun, 30 Aug 2026 21:07:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "what up guys, as I'm sure many of you are also, I'm extremely hyper in the brain and juggle hundreds of thoughts a minute. Again just like most of you, I'm often on DND dialed in.\nI've realized a point of friction isn't necessarily time itself but rather the questions we ask ourselves in regards to time; a simple mental example being something like 'oh what time is it' or 'wonder what time it is, I prob should get to bed'... Those are my biggest enemy, they ruin my flow and often pull me out of ",
-      "guid": "https://news.ycombinator.com/item?id=49502826"
-    },
-    {
-      "title": "Show HN: ShaderToyX",
-      "link": "https://github.com/vinay/ShaderToyX",
-      "pubDate": "Sun, 30 Aug 2026 20:24:31 +0000",
-      "date": "Sun, 30 Aug 2026 20:24:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/vinay/ShaderToyX\nComments URL: https://news.ycombinator.com/item?id=49502400\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49502400"
-    },
-    {
-      "title": "Show HN: Bill fans per post, not per month",
-      "link": "https://folloverse.com/",
-      "pubDate": "Sun, 30 Aug 2026 20:23:57 +0000",
-      "date": "Sun, 30 Aug 2026 20:23:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://folloverse.com/\nComments URL: https://news.ycombinator.com/item?id=49502397\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49502397"
-    },
-    {
       "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
       "link": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned",
       "pubDate": "Sun, 30 Aug 2026 20:15:00 GMT",
@@ -222,72 +299,6 @@
       "icon": "📰",
       "contentSnippet": "There is a clear repeating trend in agent deployments: The gateway is the first control teams reach for, but it is the one they are least ready to run. This is because gateways sit on top of identity and attribution layers that are mostly not there.\nThe first layer of risk is not hypothetical. In June, CISA added a LiteLLM flaw to its Known Exploited Vulnerabilities catalog after attackers were caught abusing it in the wild. The bug ran commands on the host through the gateway itself, and chaine",
       "guid": "CHEt3gwb9kifEFjeUTX3l"
-    },
-    {
-      "title": "Show HN: Automated Sanborn map georeferencing, with a Chicago map viewer",
-      "link": "https://autogeoref.com/",
-      "pubDate": "Sun, 30 Aug 2026 20:02:40 +0000",
-      "date": "Sun, 30 Aug 2026 20:02:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://autogeoref.com/\nComments URL: https://news.ycombinator.com/item?id=49502236\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49502236"
-    },
-    {
-      "title": "Show HN: Médicos por Venezuela – Non-profit medical help",
-      "link": "https://medicosporvenezuela.org/",
-      "pubDate": "Sun, 30 Aug 2026 19:46:28 +0000",
-      "date": "Sun, 30 Aug 2026 19:46:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://medicosporvenezuela.org/\nComments URL: https://news.ycombinator.com/item?id=49502091\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49502091"
-    },
-    {
-      "title": "Show HN: Roam, a GPS speedometer that tries not to burn in your OLED",
-      "link": "https://github.com/Nicsilver/roam",
-      "pubDate": "Sun, 30 Aug 2026 19:38:42 +0000",
-      "date": "Sun, 30 Aug 2026 19:38:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Nicsilver/roam\nComments URL: https://news.ycombinator.com/item?id=49502017\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49502017"
-    },
-    {
-      "title": "Show HN: Invovanta – Invoicing and business management for freelancers",
-      "link": "https://invoiceflowdesign.app/",
-      "pubDate": "Sun, 30 Aug 2026 19:15:03 +0000",
-      "date": "Sun, 30 Aug 2026 19:15:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built Invovanta to help freelancers and small businesses manage clients, create professional invoices, track payments, and keep their business information organized in one place.\nIt also includes features like invoice PDFs, dashboards, client management, and AI-powered receipt extraction.\nI’d genuinely appreciate feedback from the HN community. What would you improve, remove, or add?\nComments URL: https://news.ycombinator.com/item?id=49501845\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49501845"
-    },
-    {
-      "title": "Show HN: A Big Five personality test with no \"Types\" and free scores",
-      "link": "https://fiveprint.app/en",
-      "pubDate": "Sun, 30 Aug 2026 18:54:47 +0000",
-      "date": "Sun, 30 Aug 2026 18:54:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://fiveprint.app/en\nComments URL: https://news.ycombinator.com/item?id=49501664\nPoints: 3\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49501664"
-    },
-    {
-      "title": "Show HN: AnVendor – see your competitor's customers",
-      "link": "https://anvendor.com/",
-      "pubDate": "Sun, 30 Aug 2026 18:54:10 +0000",
-      "date": "Sun, 30 Aug 2026 18:54:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Long story short: I found a way to reveal which SaaS any company uses. And estimate how much they pay for it.\nAnd now in detail:\nI'm a solo entrepreneur – an ML Engineer, a bit of a product manager, and a self-taught marketer.\nAt some point, I thought it would be nice to detect what services companies use. There are solutions that scan websites for frameworks and APIs used, or that analyze a company's job postings, and others that look at news and website publications. But overall, no single app",
-      "guid": "https://news.ycombinator.com/item?id=49501656"
     }
   ]
 }
