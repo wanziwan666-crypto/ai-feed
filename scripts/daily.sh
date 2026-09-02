@@ -51,11 +51,23 @@ feed_count() {
 
 echo "=== $(date) ===" >> "$LOG"
 
-# 1. 同步远端（先丢弃本地 feed.json 改动，避免 pull 冲突）
+# 1. 同步远端。2026-09-01 死链事故：上次 pull --rebase 因 feed.json 冲突中途挂起，
+#    之后每天 commit 都落在 detached HEAD 上、push 全报 "not currently on a branch"，
+#    但飞书照推 → 推了 Pages 上不存在的链接。开跑前先清残留状态，并让冲突自动化解。
 echo "[1/6] git pull..." >> "$LOG"
 cd "$REPO_DIR"
+if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
+  echo "[1/6] 清理上次残留的 rebase 状态" >> "$LOG"
+  git rebase --abort >> "$LOG" 2>&1 || rm -rf .git/rebase-merge .git/rebase-apply
+  git reset >> "$LOG" 2>&1   # 清掉可能残留的 unmerged index（feeds.json 等摘要库未跟踪，不受影响）
+fi
+if ! git symbolic-ref -q HEAD > /dev/null; then
+  echo "[1/6] HEAD 游离，切回 main（保留当前 commit）" >> "$LOG"
+  git checkout -B main >> "$LOG" 2>&1
+fi
 git checkout -- data/feed.json 2>/dev/null
-retry 3 30 git "${GIT_NET_OPTS[@]}" pull --rebase origin main \
+# -X theirs：冲突取本地版本。feed.json 是抓取缓存，下一步会全量重写，内容无关紧要，关键是别让 rebase 挂起
+retry 3 30 git "${GIT_NET_OPTS[@]}" pull --rebase -X theirs origin main \
   || echo "[1/6] git pull FAILED（已重试 3 次，继续执行，但可能与远端分叉）" >> "$LOG"
 
 # 2. 抓取原始 RSS（无 API）。抓到 0 条几乎必为网络中断，重试 3 次仍为 0 则中止整条管线
@@ -88,12 +100,21 @@ echo "[5/6] deploy..." >> "$LOG"
 TODAY=$(date +%Y-%m-%d)
 git add docs/ data/feed.json >> "$LOG" 2>&1
 git commit -m "auto: feed report ${TODAY}" >> "$LOG" 2>&1 || echo "[5/6] nothing to commit" >> "$LOG"
-retry 5 30 git "${GIT_NET_OPTS[@]}" push \
-  || echo "[5/6] git push FAILED（已重试 5 次；本地提交已保留，网络恢复后手动 git push 即可）" >> "$LOG"
+# HEAD:main 显式指定目标分支：即使 HEAD 游离也能推上去，不再报 "not currently on a branch"
+PUSH_OK=0
+if retry 5 30 git "${GIT_NET_OPTS[@]}" push origin HEAD:main; then
+  PUSH_OK=1
+else
+  echo "[5/6] git push FAILED（已重试 5 次；本地提交已保留，网络恢复后手动 git push origin HEAD:main 即可）" >> "$LOG"
+fi
 
-# 6. 推送飞书
+# 6. 推送飞书（仅当第 5 步部署成功；push 没上去就推链接 = 推死链）
 echo "[6/6] push-feishu..." >> "$LOG"
-run_timed 120 node scripts/push-feishu.js >> "$LOG" 2>&1 || echo "[6/6] push-feishu FAILED（或 120s 看门狗超时）" >> "$LOG"
+if [ "$PUSH_OK" = "1" ]; then
+  run_timed 120 node scripts/push-feishu.js >> "$LOG" 2>&1 || echo "[6/6] push-feishu FAILED（或 120s 看门狗超时）" >> "$LOG"
+else
+  echo "[6/6] 跳过飞书推送：第 5 步部署未成功，推了也是死链。手动 git push 后补推：node scripts/push-feishu.js（日期标记仅在推送成功后写入，不会被挡）" >> "$LOG"
+fi
 
 # 全部步骤结束（含可能失败）后记录当天已运行，避免 RunAtLoad 重复触发
 echo "$TODAY_MARKER" > "$MARKER"
