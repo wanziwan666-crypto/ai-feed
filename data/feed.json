@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-01T20:19:57.653Z",
+  "generatedAt": "2026-09-02T02:06:54.922Z",
   "lookbackHours": 24,
-  "totalItems": 32,
+  "totalItems": 31,
   "items": [
     {
       "title": "THU-MAIC/OpenMAIC",
       "link": "https://github.com/THU-MAIC/OpenMAIC",
-      "pubDate": "2026-09-01T20:19:55.584Z",
-      "date": "2026-09-01T20:19:55.584Z",
+      "pubDate": "2026-09-02T02:06:53.031Z",
+      "date": "2026-09-02T02:06:53.031Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,211 @@
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-09-01T20:19:55.584Z",
-      "date": "2026-09-01T20:19:55.584Z",
+      "pubDate": "2026-09-02T02:06:53.031Z",
+      "date": "2026-09-02T02:06:53.031Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nhttps://k-dense.ai\n\nScientific Agent Skills\n \n            \n \n \n \n🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broader compatibility",
       "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "title": "Show HN: Rust compiler converting CPGs to Nuclei YAML",
+      "link": "https://github.com/Tito0015/cpg-nuclei-compiler",
+      "pubDate": "Wed, 02 Sep 2026 01:26:45 +0000",
+      "date": "Wed, 02 Sep 2026 01:26:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Tito0015/cpg-nuclei-compiler\nComments URL: https://news.ycombinator.com/item?id=49530631\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49530631"
+    },
+    {
+      "title": "Show HN: Life Compass – A life planning app built on The 7 Habits",
+      "link": "https://lifecmp.com",
+      "pubDate": "Wed, 02 Sep 2026 01:23:08 +0000",
+      "date": "Wed, 02 Sep 2026 01:23:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://lifecmp.com\nComments URL: https://news.ycombinator.com/item?id=49530600\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49530600"
+    },
+    {
+      "title": "Claude Fable 5.1 made me a really nice animated pelican",
+      "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "pubDate": "2026-09-01T23:57:28.000Z",
+      "date": "2026-09-01T23:57:28.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/"
+    },
+    {
+      "title": "Show HN: Notes Plus – A Markdown Apple Notes Clone with Latex, Excalidraw etc.",
+      "link": "https://notesplus.io/",
+      "pubDate": "Tue, 01 Sep 2026 23:17:05 +0000",
+      "date": "Tue, 01 Sep 2026 23:17:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "tldr: clone of Apple Notes, but every note is a local Markdown file.\nHi, I used a summer of unemployment to actually finalize a hobby project, a literal clone of Apple's Notes, with open access to the filesystem, meaning each note is just a markdown file. Then implemented renderers for Excalidraw, Latex, AsciiMath, mermaid diagrams, PlantUML, Graphviz, Vega Lite, mhchem and footnotes (a feature i need a lot in texts).\nIt can also show notes in vertical lists, like swimlanes, I call it \"JIRA view",
+      "guid": "https://news.ycombinator.com/item?id=49529608"
+    },
+    {
+      "title": "Show HN: Secure agentic email infrastructure with beta desktop client",
+      "link": "https://github.com/adecubed/gigamail",
+      "pubDate": "Tue, 01 Sep 2026 23:08:08 +0000",
+      "date": "Tue, 01 Sep 2026 23:08:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/adecubed/gigamail\nComments URL: https://news.ycombinator.com/item?id=49529521\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49529521"
+    },
+    {
+      "title": "Show HN: TinyJS – small apps on Win/Mac/Linux",
+      "link": "https://tinyjs.app",
+      "pubDate": "Tue, 01 Sep 2026 22:25:05 +0000",
+      "date": "Tue, 01 Sep 2026 22:25:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi all. I'm Tarwin. I've been working on TinyJS for about 6 weeks now.\nI was sick of installing 500mb Electron apps for every little utility. The last straw was Harvest updating from 5mb to 500mb in latest release.\nTauri exists (and it's great) but I wanted something that was JS first. So I built this on top of txikijs, a tools that includes QuickJS and SQLite already.\nTinyJS does what it says it does. Small apps that can do almost anything. 100% JS.\nAs part of building a tool like this I also b",
+      "guid": "https://news.ycombinator.com/item?id=49529062"
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "link": "https://masteranza.github.io/weedout/",
+      "pubDate": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "date": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label rather than AI detection, runs locally, and does not catch unlabeled videos.\nSource for developers who want to fork or build: https://github.com/masteranza/weedout-for-youtube\nPull requests are not ac",
+      "guid": "https://news.ycombinator.com/item?id=49528895"
+    },
+    {
+      "title": "Show HN: Rails Baseline – a Rails SaaS starter with agent-readable architecture",
+      "link": "https://railsbaseline.com/",
+      "pubDate": "Tue, 01 Sep 2026 22:00:30 +0000",
+      "date": "Tue, 01 Sep 2026 22:00:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I have built a lot of SaaS Rails apps over the last decade+...and agents are making their way into my workflow more then ever. So I decided I wanted a starter that picks a LOT of vanilla Rails flavors, a little bit of battle tested additions and a lot of agent discoverable context so new features and changes tend to stay inside the guard rails.\nComments URL: https://news.ycombinator.com/item?id=49528828\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49528828"
+    },
+    {
+      "title": "Show HN: Superagent, a computer for your coding agent (Mac, MIT)",
+      "link": "https://superagent.computer/",
+      "pubDate": "Tue, 01 Sep 2026 21:55:40 +0000",
+      "date": "Tue, 01 Sep 2026 21:55:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://superagent.computer/\nComments URL: https://news.ycombinator.com/item?id=49528791\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49528791"
+    },
+    {
+      "title": "Show HN: Fountain – OSS API to give your app a computer it can talk to",
+      "link": "https://managoat.com/oss-launch",
+      "pubDate": "Tue, 01 Sep 2026 21:16:38 +0000",
+      "date": "Tue, 01 Sep 2026 21:16:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Building tools for engineering teams running a bajillion Claude Code sessions, I kept hitting the same problem. To build the apps I wanted, I needed long-running processes that could scale to 0 when idle, resume quickly and retain their files and context. That meant I had to own the machine lifecycle, sandbox setup, credential handling, and communications plumbing. A bunch of stuff that isn't core to the products I wanted to build, but I needed all of it to make the product work.\nAfter several a",
+      "guid": "https://news.ycombinator.com/item?id=49528322"
+    },
+    {
+      "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+      "link": "https://studio.compilr.dev/welcome/",
+      "pubDate": "Tue, 01 Sep 2026 21:15:13 +0000",
+      "date": "Tue, 01 Sep 2026 21:15:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built a platform to help project and product owners record vision, objectives, decisions, risks, assumptions, and requirements as a connected graph with the help of AI.\nSo, how does it work? The platform offers a set of MCP tools so it is compatible with any AI application that lets you define a custom MCP. I use it with Claude AI on my phone or using the Claude plugin on Chrome (main Studio page on the browser with the Claude plugin chat window in the right panel).\nStudio also provides the sk",
+      "guid": "https://news.ycombinator.com/item?id=49528310"
+    },
+    {
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "link": "https://hnmatchmaker.com/",
+      "pubDate": "Tue, 01 Sep 2026 20:53:35 +0000",
+      "date": "Tue, 01 Sep 2026 20:53:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi!\nEvery month the \"Who Wants to Be Hired?\" and \"Who's Hiring?\" Threads come through I would think to myself, \"there should be a match maker for these two threads\".\nSo I had abacus.ai whip one up. The methodology is pretty simple, data is extracted from posts using an LLM, score matches based on salary, domain experience, remote/onsite, etc., and then eliminate incompatible postings, like 'looking for remote work' and 'onsite only'. The result is two views: jobs-by-user and user-by-jobs.\nIf you",
+      "guid": "https://news.ycombinator.com/item?id=49528057"
+    },
+    {
+      "title": "Show HN: The Daily Set – an (over engineered) daily puzzle game",
+      "link": "https://setpuzzle.com/",
+      "pubDate": "Tue, 01 Sep 2026 20:37:59 +0000",
+      "date": "Tue, 01 Sep 2026 20:37:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "We used to play at setgame.com daily as a team, but their SSL certificate expired. So we rebuilt it, but with more features: daily leaderboards, achievements system, worldwide ELO rankings, progress tracking, different modes (Diablo, Training), and an iOS app!\nComments URL: https://news.ycombinator.com/item?id=49527856\nPoints: 9\n# Comments: 5",
+      "guid": "https://news.ycombinator.com/item?id=49527856"
+    },
+    {
+      "title": "Show HN: Groundbeat – I removed the email wall from my polling site",
+      "link": "https://groundbeat.com",
+      "pubDate": "Tue, 01 Sep 2026 20:37:21 +0000",
+      "date": "Tue, 01 Sep 2026 20:37:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://groundbeat.com\nComments URL: https://news.ycombinator.com/item?id=49527837\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49527837"
+    },
+    {
+      "title": "Show HN: Teslacode.dev – use Claude Code on your Tesla screen",
+      "link": "https://teslacode.dev",
+      "pubDate": "Tue, 01 Sep 2026 20:35:53 +0000",
+      "date": "Tue, 01 Sep 2026 20:35:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://teslacode.dev\nComments URL: https://news.ycombinator.com/item?id=49527817\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49527817"
+    },
+    {
+      "title": "Show HN: Mcptunnels – ngrok for MCP with basic OAuth",
+      "link": "https://terragohan.github.io/mcptunnels/",
+      "pubDate": "Tue, 01 Sep 2026 20:34:55 +0000",
+      "date": "Tue, 01 Sep 2026 20:34:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Basically, OpenAI tunneling sucks and is broken most of the time. This can get you tunneling pretty trivially to share with someone temporarily. Roadmap includes being able to host MCP servers trivially as well.\nComments URL: https://news.ycombinator.com/item?id=49527807\nPoints: 13\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49527807"
+    },
+    {
+      "title": "Show HN: Vedic astrology from your Vedic birth chart",
+      "link": "https://vedicastrology.com",
+      "pubDate": "Tue, 01 Sep 2026 20:31:57 +0000",
+      "date": "Tue, 01 Sep 2026 20:31:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vedicastrology.com\nComments URL: https://news.ycombinator.com/item?id=49527766\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49527766"
+    },
+    {
+      "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
+      "link": "https://indextkn.com",
+      "pubDate": "Tue, 01 Sep 2026 20:17:32 +0000",
+      "date": "Tue, 01 Sep 2026 20:17:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been building quite a few POCs that use LLMs at work, and something that always comes up is: \"OK, how much are we paying for X?\" Or the one that follows right after: \"If we use another model, would that be cheaper?\"\nSo far, what we've used are hardcoded files or keeping the data in our DB. This won't hold when moving to prod. It also keeps us very limited when it comes to creating price comparisons across different models/providers.\nindextkn came from that. Over the past 3 weeks, I've spent",
+      "guid": "https://news.ycombinator.com/item?id=49527549"
     },
     {
       "title": "Show HN: Gorilla Warefare",
@@ -55,19 +253,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://llmobi.pages.dev\nComments URL: https://news.ycombinator.com/item?id=49526848\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://llmobi.pages.dev\nComments URL: https://news.ycombinator.com/item?id=49526848\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49526848"
-    },
-    {
-      "title": "AI Fact Checking Using the Ensemble Method",
-      "link": "https://www.coolcatteacher.com/ai-fact-checking-ensemble-method/",
-      "pubDate": "Tue, 01 Sep 2026 19:20:58 +0000",
-      "date": "Tue, 01 Sep 2026 19:20:58 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nI asked Google how often AI hallucinates, then fact-checked the answer with Claude, ChatGPT, and Perplexity. Every model caught real errors — and every model introduced some. Here is the ensemble method I used, what each tool got wrong, and why the original sources still beat any AI summary of them.\nThe post AI Fact Checking Using the Ensemble Method",
-      "guid": "https://www.coolcatteacher.com/?p=35314"
     },
     {
       "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
@@ -92,28 +279,6 @@
       "guid": "6phYfqOh7tv1qmgwfEt5ZD"
     },
     {
-      "title": "Show HN: codex-remote-control – Use Claude's Remote Control with Codex Sessions",
-      "link": "https://github.com/sahrizvi/codex-remote-control",
-      "pubDate": "Tue, 01 Sep 2026 18:51:38 +0000",
-      "date": "Tue, 01 Sep 2026 18:51:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sahrizvi/codex-remote-control\nComments URL: https://news.ycombinator.com/item?id=49526313\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49526313"
-    },
-    {
-      "title": "Show HN: Personal AI Use Policies",
-      "link": "https://howiai.directory",
-      "pubDate": "Tue, 01 Sep 2026 18:44:06 +0000",
-      "date": "Tue, 01 Sep 2026 18:44:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://howiai.directory\nComments URL: https://news.ycombinator.com/item?id=49526206\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49526206"
-    },
-    {
       "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
       "link": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
       "pubDate": "Tue, 01 Sep 2026 18:41:21 GMT",
@@ -123,171 +288,6 @@
       "icon": "📰",
       "contentSnippet": "It's only the first day of September 2026, but the month and fall season are already off to the races in AI land, as Anthropic has just released its latest and most powerful large language models yet — Claude Fable 5.1 and Claude Mythos 5.1. \nThe two names refer to the same underlying model. Fable 5.1 is the generally available version, with Anthropic’s production safeguards in place. Mythos 5.1 is available through restricted-access programs for vetted cybersecurity and life-sciences organizati",
       "guid": "3W8GFie5vhr6MHcOcdSSaC"
-    },
-    {
-      "title": "Show HN: MeridianOS – free website builder that turns your site into a retro OS",
-      "link": "https://meridianos.zip",
-      "pubDate": "Tue, 01 Sep 2026 18:35:54 +0000",
-      "date": "Tue, 01 Sep 2026 18:35:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://meridianos.zip\nComments URL: https://news.ycombinator.com/item?id=49526079\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49526079"
-    },
-    {
-      "title": "Show HN: Kaden Terminal – Bloat / AI Free Terminal for Linux",
-      "link": "https://github.com/glitcher255/Kaden-Terminal",
-      "pubDate": "Tue, 01 Sep 2026 18:35:21 +0000",
-      "date": "Tue, 01 Sep 2026 18:35:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Kaden is a Terminal Emulator and fork of warp with clipboard support and configurable keybindings, I made Kaden because every other Linux terminal lacks proper text selection.\nIt's impossible to select user input with a single hotkey on Linux, requiring mouse use and awkward multi-step shortcuts in order to do basic copy and paste.\nThis was frustrating to deal with, until I found warp, which wraps the shell in a remappable text input field, its the only terminal on Linux that does this.\nUnfortun",
-      "guid": "https://news.ycombinator.com/item?id=49526071"
-    },
-    {
-      "title": "Show HN: Gopdfrab – Open-source PDF/A processing for Go",
-      "link": "https://gopdfrab.voidrab.com/",
-      "pubDate": "Tue, 01 Sep 2026 18:34:59 +0000",
-      "date": "Tue, 01 Sep 2026 18:34:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://gopdfrab.voidrab.com/\nComments URL: https://news.ycombinator.com/item?id=49526062\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49526062"
-    },
-    {
-      "title": "Show HN: Wife: AI that lets you pick the best Card for each Purchase",
-      "link": "https://www.getwife.co/",
-      "pubDate": "Tue, 01 Sep 2026 18:17:38 +0000",
-      "date": "Tue, 01 Sep 2026 18:17:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi Hackernews, being an avid maximizer of rewards/gifts/credit cards, I decided to build a product that enables me to select the best card for each purchase/transaction.\nYou can be able to add your current Card to the wallet (we don't store card information).\n- Users can ask an llm to select the best card for an occassion and plan towards a trip.\n- Users can search stores/businesses nearby or a particular merchant and see the rewards/benefits they can maximize.\n- Best card on Tap (coming soon)\nC",
-      "guid": "https://news.ycombinator.com/item?id=49525763"
-    },
-    {
-      "title": "Show HN: Vayvan – Films get ranked like ranked matches in a shared universe",
-      "link": "https://www.vayvan.com",
-      "pubDate": "Tue, 01 Sep 2026 17:59:37 +0000",
-      "date": "Tue, 01 Sep 2026 17:59:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.vayvan.com\nComments URL: https://news.ycombinator.com/item?id=49525475\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49525475"
-    },
-    {
-      "title": "Show HN: Wasmer SDK – Local Sandboxes for AI Agents",
-      "link": "https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents",
-      "pubDate": "Tue, 01 Sep 2026 17:58:49 +0000",
-      "date": "Tue, 01 Sep 2026 17:58:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49525451\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49525451"
-    },
-    {
-      "title": "Show HN: I built a free App Store screenshot editor with posable 3D devices",
-      "link": "https://ultrashot.io/",
-      "pubDate": "Tue, 01 Sep 2026 17:48:27 +0000",
-      "date": "Tue, 01 Sep 2026 17:48:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://ultrashot.io/\nComments URL: https://news.ycombinator.com/item?id=49525317\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49525317"
-    },
-    {
-      "title": "Show HN: Three Pins a daily 3-hole golf game in the browser",
-      "link": "https://threepins.golf/",
-      "pubDate": "Tue, 01 Sep 2026 17:45:16 +0000",
-      "date": "Tue, 01 Sep 2026 17:45:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://threepins.golf/\nComments URL: https://news.ycombinator.com/item?id=49525284\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49525284"
-    },
-    {
-      "title": "Show HN: Rust Glancer 0.2 – new Rust LSP server targeting <100mb idle RSS",
-      "link": "https://rust-glancer.github.io/blog/0-2-0/",
-      "pubDate": "Tue, 01 Sep 2026 17:43:35 +0000",
-      "date": "Tue, 01 Sep 2026 17:43:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This is a major update of functionality, mainly incorporating early feedback, including from HN. The LSP got Zed/nvim & Windows support, was optimized for Bevy, and got significant improvements of analysis quality, memory usage, and speed.\nComments URL: https://news.ycombinator.com/item?id=49525257\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49525257"
-    },
-    {
-      "title": "Show HN: Semantic Overlays – an NX bit for LLM prompt injection (live demo)",
-      "link": "https://semantic-overlays.vercel.app/",
-      "pubDate": "Tue, 01 Sep 2026 17:40:13 +0000",
-      "date": "Tue, 01 Sep 2026 17:40:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've built a new method for steering LLMs called Semantic Overlays, small trained adapters on a frozen model which change how it perceives a piece of its context. The most readily applicable usage is to mitigate prompt injection, and it lets us take a very-injectable Qwen-3.5-9B to SOTA scores on all the prompt injection benchmarks I could find. (They are only blackbox attacks, but I did NOT train on anything like them — whitebox attacks are out of scope for this paper)\nI'm excited for you to pl",
-      "guid": "https://news.ycombinator.com/item?id=49525220"
-    },
-    {
-      "title": "Show HN: Sift, an iOS app that auto-detects recipes in Safari and stores them",
-      "link": "https://siftapp.me/",
-      "pubDate": "Tue, 01 Sep 2026 17:28:26 +0000",
-      "date": "Tue, 01 Sep 2026 17:28:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://siftapp.me/\nComments URL: https://news.ycombinator.com/item?id=49525073\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49525073"
-    },
-    {
-      "title": "Show HN: Executor – Skill: Superpowers on Steroids",
-      "link": "https://github.com/Atri10/executor",
-      "pubDate": "Tue, 01 Sep 2026 17:12:01 +0000",
-      "date": "Tue, 01 Sep 2026 17:12:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Honestly i love /using superpowers but the document recording and organization structure was just not what i wanted so fixed it my self\nhttps://github.com/Atri10/executor.git\nComments URL: https://news.ycombinator.com/item?id=49524860\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49524860"
-    },
-    {
-      "title": "Show HN: Heaviside-1, a foundation model for electromagnetism",
-      "link": "https://fields-studio.arenaphysica.com/",
-      "pubDate": "Tue, 01 Sep 2026 17:05:51 +0000",
-      "date": "Tue, 01 Sep 2026 17:05:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Heaviside-1 was trained on 500B field samples from over 250K unique physical layout designs, and is approximately the scale of GPT-2. It predicts a full design's fields ~10^5x faster than a commercial full-wave solver, with S-parameter magnitude error under 1 dB. and generalizes out of distribution.\nYou can play around with the model and a subset of designs including hairpin filters and patch antennas with our Fields Studio. Design, adjust the geometry, and the predicted electric and magnetic fi",
-      "guid": "https://news.ycombinator.com/item?id=49524789"
-    },
-    {
-      "title": "Show HN: Seedeep – I couldn't see what Claude Code was doing, so I drew it",
-      "link": "https://github.com/duqaXxX/seedeep",
-      "pubDate": "Tue, 01 Sep 2026 17:04:15 +0000",
-      "date": "Tue, 01 Sep 2026 17:04:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/duqaXxX/seedeep\nComments URL: https://news.ycombinator.com/item?id=49524766\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49524766"
-    },
-    {
-      "title": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
-      "link": "https://www.supafork.com",
-      "pubDate": "Tue, 01 Sep 2026 16:54:02 +0000",
-      "date": "Tue, 01 Sep 2026 16:54:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN!\nI built Supafork, one place to store and share AI agent sessions.\nAfter using Claude Code, Codex, Gemini CLI, OpenCode, Pi, and other coding agents daily, I realized these sessions lived only on my machine. There wasn't a simple way to access, reuse, or share them with others.\nWith Supafork, you can save complete agent sessions, organize them into collections, make them public or private, and fork other people's sessions to build on their workflows. You can also import sessions from one ",
-      "guid": "https://news.ycombinator.com/item?id=49524608"
     },
     {
       "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
@@ -321,17 +321,6 @@
       "icon": "📰",
       "contentSnippet": "Presented by SAP\n\nHR tracks employees and skills. Finance owns headcount targets and cost. Procurement manages contractors and services spend. Together, they leave executives unable to answer basic questions about how workforce decisions actually translate into business outcomes.\nFragmented planning creates workforce blind spots\nEach function has its own systems, its own planning cadence, and its own assumptions about how work gets done. Recent SAP research found that 62% of C-suite executives a",
       "guid": "745wt8qqZ5o5pw4p1nyxmD"
-    },
-    {
-      "title": "How to Build Your Own Data Dashboard: No Coding Required",
-      "link": "https://www.coolcatteacher.com/e981/",
-      "pubDate": "Tue, 01 Sep 2026 11:00:00 +0000",
-      "date": "Tue, 01 Sep 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nA.J. Juliani has led over 150 educators to build their own AI data dashboards with no coding. Learn interview mode, the one question to ask any vendor, and how to de-identify student data before it ever touches an AI tool.\nThe post How to Build Your Own Data Dashboard: No Coding Required appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcat",
-      "guid": "https://www.coolcatteacher.com/?p=35288"
     },
     {
       "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
