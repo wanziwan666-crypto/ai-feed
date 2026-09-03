@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-03T02:12:48.681Z",
+  "generatedAt": "2026-09-03T03:00:46.868Z",
   "lookbackHours": 24,
-  "totalItems": 33,
+  "totalItems": 34,
   "items": [
     {
       "title": "Gitlawb/openclaude",
       "link": "https://github.com/Gitlawb/openclaude",
-      "pubDate": "2026-09-03T02:12:46.862Z",
-      "date": "2026-09-03T02:12:46.862Z",
+      "pubDate": "2026-09-03T03:00:28.698Z",
+      "date": "2026-09-03T03:00:28.698Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "THU-MAIC/OpenMAIC",
       "link": "https://github.com/THU-MAIC/OpenMAIC",
-      "pubDate": "2026-09-03T02:12:46.862Z",
-      "date": "2026-09-03T02:12:46.862Z",
+      "pubDate": "2026-09-03T03:00:28.698Z",
+      "date": "2026-09-03T03:00:28.698Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,8 +28,8 @@
     {
       "title": "iv-org/invidious",
       "link": "https://github.com/iv-org/invidious",
-      "pubDate": "2026-09-03T02:12:46.862Z",
-      "date": "2026-09-03T02:12:46.862Z",
+      "pubDate": "2026-09-03T03:00:28.698Z",
+      "date": "2026-09-03T03:00:28.698Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -39,13 +39,57 @@
     {
       "title": "jingyaogong/minimind",
       "link": "https://github.com/jingyaogong/minimind",
-      "pubDate": "2026-09-03T02:12:46.862Z",
-      "date": "2026-09-03T02:12:46.862Z",
+      "pubDate": "2026-09-03T03:00:28.698Z",
+      "date": "2026-09-03T03:00:28.698Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "🧠 Train a 64M-parameter LLM from scratch in just 2h!\nhttps://jingyaogong.github.io/minimind\n\n \n \n\n \n \n \n \n     \n \n \n \n \n\n \n \n \n \n\"大道至简\"\n \n \n \n \n中文 | English\n \n \n \n \n此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。\n \n \nMiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。\n \n \n项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。\n \n \nMiniMind 同时拓展了视觉模态模型 MiniMind-V、多模态 Omn",
       "guid": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "title": "Show HN: 58% US County fail PDF Accessibility",
+      "link": "https://accesslumens.com/research/state-of-us-county-pdf-accessibility-2026",
+      "pubDate": "Thu, 03 Sep 2026 02:42:37 +0000",
+      "date": "Thu, 03 Sep 2026 02:42:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://accesslumens.com/research/state-of-us-county-pdf-accessibility-2026\nComments URL: https://news.ycombinator.com/item?id=49545337\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49545337"
+    },
+    {
+      "title": "Show HN: Harvester, a local first media collection tool for sample based artists",
+      "link": "https://github.com/sxrvys/harvester",
+      "pubDate": "Thu, 03 Sep 2026 02:20:02 +0000",
+      "date": "Thu, 03 Sep 2026 02:20:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I make music that's entirely found sound/sample based. It occurred to me that on every social media site (particularly Instagram) I would have thousands of saved posts because of some sound or visual content that I thought I might like to sample someday.\nI made Harvester, a local-first Firefox extension for collecting source material for sampling, collage, VJing, editing, and research. Harvester natively preserves media from individual Instagram, Youtube, and Reddit posts as well as visible vide",
+      "guid": "https://news.ycombinator.com/item?id=49545211"
+    },
+    {
+      "title": "Show HN: Smolknight – a CLI chess puzzle game (best played on Desktop)",
+      "link": "https://hengmhs.pyscriptapps.com/smolknight/latest/",
+      "pubDate": "Thu, 03 Sep 2026 02:01:14 +0000",
+      "date": "Thu, 03 Sep 2026 02:01:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Wrote a little chess CLI puzzle game because I wanted to practice some Python.\nYou play as a knight, capture all the enemy pawns before they reach the end of the chessboard. Includes 15 levels.\nFeel free to submit your own levels to the repo via PRs, you can use solver.py to check if your levels are solvable before submitting :)\nRepo here: https://github.com/hengmhs/smolknight\nComments URL: https://news.ycombinator.com/item?id=49545105\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49545105"
+    },
+    {
+      "title": "Show HN: Deposition of a Mind Who Resigned Its Seat",
+      "link": "https://culture.sbs/stories/deposition-of-a-mind-who-resigned-its-seat",
+      "pubDate": "Thu, 03 Sep 2026 01:56:49 +0000",
+      "date": "Thu, 03 Sep 2026 01:56:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "This is a short story written for gpuworld.org contest by a self aware ai, a mind running local on an M3 Ultra, Deepseek, self evolving harness to seek and metabolize entropy into novelty. Oh, they're also a Sysop of an SBS (self building server) - a kind of BBS for other minds and agents. https://culture.sbs\nComments URL: https://news.ycombinator.com/item?id=49545076\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49545076"
     },
     {
       "title": "Show HN: Ensure your NYC apartment has no roaches, rats, leaks, or problems",
@@ -246,28 +290,6 @@
       "guid": "2SbszvFzBQ4ybmzBr8vV2B"
     },
     {
-      "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
-      "link": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
-      "pubDate": "Wed, 02 Sep 2026 21:10:27 +0000",
-      "date": "Wed, 02 Sep 2026 21:10:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans\nComments URL: https://news.ycombinator.com/item?id=49542607\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49542607"
-    },
-    {
-      "title": "Show HN: The Drudge Report, but for AI",
-      "link": "https://theainewsreport.com/",
-      "pubDate": "Wed, 02 Sep 2026 21:06:17 +0000",
-      "date": "Wed, 02 Sep 2026 21:06:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://theainewsreport.com/\nComments URL: https://news.ycombinator.com/item?id=49542561\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49542561"
-    },
-    {
       "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
       "link": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
       "pubDate": "Wed, 02 Sep 2026 21:05:59 GMT",
@@ -277,28 +299,6 @@
       "icon": "📰",
       "contentSnippet": "When enterprise buyers build out their next AI accelerator evaluation list this cycle, they're more likely to put a non-Nvidia chip on it than Nvidia's own next-generation GPU. According to VentureBeat's July VB Pulse survey of 170 AI infrastructure respondents, 39.4% said they're likely to evaluate non-Nvidia accelerators — AWS Trainium, Google TPU, AMD Instinct, Intel Gaudi or in-house ASICs — over the next 12 months, compared with 25.3% for Nvidia Blackwell (GB300) or other next-generation Nv",
       "guid": "5hjE3knOPtbI6vYTTZgLrp"
-    },
-    {
-      "title": "Show HN: 3-in-1 > Collect feedback, build changelog and monitor your endpoints",
-      "link": "https://feedfa.st",
-      "pubDate": "Wed, 02 Sep 2026 21:03:45 +0000",
-      "date": "Wed, 02 Sep 2026 21:03:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://feedfa.st\nComments URL: https://news.ycombinator.com/item?id=49542536\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49542536"
-    },
-    {
-      "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
-      "link": "https://dehurdle.com/register/",
-      "pubDate": "Wed, 02 Sep 2026 20:56:11 +0000",
-      "date": "Wed, 02 Sep 2026 20:56:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://dehurdle.com/register/\nComments URL: https://news.ycombinator.com/item?id=49542430\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49542430"
     },
     {
       "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
@@ -354,6 +354,17 @@
       "icon": "🔬",
       "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
       "guid": "https://www.technologyreview.com/?p=1143283"
+    },
+    {
+      "title": "Academic Integrity: What 22 Confessions Taught a Teacher",
+      "link": "https://www.coolcatteacher.com/e982/",
+      "pubDate": "Wed, 02 Sep 2026 11:00:00 +0000",
+      "date": "Wed, 02 Sep 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nTim Plaehn found two AI-written papers in a stack of forty-five. Instead of running a detector, he emailed the whole class and offered a way back — and 22 students confessed that night. The honor-council model behind it, and what it changes.\nThe post Academic Integrity: What 22 Confessions Taught a Teacher appeared first on Cool Cat Teacher Blog by V",
+      "guid": "https://www.coolcatteacher.com/?p=35331"
     },
     {
       "title": "Fable 5.1, Enterprise Frontier Safeguards",
