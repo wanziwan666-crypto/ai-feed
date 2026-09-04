@@ -1,8 +1,250 @@
 {
-  "generatedAt": "2026-09-04T03:00:50.352Z",
+  "generatedAt": "2026-09-04T10:17:28.400Z",
   "lookbackHours": 24,
-  "totalItems": 5,
+  "totalItems": 26,
   "items": [
+    {
+      "title": "NousResearch/hermes-agent",
+      "link": "https://github.com/NousResearch/hermes-agent",
+      "pubDate": "2026-09-04T10:17:26.790Z",
+      "date": "2026-09-04T10:17:26.790Z",
+      "source": "GitHub Trending · Daily",
+      "category": "projects",
+      "icon": "⭐",
+      "contentSnippet": "The agent that grows with you\nhttps://hermes-agent.nousresearch.com\n\n  \n \nHermes Agent ☤\n \n Hermes Agent | Hermes Desktop \n \n        \n \nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure t",
+      "guid": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+      "link": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "pubDate": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "date": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
+      "guid": "https://stratechery.com/?p=19887"
+    },
+    {
+      "title": "Show HN: Professional Security Testing Platform",
+      "link": "https://bugbounty-arsenal.net/",
+      "pubDate": "Fri, 04 Sep 2026 09:08:56 +0000",
+      "date": "Fri, 04 Sep 2026 09:08:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bugbounty-arsenal.net/\nComments URL: https://news.ycombinator.com/item?id=49562246\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49562246"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "pubDate": "Fri, 04 Sep 2026 09:03:00 +0000",
+      "date": "Fri, 04 Sep 2026 09:03:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.\nI am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (even",
+      "guid": "https://news.ycombinator.com/item?id=49562219"
+    },
+    {
+      "title": "Show HN: Send secrets a server can't decrypt, even if compelled to",
+      "link": "https://serial.sumitdwivedi.com/",
+      "pubDate": "Fri, 04 Sep 2026 08:59:23 +0000",
+      "date": "Fri, 04 Sep 2026 08:59:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://serial.sumitdwivedi.com/\nComments URL: https://news.ycombinator.com/item?id=49562195\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49562195"
+    },
+    {
+      "title": "Show HN: Prices.eu.org",
+      "link": "https://prices.eu.org/",
+      "pubDate": "Fri, 04 Sep 2026 08:51:58 +0000",
+      "date": "Fri, 04 Sep 2026 08:51:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "When Ox-alpha was free I had it build this EU price index/tracker (the build took 40+ hours).\nGemini deep research found the sources.\nCurrently it tracks:\n- Fuel\n- Electricity\n- Currency\n- Housing\n- Groceries\n- Wages\n- Purchasing power\nComments URL: https://news.ycombinator.com/item?id=49562157\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49562157"
+    },
+    {
+      "title": "Show HN: Videm – An AI image generator with 3 free daily images",
+      "link": "https://videm.ai/",
+      "pubDate": "Fri, 04 Sep 2026 08:41:45 +0000",
+      "date": "Fri, 04 Sep 2026 08:41:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://videm.ai/\nComments URL: https://news.ycombinator.com/item?id=49562099\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49562099"
+    },
+    {
+      "title": "Show HN: NGPDFs – 50 PDF tools that never upload your files",
+      "link": "https://ngpdfs.com",
+      "pubDate": "Fri, 04 Sep 2026 08:14:44 +0000",
+      "date": "Fri, 04 Sep 2026 08:14:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ngpdfs.com\nComments URL: https://news.ycombinator.com/item?id=49561949\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49561949"
+    },
+    {
+      "title": "Show HN: Aurict – An open-source Terminal AI",
+      "link": "https://github.com/aurict/aurict",
+      "pubDate": "Fri, 04 Sep 2026 08:08:14 +0000",
+      "date": "Fri, 04 Sep 2026 08:08:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/aurict/aurict\nComments URL: https://news.ycombinator.com/item?id=49561903\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49561903"
+    },
+    {
+      "title": "Show HN: Fulcrumaxe – an agent team that merged 1,135 PRs into its own repo",
+      "link": "https://fulcrumaxe.dev",
+      "pubDate": "Fri, 04 Sep 2026 07:49:35 +0000",
+      "date": "Fri, 04 Sep 2026 07:49:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://fulcrumaxe.dev\nComments URL: https://news.ycombinator.com/item?id=49561764\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49561764"
+    },
+    {
+      "title": "Show HN: Snooze Tabs in Plain English",
+      "link": "https://chromewebstore.google.com/detail/anysnooze-snooze-tabs-tab/mebjcmajkcccdjbonefhlbkledilfnjj",
+      "pubDate": "Fri, 04 Sep 2026 07:49:01 +0000",
+      "date": "Fri, 04 Sep 2026 07:49:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Chrome extension: close a tab now, get it back when you asked — \"tomorrow 3pm\", \"every monday 9am\". Free, no account, everything stays local.\nWe spent this summer fixing every way a tab could fail to come back. Happy to answer questions, especially about MV3 service-worker pitfalls.\nComments URL: https://news.ycombinator.com/item?id=49561760\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49561760"
+    },
+    {
+      "title": "Show HN: VM-1, a Raspberry Pi 5 based videomixer and videoplayer",
+      "link": "https://vm-1.com/",
+      "pubDate": "Fri, 04 Sep 2026 06:45:23 +0000",
+      "date": "Fri, 04 Sep 2026 06:45:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "We would like to show you our VM-1, a Raspberry Pi 5 based videomixer and videoplayer. It’s DIY and you can find everything you need on vm-1.com.\nSo, what does it do?\nOur claim is “play video like an instrument”: basically, you can assign video-files to video-slots and trigger them like you would trigger audio-samples on a drum computer. The interface is a standard keyboard attached to the Raspberry Pi 5. You can also switch to live camera (connected to the Pi via HDMI-to-USB-3.0 dongles) or ren",
+      "guid": "https://news.ycombinator.com/item?id=49561299"
+    },
+    {
+      "title": "Show HN: Interactive map of the Japanese address system",
+      "link": "https://japanmap.fyi",
+      "pubDate": "Fri, 04 Sep 2026 06:42:24 +0000",
+      "date": "Fri, 04 Sep 2026 06:42:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I had a hard time understanding the Japanese address system. Parts of addresses have suffixes like fu, shi, ku, chōme, ban and gō. Which suffixes are used varies between regions in a way that seemed random to me. I couldn't find a map of the system with a modern visualization, so I made one. It also shows whether an area has a governor or a mayor. For example Tokyo's wards have mayors and Osaka's don't.\nYou can click around or drop the pin to explore, or write an address in the search bar.\nComme",
+      "guid": "https://news.ycombinator.com/item?id=49561280"
+    },
+    {
+      "title": "Show HN: AI game builder and editor built with Rails and Godot",
+      "link": "https://app.fusionery.com/",
+      "pubDate": "Fri, 04 Sep 2026 06:29:25 +0000",
+      "date": "Fri, 04 Sep 2026 06:29:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://app.fusionery.com/\nComments URL: https://news.ycombinator.com/item?id=49561198\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49561198"
+    },
+    {
+      "title": "Show HN: Terminal-native prompt composer for power users running many agents",
+      "link": "https://github.com/oborchers/proqi",
+      "pubDate": "Fri, 04 Sep 2026 05:46:10 +0000",
+      "date": "Fri, 04 Sep 2026 05:46:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/oborchers/proqi\nComments URL: https://news.ycombinator.com/item?id=49560962\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49560962"
+    },
+    {
+      "title": "Show HN: Lettura, an app to read FreshRSS feeds built for RSS enthusiasts",
+      "link": "https://giuliomagnifico.blog/post/2026-10-01-lettura-app/",
+      "pubDate": "Fri, 04 Sep 2026 05:24:47 +0000",
+      "date": "Fri, 04 Sep 2026 05:24:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://giuliomagnifico.blog/post/2026-10-01-lettura-app/\nComments URL: https://news.ycombinator.com/item?id=49560825\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49560825"
+    },
+    {
+      "title": "Show HN: Word42, a wordprocessor inspired by MS Word and Abiword",
+      "link": "https://word42.org/",
+      "pubDate": "Fri, 04 Sep 2026 04:39:24 +0000",
+      "date": "Fri, 04 Sep 2026 04:39:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://word42.org/\nComments URL: https://news.ycombinator.com/item?id=49560595\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49560595"
+    },
+    {
+      "title": "Show HN: JarPeek – Online JAR viewer, decompile classes locally (no upload)",
+      "link": "https://jarpeek.com/",
+      "pubDate": "Fri, 04 Sep 2026 03:31:16 +0000",
+      "date": "Fri, 04 Sep 2026 03:31:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "When I have no JDK environment, I want to do some things:\nbrowse files inside a JAR\ndecompile .class, but not upload to server\nedit config files (YAML, properties, JSON), and export the modified JAR\ninspect class structure, constant pool, bytecode\nAlso can use on phone. (I use it on subway.)\nSo I built JarPeek.\nDecompiler (Vineflower) runs entirely in browser via TeaVM. No upload, no server, no install.\nComments URL: https://news.ycombinator.com/item?id=49560203\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49560203"
+    },
+    {
+      "title": "Show HN: Jetway, a working airline GDS and message router",
+      "link": "https://github.com/adamf/jetway",
+      "pubDate": "Fri, 04 Sep 2026 02:03:02 +0000",
+      "date": "Fri, 04 Sep 2026 02:03:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Over the past few days I made an open-source GDS, message router, departure control system, faring engine, and a bunch of other airline systems.\nIt supports Type B/AIRIMP, EDIFACT/PADIS, NDC, MATIP; PNRs, tickets, EMDs, queues, IROPS; PNL/ADL, bags, loadsheets, MVT, ACARS, flight plans, and more.\nIs it vibe coded? Yes. Does it work? As far as I can test, yes. There's a live demo running a full day at wholesky.io (which is also open source at https://github.com/adamf/wholesky\nComments URL: https:",
+      "guid": "https://news.ycombinator.com/item?id=49559630"
+    },
+    {
+      "title": "Show HN: a Rust compiler translating Joern CPGs to Nuclei templates",
+      "link": "https://medium.com/@mhiritarek/why-i-built-a-deterministic-cpg-to-nuclei-compiler-in-rust-bcb6c7afe4f8",
+      "pubDate": "Fri, 04 Sep 2026 01:39:49 +0000",
+      "date": "Fri, 04 Sep 2026 01:39:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://medium.com/@mhiritarek/why-i-built-a-deterministic-cpg-to-nuclei-compiler-in-rust-bcb6c7afe4f8\nComments URL: https://news.ycombinator.com/item?id=49559490\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49559490"
+    },
+    {
+      "title": "Show HN: Photosynthesis – iPhone app captures from 2 lenses, stitches to 1 photo",
+      "link": "https://apps.apple.com/us/app/photosynthesis-2-lens-camera/id6780102370",
+      "pubDate": "Thu, 03 Sep 2026 23:26:46 +0000",
+      "date": "Thu, 03 Sep 2026 23:26:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/photosynthesis-2-lens-camera/id6780102370\nComments URL: https://news.ycombinator.com/item?id=49558529\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49558529"
+    },
+    {
+      "title": "Show HN: Chrome tab group cleaner for Claude Code created tab groups",
+      "link": "https://github.com/franzenzenhofer/chrome-tab-group-cleaner",
+      "pubDate": "Thu, 03 Sep 2026 23:15:29 +0000",
+      "date": "Thu, 03 Sep 2026 23:15:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/franzenzenhofer/chrome-tab-group-cleaner\nComments URL: https://news.ycombinator.com/item?id=49558445\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49558445"
+    },
     {
       "title": "Student Voice, All Grown Up",
       "link": "https://www.gettingsmart.com/2026/09/03/student-voice-all-grown-up/",
@@ -26,6 +268,17 @@
       "guid": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
     },
     {
+      "title": "GPT-6 Astra",
+      "link": "https://www.producthunt.com/products/gpt-6-astra",
+      "pubDate": "2026-09-03T20:14:40.000Z",
+      "date": "2026-09-03T20:14:40.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/gpt-6-astra"
+    },
+    {
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "pubDate": "Thu, 03 Sep 2026 12:10:00 +0000",
@@ -35,28 +288,6 @@
       "icon": "🔬",
       "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…",
       "guid": "https://www.technologyreview.com/?p=1143385"
-    },
-    {
-      "title": "AI in Schools: Stop AI Detection, Start Learning Detection",
-      "link": "https://www.coolcatteacher.com/e983/",
-      "pubDate": "Thu, 03 Sep 2026 11:00:00 +0000",
-      "date": "Thu, 03 Sep 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAI detection is a losing game. Dr. Tony Frontier shares the three-part AI policy schools can actually run — and why we should stop doing AI detection and start doing learning detection. Plus highlights from MIT's new report and the term we should all be discussing: cognitive surrender.\nThe post AI in Schools: Stop AI Detection, Start Learning Detecti",
-      "guid": "https://www.coolcatteacher.com/?p=35337"
-    },
-    {
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "pubDate": "Thu, 03 Sep 2026 09:30:32 +0000",
-      "date": "Thu, 03 Sep 2026 09:30:32 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
-      "guid": "https://www.technologyreview.com/?p=1142868"
     }
   ]
 }
