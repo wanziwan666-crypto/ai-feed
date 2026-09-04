@@ -1,8 +1,184 @@
 {
-  "generatedAt": "2026-09-03T20:19:09.774Z",
+  "generatedAt": "2026-09-04T02:12:24.032Z",
   "lookbackHours": 24,
-  "totalItems": 29,
+  "totalItems": 25,
   "items": [
+    {
+      "title": "Show HN: a Rust compiler translating Joern CPGs to Nuclei templates",
+      "link": "https://medium.com/@mhiritarek/why-i-built-a-deterministic-cpg-to-nuclei-compiler-in-rust-bcb6c7afe4f8",
+      "pubDate": "Fri, 04 Sep 2026 01:39:49 +0000",
+      "date": "Fri, 04 Sep 2026 01:39:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://medium.com/@mhiritarek/why-i-built-a-deterministic-cpg-to-nuclei-compiler-in-rust-bcb6c7afe4f8\nComments URL: https://news.ycombinator.com/item?id=49559490\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49559490"
+    },
+    {
+      "title": "Show HN: Photosynthesis – iPhone app captures from 2 lenses, stitches to 1 photo",
+      "link": "https://apps.apple.com/us/app/photosynthesis-2-lens-camera/id6780102370",
+      "pubDate": "Thu, 03 Sep 2026 23:26:46 +0000",
+      "date": "Thu, 03 Sep 2026 23:26:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/photosynthesis-2-lens-camera/id6780102370\nComments URL: https://news.ycombinator.com/item?id=49558529\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49558529"
+    },
+    {
+      "title": "Show HN: Chrome tab group cleaner for Claude Code created tab groups",
+      "link": "https://github.com/franzenzenhofer/chrome-tab-group-cleaner",
+      "pubDate": "Thu, 03 Sep 2026 23:15:29 +0000",
+      "date": "Thu, 03 Sep 2026 23:15:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/franzenzenhofer/chrome-tab-group-cleaner\nComments URL: https://news.ycombinator.com/item?id=49558445\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49558445"
+    },
+    {
+      "title": "Show HN: If I had to design a nuclear fusion power plant(Idea Sketch)",
+      "link": "https://github.com/PJHkorea/discrete-filament-router",
+      "pubDate": "Thu, 03 Sep 2026 23:10:57 +0000",
+      "date": "Thu, 03 Sep 2026 23:10:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/PJHkorea/discrete-filament-router\nComments URL: https://news.ycombinator.com/item?id=49558406\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49558406"
+    },
+    {
+      "title": "Show HN: Generate a Claude Code or Codex agent fleet from one HTML file",
+      "link": "https://github.com/bob-codedaptive/fleet-generator",
+      "pubDate": "Thu, 03 Sep 2026 22:45:49 +0000",
+      "date": "Thu, 03 Sep 2026 22:45:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/bob-codedaptive/fleet-generator\nComments URL: https://news.ycombinator.com/item?id=49558161\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49558161"
+    },
+    {
+      "title": "Show HN: We replaced the pelican benchmark with a hippo",
+      "link": "https://hippo.ryansailab.com",
+      "pubDate": "Thu, 03 Sep 2026 21:57:25 +0000",
+      "date": "Thu, 03 Sep 2026 21:57:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hippo.ryansailab.com\nComments URL: https://news.ycombinator.com/item?id=49557694\nPoints: 3\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49557694"
+    },
+    {
+      "title": "Show HN: DrawDB Pro – design database schemas for your team and agents",
+      "link": "https://www.drawdb.app/",
+      "pubDate": "Thu, 03 Sep 2026 21:56:51 +0000",
+      "date": "Thu, 03 Sep 2026 21:56:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "2 years ago I launched drawDB on here. It was my very first project that I open-sourced and it ended up going kinda viral. A month ago I launched drawDB Pro for solo devs and teams. It was actually my manager that encouraged me to go build it to help with my promotion :3\nThe project has come a long long way. It started as a simple canvas with local storage and now we have proper cloud storage, team permissions, real-time collaboration, AI assistant, versioning, MCP, etc. Now I'm trying to figure",
+      "guid": "https://news.ycombinator.com/item?id=49557688"
+    },
+    {
+      "title": "Show HN: Building AI agents client-side JavaScript",
+      "link": "https://news.ycombinator.com/item?id=49557409",
+      "pubDate": "Thu, 03 Sep 2026 21:34:31 +0000",
+      "date": "Thu, 03 Sep 2026 21:34:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, most agent systems default to server-side Python inside containers and chain frameworks. I wanted to see how far we could push agent in the browser with vanilla JavaScript https://buttercup.sh\nThe reason this is interesting is because agent loops in the browser keeps infrastructure costs low. No need for proxy or API calls. And ollama/vLLM can be used for 100% offline. Also WebLLM for embedded. We need to consider CORS, API keys for remote models, access to visual state, and handling rem",
+      "guid": "https://news.ycombinator.com/item?id=49557409"
+    },
+    {
+      "title": "Student Voice, All Grown Up",
+      "link": "https://www.gettingsmart.com/2026/09/03/student-voice-all-grown-up/",
+      "pubDate": "Thu, 03 Sep 2026 21:09:23 +0000",
+      "date": "Thu, 03 Sep 2026 21:09:23 +0000",
+      "source": "Getting Smart",
+      "category": "ai-education",
+      "icon": "🌱",
+      "contentSnippet": "Keaton Wadzinski has been on both sides of the student voice equation — as a young person who was sometimes tokenized, sometimes genuinely empowered, and as an adult now designing the conditions for youth agency to flourish. In this deeply personal and strategically rich essay, he challenges education leaders to move beyond advisory committees and symbolic inclusion toward something far more honest and far more powerful. This is essential reading for any leader who believes young people deserve ",
+      "guid": "https://www.gettingsmart.com/?p=140322"
+    },
+    {
+      "title": "Show HN: Sirenfall, a civil defense siren synthesized in Web Audio",
+      "link": "https://sirenfall.live/",
+      "pubDate": "Thu, 03 Sep 2026 20:44:48 +0000",
+      "date": "Thu, 03 Sep 2026 20:44:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built a cool browser scene, a shelter window over a dystopian city in the rain. Pull the breaker and a siren tower spins up. The wind-down is super unsettling and I love it.\nThe siren is not a recording. Two port rings make a 5:6 dual tone, 515 and 618 Hz. The horn turns at 4 RPM and everything (loudness, brightness, doppler and stereo position) follows the horn angle you can see on the tower. Rain and thunder are the only recordings.\nBuild it yourself, source is one HTML file and MIT: https:/",
+      "guid": "https://news.ycombinator.com/item?id=49556678"
+    },
+    {
+      "title": "Show HN: Copy Telegram Signals to MT4, MT5, CTrader and More",
+      "link": "https://www.marketsync.ai",
+      "pubDate": "Thu, 03 Sep 2026 20:36:20 +0000",
+      "date": "Thu, 03 Sep 2026 20:36:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.marketsync.ai\nComments URL: https://news.ycombinator.com/item?id=49556550\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49556550"
+    },
+    {
+      "title": "GPT‑6 Astra",
+      "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "pubDate": "2026-09-03T20:18:41.000Z",
+      "date": "2026-09-03T20:18:41.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
+    },
+    {
+      "title": "Show HN: We built client-side AST SEO audits for a Next.js CMS to avoid LLM lag",
+      "link": "https://github.com/nextblock-cms/nextblock",
+      "pubDate": "Thu, 03 Sep 2026 19:59:19 +0000",
+      "date": "Thu, 03 Sep 2026 19:59:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/nextblock-cms/nextblock\nComments URL: https://news.ycombinator.com/item?id=49555956\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49555956"
+    },
+    {
+      "title": "Show HN: Aidcrew a team of coding agents, each on its own model, in one terminal",
+      "link": "https://github.com/antoniociccia/aidcrew",
+      "pubDate": "Thu, 03 Sep 2026 19:57:42 +0000",
+      "date": "Thu, 03 Sep 2026 19:57:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/antoniociccia/aidcrew\nComments URL: https://news.ycombinator.com/item?id=49555941\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49555941"
+    },
+    {
+      "title": "Show HN: I processed 100k+ LinkedIn posts into open-source Claude Code skills",
+      "link": "https://github.com/sergebulaev/linkedin-skills",
+      "pubDate": "Thu, 03 Sep 2026 19:35:53 +0000",
+      "date": "Thu, 03 Sep 2026 19:35:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sergebulaev/linkedin-skills\nComments URL: https://news.ycombinator.com/item?id=49555534\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49555534"
+    },
+    {
+      "title": "Show HN: Agentray, a macOS agent whose interface is a folder",
+      "link": "https://news.ycombinator.com/item?id=49555446",
+      "pubDate": "Thu, 03 Sep 2026 19:31:12 +0000",
+      "date": "Thu, 03 Sep 2026 19:31:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi,\nI'm not a fan of chat as the main UI for interacting with AI, so I'm trying something where you interact with LLMs by handling regular files and folders.\nAgentray is an invisible AI agent. You point it at a folder, it creates \"in\" \"out\", and \"done\" dirs in it. Whatever you drop into \"in\" gets summarised, the answer appears in \"out\", and the original moves to \"done\" so you can see what's been handled. If you want something other than a summary, make a subfolder and name it: drop a file into \"",
+      "guid": "https://news.ycombinator.com/item?id=49555446"
+    },
     {
       "title": "Show HN: AIDemo.Video – turn website into a product demo video in one click",
       "link": "https://www.aidemo.video/",
@@ -11,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi,\nRyan here, excited to finally publicly show it to public a tool to make a product or SaaS demo video explainer.\nJust fill your website, and AI will generate the product explainer video\nhttps://aidemo.video\nLet me know what you think or if you have any questions, thanks HN \n*PS: not exactly a one click, sorry...\nComments URL: https://news.ycombinator.com/item?id=49555384\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Hi,\nRyan here, excited to finally publicly show it to public a tool to make a product or SaaS demo video explainer.\nJust fill your website, and AI will generate the product explainer video\nhttps://aidemo.video\nLet me know what you think or if you have any questions, thanks HN \n*PS: not exactly a one click, sorry...\nComments URL: https://news.ycombinator.com/item?id=49555384\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49555384"
     },
     {
@@ -59,224 +235,15 @@
       "guid": "https://news.ycombinator.com/item?id=49554268"
     },
     {
-      "title": "Show HN: SyncLite – Offline-first apps with automatic database sync",
-      "link": "https://www.youtube.com/shorts/Nv5jjDxNdXA",
-      "pubDate": "Thu, 03 Sep 2026 18:08:32 +0000",
-      "date": "Thu, 03 Sep 2026 18:08:32 +0000",
+      "title": "Show HN: QuatChat, a 3D imageboard where being there is the write permission",
+      "link": "https://quat.chat/",
+      "pubDate": "Thu, 03 Sep 2026 18:13:57 +0000",
+      "date": "Thu, 03 Sep 2026 18:13:57 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Website: https://www.synclite.io\nGutHub: https://github.com/syncliteio/SyncLite\nWe would love to hear feedback from the community.\nComments URL: https://news.ycombinator.com/item?id=49554138\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49554138"
-    },
-    {
-      "title": "Show HN: Omarchy on Apple Silicon via VM",
-      "link": "https://github.com/azilnik/omarchy-apple-silicon-parallels",
-      "pubDate": "Thu, 03 Sep 2026 18:05:31 +0000",
-      "date": "Thu, 03 Sep 2026 18:05:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/azilnik/omarchy-apple-silicon-parallels\nComments URL: https://news.ycombinator.com/item?id=49554106\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49554106"
-    },
-    {
-      "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
-      "link": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra",
-      "pubDate": "Thu, 03 Sep 2026 18:00:12 GMT",
-      "date": "Thu, 03 Sep 2026 18:00:12 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "The rumors were true, all of them (and then some): OpenAI today is releasing GPT-6 Astra, a new frontier model that the company says likely marks the onset of artificial generalized intelligence (AGI), its long sought goal of \"highly autonomous systems that outperform humans at most economically valuable work.\" \nIn a closed a press briefing earlier today, OpenAI co-founder and president Greg Brockman offered an unusually direct formulation of that message, ending the session with: “Welcome to th",
-      "guid": "3ZaYgxqFvkFepTycia4QG2"
-    },
-    {
-      "title": "Show HN: MesaOS – An operating system written from scratch in Rust",
-      "link": "https://github.com/crackanimad0r/MesaOS",
-      "pubDate": "Thu, 03 Sep 2026 17:56:50 +0000",
-      "date": "Thu, 03 Sep 2026 17:56:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello! I'm a student from Spain and I'm the creator of MesaOS, an open-source operating system written from scratch in Rust for x86_64.\nI've been working on it mostly by myself.\nMesaOS currently has:\nA hybrid kernel\nPreemptive multitasking\nA Linux driver shim with 400+ exported kernel symbols (still in development)\nHDA audio and WAV streaming\nA shell with around 82 commands\nVFS, RamFS and persistent initrd\nFile persistence through automatic folder-to-ISO injection\nSMP / multicore support\nxHCI / ",
-      "guid": "https://news.ycombinator.com/item?id=49553980"
-    },
-    {
-      "title": "Show HN: Bridle: hand your agent's context to a coworker's agent",
-      "link": "https://www.bridle.network/",
-      "pubDate": "Thu, 03 Sep 2026 17:48:22 +0000",
-      "date": "Thu, 03 Sep 2026 17:48:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A college went on holiday this week and his agent was the one that did the whole migration from Shopware to Shopify. All products, domains, DNS- basically, it had all the knowledge. I spent the morning figuring out how to answer questions to client and finish up what was left to do. From then on we connected our agents with Bridle.\nBridle is a CLI that moves work between agents, so that handoff is a command\nrather than a memory:\nbridle send marko.dev --note \"migration 0042 is half-applied, conti",
-      "guid": "https://news.ycombinator.com/item?id=49553877"
-    },
-    {
-      "title": "Show HN: NGPDFs – 50 PDF tools that never upload your files",
-      "link": "https://ngpdfs.com",
-      "pubDate": "Thu, 03 Sep 2026 17:43:24 +0000",
-      "date": "Thu, 03 Sep 2026 17:43:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://ngpdfs.com\nComments URL: https://news.ycombinator.com/item?id=49553794\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553794"
-    },
-    {
-      "title": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
-      "link": "https://venturebeat.com/security/china-linked-hackers-backdoored-executives-laptops-via-usb-exploiting-a-fix-companies-had-but-werent-using",
-      "pubDate": "Thu, 03 Sep 2026 17:33:09 GMT",
-      "date": "Thu, 03 Sep 2026 17:33:09 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "A Chinese state-linked hacking group compromised executive laptops at an agricultural industry conference on Hainan Island this spring — not through phishing or a network breach, but by breaking into hotel rooms and booting the machines from a USB stick while the executives were at dinner. \nCrowdStrike, which tracks the group as OVERCAST PANDA, disclosed the campaign in its 2026 Threat Hunting Report and detailed the operation's timeline in an interview with VentureBeat at Fal.Con 2026: an intru",
-      "guid": "28vJfqjSEpXX0m0VrC5iej"
-    },
-    {
-      "title": "Show HN: WordPress search and replace that doesn't corrupt serialized data",
-      "link": "https://github.com/ibrahimhajjaj/lucid-search-replace",
-      "pubDate": "Thu, 03 Sep 2026 17:19:42 +0000",
-      "date": "Thu, 03 Sep 2026 17:19:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ibrahimhajjaj/lucid-search-replace\nComments URL: https://news.ycombinator.com/item?id=49553453\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553453"
-    },
-    {
-      "title": "Show HN: Model – A Minimal Python ORM for MySQL and SQLite",
-      "link": "https://github.com/el1s7/model",
-      "pubDate": "Thu, 03 Sep 2026 17:13:33 +0000",
-      "date": "Thu, 03 Sep 2026 17:13:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/el1s7/model\nComments URL: https://news.ycombinator.com/item?id=49553359\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553359"
-    },
-    {
-      "title": "Show HN: MCP Tool Definition Quality Score (TDQS) Spec",
-      "link": "https://tdqs.dev",
-      "pubDate": "Thu, 03 Sep 2026 17:12:00 +0000",
-      "date": "Thu, 03 Sep 2026 17:12:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey everyone,\nYou may know me because of my Open-Source work like awesome-mcp-servers, FastMCP (node.js), ViteMCP, mcp-proxy, mcp-remote, and a few other projects in the MCP ecosystem, including Glama.\nI was lucky enough to be present when MCP was first announced. That let me to contribute to the foundations of this new protocol and everything that has evolved around it. It also let me to be at the center of a lot of feedback, and by far the biggest complaint about the MCP ecosystem has been the",
-      "guid": "https://news.ycombinator.com/item?id=49553343"
-    },
-    {
-      "title": "Show HN: LibPolyCall – a C runtime broker for cross-language function calls",
-      "link": "https://github.com/obinexus/libpolycall-v1",
-      "pubDate": "Thu, 03 Sep 2026 17:05:39 +0000",
-      "date": "Thu, 03 Sep 2026 17:05:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "LibPolyCall is an open-source C runtime for connecting programs across language boundaries without requiring each language pair to implement its own integration layer.\nThe architecture is program-first rather than binding-first, with a stable C ABI, FFI bindings, Polycallfile/Polycallrc configuration, runtime state management, and telemetry.\nI’ve recently completed the Windows build path producing both libpolycall.dll and libpolycall.a, and I’m working toward using the same runtime across Python",
-      "guid": "https://news.ycombinator.com/item?id=49553255"
-    },
-    {
-      "title": "Show HN: Wordmate – local speech-to-text for macOS",
-      "link": "https://github.com/vdszds/wordmate",
-      "pubDate": "Thu, 03 Sep 2026 17:05:23 +0000",
-      "date": "Thu, 03 Sep 2026 17:05:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nI built Wordmate because I wanted WisprFlow-style dictation locally on my machine. It’s a free macOS app. Audio and transcripts never leave your Mac.\nSpeech recognition uses Parakeet and optional post-processing uses a tuned Qwen3 0.6B 4-bit to improve punctuation and capitalization and clean up fillers, stutters, and spoken corrections.\nThe complete transcription pipeline is open source: https://github.com/vdszds/wordmate\nYou can download the app at https://wordmate.sh. I’d appreciate yo",
-      "guid": "https://news.ycombinator.com/item?id=49553252"
-    },
-    {
-      "title": "Show HN: Radia – agent coordination with leases, permissions and provenance",
-      "link": "https://radia.sh/",
-      "pubDate": "Thu, 03 Sep 2026 16:59:06 +0000",
-      "date": "Thu, 03 Sep 2026 16:59:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://radia.sh/\nComments URL: https://news.ycombinator.com/item?id=49553156\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553156"
-    },
-    {
-      "title": "Show HN: I built an app that makes your goals inevitable",
-      "link": "https://www.getinference.app/",
-      "pubDate": "Thu, 03 Sep 2026 16:55:56 +0000",
-      "date": "Thu, 03 Sep 2026 16:55:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.getinference.app/\nComments URL: https://news.ycombinator.com/item?id=49553116\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553116"
-    },
-    {
-      "title": "Show HN: A gravity simulator where forces propagate at the speed of light",
-      "link": "https://github.com/alessandro-pioli/AstroCausal_Engine",
-      "pubDate": "Thu, 03 Sep 2026 16:54:08 +0000",
-      "date": "Thu, 03 Sep 2026 16:54:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/alessandro-pioli/AstroCausal_Engine\nComments URL: https://news.ycombinator.com/item?id=49553092\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553092"
-    },
-    {
-      "title": "Show HN: WiringPi 3.20 – Updated GPIO Library for Raspberry Pi",
-      "link": "https://github.com/WiringPi/WiringPi",
-      "pubDate": "Thu, 03 Sep 2026 16:53:34 +0000",
-      "date": "Thu, 03 Sep 2026 16:53:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/WiringPi/WiringPi\nComments URL: https://news.ycombinator.com/item?id=49553082\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553082"
-    },
-    {
-      "title": "Show HN: CodeBeasts – Barcode Monsters",
-      "link": "https://play.google.com/store/apps/details?id=sh.albe.codebeasts&hl=en_US",
-      "pubDate": "Thu, 03 Sep 2026 16:52:41 +0000",
-      "date": "Thu, 03 Sep 2026 16:52:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "My 7 year old wanted a pokemon game he could play while we did the food shop, so I built him one, turns out my friends enjoyed it too! Point the camera at any barcode and it turns into a creature. The same product always gives the same creature, so your kitchen cupboard is basically a region you haven't explored yet.\nAndroid only, free, no ads. Would love to know what you think.\nComments URL: https://news.ycombinator.com/item?id=49553073\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49553073"
-    },
-    {
-      "title": "Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet",
-      "link": "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet",
-      "pubDate": "Thu, 03 Sep 2026 16:19:49 GMT",
-      "date": "Thu, 03 Sep 2026 16:19:49 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Meta’s newest AI model Muse Spark 1.3, unveiled yesterday, is faster and more performant on third-party benchmarks than its predecessor — with a caveat. \n\"Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter,\" Meta co-founder and CEO Mark Zuckerberg wrote on X, calling it Meta’s “biggest jump” yet in coding and agentic work.\nThere is substance behind both parts of that claim. Muse Spark 1.3 makes significant gains over last month’s 1.2 release, particularly on ",
-      "guid": "29Rwz2bE5YSI0Aq1OacN4Q"
-    },
-    {
-      "title": "The AI visibility gap: Why great brands disappear from AI answers",
-      "link": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-      "pubDate": "Thu, 03 Sep 2026 14:00:00 GMT",
-      "date": "Thu, 03 Sep 2026 14:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Presented by Contentful\n\nMost marketing teams still measure visibility the same way they always have: rankings, click-through rates, and organic traffic. But buyers have moved on. \nSearch tools and AI engines now synthesize answers directly on the screen, creating a world of zero-click searches where your website is entirely bypassed. \nThe “old days” are not coming back. The question for marketers is no longer, How do we rank first? It's How do we become part of the answer?\nThe answer isn't publ",
-      "guid": "2372kVAFJcVvHhrIJN3uyP"
-    },
-    {
-      "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
-      "link": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
-      "pubDate": "Thu, 03 Sep 2026 14:00:00 GMT",
-      "date": "Thu, 03 Sep 2026 14:00:00 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Microsoft AI on Thursday released MAI-Transcribe-2, a speech-recognition model the company says is faster, more accurate, and cheaper than anything OpenAI, Google, or ElevenLabs currently sells. Then it priced the thing at 10 cents per hour of audio.\nThat figure deserves a pause. When Microsoft AI shipped the first model in this line just five months ago, it charged $0.36 an hour. Thursday's early-bird price cuts that by roughly 72%. For an enterprise processing 100,000 hours of call-center audi",
-      "guid": "4JgUN1KreISRVqEsyfin1k"
+      "contentSnippet": "QuatChat is a desktop browser imageboard where you are a low-poly kumquat, and every board is a structure standing in a 3D world. Posting requires you to walk your kumquat to a board and stand near it. You can also found your own boards too.\nThe walk is enforced server side, and the server owns all positions and never trusts client coordinates. When you post, it mints a short lived HMAC presence attestation naming your account and the board you are at, and the API refuses the write without one. ",
+      "guid": "https://news.ycombinator.com/item?id=49554207"
     },
     {
       "title": "The Download: rethinking child safety and fossil-fueled farming",
@@ -290,6 +257,17 @@
       "guid": "https://www.technologyreview.com/?p=1143385"
     },
     {
+      "title": "AI in Schools: Stop AI Detection, Start Learning Detection",
+      "link": "https://www.coolcatteacher.com/e983/",
+      "pubDate": "Thu, 03 Sep 2026 11:00:00 +0000",
+      "date": "Thu, 03 Sep 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAI detection is a losing game. Dr. Tony Frontier shares the three-part AI policy schools can actually run — and why we should stop doing AI detection and start doing learning detection. Plus highlights from MIT's new report and the term we should all be discussing: cognitive surrender.\nThe post AI in Schools: Stop AI Detection, Start Learning Detecti",
+      "guid": "https://www.coolcatteacher.com/?p=35337"
+    },
+    {
       "title": "Scaling agentic AI pilots across the enterprise",
       "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
       "pubDate": "Thu, 03 Sep 2026 09:30:32 +0000",
@@ -299,28 +277,6 @@
       "icon": "🔬",
       "contentSnippet": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
       "guid": "https://www.technologyreview.com/?p=1142868"
-    },
-    {
-      "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-      "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
-      "pubDate": "Thu, 03 Sep 2026 00:02:18 GMT",
-      "date": "Thu, 03 Sep 2026 00:02:18 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Google keeps cranking out Flash models: the company on Wednesday announced two versions of a new 3.8 Flash. \nThe variants include a standard Flash, a “workhorse” model for agentic tasks, software development, and multi-step reasoning, and Flash Cyber optimized for vulnerability detection and mitigation.\nGoogle CEO Sundar Pichai said in an X post that 3.8 Flash delivers “significant leaps” from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning. For instance, it outper",
-      "guid": "6gLMM2qCQXQ5Vr0OpxtRvl"
-    },
-    {
-      "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-      "link": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-      "pubDate": "Wed, 02 Sep 2026 21:32:59 GMT",
-      "date": "Wed, 02 Sep 2026 21:32:59 GMT",
-      "source": "VentureBeat",
-      "category": "new-tools",
-      "icon": "📰",
-      "contentSnippet": "Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers — at a public API price of just $0.18 per hour of processed audio.\nDeveloped by Meta Superintelligence Labs, Muse is designed to process speech while it happens rather than waiting for a recording to finish. Meta’s launch post for Muse Voice Transcribe says",
-      "guid": "2SbszvFzBQ4ybmzBr8vV2B"
     }
   ]
 }
