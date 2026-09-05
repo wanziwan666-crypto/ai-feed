@@ -1,18 +1,172 @@
 {
-  "generatedAt": "2026-09-05T03:14:26.163Z",
+  "generatedAt": "2026-09-05T09:41:50.703Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 25,
   "items": [
     {
-      "title": "NousResearch/hermes-agent",
-      "link": "https://github.com/NousResearch/hermes-agent",
-      "pubDate": "2026-09-05T03:13:54.439Z",
-      "date": "2026-09-05T03:13:54.439Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: I rebuilt my homepage with a dithered design and live weather widget",
+      "link": "https://chrcit.com/",
+      "pubDate": "Sat, 05 Sep 2026 09:05:48 +0000",
+      "date": "Sat, 05 Sep 2026 09:05:48 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "The agent that grows with you\nhttps://hermes-agent.nousresearch.com\n\n  \n \nHermes Agent ☤\n \n Hermes Agent | Hermes Desktop \n \n        \n \nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure t",
-      "guid": "https://github.com/NousResearch/hermes-agent"
+      "icon": "🔨",
+      "contentSnippet": "After a few years of being outdated I updated my personal website. For the design direction I went with a modular dithered look.\nClicking 5x on the weather widget triggers a little easter egg.\nComments URL: https://news.ycombinator.com/item?id=49574699\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49574699"
+    },
+    {
+      "title": "Show HN: TenantLayer – Multi-Tenancy for Spring Boot and Postgres",
+      "link": "https://tenantlayer.io",
+      "pubDate": "Sat, 05 Sep 2026 08:50:35 +0000",
+      "date": "Sat, 05 Sep 2026 08:50:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tenantlayer.io\nComments URL: https://news.ycombinator.com/item?id=49574602\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49574602"
+    },
+    {
+      "title": "Show HN: ForgeGuardian – Open-source software supply-chain security scanner",
+      "link": "https://github.com/Mah3Sec/ForgeGuardian",
+      "pubDate": "Sat, 05 Sep 2026 07:28:40 +0000",
+      "date": "Sat, 05 Sep 2026 07:28:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "1. Why you built it\nForgeGuardian was built in order to discover the threats that software supply chain has other than those detected by the regular CVE scanning process.\n2. What problem it solves\nInclude:\nMalicious packages\nTyposquatting\nDependency attacks\nBehavioral threats\nMalware\nThreats related to AI/MCP\n3. What you actually built\nThis includes:\n8 detection engines\n9 ecosystems\nMore than 223 detection signatures\nCLI/web dashboards\nOffline/local-first functionality\nSBOM\nPolicy enforcement\nCI",
+      "guid": "https://news.ycombinator.com/item?id=49574041"
+    },
+    {
+      "title": "Show HN: UltraCPP--CPP Syntax ＆ rust safety",
+      "link": "https://github.com/juntz-g1thub/UltraCpp",
+      "pubDate": "Sat, 05 Sep 2026 07:09:04 +0000",
+      "date": "Sat, 05 Sep 2026 07:09:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "UltraCPP is a programming Language with the rust like safety and CPP like syntax.\nI've posted this but from then and towards now I still not find it out. It is too difficult.\nhttps://news.ycombinator.com/item?id=48881600\nThanks the guidence of the gus_massa.\nI'm a PHD student but not in this major. However, I still want to dev more meaning things with help of LLMs. I need more collaborators, if one day I have to stop I want the UltraCPP can still alive if there are someones believe this IDEA.\nIn",
+      "guid": "https://news.ycombinator.com/item?id=49573924"
+    },
+    {
+      "title": "Show HN: I Wrote a WAF in Rust with Pingora",
+      "link": "https://github.com/theghostshinobi/shibuya",
+      "pubDate": "Sat, 05 Sep 2026 07:02:25 +0000",
+      "date": "Sat, 05 Sep 2026 07:02:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "The WAF is in good condition, this is my starting point:\nshadow mode with reporting, replay of captured traffic\nbot detection (fingerprint header)\nintel threats (AbuseIPDB, AlienVault)\nGraphQL: depth, complexity, batch, introspection\nOpenAPI: request validation against specs\nWASM plugin in sandbox (off by default)\nmulti-tenant PostgreSQL with per-row isolation\nauth: local, OAuth2+PKCE, LDAP, SAML (XML-DSig), MFA/TOTP\nRBAC for endpoints on the Admin API\nSvelte dashboard, audit log, privacy editin",
+      "guid": "https://news.ycombinator.com/item?id=49573880"
+    },
+    {
+      "title": "Show HN: Mu, two-minute visualized lessons on modern AI",
+      "link": "https://mu.vizuara.ai/",
+      "pubDate": "Sat, 05 Sep 2026 06:26:02 +0000",
+      "date": "Sat, 05 Sep 2026 06:26:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I am Sreedath Panat. A year ago, I had started a habit of making small explainer videos of 2-3 minutes to help me understand, in a nutshell, some of the difficult-to-understand research papers. I'm not saying that this gave me a deep understanding, but it definitely helped me set foot into some of the research papers (eg: I-JEPA, flamingo paper etc). Then I thought, why can't the same technique be used for getting a minimal understanding of different concepts within AI? There is a reason ",
+      "guid": "https://news.ycombinator.com/item?id=49573645"
+    },
+    {
+      "title": "Show HN: RagLeap Core – 46 AI Employees, open-source LangChain alt",
+      "link": "https://github.com/antonyrag/ragleap-core",
+      "pubDate": "Sat, 05 Sep 2026 06:24:29 +0000",
+      "date": "Sat, 05 Sep 2026 06:24:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/antonyrag/ragleap-core\nComments URL: https://news.ycombinator.com/item?id=49573630\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49573630"
+    },
+    {
+      "title": "Show HN: map data onto a globe",
+      "link": "https://github.com/atlaslib/globe",
+      "pubDate": "Sat, 05 Sep 2026 06:22:05 +0000",
+      "date": "Sat, 05 Sep 2026 06:22:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "i love globes and maps\noften looking at a map gives you a better feeling for things\nthis is a globe that can display data\nexample data sets include active volcanos, UNESCO world heritage sites, IKEAs worldwide, …\nbut what makes this interesting is that it also implements WebMCP which lets an agent (e.g. ChatGPT desktop app) directly drive the globe\nit exposes a handful of tools to add/load a dataset, do SQL queries and visualize the results using the globe\nquerying are powered by DuckDB (via web",
+      "guid": "https://news.ycombinator.com/item?id=49573615"
+    },
+    {
+      "title": "Show HN: Free macOS App to import photos from memory card with file naming rules",
+      "link": "https://github.com/jianfenglin-git/photo-batch-importer",
+      "pubDate": "Sat, 05 Sep 2026 06:20:51 +0000",
+      "date": "Sat, 05 Sep 2026 06:20:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love photography and I've been struggling with finding a tool to import photos from memory card with customizable file naming rules and copy verification. So I built the tool I wanted: Photo Batch Importer, renames with EXIF properties and auto-incremental sequence number, then SHA-256-verifies every file copy. Open sourced on Github and free on macOS App Store: https://apps.apple.com/us/app/photo-batch-importer/id6776498...\nComments URL: https://news.ycombinator.com/item?id=49573610\nPoints: 2",
+      "guid": "https://news.ycombinator.com/item?id=49573610"
+    },
+    {
+      "title": "Show HN: Hitomaki – A diary that advances when you finish a toilet roll",
+      "link": "https://ag3497120.github.io/hitomaki/",
+      "pubDate": "Sat, 05 Sep 2026 06:10:40 +0000",
+      "date": "Sat, 05 Sep 2026 06:10:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ag3497120.github.io/hitomaki/\nComments URL: https://news.ycombinator.com/item?id=49573553\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49573553"
+    },
+    {
+      "title": "Show HN: Mac Cleaner for devs",
+      "link": "https://app.paymug.co/buy/lime-cleaner-mac",
+      "pubDate": "Sat, 05 Sep 2026 05:30:43 +0000",
+      "date": "Sat, 05 Sep 2026 05:30:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://app.paymug.co/buy/lime-cleaner-mac\nComments URL: https://news.ycombinator.com/item?id=49573358\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49573358"
+    },
+    {
+      "title": "Show HN: PATM - A graphical database manager and developer toolbox",
+      "link": "https://github.com/jamalhill12321-hash/patm",
+      "pubDate": "Sat, 05 Sep 2026 05:30:40 +0000",
+      "date": "Sat, 05 Sep 2026 05:30:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/jamalhill12321-hash/patm\nComments URL: https://news.ycombinator.com/item?id=49573356\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49573356"
+    },
+    {
+      "title": "Show HN: ActraDeck – Put risky coding-agent actions back in front of a human",
+      "link": "https://github.com/actradeck/actradeck",
+      "pubDate": "Sat, 05 Sep 2026 05:10:04 +0000",
+      "date": "Sat, 05 Sep 2026 05:10:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/actradeck/actradeck\nComments URL: https://news.ycombinator.com/item?id=49573255\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49573255"
+    },
+    {
+      "title": "Show HN: WinZST > 7-Zip fork with first-class compressed tar support on Windows",
+      "link": "https://github.com/firebadnofire/WinZST",
+      "pubDate": "Sat, 05 Sep 2026 03:58:23 +0000",
+      "date": "Sat, 05 Sep 2026 03:58:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "WinZST is a 7-Zip fork that extracts compressed tar archives directly to their final directory instead of materializing an intermediate `.tar`.\nIn one 11.8 GiB `.tar.gz` test containing mostly video, WinZST took 51.87s from archive → `foo/`; 7-Zip took 103.53s across `.tar.gz` → `.tar` → `foo/`.\nComments URL: https://news.ycombinator.com/item?id=49572950\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49572950"
+    },
+    {
+      "title": "Show HN: Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+      "link": "https://github.com/lovaxi/Rubato_Device",
+      "pubDate": "Sat, 05 Sep 2026 03:16:57 +0000",
+      "date": "Sat, 05 Sep 2026 03:16:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi everyone!\nI have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents' status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc.\nsupport: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor.\nHardware design, firmware and plugins are all opensource. urls are here:\nhttps://github.com/lovaxi/Rubato_Device\nhttps://github.com/lovaxi/Rubato_Plugins\nType-c power supply, 2.4G wifi.\nOnline sell on Tindie: https://www.tindie.com/produc",
+      "guid": "https://news.ycombinator.com/item?id=49572780"
     },
     {
       "title": "Show HN: Arena, the same design system in React and Angular from one contract",
@@ -44,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://lanes.sh/showcase/personal-context-mcp\nComments URL: https://news.ycombinator.com/item?id=49571566\nPoints: 4\n# Comments: 0",
+      "contentSnippet": "Article URL: https://lanes.sh/showcase/personal-context-mcp\nComments URL: https://news.ycombinator.com/item?id=49571566\nPoints: 5\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49571566"
     },
     {
@@ -55,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://openspender.com/agent-to-agent\nComments URL: https://news.ycombinator.com/item?id=49571563\nPoints: 6\n# Comments: 1",
+      "contentSnippet": "Article URL: https://openspender.com/agent-to-agent\nComments URL: https://news.ycombinator.com/item?id=49571563\nPoints: 7\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49571563"
     },
     {
@@ -68,171 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Why can't we get an agent scheduler that supports all of the following:\n- git compatible\n- agent agnostic\n- 100% open source\n- os and system-agnostic\n- multi-runner support\n- support mcp/ui/http\n- unlimited routines/crons\nSo I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour ",
       "guid": "https://news.ycombinator.com/item?id=49571537"
-    },
-    {
-      "title": "Show HN: TimerVana a Local-first scheduler for real world routines",
-      "link": "https://timervana.net/browse",
-      "pubDate": "Fri, 04 Sep 2026 22:47:59 +0000",
-      "date": "Fri, 04 Sep 2026 22:47:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I’m the creator of TimerVana.\nIt's not just \"another timer app\".  The engineering analogy is a lightweight task scheduler for things people do in the real world. A normal timer models one countdown. TimerVana models a small dependency graph in JSON: some steps run sequentially, others run in parallel, and everything can converge on a target finish time. You can also combine multiple timers (e.g., combine a timer with all the steps to cook a steak + a timer for roasting vegetables).\nI orig",
-      "guid": "https://news.ycombinator.com/item?id=49571102"
-    },
-    {
-      "title": "Show HN: Time Wizard",
-      "link": "https://huggingface.co/jadidbourbaki/time-wizard",
-      "pubDate": "Fri, 04 Sep 2026 22:10:39 +0000",
-      "date": "Fri, 04 Sep 2026 22:10:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "How scalably can we cheaply fine-tune small models for well-defined tasks? Frontier models are bad at clock reading. I fine-tuned a tiny 450M model from Liquid AI to match GPT-5.6 Sol and beat Fable 5.1 on this task. Here’s my fine-tuned open model called Time Wizard.\nComments URL: https://news.ycombinator.com/item?id=49570829\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49570829"
-    },
-    {
-      "title": "Show HN: Mongotar – Files to Prompt, and Back",
-      "link": "https://github.com/sebastiancarlos/mongotar",
-      "pubDate": "Fri, 04 Sep 2026 22:10:16 +0000",
-      "date": "Fri, 04 Sep 2026 22:10:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/mongotar\nComments URL: https://news.ycombinator.com/item?id=49570825\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49570825"
-    },
-    {
-      "title": "Show HN: Fast rust-based repository launcher for your code projects",
-      "link": "https://santiagodevelopment.com/p/2026/9/4/repo-zoo",
-      "pubDate": "Fri, 04 Sep 2026 21:47:34 +0000",
-      "date": "Fri, 04 Sep 2026 21:47:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://santiagodevelopment.com/p/2026/9/4/repo-zoo\nComments URL: https://news.ycombinator.com/item?id=49570623\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49570623"
-    },
-    {
-      "title": "Show HN: Marketplace for finding craft fairs and vendor events",
-      "link": "https://www.boothscout.com",
-      "pubDate": "Fri, 04 Sep 2026 20:38:20 +0000",
-      "date": "Fri, 04 Sep 2026 20:38:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.boothscout.com\nComments URL: https://news.ycombinator.com/item?id=49569940\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49569940"
-    },
-    {
-      "title": "Show HN: Set Game for iOS",
-      "link": "https://apps.apple.com/us/app/setle/id6801995128",
-      "pubDate": "Fri, 04 Sep 2026 20:36:39 +0000",
-      "date": "Fri, 04 Sep 2026 20:36:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/setle/id6801995128\nComments URL: https://news.ycombinator.com/item?id=49569915\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49569915"
-    },
-    {
-      "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
-      "link": "https://tesoro.help/",
-      "pubDate": "Fri, 04 Sep 2026 20:29:35 +0000",
-      "date": "Fri, 04 Sep 2026 20:29:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "My kid just started high school. The way they communicate information is absolutely insane. So I built a web scraper + MCP to aggregate it all, then layered on a snarky chatbot with a PG-13 Dave Chappelle personality.\nThe number of communication channels are just insane:\n- email\n- Google Docs\n- Canvas\n- PDFs \n- School Messenger \n- the official school website\n- 5 different other websites that they don't tell you about (eg athletics website)\n- 22 (!) Instagram accounts for various school clubs & s",
-      "guid": "https://news.ycombinator.com/item?id=49569854"
-    },
-    {
-      "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
-      "link": "https://playmotodle.com/",
-      "pubDate": "Fri, 04 Sep 2026 20:19:00 +0000",
-      "date": "Fri, 04 Sep 2026 20:19:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A small project and my first experience building with dynamic workflows of \"lesser models\". Let me know what you think!\nComments URL: https://news.ycombinator.com/item?id=49569729\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49569729"
-    },
-    {
-      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
-      "link": "https://chromagolem.itch.io/ultracapitalism",
-      "pubDate": "Fri, 04 Sep 2026 20:18:22 +0000",
-      "date": "Fri, 04 Sep 2026 20:18:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chromagolem.itch.io/ultracapitalism\nComments URL: https://news.ycombinator.com/item?id=49569723\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49569723"
-    },
-    {
-      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
-      "link": "https://sageling.ai/",
-      "pubDate": "Fri, 04 Sep 2026 19:30:31 +0000",
-      "date": "Fri, 04 Sep 2026 19:30:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don't use the good stuff like Claude Cowork or its competitors, they tell me a few things:\n1. Well, I don't wanna pay a bunch of money for it, and the $20 plans run out real fast.\n2. I'm dealing with sensitive info (student grades, therapy notes, legal work, etc) and I don't wanna give it to anyone.",
-      "guid": "https://news.ycombinator.com/item?id=49569136"
-    },
-    {
-      "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
-      "link": "https://airuncode.com/",
-      "pubDate": "Fri, 04 Sep 2026 19:29:27 +0000",
-      "date": "Fri, 04 Sep 2026 19:29:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://airuncode.com/\nComments URL: https://news.ycombinator.com/item?id=49569121\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49569121"
-    },
-    {
-      "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
-      "link": "https://github.com/asalsali/covenant-framework-community",
-      "pubDate": "Fri, 04 Sep 2026 19:19:57 +0000",
-      "date": "Fri, 04 Sep 2026 19:19:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/asalsali/covenant-framework-community\nComments URL: https://news.ycombinator.com/item?id=49569003\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49569003"
-    },
-    {
-      "title": "Show HN: Fast-Paced Action Tile-Swapping Challenge",
-      "link": "https://nopy.io",
-      "pubDate": "Fri, 04 Sep 2026 19:13:47 +0000",
-      "date": "Fri, 04 Sep 2026 19:13:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nopy.io\nComments URL: https://news.ycombinator.com/item?id=49568932\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49568932"
-    },
-    {
-      "title": "Show HN: Coder Eval – A Framework for Evals",
-      "link": "https://github.com/uipath/coder_eval",
-      "pubDate": "Fri, 04 Sep 2026 19:09:52 +0000",
-      "date": "Fri, 04 Sep 2026 19:09:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We needed a framework to write our evals in and easily update them, run A/B tests, set all kinds of constraints (ex: timeouts, number of turns), and configure the execution environment (ex: sandboxes, dependencies, how to handle AskQuestion). We also have an agent judge.\nIt’s all in a YAML file now.\nWe seem to be moving toward a world where companies rely more and more on evals to decide what to ship, so this should be super helpful for normalizing evals across teams.\nComments URL: https://news.",
-      "guid": "https://news.ycombinator.com/item?id=49568876"
-    },
-    {
-      "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
-      "link": "https://myhandler.ai/",
-      "pubDate": "Fri, 04 Sep 2026 19:07:43 +0000",
-      "date": "Fri, 04 Sep 2026 19:07:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://myhandler.ai/\nComments URL: https://news.ycombinator.com/item?id=49568847\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49568847"
     },
     {
       "title": "Architecting memory and storage in the AI era",
