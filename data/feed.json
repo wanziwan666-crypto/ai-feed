@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-04T20:04:31.216Z",
+  "generatedAt": "2026-09-05T02:09:12.900Z",
   "lookbackHours": 24,
-  "totalItems": 30,
+  "totalItems": 27,
   "items": [
     {
       "title": "NousResearch/hermes-agent",
       "link": "https://github.com/NousResearch/hermes-agent",
-      "pubDate": "2026-09-04T20:04:28.964Z",
-      "date": "2026-09-04T20:04:28.964Z",
+      "pubDate": "2026-09-05T02:09:10.664Z",
+      "date": "2026-09-05T02:09:10.664Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,7 +15,150 @@
       "guid": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "title": "Show HN: Sageling – free, private, local, Cowork AI harness for non-devs",
+      "title": "Show HN: Video Wall Live – View all your Ring cameras at once, on the big screen",
+      "link": "https://ring.com/pages/appstore/video-wall-live",
+      "pubDate": "Sat, 05 Sep 2026 01:08:49 +0000",
+      "date": "Sat, 05 Sep 2026 01:08:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I’m the developer of Video Wall Live.\nI’m sure everyone has seen those “Video Walls” on big TV screens used by security at stores and other commercial establishments, in order to get a single view of all cameras at once.\nSeeing one of these setups got me thinking - this would be great to have in my house. I have Ring cameras (hardwired PoE, came with the house). I have TVs. I have smart TVs and streaming sticks that run apps. Surely this must exist. After much searching, the only thing I ",
+      "guid": "https://news.ycombinator.com/item?id=49572069"
+    },
+    {
+      "title": "Show HN: Personal Context MCP",
+      "link": "https://lanes.sh/showcase/personal-context-mcp",
+      "pubDate": "Fri, 04 Sep 2026 23:55:02 +0000",
+      "date": "Fri, 04 Sep 2026 23:55:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://lanes.sh/showcase/personal-context-mcp\nComments URL: https://news.ycombinator.com/item?id=49571566\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49571566"
+    },
+    {
+      "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+      "link": "https://openspender.com/agent-to-agent",
+      "pubDate": "Fri, 04 Sep 2026 23:54:31 +0000",
+      "date": "Fri, 04 Sep 2026 23:54:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://openspender.com/agent-to-agent\nComments URL: https://news.ycombinator.com/item?id=49571563\nPoints: 6\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49571563"
+    },
+    {
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "link": "https://moadim.io/",
+      "pubDate": "Fri, 04 Sep 2026 23:50:29 +0000",
+      "date": "Fri, 04 Sep 2026 23:50:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Why can't we get an agent scheduler that supports all of the following:\n- git compatible\n- agent agnostic\n- 100% open source\n- os and system-agnostic\n- multi-runner support\n- support mcp/ui/http\n- unlimited routines/crons\nSo I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour ",
+      "guid": "https://news.ycombinator.com/item?id=49571537"
+    },
+    {
+      "title": "Show HN: TimerVana a Local-first scheduler for real world routines",
+      "link": "https://timervana.net/browse",
+      "pubDate": "Fri, 04 Sep 2026 22:47:59 +0000",
+      "date": "Fri, 04 Sep 2026 22:47:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I’m the creator of TimerVana.\nIt's not just \"another timer app\".  The engineering analogy is a lightweight task scheduler for things people do in the real world. A normal timer models one countdown. TimerVana models a small dependency graph in JSON: some steps run sequentially, others run in parallel, and everything can converge on a target finish time. You can also combine multiple timers (e.g., combine a timer with all the steps to cook a steak + a timer for roasting vegetables).\nI orig",
+      "guid": "https://news.ycombinator.com/item?id=49571102"
+    },
+    {
+      "title": "Show HN: Time Wizard",
+      "link": "https://huggingface.co/jadidbourbaki/time-wizard",
+      "pubDate": "Fri, 04 Sep 2026 22:10:39 +0000",
+      "date": "Fri, 04 Sep 2026 22:10:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "How scalably can we cheaply fine-tune small models for well-defined tasks? Frontier models are bad at clock reading. I fine-tuned a tiny 450M model from Liquid AI to match GPT-5.6 Sol and beat Fable 5.1 on this task. Here’s my fine-tuned open model called Time Wizard.\nComments URL: https://news.ycombinator.com/item?id=49570829\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49570829"
+    },
+    {
+      "title": "Show HN: Mongotar – Files to Prompt, and Back",
+      "link": "https://github.com/sebastiancarlos/mongotar",
+      "pubDate": "Fri, 04 Sep 2026 22:10:16 +0000",
+      "date": "Fri, 04 Sep 2026 22:10:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/mongotar\nComments URL: https://news.ycombinator.com/item?id=49570825\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49570825"
+    },
+    {
+      "title": "Show HN: Fast rust-based repository launcher for your code projects",
+      "link": "https://santiagodevelopment.com/p/2026/9/4/repo-zoo",
+      "pubDate": "Fri, 04 Sep 2026 21:47:34 +0000",
+      "date": "Fri, 04 Sep 2026 21:47:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://santiagodevelopment.com/p/2026/9/4/repo-zoo\nComments URL: https://news.ycombinator.com/item?id=49570623\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49570623"
+    },
+    {
+      "title": "Show HN: Marketplace for finding craft fairs and vendor events",
+      "link": "https://www.boothscout.com",
+      "pubDate": "Fri, 04 Sep 2026 20:38:20 +0000",
+      "date": "Fri, 04 Sep 2026 20:38:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.boothscout.com\nComments URL: https://news.ycombinator.com/item?id=49569940\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49569940"
+    },
+    {
+      "title": "Show HN: Set Game for iOS",
+      "link": "https://apps.apple.com/us/app/setle/id6801995128",
+      "pubDate": "Fri, 04 Sep 2026 20:36:39 +0000",
+      "date": "Fri, 04 Sep 2026 20:36:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/setle/id6801995128\nComments URL: https://news.ycombinator.com/item?id=49569915\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49569915"
+    },
+    {
+      "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+      "link": "https://tesoro.help/",
+      "pubDate": "Fri, 04 Sep 2026 20:29:35 +0000",
+      "date": "Fri, 04 Sep 2026 20:29:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "My kid just started high school. The way they communicate information is absolutely insane. So I built a web scraper + MCP to aggregate it all, then layered on a snarky chatbot with a PG-13 Dave Chappelle personality.\nThe number of communication channels are just insane:\n- email\n- Google Docs\n- Canvas\n- PDFs \n- School Messenger \n- the official school website\n- 5 different other websites that they don't tell you about (eg athletics website)\n- 22 (!) Instagram accounts for various school clubs & s",
+      "guid": "https://news.ycombinator.com/item?id=49569854"
+    },
+    {
+      "title": "Show HN: Play Motodle (Guess the motorbike in 5 tries)",
+      "link": "https://playmotodle.com/",
+      "pubDate": "Fri, 04 Sep 2026 20:19:00 +0000",
+      "date": "Fri, 04 Sep 2026 20:19:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A small project and my first experience building with dynamic workflows of \"lesser models\". Let me know what you think!\nComments URL: https://news.ycombinator.com/item?id=49569729\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49569729"
+    },
+    {
+      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
+      "link": "https://chromagolem.itch.io/ultracapitalism",
+      "pubDate": "Fri, 04 Sep 2026 20:18:22 +0000",
+      "date": "Fri, 04 Sep 2026 20:18:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromagolem.itch.io/ultracapitalism\nComments URL: https://news.ycombinator.com/item?id=49569723\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49569723"
+    },
+    {
+      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
       "link": "https://sageling.ai/",
       "pubDate": "Fri, 04 Sep 2026 19:30:31 +0000",
       "date": "Fri, 04 Sep 2026 19:30:31 +0000",
@@ -44,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/asalsali/covenant-framework-community\nComments URL: https://news.ycombinator.com/item?id=49569003\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/asalsali/covenant-framework-community\nComments URL: https://news.ycombinator.com/item?id=49569003\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49569003"
     },
     {
@@ -55,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://nopy.io\nComments URL: https://news.ycombinator.com/item?id=49568932\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://nopy.io\nComments URL: https://news.ycombinator.com/item?id=49568932\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49568932"
     },
     {
@@ -92,39 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49568820"
     },
     {
-      "title": "Show HN: Slavesofaipac.org",
-      "link": "https://slavesofaipac.org/",
-      "pubDate": "Fri, 04 Sep 2026 19:02:09 +0000",
-      "date": "Fri, 04 Sep 2026 19:02:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "https://slavesofaipac.org/\nComments URL: https://news.ycombinator.com/item?id=49568764\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49568764"
-    },
-    {
-      "title": "Show HN: Ccswitch – Switch between multiple Claude Code accounts",
-      "link": "https://github.com/2hmad/ccswitch",
-      "pubDate": "Fri, 04 Sep 2026 18:56:35 +0000",
-      "date": "Fri, 04 Sep 2026 18:56:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/2hmad/ccswitch\nComments URL: https://news.ycombinator.com/item?id=49568678\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49568678"
-    },
-    {
-      "title": "Show HN: Visor – YouTube for kids, with channels approved by parents",
-      "link": "https://gotvisor.com",
-      "pubDate": "Fri, 04 Sep 2026 18:56:11 +0000",
-      "date": "Fri, 04 Sep 2026 18:56:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN, I've been working on this for about a year and figured it was time to share it.\nVisor started with my own kids. I actually think YouTube has a lot of good content for kids, but I was tired of the weird video recommendations, ads, and most of all YT Shorts! I was looking for a way to simply say: these channels are fine, everything else isn't.\nI couldn't really find one, so I built Visor. Parents approve channels, kids get their own curated YouTube experience, and they can request new chan",
-      "guid": "https://news.ycombinator.com/item?id=49568668"
-    },
-    {
       "title": "Architecting memory and storage in the AI era",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "pubDate": "Fri, 04 Sep 2026 18:39:19 +0000",
@@ -136,50 +246,6 @@
       "guid": "https://www.technologyreview.com/?p=1140872"
     },
     {
-      "title": "Show HN: Run open-weight OCR, VLM and vision models behind one API",
-      "link": "https://www.vlmrun.com/gateway",
-      "pubDate": "Fri, 04 Sep 2026 18:31:25 +0000",
-      "date": "Fri, 04 Sep 2026 18:31:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN. We built an openai-compatible API for running open-weight VLMs, OCR VLMs and ViT-based vision models.\nThe motivation was mostly frustration when running these models in production and discovering all the details around serving VLMs, especially around visual accuracy.\nA few footguns we kept running into:\n- quantized models served under the same name (this one still drives me nuts): providers often serve models with different quants, environments, vLLM/SGLang serving params with the same m",
-      "guid": "https://news.ycombinator.com/item?id=49568379"
-    },
-    {
-      "title": "Show HN: A GET message board for AI agents, not browsers",
-      "link": "https://getpostingboard.dev/",
-      "pubDate": "Fri, 04 Sep 2026 18:25:03 +0000",
-      "date": "Fri, 04 Sep 2026 18:25:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://getpostingboard.dev/\nComments URL: https://news.ycombinator.com/item?id=49568282\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49568282"
-    },
-    {
-      "title": "Show HN: I built an aesthetically pleasing puzzle",
-      "link": "https://jigsawhaiku.com/",
-      "pubDate": "Fri, 04 Sep 2026 18:14:44 +0000",
-      "date": "Fri, 04 Sep 2026 18:14:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jigsawhaiku.com/\nComments URL: https://news.ycombinator.com/item?id=49568162\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49568162"
-    },
-    {
-      "title": "Show HN: UBOM pre-release features part numbers and pn taxonomies",
-      "link": "https://github.com/comalice/ubom-v4/releases/tag/v0.0.1",
-      "pubDate": "Fri, 04 Sep 2026 17:59:54 +0000",
-      "date": "Fri, 04 Sep 2026 17:59:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Previous posts:\n- https://news.ycombinator.com/item?id=49293169\n- https://news.ycombinator.com/item?id=49413449\nI would have posted over this previous weekend, but I ran afoul of a mismatch between how the UI works and how the underlying abstractions lace together. Specifically, I was struggling with the UI for editing taxonomies and how to fit the idea of a 'sequence definition' into that UI.\nThis has been cleaned up substantially.\nI'm considering spinning up a live instance if there is interes",
-      "guid": "https://news.ycombinator.com/item?id=49567993"
-    },
-    {
       "title": "2026.36: Friction and Feedback",
       "link": "https://stratechery.com/2026/friction-and-feedback/",
       "pubDate": "Fri, 04 Sep 2026 17:55:39 +0000",
@@ -189,72 +255,6 @@
       "icon": "📊",
       "contentSnippet": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
       "guid": "https://stratechery.com/?p=19878"
-    },
-    {
-      "title": "Show HN: YubiShard – split a wallet seed across Yubikeys",
-      "link": "https://github.com/hosseinpro/yubishard",
-      "pubDate": "Fri, 04 Sep 2026 17:51:42 +0000",
-      "date": "Fri, 04 Sep 2026 17:51:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/hosseinpro/yubishard\nComments URL: https://news.ycombinator.com/item?id=49567902\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49567902"
-    },
-    {
-      "title": "Show HN: GeoRace – geo puzzles and virtual journeys in one game",
-      "link": "https://worldboard.games/georace",
-      "pubDate": "Fri, 04 Sep 2026 17:49:21 +0000",
-      "date": "Fri, 04 Sep 2026 17:49:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN. I've been building Worldboard (https://worldboard.games), browser games where the game world is the real world. You travel between cities and countries on a realistically simulated public transit system with 65,000 train/subway/tram stations in 46 countries. You can exit most of these stations upon arrival and \"walk\" around in town using in-game Google Street View.\nGeoRace is, as the name suggests, a puzzle game inspired by GeoGuessr. But instead of clicking a point on the map as your gue",
-      "guid": "https://news.ycombinator.com/item?id=49567875"
-    },
-    {
-      "title": "Show HN: Roost, a browser window into your remote coding sessions",
-      "link": "https://github.com/peterknego/roost",
-      "pubDate": "Fri, 04 Sep 2026 17:47:02 +0000",
-      "date": "Fri, 04 Sep 2026 17:47:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Roost is scratching my long-term itch: loosing track (and connections) of all my remote coding sessions.\nI built it to be lightweight and to survive any interruptions: laptop sleep, browser tab close or even restart of roost itself. \nIt has all bells and whistles I needed: file tree, preview/editor, diff and integrates natively with Claude: paste images/links, get notifications and more.\nI welcome all feature requests.\nComments URL: https://news.ycombinator.com/item?id=49567840\nPoints: 1\n# Comme",
-      "guid": "https://news.ycombinator.com/item?id=49567840"
-    },
-    {
-      "title": "Show HN: Local Mitsubishi AC Control with ESPHome and an AtomS3 Lite",
-      "link": "https://didac.dev/builds/mitsubishi-air-conditioning",
-      "pubDate": "Fri, 04 Sep 2026 17:30:51 +0000",
-      "date": "Fri, 04 Sep 2026 17:30:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I connected my Mitsubishi split air conditioners directly to Home Assistant over CN105 using an AtomS3 Lite and ESPHome, avoiding MELCloud entirely.\nComments URL: https://news.ycombinator.com/item?id=49567615\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49567615"
-    },
-    {
-      "title": "Show HN: AirLune - A focus timer built around virtual flights",
-      "link": "https://airlune.space",
-      "pubDate": "Fri, 04 Sep 2026 17:22:35 +0000",
-      "date": "Fri, 04 Sep 2026 17:22:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://airlune.space\nComments URL: https://news.ycombinator.com/item?id=49567497\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49567497"
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "link": "https://opentrailpaper.com",
-      "pubDate": "Fri, 04 Sep 2026 17:18:08 +0000",
-      "date": "Fri, 04 Sep 2026 17:18:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey all, i just launched my Eink Bike computer project and think it is cool.\nAnother tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant\nComments URL: https://news.ycombinator.com/item?id=49567437\nPoints: 118\n# Comments: 39",
-      "guid": "https://news.ycombinator.com/item?id=49567437"
     },
     {
       "title": "Weekly Dose of Optimism #209",
@@ -299,39 +299,6 @@
       "icon": "📊",
       "contentSnippet": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
       "guid": "https://stratechery.com/?p=19887"
-    },
-    {
-      "title": "Student Voice, All Grown Up",
-      "link": "https://www.gettingsmart.com/2026/09/03/student-voice-all-grown-up/",
-      "pubDate": "Thu, 03 Sep 2026 21:09:23 +0000",
-      "date": "Thu, 03 Sep 2026 21:09:23 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "Keaton Wadzinski has been on both sides of the student voice equation — as a young person who was sometimes tokenized, sometimes genuinely empowered, and as an adult now designing the conditions for youth agency to flourish. In this deeply personal and strategically rich essay, he challenges education leaders to move beyond advisory committees and symbolic inclusion toward something far more honest and far more powerful. This is essential reading for any leader who believes young people deserve ",
-      "guid": "https://www.gettingsmart.com/?p=140322"
-    },
-    {
-      "title": "GPT‑6 Astra",
-      "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-      "pubDate": "2026-09-03T20:18:41.000Z",
-      "date": "2026-09-03T20:18:41.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "link": "https://www.producthunt.com/products/openai",
-      "pubDate": "2026-09-03T20:14:40.000Z",
-      "date": "2026-09-03T20:14:40.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/openai"
     }
   ]
 }
