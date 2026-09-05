@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-09-05T02:09:12.900Z",
+  "generatedAt": "2026-09-05T03:14:26.163Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 26,
   "items": [
     {
       "title": "NousResearch/hermes-agent",
       "link": "https://github.com/NousResearch/hermes-agent",
-      "pubDate": "2026-09-05T02:09:10.664Z",
-      "date": "2026-09-05T02:09:10.664Z",
+      "pubDate": "2026-09-05T03:13:54.439Z",
+      "date": "2026-09-05T03:13:54.439Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The agent that grows with you\nhttps://hermes-agent.nousresearch.com\n\n  \n \nHermes Agent ☤\n \n Hermes Agent | Hermes Desktop \n \n        \n \nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure t",
       "guid": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "Show HN: Arena, the same design system in React and Angular from one contract",
+      "link": "https://arena.dravensoft.org/web-benches/",
+      "pubDate": "Sat, 05 Sep 2026 02:16:36 +0000",
+      "date": "Sat, 05 Sep 2026 02:16:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://arena.dravensoft.org/web-benches/\nComments URL: https://news.ycombinator.com/item?id=49572451\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49572451"
     },
     {
       "title": "Show HN: Video Wall Live – View all your Ring cameras at once, on the big screen",
@@ -224,17 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49568847"
     },
     {
-      "title": "Show HN: Squeezed – Pipe any audio into synced Squeezebox players, no LMS needed",
-      "link": "https://github.com/tsirysndr/squeezed",
-      "pubDate": "Fri, 04 Sep 2026 19:06:08 +0000",
-      "date": "Fri, 04 Sep 2026 19:06:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/tsirysndr/squeezed\nComments URL: https://news.ycombinator.com/item?id=49568820\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49568820"
-    },
-    {
       "title": "Architecting memory and storage in the AI era",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "pubDate": "Fri, 04 Sep 2026 18:39:19 +0000",
@@ -277,17 +277,6 @@
       "icon": "🔬",
       "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
       "guid": "https://www.technologyreview.com/?p=1143457"
-    },
-    {
-      "title": "Are you an upset teacher? How to understand what is wrong.",
-      "link": "https://www.coolcatteacher.com/e984/",
-      "pubDate": "Fri, 04 Sep 2026 11:00:00 +0000",
-      "date": "Fri, 04 Sep 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 10 in our countdown of the ten most-downloaded episodes of the first 1,000. Michelle Blanchet on a method for naming exactly what is wrong when you are an upset teacher — so you can do something about it.\nThe post Are you an upset teacher? How to understand what is wrong. appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher h",
-      "guid": "https://www.coolcatteacher.com/?p=35304"
     },
     {
       "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
