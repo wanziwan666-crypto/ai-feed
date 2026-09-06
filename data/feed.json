@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-09-06T02:04:44.488Z",
+  "generatedAt": "2026-09-06T03:12:32.408Z",
   "lookbackHours": 24,
   "totalItems": 21,
   "items": [
+    {
+      "title": "Show HN: Nocturne, hide the Mac menu bar clock, or hide everything but the clock",
+      "link": "https://github.com/dotcomjack/nocturne",
+      "pubDate": "Sun, 06 Sep 2026 01:38:15 +0000",
+      "date": "Sun, 06 Sep 2026 01:38:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/dotcomjack/nocturne\nComments URL: https://news.ycombinator.com/item?id=49582523\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49582523"
+    },
+    {
+      "title": "Show HN: Vibes – A Mac app for friends to see who's online and coding",
+      "link": "https://vibes.opentangle.com/",
+      "pubDate": "Sun, 06 Sep 2026 00:42:22 +0000",
+      "date": "Sun, 06 Sep 2026 00:42:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I built Vibes because I wanted a small sense of company while working on my own projects.\nIt’s a native Mac app that shows which friends are online, what they’ve chosen to put in their status, and a summary of their day’s Git activity. You pick local repositories and connect with friends through invite links. There are orbit and list views, plus optional music and weather sharing.\nThe idea is to glance over and see that a friend is around building something too.\nGit scanning happens local",
+      "guid": "https://news.ycombinator.com/item?id=49582247"
+    },
     {
       "title": "Show HN: Cowbull – Wordle-like game where you only get match counts",
       "link": "https://cowbull.co/",
@@ -211,28 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://chat.deepseek.com/share/najhhfle4n4e9brimh\nComments URL: https://news.ycombinator.com/item?id=49579672\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49579672"
-    },
-    {
-      "title": "Show HN: Myjs An accidental pure-Python JavaScript interpreter",
-      "link": "https://pypi.org/project/myjs/",
-      "pubDate": "Sat, 05 Sep 2026 18:51:56 +0000",
-      "date": "Sat, 05 Sep 2026 18:51:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN! byteface here. myjs was a recent accident I'd like to share.\nSeveral years ago I began writing DOM API's in Python as a curiosity: https://github.com/byteface/domonic/\nEvery now and then I do another pass rolling in more features from the MDN pages. I have lots of unit tests but found that porting real code and libraries was a useful test of the DOM compatibility. But I didn't want to pollute the core any further as had already ported d3 and jquery.\nSo I created a new repo called domonic-",
-      "guid": "https://news.ycombinator.com/item?id=49579498"
-    },
-    {
-      "title": "Show HN: Genetic Distance Map",
-      "link": "https://p.migdal.pl/genetic-distance-map/",
-      "pubDate": "Sat, 05 Sep 2026 18:40:59 +0000",
-      "date": "Sat, 05 Sep 2026 18:40:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I created an interactive map of genetic similarity between populations, based on the Moriopoulos Collection 2025 (https://genarchivist.net/showthread.php?tid=1449).\nEach data point is a 25-dimensional representation (Global25), and I use Euclidean distance.\nThere is already https://genetic-distance.com/, where you can look at the closest populations as a table.\nThe vis should come with many caveats. One is that it is based on the data (and their quality) that is there, which does not cover all p",
-      "guid": "https://news.ycombinator.com/item?id=49579403"
     }
   ]
 }
