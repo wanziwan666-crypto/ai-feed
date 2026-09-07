@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-09-07T02:02:00.946Z",
+  "generatedAt": "2026-09-07T03:09:00.321Z",
   "lookbackHours": 24,
   "totalItems": 21,
   "items": [
     {
       "title": "NousResearch/hermes-agent",
       "link": "https://github.com/NousResearch/hermes-agent",
-      "pubDate": "2026-09-07T02:02:00.055Z",
-      "date": "2026-09-07T02:02:00.055Z",
+      "pubDate": "2026-09-07T03:07:44.124Z",
+      "date": "2026-09-07T03:07:44.124Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The agent that grows with you\nhttps://hermes-agent.nousresearch.com\n\n  \n \nHermes Agent ☤\n \n Hermes Agent | Hermes Desktop \n \n        \n \nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure t",
       "guid": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+      "link": "https://gettogether.dev",
+      "pubDate": "Mon, 07 Sep 2026 01:41:11 +0000",
+      "date": "Mon, 07 Sep 2026 01:41:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://gettogether.dev\nComments URL: https://news.ycombinator.com/item?id=49592840\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49592840"
     },
     {
       "title": "Show HN: Find people who share your taste in books, films, and music",
@@ -33,7 +44,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://maths.free/\nComments URL: https://news.ycombinator.com/item?id=49591969\nPoints: 2\n# Comments: 3",
+      "contentSnippet": "Article URL: https://maths.free/\nComments URL: https://news.ycombinator.com/item?id=49591969\nPoints: 2\n# Comments: 5",
       "guid": "https://news.ycombinator.com/item?id=49591969"
     },
     {
@@ -66,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://grsshppr.app/\nComments URL: https://news.ycombinator.com/item?id=49591835\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://grsshppr.app/\nComments URL: https://news.ycombinator.com/item?id=49591835\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49591835"
     },
     {
@@ -176,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 65\n# Comments: 22",
+      "contentSnippet": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 69\n# Comments: 22",
       "guid": "https://news.ycombinator.com/item?id=49590738"
     },
     {
@@ -198,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/FulltimeFeline/Sol\nComments URL: https://news.ycombinator.com/item?id=49590524\nPoints: 29\n# Comments: 18",
+      "contentSnippet": "Article URL: https://github.com/FulltimeFeline/Sol\nComments URL: https://news.ycombinator.com/item?id=49590524\nPoints: 29\n# Comments: 17",
       "guid": "https://news.ycombinator.com/item?id=49590524"
     },
     {
@@ -222,17 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Double-click or press N to start a new experiment.\nI built hexBOTs, an unusual cellular automaton based on deterministic robots.\nThe robots behave a bit like robotic lawnmowers, moving through their environment and reacting according to their individual rules.\nThe robots themselves are fully deterministic — no random functions are used while they are running. What makes them different is their “genetics”: each robot's behavior is defined by a randomly generated genome, which allows for an enormo",
       "guid": "https://news.ycombinator.com/item?id=49590247"
-    },
-    {
-      "title": "Show HN: Notifyd – one-binary notification service on Postgres, operated via MCP",
-      "link": "https://github.com/rmzlb/notifyd",
-      "pubDate": "Sun, 06 Sep 2026 19:48:08 +0000",
-      "date": "Sun, 06 Sep 2026 19:48:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/rmzlb/notifyd\nComments URL: https://news.ycombinator.com/item?id=49590156\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49590156"
     }
   ]
 }
