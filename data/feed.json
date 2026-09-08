@@ -1,18 +1,62 @@
 {
-  "generatedAt": "2026-09-08T02:13:38.712Z",
+  "generatedAt": "2026-09-08T03:14:22.731Z",
   "lookbackHours": 24,
-  "totalItems": 23,
+  "totalItems": 24,
   "items": [
     {
       "title": "NousResearch/hermes-agent",
       "link": "https://github.com/NousResearch/hermes-agent",
-      "pubDate": "2026-09-08T02:13:37.114Z",
-      "date": "2026-09-08T02:13:37.114Z",
+      "pubDate": "2026-09-08T03:03:41.410Z",
+      "date": "2026-09-08T03:03:41.410Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The agent that grows with you\nhttps://hermes-agent.nousresearch.com\n\n  \n \nHermes Agent ☤\n \n Hermes Agent | Hermes Desktop \n \n        \n \nThe self-improving AI agent built by Nous Research. It's the only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, searches its own past conversations, and builds a deepening model of who you are across sessions. Run it on a $5 VPS, a GPU cluster, or serverless infrastructure t",
       "guid": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "title": "Show HN: Caveat, a self-hosted publishing and newsletter tool",
+      "link": "https://github.com/CaveatJS",
+      "pubDate": "Tue, 08 Sep 2026 02:28:23 +0000",
+      "date": "Tue, 08 Sep 2026 02:28:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I’ve been working on Caveat, a self-hosted publishing tool for people who want control over their newsletter’s design, subscriber data, and infrastructure.\nIt includes a rich-text editor, autosave, reusable content blocks, publication designs, typography and colour controls, subscriber management, exports, and Resend email delivery. It includes both the editor and public website.\nRepo: https://github.com/CaveatJS/site\nExamples/docs: https://caveat-home.vercel.app/\nI built the first version over ",
+      "guid": "https://news.ycombinator.com/item?id=49605072"
+    },
+    {
+      "title": "Show HN: Froogle – a search engine portal in one HTML file",
+      "link": "https://news.ycombinator.com/item?id=49604846",
+      "pubDate": "Tue, 08 Sep 2026 01:52:54 +0000",
+      "date": "Tue, 08 Sep 2026 01:52:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Silly but fun project: a search engine portal in one html file. It aims to bring back that retro 2005 search experience: lighting fast list of links and that’s about it.\nIt’s powered by https://keenable.ai, a new search API. You have 2 privacy options. 1) Proxied via https://froogle.fyi. Keenable sees your queries, but not your IP or any user IDs. Your traffic is mixed with everyone else’s. This may get rate limited, but zero setup. 2) Direct access: bring your own Keenable API key (free 100k se",
+      "guid": "https://news.ycombinator.com/item?id=49604846"
+    },
+    {
+      "title": "Show HN: Termjack – blackjack in the terminal with a built-in strategy trainer",
+      "link": "https://github.com/eddietex/termjack",
+      "pubDate": "Tue, 08 Sep 2026 01:44:39 +0000",
+      "date": "Tue, 08 Sep 2026 01:44:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/eddietex/termjack\nComments URL: https://news.ycombinator.com/item?id=49604795\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49604795"
+    },
+    {
+      "title": "Show HN: Gorilla Quake",
+      "link": "https://github.com/duncancarroll/gorillaquake",
+      "pubDate": "Tue, 08 Sep 2026 01:40:27 +0000",
+      "date": "Tue, 08 Sep 2026 01:40:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I added Gorilla Locomotion to Quake VR.  Greatly reduces nausea and is a whole new experience!\nComments URL: https://news.ycombinator.com/item?id=49604767\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49604767"
     },
     {
       "title": "Show HN: Dol – Local-first Markdown notes that sync to your own CouchDB",
@@ -55,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Cross harness browser automation. Beats Claude chrome. Allows remote over ssh (view it working on your laptop whilst your big rig does the AI bit).\nComments URL: https://news.ycombinator.com/item?id=49604261\nPoints: 5\n# Comments: 1",
+      "contentSnippet": "Cross harness browser automation. Beats Claude chrome. Allows remote over ssh (view it working on your laptop whilst your big rig does the AI bit).\nComments URL: https://news.ycombinator.com/item?id=49604261\nPoints: 6\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49604261"
     },
     {
@@ -165,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Stuxnet! Here reproduced by me. Only researchs educations purposes.\nComments URL: https://news.ycombinator.com/item?id=49603546\nPoints: 77\n# Comments: 21",
+      "contentSnippet": "Stuxnet! Here reproduced by me. Only researchs educations purposes.\nComments URL: https://news.ycombinator.com/item?id=49603546\nPoints: 106\n# Comments: 34",
       "guid": "https://news.ycombinator.com/item?id=49603546"
     },
     {
@@ -191,50 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49603266"
     },
     {
-      "title": "Show HN: Intercontinental Ballistic Wikipedia Edit Map",
-      "link": "https://defamation.dev/icbe/",
-      "pubDate": "Mon, 07 Sep 2026 21:03:42 +0000",
-      "date": "Mon, 07 Sep 2026 21:03:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "a real-time web visualization for live Wikipedia edits in the style of a ballistic war simulation\nComments URL: https://news.ycombinator.com/item?id=49602969\nPoints: 5\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49602969"
-    },
-    {
-      "title": "Show HN: Rejourney – Finds user \"leaks\" in apps and websites",
-      "link": "https://rejourney.co/demo/leaks",
-      "pubDate": "Mon, 07 Sep 2026 20:56:38 +0000",
-      "date": "Mon, 07 Sep 2026 20:56:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi there HN,\nEver used a user/session replay tool before? Absolutely phenomenal for immediate feedback (and your dopamine). It causes a “Honeymoon Phase” where you are addicted and constantly checking out how users found your app, the outcome, and if they faced any roadblocks with the UX.\nAfter a week, you maybe start marketing your app or website, and the sheer influx of session replays gets you excited. You can’t check all of them so you check the first few, or maybe query for certain user pat",
-      "guid": "https://news.ycombinator.com/item?id=49602921"
-    },
-    {
-      "title": "Show HN: DNTLS – Decentralized Trust Layer for the Open Internet",
-      "link": "https://dntls.net/",
-      "pubDate": "Mon, 07 Sep 2026 20:51:09 +0000",
-      "date": "Mon, 07 Sep 2026 20:51:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://dntls.net/\nComments URL: https://news.ycombinator.com/item?id=49602867\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49602867"
-    },
-    {
-      "title": "Show HN: I was tired to check my mums WhatsApp last online, to see if she is ok",
-      "link": "https://github.com/janrakete/healthcore-bulp.io",
-      "pubDate": "Mon, 07 Sep 2026 20:43:56 +0000",
-      "date": "Mon, 07 Sep 2026 20:43:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Ever since my father passed away, my mother has been living alone in our family home. She’s now over 70 years old. I live in another city, and so does my sister. Of course, we call her regularly, but at the same time, she doesn’t want to feel like she’s being watched. She’s still too “young” for that. So our best way to check on her is to see when she was last online on WhatsApp. But in the long run, that’s too imprecise and, above all, too much of a hassle.\nA while back, I set up a few smart ho",
-      "guid": "https://news.ycombinator.com/item?id=49602794"
-    },
-    {
       "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
       "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
       "pubDate": "Mon, 07 Sep 2026 12:10:00 +0000",
@@ -244,6 +244,17 @@
       "icon": "🔬",
       "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…",
       "guid": "https://www.technologyreview.com/?p=1143592"
+    },
+    {
+      "title": "8 Ways to Engage Every Learner",
+      "link": "https://www.coolcatteacher.com/e985/",
+      "pubDate": "Mon, 07 Sep 2026 11:00:00 +0000",
+      "date": "Mon, 07 Sep 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 9 in the countdown of the ten most-downloaded episodes of the first 1,000 — and the only solo show to make the list. Eight concrete ways to reach every learner in the room.\nThe post 8 Ways to Engage Every Learner appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're see",
+      "guid": "https://www.coolcatteacher.com/?p=35305"
     },
     {
       "title": "Digital Fluency Is the Missing Foundation in K-12 Career Pathways",
