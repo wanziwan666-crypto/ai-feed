@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-09T02:17:07.314Z",
+  "generatedAt": "2026-09-09T03:04:36.237Z",
   "lookbackHours": 24,
   "totalItems": 28,
   "items": [
     {
       "title": "heygen-com/hyperframes",
       "link": "https://github.com/heygen-com/hyperframes",
-      "pubDate": "2026-09-09T02:17:05.605Z",
-      "date": "2026-09-09T02:17:05.605Z",
+      "pubDate": "2026-09-09T03:03:26.652Z",
+      "date": "2026-09-09T03:03:26.652Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "jo-inc/camofox-browser",
       "link": "https://github.com/jo-inc/camofox-browser",
-      "pubDate": "2026-09-09T02:17:05.605Z",
-      "date": "2026-09-09T02:17:05.605Z",
+      "pubDate": "2026-09-09T03:03:26.652Z",
+      "date": "2026-09-09T03:03:26.652Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -26,15 +26,15 @@
       "guid": "https://github.com/jo-inc/camofox-browser"
     },
     {
-      "title": "Show HN: Human in the Loop (A Short Story)",
-      "link": "https://github.com/dvelton/human-in-the-loop",
-      "pubDate": "Wed, 09 Sep 2026 01:42:54 +0000",
-      "date": "Wed, 09 Sep 2026 01:42:54 +0000",
+      "title": "Show HN: We analyzed 2026 WhatsApp rates in 40 countries and built a calculator",
+      "link": "https://martechcost.com",
+      "pubDate": "Wed, 09 Sep 2026 01:51:06 +0000",
+      "date": "Wed, 09 Sep 2026 01:51:06 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/dvelton/human-in-the-loop\nComments URL: https://news.ycombinator.com/item?id=49619739\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49619739"
+      "contentSnippet": "Article URL: https://martechcost.com\nComments URL: https://news.ycombinator.com/item?id=49619803\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49619803"
     },
     {
       "title": "Show HN: Merchant Outcome – Source-first catalog QA, charged per qualified row",
@@ -66,7 +66,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I've been working on this project for 11 months. This started with me making a game on the browser and a study on the ECS engine.\nHowever, I found that I needed a lot more performance and so the hunt began for a solution.\nI present to you a version I'm finally happy with. It's got all the features you'd need to make complex games and the architecture that has minimal GC pressure.\nPlease try it out and give it a go.\nComments URL: https://news.ycombinator.com/item?id=49619354\nPoints: 1\n# Comments:",
+      "contentSnippet": "I've been working on this project for 11 months. This started with me making a game on the browser and a study on the ECS engine.\nHowever, I found that I needed a lot more performance and so the hunt began for a solution.\nI present to you a version I'm finally happy with. It's got all the features you'd need to make complex games and the architecture that has minimal GC pressure.\nPlease try it out and give it a go.\nComments URL: https://news.ycombinator.com/item?id=49619354\nPoints: 2\n# Comments:",
       "guid": "https://news.ycombinator.com/item?id=49619354"
     },
     {
@@ -77,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Generates Nginx server block configs for \nstatic sites, PHP, Node.js and reverse proxy. \nLive preview updates as you toggle options. \nDownload the config file directly.\nNo signup. Runs in the browser.\nPart of a free sysadmin tools site — also has \nSSH config builder, .htaccess generator, \nDNS and SSL tools.\nLooking for feedback.\nComments URL: https://news.ycombinator.com/item?id=49619076\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Generates Nginx server block configs for \nstatic sites, PHP, Node.js and reverse proxy. \nLive preview updates as you toggle options. \nDownload the config file directly.\nNo signup. Runs in the browser.\nPart of a free sysadmin tools site — also has \nSSH config builder, .htaccess generator, \nDNS and SSL tools.\nLooking for feedback.\nComments URL: https://news.ycombinator.com/item?id=49619076\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49619076"
     },
     {
@@ -165,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I don't know anything about the company (other than the fact that it went kaput in the mid 90s) or the product.\nAnyone here happen to know anything about it? (Weirder things have happened!)\nComments URL: https://news.ycombinator.com/item?id=49618172\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "I don't know anything about the company (other than the fact that it went kaput in the mid 90s) or the product.\nAnyone here happen to know anything about it? (Weirder things have happened!)\nComments URL: https://news.ycombinator.com/item?id=49618172\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49618172"
     },
     {
