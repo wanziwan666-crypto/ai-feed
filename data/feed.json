@@ -1,18 +1,62 @@
 {
-  "generatedAt": "2026-09-10T02:15:54.139Z",
+  "generatedAt": "2026-09-10T03:01:20.158Z",
   "lookbackHours": 24,
-  "totalItems": 23,
+  "totalItems": 24,
   "items": [
     {
       "title": "heygen-com/hyperframes",
       "link": "https://github.com/heygen-com/hyperframes",
-      "pubDate": "2026-09-10T02:15:52.279Z",
-      "date": "2026-09-10T02:15:52.279Z",
+      "pubDate": "2026-09-10T03:00:45.801Z",
+      "date": "2026-09-10T03:00:45.801Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Write HTML. Render video. Built for agents.\n\n \n \n \n   \n   \n   \n \n  \n      \n \nWrite HTML. Render video. Built for agents.\n \n Quickstart | Showcase | Playground | Catalog | Docs | Discord \n \n  \n \nHyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it locally with the CLI, from AI coding agents with skills, or as the rendering core behind hosted authoring workflows.\n \nQuick Start\n \nWith an AI coding agent\n \nInstall the Hyp",
       "guid": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "title": "Show HN: They chose your competitor. Find out why",
+      "link": "https://drop.space",
+      "pubDate": "Thu, 10 Sep 2026 02:20:02 +0000",
+      "date": "Thu, 10 Sep 2026 02:20:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "See what people love, hate, and wish was better. Then give them a reason to choose you.\nComments URL: https://news.ycombinator.com/item?id=49637555\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49637555"
+    },
+    {
+      "title": "Show HN: NYC rideshare market analysis (2019 – 2026)",
+      "link": "https://github.com/omarirfa/rideshare_market",
+      "pubDate": "Thu, 10 Sep 2026 02:18:34 +0000",
+      "date": "Thu, 10 Sep 2026 02:18:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/omarirfa/rideshare_market\nComments URL: https://news.ycombinator.com/item?id=49637542\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49637542"
+    },
+    {
+      "title": "Show HN: Find your next client on X",
+      "link": "https://tiny.opencreators.ai",
+      "pubDate": "Thu, 10 Sep 2026 02:18:33 +0000",
+      "date": "Thu, 10 Sep 2026 02:18:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Your next customer\nis talking on X.\nTiny finds the right posts. You start the conversation.\nComments URL: https://news.ycombinator.com/item?id=49637541\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49637541"
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "link": "https://rivendell.dmitrybrant.com/relativity/",
+      "pubDate": "Thu, 10 Sep 2026 01:58:00 +0000",
+      "date": "Thu, 10 Sep 2026 01:58:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!\nComments URL: https://news.ycombinator.com/item?id=49637385\nPoints: 12\n# Comments: 7",
+      "guid": "https://news.ycombinator.com/item?id=49637385"
     },
     {
       "title": "Show HN: A terminal Tetris game I made as my first Rust project",
@@ -55,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/firelock-ai/kin\nComments URL: https://news.ycombinator.com/item?id=49636442\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/firelock-ai/kin\nComments URL: https://news.ycombinator.com/item?id=49636442\nPoints: 1\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49636442"
     },
     {
@@ -191,50 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49634934"
     },
     {
-      "title": "Show HN: BiNeuron – AI code assistant that runs 100% locally",
-      "link": "https://github.com/just-not-google/BiNeuron",
-      "pubDate": "Wed, 09 Sep 2026 21:30:06 +0000",
-      "date": "Wed, 09 Sep 2026 21:30:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/just-not-google/BiNeuron\nComments URL: https://news.ycombinator.com/item?id=49634663\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49634663"
-    },
-    {
-      "title": "Show HN: Trackd – a Gmail subscription tracker with no bank login",
-      "link": "https://trackd-deanware.netlify.app/",
-      "pubDate": "Wed, 09 Sep 2026 21:19:45 +0000",
-      "date": "Wed, 09 Sep 2026 21:19:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://trackd-deanware.netlify.app/\nComments URL: https://news.ycombinator.com/item?id=49634514\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49634514"
-    },
-    {
-      "title": "Show HN: JavaScript syntax highlighter in 12.7kB of WebAssembly, Shiki 99.9%",
-      "link": "https://qip.dev/syntax-highlight-comparison",
-      "pubDate": "Wed, 09 Sep 2026 21:11:52 +0000",
-      "date": "Wed, 09 Sep 2026 21:11:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://qip.dev/syntax-highlight-comparison\nComments URL: https://news.ycombinator.com/item?id=49634405\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49634405"
-    },
-    {
-      "title": "Show HN: View Git repos from your email client",
-      "link": "https://github.com/joshumax/git2imap",
-      "pubDate": "Wed, 09 Sep 2026 21:06:46 +0000",
-      "date": "Wed, 09 Sep 2026 21:06:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/joshumax/git2imap\nComments URL: https://news.ycombinator.com/item?id=49634330\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49634330"
-    },
-    {
       "title": "When will average people feel AI’s impact?",
       "link": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
       "pubDate": "Wed, 09 Sep 2026 11:01:23 GMT",
@@ -244,6 +244,17 @@
       "icon": "📐",
       "contentSnippet": "We’re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
       "guid": "https://www.interconnects.ai/p/when-will-average-people-feel-ais"
+    },
+    {
+      "title": "Neuroscience Research: 5 Ways to Superior Teaching",
+      "link": "https://www.coolcatteacher.com/e988/",
+      "pubDate": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "date": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 7 in the countdown of the ten most-downloaded episodes of the first 1,000. Dr. Jared Cooney Horvath on five findings from brain science that change how you teach tomorrow.\nThe post Neuroscience Research: 5 Ways to Superior Teaching appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. ",
+      "guid": "https://www.coolcatteacher.com/?p=35307"
     },
     {
       "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
