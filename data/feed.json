@@ -1,8 +1,41 @@
 {
-  "generatedAt": "2026-09-11T02:11:44.164Z",
+  "generatedAt": "2026-09-11T03:01:41.858Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 25,
   "items": [
+    {
+      "title": "Show HN: Family Greenhouse – shared plant care for a household",
+      "link": "https://familygreenhouse.net/",
+      "pubDate": "Fri, 11 Sep 2026 02:37:57 +0000",
+      "date": "Fri, 11 Sep 2026 02:37:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://familygreenhouse.net/\nComments URL: https://news.ycombinator.com/item?id=49652909\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49652909"
+    },
+    {
+      "title": "Show HN: Algo-Trading-Skills – trading failure modes AI agents don't know",
+      "link": "https://github.com/HimanshuJ16/Algo-Trading-Skills",
+      "pubDate": "Fri, 11 Sep 2026 02:37:28 +0000",
+      "date": "Fri, 11 Sep 2026 02:37:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/HimanshuJ16/Algo-Trading-Skills\nComments URL: https://news.ycombinator.com/item?id=49652907\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49652907"
+    },
+    {
+      "title": "Show HN: OpenMuse – an Open Source alternative to Meta's personal agent",
+      "link": "https://github.com/diggerhq/openmuse/",
+      "pubDate": "Fri, 11 Sep 2026 02:14:03 +0000",
+      "date": "Fri, 11 Sep 2026 02:14:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/diggerhq/openmuse/\nComments URL: https://news.ycombinator.com/item?id=49652769\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49652769"
+    },
     {
       "title": "Show HN: Kern Agent – See inside your agent's brain",
       "link": "https://github.com/oguzbilgic/kern-ai",
@@ -22,7 +55,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://benzi.fly.dev/benchmark\nComments URL: https://news.ycombinator.com/item?id=49652389\nPoints: 7\n# Comments: 2",
+      "contentSnippet": "Article URL: https://benzi.fly.dev/benchmark\nComments URL: https://news.ycombinator.com/item?id=49652389\nPoints: 8\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49652389"
     },
     {
@@ -46,6 +79,17 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://botbin.io/?mcp=true\nComments URL: https://news.ycombinator.com/item?id=49652200\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49652200"
+    },
+    {
+      "title": "Show HN: Obra, per-project margin tracking for small construction firms",
+      "link": "https://tryobra.com/",
+      "pubDate": "Fri, 11 Sep 2026 00:49:51 +0000",
+      "date": "Fri, 11 Sep 2026 00:49:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tryobra.com/\nComments URL: https://news.ycombinator.com/item?id=49652153\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49652153"
     },
     {
       "title": "Show HN: Learn programming by building something you want",
@@ -180,50 +224,6 @@
       "guid": "https://news.ycombinator.com/item?id=49650254"
     },
     {
-      "title": "Show HN: CodePress – Save $50k+ a month on Cloud Agents",
-      "link": "https://codepress.dev/",
-      "pubDate": "Thu, 10 Sep 2026 20:31:00 +0000",
-      "date": "Thu, 10 Sep 2026 20:31:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Since agents have taken companies + enterprise by storm, we've been working on workflows to get the most out of agents that get work done.\nAlong the way, we built our own agent cloud where we ping these agents from any surface we work in, like GitHub or Slack. This lets us run tons of agents at a time, and as everyone knows, running agents like this could add up in inference cost!\nSo we built something for our agents where they can use our subscriptions that Claude Code or Codex provide us.\nUnde",
-      "guid": "https://news.ycombinator.com/item?id=49649762"
-    },
-    {
-      "title": "Show HN: Charter – Operate production-safe agents that run on your own infra",
-      "link": "https://github.com/boundflow/charter",
-      "pubDate": "Thu, 10 Sep 2026 20:30:46 +0000",
-      "date": "Thu, 10 Sep 2026 20:30:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Even though everyone is talking about AI agents doing everything for them at work, many companies still aren't using autonomous agents to automate real operational work internally. Usually it's because of the complexity of bootstrapping an agent from scratch that’s production-safe (won’t spend all your company’s budget, burn through compute costs because it runs too often, or call a tool that breaks a customer).  Even with today's agent-building frameworks, running agents reliably in production ",
-      "guid": "https://news.ycombinator.com/item?id=49649759"
-    },
-    {
-      "title": "Show HN: WordPress security skills for coding agents",
-      "link": "https://github.com/wpultimatesecurity/WordPress-Security-Skills",
-      "pubDate": "Thu, 10 Sep 2026 20:28:15 +0000",
-      "date": "Thu, 10 Sep 2026 20:28:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/wpultimatesecurity/WordPress-Security-Skills\nComments URL: https://news.ycombinator.com/item?id=49649733\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49649733"
-    },
-    {
-      "title": "Show HN: I created a list of projects with embeds",
-      "link": "https://embedcatalog.com",
-      "pubDate": "Thu, 10 Sep 2026 20:22:16 +0000",
-      "date": "Thu, 10 Sep 2026 20:22:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nI created a pet project that I’d like to share with you. It’s a project catalog, but it has a cool feature. It generates badges for each project that you can add to your website or readme, and they will work.\nRight now, there aren’t many badges, but I plan to add a few more (I just don’t know which ones yet). I would be very grateful if you could share some ideas in the comments about what could be added. Also, what do you think of the website design?\nEmbedCatalog is open to your projects",
-      "guid": "https://news.ycombinator.com/item?id=49649676"
-    },
-    {
       "title": "An Ode to Counter-Positioning",
       "link": "https://www.notboring.co/p/an-ode-to-counter-positioning",
       "pubDate": "Thu, 10 Sep 2026 12:45:19 GMT",
@@ -233,6 +233,17 @@
       "icon": "🚀",
       "contentSnippet": "How to Buy Time",
       "guid": "https://www.notboring.co/p/an-ode-to-counter-positioning"
+    },
+    {
+      "title": "How to Teach Writing with Digital Media with Dr. Sarah Levine #6 Ranked Episode on the 10 Minute Teacher Podcast",
+      "link": "https://www.coolcatteacher.com/e988-2/",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "date": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 6 in the countdown of the ten most-downloaded episodes of the first 1,000. Dr. Sarah Levine of Stanford on getting students to write when they groan at the word.\nThe post How to Teach Writing with Digital Media with Dr. Sarah Levine #6 Ranked Episode on the 10 Minute Teacher Podcast appeared first on Cool Cat Teacher Blog by Vicki Davis @coolc",
+      "guid": "https://www.coolcatteacher.com/?p=35308"
     },
     {
       "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
