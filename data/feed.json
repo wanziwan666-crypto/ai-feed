@@ -1,8 +1,195 @@
 {
-  "generatedAt": "2026-09-12T09:50:18.405Z",
+  "generatedAt": "2026-09-12T14:41:20.666Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 22,
   "items": [
+    {
+      "title": "Show HN: Sanctum – A plugin that allows only the sites you need",
+      "link": "https://chromewebstore.google.com/detail/sanctum-its-time-to-focus/cbibfccpchmdgnamgemdfmoijadjilbn",
+      "pubDate": "Sat, 12 Sep 2026 14:02:04 +0000",
+      "date": "Sat, 12 Sep 2026 14:02:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/sanctum-its-time-to-focus/cbibfccpchmdgnamgemdfmoijadjilbn\nComments URL: https://news.ycombinator.com/item?id=49672405\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49672405"
+    },
+    {
+      "title": "Show HN: Battle Bot Royale – multiplayer web game",
+      "link": "https://battle-bot-royale.cloudflare-ryan.workers.dev",
+      "pubDate": "Sat, 12 Sep 2026 13:49:16 +0000",
+      "date": "Sat, 12 Sep 2026 13:49:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I had some fun with Google Antigravity and Flash 3.8. Mainly used the grill-me skill. Hosted on Cloudflare.\nComments URL: https://news.ycombinator.com/item?id=49672297\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49672297"
+    },
+    {
+      "title": "Show HN: Java MCP Runtime for virtual threads",
+      "link": "https://tachyonmcp.dev",
+      "pubDate": "Sat, 12 Sep 2026 13:35:09 +0000",
+      "date": "Sat, 12 Sep 2026 13:35:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "TachyonMCP is JVM library making it easy to expose Java business logic and resources as Streamable MCP server. Supports both latest and legacy MCP specifications via unified API. Runs on modern JVM with virtual threads.\nComments URL: https://news.ycombinator.com/item?id=49672180\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49672180"
+    },
+    {
+      "title": "Show HN: Duo Studio – Open-source iPhone Duo mockup maker",
+      "link": "https://iduo.clothpath.com/",
+      "pubDate": "Sat, 12 Sep 2026 13:30:39 +0000",
+      "date": "Sat, 12 Sep 2026 13:30:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Duo Studio renders your app screenshots on an iPhone Duo-style foldable — six poses, folding animations, local export. Free and open source:\nTry it: https://iduo.clothpath.com/\nComments URL: https://news.ycombinator.com/item?id=49672138\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49672138"
+    },
+    {
+      "title": "Show HN: Blender MCP by ArchBench",
+      "link": "https://github.com/3d-mcp/blender-mcp",
+      "pubDate": "Sat, 12 Sep 2026 13:05:09 +0000",
+      "date": "Sat, 12 Sep 2026 13:05:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/3d-mcp/blender-mcp\nComments URL: https://news.ycombinator.com/item?id=49671951\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671951"
+    },
+    {
+      "title": "Show HN: Srvquery, a TypeScript toolkit for querying game servers",
+      "link": "https://github.com/carlos-menezes/srvquery",
+      "pubDate": "Sat, 12 Sep 2026 12:42:48 +0000",
+      "date": "Sat, 12 Sep 2026 12:42:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/carlos-menezes/srvquery\nComments URL: https://news.ycombinator.com/item?id=49671777\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671777"
+    },
+    {
+      "title": "Show HN: Xivizley – Visual Docker Compose and Homelab Architect",
+      "link": "https://xivizley.com.tr",
+      "pubDate": "Sat, 12 Sep 2026 12:22:39 +0000",
+      "date": "Sat, 12 Sep 2026 12:22:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://xivizley.com.tr\nComments URL: https://news.ycombinator.com/item?id=49671602\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671602"
+    },
+    {
+      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
+      "link": "https://liniora.com",
+      "pubDate": "Sat, 12 Sep 2026 12:15:12 +0000",
+      "date": "Sat, 12 Sep 2026 12:15:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still working remotely for approx. 3 years with the same foreign company in EU. and i noticed that we are always somehow lose the context of a ticket -- even though we are using the popular project management systems -- so i decided why not build something that can fix our context loosing problems and with some improvements. here i created Liniora. an AI powered p",
+      "guid": "https://news.ycombinator.com/item?id=49671542"
+    },
+    {
+      "title": "Show HN: Rust-split – save your tokens on large Rust source files",
+      "link": "https://news.ycombinator.com/item?id=49671509",
+      "pubDate": "Sat, 12 Sep 2026 12:10:15 +0000",
+      "date": "Sat, 12 Sep 2026 12:10:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A common failure mode for AI SW development is that agents tend to build large \"God\" files.\nThis is bad on your token burn. A) because the larger your source file the more churn the LLM takes to find and emit edits, which are more likely to fail, and B) the real kicker - the agent's process is to move one item at a time, which is an O(n^2) algorithm, but especially bad because it inevitably breaks and the code mushes up and sadness ensues (burning time and tokens).\nSo, I have had lots of success",
+      "guid": "https://news.ycombinator.com/item?id=49671509"
+    },
+    {
+      "title": "Show HN: Parallel Coding Agents on Mobile",
+      "link": "https://github.com/PlathsOven/maestro",
+      "pubDate": "Sat, 12 Sep 2026 12:02:50 +0000",
+      "date": "Sat, 12 Sep 2026 12:02:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/PlathsOven/maestro\nComments URL: https://news.ycombinator.com/item?id=49671453\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671453"
+    },
+    {
+      "title": "Show HN: Email Client with Backups",
+      "link": "https://mailvaultapp.com/",
+      "pubDate": "Sat, 12 Sep 2026 12:02:49 +0000",
+      "date": "Sat, 12 Sep 2026 12:02:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello HN,\nI made an email client for macOS/Linux focused on one thing: owning your emails locally.\nIt backups .emls in maildir locally, as well as highlights mismatches in reply to address to displayed.\nAlternative view's for email like explorer - date/sender based.\nEmail insights - top senders, frequency graphs. Local usage stats - so you could see how gmail is capping the 2500 Mb a day.\nLots of layouts to customize to your liking.\nLive online demo - no need to download. Highly recommend having",
+      "guid": "https://news.ycombinator.com/item?id=49671452"
+    },
+    {
+      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
+      "link": "https://tattoopreviewai.com",
+      "pubDate": "Sat, 12 Sep 2026 11:46:14 +0000",
+      "date": "Sat, 12 Sep 2026 11:46:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tattoopreviewai.com\nComments URL: https://news.ycombinator.com/item?id=49671355\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671355"
+    },
+    {
+      "title": "Show HN: I wrote a book on using AI in game design production (free on GitHub)",
+      "link": "https://github.com/eremes81/game-design-ai-practice-en",
+      "pubDate": "Sat, 12 Sep 2026 11:44:34 +0000",
+      "date": "Sat, 12 Sep 2026 11:44:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/eremes81/game-design-ai-practice-en\nComments URL: https://news.ycombinator.com/item?id=49671342\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671342"
+    },
+    {
+      "title": "Show HN: A screen recorder/editor that runs in browser",
+      "link": "https://demoreel.app/",
+      "pubDate": "Sat, 12 Sep 2026 11:22:53 +0000",
+      "date": "Sat, 12 Sep 2026 11:22:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://demoreel.app/\nComments URL: https://news.ycombinator.com/item?id=49671210\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671210"
+    },
+    {
+      "title": "Show HN: Neat-annotations – neat hand-drawn CSS annotations",
+      "link": "https://neat-annotations.syabro.com/",
+      "pubDate": "Sat, 12 Sep 2026 11:21:09 +0000",
+      "date": "Sat, 12 Sep 2026 11:21:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://neat-annotations.syabro.com/\nComments URL: https://news.ycombinator.com/item?id=49671201\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49671201"
+    },
+    {
+      "title": "Show HN: Objo Studio. A modern visual RAD IDE for desktop and web",
+      "link": "https://objo.dev",
+      "pubDate": "Sat, 12 Sep 2026 10:45:51 +0000",
+      "date": "Sat, 12 Sep 2026 10:45:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I posted Objo Studio here some months ago when it was much earlier in development and it didn’t get much attention. Since then it has changed quite a bit, so I thought it was worth showing again.\nObjo Studio is my attempt to build a modern version of the kind of development environment I grew up enjoying: Visual Basic, REALbasic/Xojo, Delphi, etc. You visually design an interface, add event handlers and write code, without needing to understand complex frameworks before you can put a button on a",
+      "guid": "https://news.ycombinator.com/item?id=49671019"
+    },
+    {
+      "title": "Show HN: Portspan – A self-hosted ngrok alternative with wildcard subdomains",
+      "link": "https://github.com/famasya/portspan",
+      "pubDate": "Sat, 12 Sep 2026 09:50:11 +0000",
+      "date": "Sat, 12 Sep 2026 09:50:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/famasya/portspan\nComments URL: https://news.ycombinator.com/item?id=49670737\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49670737"
+    },
     {
       "title": "Show HN: We built a local-first Android agent. Then Meta launched Muse",
       "link": "https://creepy.im/",
@@ -11,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://creepy.im/\nComments URL: https://news.ycombinator.com/item?id=49670587\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://creepy.im/\nComments URL: https://news.ycombinator.com/item?id=49670587\nPoints: 5\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49670587"
     },
     {
@@ -37,160 +224,6 @@
       "guid": "https://news.ycombinator.com/item?id=49670159"
     },
     {
-      "title": "Show HN: RagLeap v0.4.0 – 46 AI roles, 8 connectors, 9 vector DBs",
-      "link": "https://github.com/antonyrag/ragleap-core",
-      "pubDate": "Sat, 12 Sep 2026 07:33:30 +0000",
-      "date": "Sat, 12 Sep 2026 07:33:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/antonyrag/ragleap-core\nComments URL: https://news.ycombinator.com/item?id=49669907\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49669907"
-    },
-    {
-      "title": "Show HN: Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
-      "link": "https://spiteware.ai/",
-      "pubDate": "Sat, 12 Sep 2026 07:27:54 +0000",
-      "date": "Sat, 12 Sep 2026 07:27:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A catalog of apps people built because the paid tool wasn't worth the price.\nStatic site, source on GitHub with the criteria for what counts. An agent finds candidates each morning; I approve every listing by hand.\nSend me apps I've missed.\nComments URL: https://news.ycombinator.com/item?id=49669863\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49669863"
-    },
-    {
-      "title": "Show HN: I turn Airtable exports into real Postgres schemas(FKs, not CSVs)",
-      "link": "https://www.atmigrator.com",
-      "pubDate": "Sat, 12 Sep 2026 07:00:23 +0000",
-      "date": "Sat, 12 Sep 2026 07:00:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.atmigrator.com\nComments URL: https://news.ycombinator.com/item?id=49669672\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49669672"
-    },
-    {
-      "title": "Show HN: A high-performance, all-in-one extension for managing tabs",
-      "link": "https://chromewebstore.google.com/detail/leotabs-â-tab-manager-swi/heolckkdeandgagkiefggcneodniojhb",
-      "pubDate": "Sat, 12 Sep 2026 06:01:31 +0000",
-      "date": "Sat, 12 Sep 2026 06:01:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/leotabs-â-tab-manager-swi/heolckkdeandgagkiefggcneodniojhb\nComments URL: https://news.ycombinator.com/item?id=49669339\nPoints: 5\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49669339"
-    },
-    {
-      "title": "Show HN: Poptimum – A Daily Optimization Game",
-      "link": "https://poptimum.fun/",
-      "pubDate": "Sat, 12 Sep 2026 05:52:17 +0000",
-      "date": "Sat, 12 Sep 2026 05:52:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "About 10 years ago, when my oldest daughter was a baby, we used to play with animal-shaped fridge magnets. I started trying to pack all of them into the smallest possible area, mostly to make the game more interesting for myself. I remember thinking it could make a surprisingly good optimization game.\nNow it’s finally built: https://poptimum.fun\nPoptimum is a daily web game where everyone gets the same set of shapes and tries to pack them as tightly as possible. A new random puzzle is available ",
-      "guid": "https://news.ycombinator.com/item?id=49669287"
-    },
-    {
-      "title": "Show HN: GenieUI – Turn prompts into editable iOS and Android interfaces",
-      "link": "https://genieui.com/",
-      "pubDate": "Sat, 12 Sep 2026 05:35:11 +0000",
-      "date": "Sat, 12 Sep 2026 05:35:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://genieui.com/\nComments URL: https://news.ycombinator.com/item?id=49669199\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49669199"
-    },
-    {
-      "title": "Show HN: I combined Marc Lou's TrustMRR and IndiePage for free. I wanted it",
-      "link": "https://myindie.space",
-      "pubDate": "Sat, 12 Sep 2026 05:24:30 +0000",
-      "date": "Sat, 12 Sep 2026 05:24:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I wanted to use both of his products for my personal profile. TrustMRR is too focused on buying and selling products. IndiePage is not free and does not have many features or controls.\nSo, I vibe-coded my own combination of both. Not too blob and not too micro. I vibe-coded in 3 days, plus one day to polish.\nI made it for free, but there are sponsor spots on free profiles. You can always remove those by purchasing a lifetime plan, but it's not necessary.\nI was also trying to make my first intern",
-      "guid": "https://news.ycombinator.com/item?id=49669126"
-    },
-    {
-      "title": "Show HN: Don't Hit Send – the model answers while you type",
-      "link": "https://github.com/scalattice/dont-hit-send",
-      "pubDate": "Sat, 12 Sep 2026 05:06:07 +0000",
-      "date": "Sat, 12 Sep 2026 05:06:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Type. The model is already answering. There is no send button.\nLeft pane is one long draft. Right pane is a stack of replies. Pause for ~350ms and it fires a normal streaming chat completion with the whole draft. Type again and it aborts the last request if that reply never produced text; if it did, that bubble stays and a new one stacks. Bubbles never rewrite. Enter is a newline.\nThat is overlapping unary streams, not a duplex socket. Same shape as ghost-text, pointed at a conversation instead ",
-      "guid": "https://news.ycombinator.com/item?id=49669012"
-    },
-    {
-      "title": "Show HN: Menu Hub – a native macOS menu bar manager in SwiftUI/AppKit",
-      "link": "https://github.com/Talljack/menu-hub/releases/tag/v0.1.5",
-      "pubDate": "Sat, 12 Sep 2026 04:42:25 +0000",
-      "date": "Sat, 12 Sep 2026 04:42:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Talljack/menu-hub/releases/tag/v0.1.5\nComments URL: https://news.ycombinator.com/item?id=49668895\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49668895"
-    },
-    {
-      "title": "Show HN: NodehistJ – FTN Nodelist Server",
-      "link": "https://github.com/oldzoomer-ru/nodehistj",
-      "pubDate": "Sat, 12 Sep 2026 04:16:53 +0000",
-      "date": "Sat, 12 Sep 2026 04:16:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/oldzoomer-ru/nodehistj\nComments URL: https://news.ycombinator.com/item?id=49668759\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49668759"
-    },
-    {
-      "title": "Show HN: Single-file invoice generator that works in the browser",
-      "link": "https://merlin-invoice-tool.surge.sh",
-      "pubDate": "Sat, 12 Sep 2026 02:39:02 +0000",
-      "date": "Sat, 12 Sep 2026 02:39:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://merlin-invoice-tool.surge.sh\nComments URL: https://news.ycombinator.com/item?id=49668176\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49668176"
-    },
-    {
-      "title": "Show HN: Next Notes – local dictation, meeting notes, and actions app",
-      "link": "https://github.com/spyhack225/next-notes",
-      "pubDate": "Sat, 12 Sep 2026 02:27:44 +0000",
-      "date": "Sat, 12 Sep 2026 02:27:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/spyhack225/next-notes\nComments URL: https://news.ycombinator.com/item?id=49668091\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49668091"
-    },
-    {
-      "title": "Show HN: TUI Markdown reader with beeline support",
-      "link": "https://github.com/seymores/mdr",
-      "pubDate": "Sat, 12 Sep 2026 01:44:47 +0000",
-      "date": "Sat, 12 Sep 2026 01:44:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Rust fast TUI markdown reader for the terminal. Pastel themed BeeLine gradients for line tracking, mouse scroll + hover URL previews, keyboard-first navigation, and support tables and code blocks.\nComments URL: https://news.ycombinator.com/item?id=49667815\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49667815"
-    },
-    {
-      "title": "Show HN: Fog 2.0: I removed the AI auto-organizing I built my first app around",
-      "link": "https://apps.apple.com/us/app/smart-notes-folders-fog/id6760272134",
-      "pubDate": "Sat, 12 Sep 2026 00:53:26 +0000",
-      "date": "Sat, 12 Sep 2026 00:53:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey everyone,\nThis is my first time posting on Show HN, so hello there.\nBack in March, I launched my first app on the App Store. It was a notes app that uses Apple's on-device foundation model to organize your notes for you, and I called it Fog. And boy did I learn a lot. Looking at the notes app category and how saturated it currently is, I wanted to try something different. Privacy is #1, so notes should stay on the device, keeping the user in control. Then there was the AI aspect I was using ",
-      "guid": "https://news.ycombinator.com/item?id=49667476"
-    },
-    {
       "title": "OpenAI agents attacked RubyGems back in May",
       "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
       "pubDate": "2026-09-12T00:42:25.000Z",
@@ -202,39 +235,6 @@
       "guid": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
     },
     {
-      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-      "link": "https://github.com/zachsaw/graphify-csharp",
-      "pubDate": "Sat, 12 Sep 2026 00:16:10 +0000",
-      "date": "Sat, 12 Sep 2026 00:16:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/zachsaw/graphify-csharp\nComments URL: https://news.ycombinator.com/item?id=49667188\nPoints: 35\n# Comments: 17",
-      "guid": "https://news.ycombinator.com/item?id=49667188"
-    },
-    {
-      "title": "Show HN: OmaGem – A Ruby DSL for Configuring and Managing Omarchy Linux",
-      "link": "https://github.com/azzenabidi/OmaGem",
-      "pubDate": "Fri, 11 Sep 2026 23:41:08 +0000",
-      "date": "Fri, 11 Sep 2026 23:41:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/azzenabidi/OmaGem\nComments URL: https://news.ycombinator.com/item?id=49666934\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49666934"
-    },
-    {
-      "title": "Show HN: A fruit fly connectome playing Super Mario Bros at 60 FPS",
-      "link": "https://kaarelkaarelson.github.io/fly-super-mario/",
-      "pubDate": "Fri, 11 Sep 2026 23:27:41 +0000",
-      "date": "Fri, 11 Sep 2026 23:27:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://kaarelkaarelson.github.io/fly-super-mario/\nComments URL: https://news.ycombinator.com/item?id=49666828\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49666828"
-    },
-    {
       "title": "2026.37: Duo Threats",
       "link": "https://stratechery.com/2026/duo-threats/",
       "pubDate": "Fri, 11 Sep 2026 17:00:00 +0000",
@@ -244,39 +244,6 @@
       "icon": "📊",
       "contentSnippet": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
       "guid": "https://stratechery.com/?p=19938"
-    },
-    {
-      "title": "Weekly Dose of Optimism #210",
-      "link": "https://www.notboring.co/p/weekly-dose-of-optimism-210",
-      "pubDate": "Fri, 11 Sep 2026 12:46:09 GMT",
-      "date": "Fri, 11 Sep 2026 12:46:09 GMT",
-      "source": "Not Boring",
-      "category": "voices",
-      "icon": "🚀",
-      "contentSnippet": "Navier-Stokes, AlphaGenome Atlas, Ramjet-X, Ingressing Minds, Neko + Extra Doses",
-      "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-210"
-    },
-    {
-      "title": "Open-Source AI &amp; Open Models Reading List",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "pubDate": "Fri, 11 Sep 2026 12:36:25 GMT",
-      "date": "Fri, 11 Sep 2026 12:36:25 GMT",
-      "source": "Nathan Lambert",
-      "category": "builders",
-      "icon": "📐",
-      "contentSnippet": "How to get up to speed on open models and their implications.",
-      "guid": "https://www.interconnects.ai/p/open-source-ai-reading-list"
-    },
-    {
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "pubDate": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "date": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds…",
-      "guid": "https://www.technologyreview.com/?p=1143879"
     }
   ]
 }
