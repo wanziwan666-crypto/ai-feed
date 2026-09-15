@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-09-14T21:12:33.151Z",
+  "generatedAt": "2026-09-15T02:36:58.447Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 24,
   "items": [
+    {
+      "title": "Show HN: Oversold.com – Analyze a stock in 30 seconds",
+      "link": "https://oversold.com/",
+      "pubDate": "Tue, 15 Sep 2026 01:59:52 +0000",
+      "date": "Tue, 15 Sep 2026 01:59:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://oversold.com/\nComments URL: https://news.ycombinator.com/item?id=49706793\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49706793"
+    },
+    {
+      "title": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+      "link": "https://sunkcost.ai/",
+      "pubDate": "Tue, 15 Sep 2026 01:37:43 +0000",
+      "date": "Tue, 15 Sep 2026 01:37:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I kept hearing \"just buy a Mac and run models locally, it pays for itself\" and wanted to check. Sunk Cost takes a machine, a model and how many tokens you use a day, and works out how long the hardware takes to pay back against renting the same model by the token.\nObviously there are other reasons to buy your own hardware aside from just saving money on llms but this is just looking at it from a raw cost saving perspective.\nIf you have any ideas on how I can make this more helpful lmk!\nComments ",
+      "guid": "https://news.ycombinator.com/item?id=49706656"
+    },
+    {
+      "title": "Show HN: SuperOpt – Linux Shortcuts on Mac",
+      "link": "https://logonoff.co/superopt/",
+      "pubDate": "Tue, 15 Sep 2026 00:45:17 +0000",
+      "date": "Tue, 15 Sep 2026 00:45:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "so as a long time Fedora user I just got a macbook for work. while it's so much faster than my old Fedora-based work laptop, it's also running macOS... which I really don't want to learn or get used to. i tried a Fedora VM on the Macbook and even then the modifier keys are still garbled.\nmy friends kept telling i'd simply get used to macOS but i'd like to stick to what i know.. instead of spending some time adjusting to macOS, i spent a few days with an LLM to create a program which uses macOS a",
+      "guid": "https://news.ycombinator.com/item?id=49706269"
+    },
+    {
+      "title": "Show HN: Pi-box: Pi coding agent running inside a VM inside WASM inside Electron",
+      "link": "https://github.com/deepclause/pi-box",
+      "pubDate": "Tue, 15 Sep 2026 00:21:19 +0000",
+      "date": "Tue, 15 Sep 2026 00:21:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Project background and human written summary here: https://deepclause.substack.com/p/pie-in-a-box-running-pi-on...\nComments URL: https://news.ycombinator.com/item?id=49706083\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49706083"
+    },
+    {
+      "title": "Show HN: Hazzel – a tiny coding agent, Bring your own keys",
+      "link": "https://github.com/mukundzha/hazzel",
+      "pubDate": "Tue, 15 Sep 2026 00:15:56 +0000",
+      "date": "Tue, 15 Sep 2026 00:15:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/mukundzha/hazzel\nComments URL: https://news.ycombinator.com/item?id=49706040\nPoints: 5\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49706040"
+    },
+    {
+      "title": "Show HN: Chess Cheater Detector",
+      "link": "https://chesscheaterdetector.com/",
+      "pubDate": "Tue, 15 Sep 2026 00:14:36 +0000",
+      "date": "Tue, 15 Sep 2026 00:14:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been playing with this idea to build an estimation of chess cheating likelihood from an exported chess game (PGN format).\nThe main thing I've developed so far is a way of estimating the complexity of each position. The intuition is that matching an engine's top moves in difficult positions is much more informative than doing so when there's an obvious best move.\nThe detector currently combines complexity with engine agreement and centipawn loss to make a prediction. I'd like to move beyond ",
+      "guid": "https://news.ycombinator.com/item?id=49706032"
+    },
+    {
+      "title": "Show HN: An open-source control plane for your company's AI agents",
+      "link": "https://github.com/vstorm-co/agenticos",
+      "pubDate": "Mon, 14 Sep 2026 23:16:39 +0000",
+      "date": "Mon, 14 Sep 2026 23:16:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/vstorm-co/agenticos\nComments URL: https://news.ycombinator.com/item?id=49705577\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49705577"
+    },
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "pubDate": "Mon, 14 Sep 2026 23:01:36 +0000",
+      "date": "Mon, 14 Sep 2026 23:01:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/JamesRyanATX/fcbnerd\nComments URL: https://news.ycombinator.com/item?id=49705442\nPoints: 39\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=49705442"
+    },
+    {
+      "title": "Show HN: Nowdex – AI agent usage on your iPhone",
+      "link": "https://nowdex.app/",
+      "pubDate": "Mon, 14 Sep 2026 22:10:15 +0000",
+      "date": "Mon, 14 Sep 2026 22:10:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI've been using Claude Code, Codex and Cursor quite a bit lately, and I found myself checking their usage limits all the time.\nMost of the tools I found for this live on the desktop or in the menu bar. What I really wanted was to pull out my phone and see how much I had left, especially when I'm away from my computer.\nI ended up building Nowdex for this.\nThe main thing is the iPhone widget. It shows your current usage and reset time directly on the Home Screen or Lock Screen. Right now it",
+      "guid": "https://news.ycombinator.com/item?id=49704882"
+    },
+    {
+      "title": "Show HN: Learn CRISPR in 3D in any language",
+      "link": "https://viewer.10k.science/",
+      "pubDate": "Mon, 14 Sep 2026 21:59:18 +0000",
+      "date": "Mon, 14 Sep 2026 21:59:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Well, just 12 languages for now. Let me know if you want me to localize it for your language!\nHi I'm the creator of 10k Science, an immersive science learning platform where you can zoom into things down to the molecular level, guided via a socratic-style AI on the web, iOS, or VR.\niOS: https://apps.apple.com/us/app/10k-science/id6793177913 Meta Quest: https://vr.meta.me/s/287GU4fsKGD3Cl3\nBuilt using real science data, funded by the NSF and NIH.\nComments URL: https://news.ycombinator.com/item?id",
+      "guid": "https://news.ycombinator.com/item?id=49704763"
+    },
+    {
+      "title": "Show HN: reqlan – a language for requirement graphs next to the code",
+      "link": "https://reqlan.com",
+      "pubDate": "Mon, 14 Sep 2026 21:40:28 +0000",
+      "date": "Mon, 14 Sep 2026 21:40:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://reqlan.com\nComments URL: https://news.ycombinator.com/item?id=49704498\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49704498"
+    },
+    {
+      "title": "Show HN: VideoHighlighter – offline self-hosted video analyzer",
+      "link": "https://github.com/Aseiel/VideoHighlighter",
+      "pubDate": "Mon, 14 Sep 2026 21:32:06 +0000",
+      "date": "Mon, 14 Sep 2026 21:32:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN,\nI created this project starting with subtitles creation for my 7 years old son. Than added video highlighting and finally it evolves in offline video analyzer on which are working group of 3 close friends.\nFree AGPL: https://github.com/Aseiel/VideoHighlighter\nDemo: https://github.com/Aseiel/VideoHighlighter#demo\nSite: https://aseiel.github.io/VideoHighlighter-site/\nThere is optional Pro version.\nThere is simple view for highlight creation and advanced timeline when You can drag and drop ",
+      "guid": "https://news.ycombinator.com/item?id=49704396"
+    },
+    {
+      "title": "Show HN: DevRecap – reconstruct what you worked on from Codex and Git",
+      "link": "https://github.com/jquinteiroo/devrecap",
+      "pubDate": "Mon, 14 Sep 2026 21:19:13 +0000",
+      "date": "Mon, 14 Sep 2026 21:19:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/jquinteiroo/devrecap\nComments URL: https://news.ycombinator.com/item?id=49704194\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49704194"
+    },
     {
       "title": "Show HN: Do Not Build – measure a software market before you build in it",
       "link": "https://donotbuild.com/verdicts",
@@ -66,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "We're seeing an explosion of open-source projects.\nI created a website helping to compare open-source projects and discover their nearest neighbors in a fun and interactive way. Each point is a project. Project close together tend to be similar.\nComments URL: https://news.ycombinator.com/item?id=49703115\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "We're seeing an explosion of open-source projects.\nI created a website helping to compare open-source projects and discover their nearest neighbors in a fun and interactive way. Each point is a project. Project close together tend to be similar.\nComments URL: https://news.ycombinator.com/item?id=49703115\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49703115"
     },
     {
@@ -77,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/\nComments URL: https://news.ycombinator.com/item?id=49702999\nPoints: 2\n# Comments: 3",
+      "contentSnippet": "Article URL: https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/\nComments URL: https://news.ycombinator.com/item?id=49702999\nPoints: 3\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=49702999"
     },
     {
@@ -90,149 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Quite a niche project that shows in a neat way historical wind force and orientation, anywhere on earth.\nNo particular use case in mind, apart from checking that my next house will not be affected by the Mistral wind (the horrendous wind displayed in the default coordinates of the app).\nBased on weather reanalysis of ERA5, ERA5-LAND and ECMWF IFS provided by open-meteo.com\nEntirely Vibe coded with DeepSeek 4.1 Flash and Opencode.\nComments URL: https://news.ycombinator.com/item?id=49702910\nPoints",
       "guid": "https://news.ycombinator.com/item?id=49702910"
-    },
-    {
-      "title": "Show HN: Pull every comment out of a Google Sheet, in the browser",
-      "link": "https://bensunter.com/commentpulse.html",
-      "pubDate": "Mon, 14 Sep 2026 19:50:43 +0000",
-      "date": "Mon, 14 Sep 2026 19:50:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I spend a lot of time working in Google sheets. Often, I will collaborate with up to 50 other people in the same workbook. One specific org I worked at had a strong preference for using comment threads in Sheets extensively to ask questions, give feedback, and raise risks.\nSheets would regularly get 70+ comment threads across multiple tabs with dozens of contributing teams. As the owner of the sheet, I wanted a way to document the comments to retain traceability on all of the various conversatio",
-      "guid": "https://news.ycombinator.com/item?id=49702904"
-    },
-    {
-      "title": "Show HN: Build2me – Prove2Me for software agent swarms build code",
-      "link": "https://github.com/shitianfang/build2me",
-      "pubDate": "Mon, 14 Sep 2026 19:49:56 +0000",
-      "date": "Mon, 14 Sep 2026 19:49:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi everyone, this is my first original post on Hacker News. I’d like to share my thoughts on the next generation of AI agents. I believe these agents will operate autonomously over long periods. While current chat interfaces are designed for conversation, the interfaces for next-gen agents should focus on delegation; they will be capable of gathering environmental data, interpreting requirements, and working continuously toward a goal for days or even a month. That is why I ported prove2me and b",
-      "guid": "https://news.ycombinator.com/item?id=49702895"
-    },
-    {
-      "title": "Show HN: Slowave – local adaptive memory for coding agents",
-      "link": "https://github.com/slowave-ai/slowave",
-      "pubDate": "Mon, 14 Sep 2026 19:49:12 +0000",
-      "date": "Mon, 14 Sep 2026 19:49:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I started building Slowave because I kept running into the same problem with coding agents: every new session has the codebase and some documentation but not the context behind it, decisions that brought you there and especially the thinking process behind the code.\nMost memory system solutions focus primarily on the storage and retrieval aspects (vector search/RAG/graphs/ Markdown files, etc.).\nAfter months of storing memories (coding 8+ hours a day produces a lot of memories) these might hallu",
-      "guid": "https://news.ycombinator.com/item?id=49702887"
-    },
-    {
-      "title": "Show HN: MCUHex – Flash and Live Monitoring for STM32 Devices over SWD",
-      "link": "https://mcuhex.com/",
-      "pubDate": "Mon, 14 Sep 2026 19:30:49 +0000",
-      "date": "Mon, 14 Sep 2026 19:30:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built MCUHex for monitoring  global/static variables and flashing Arm Cortex-M devices over SWD protocol.\nConnect ST-Link debug probe and drop .elf/.out file. It parses the debug info into a tree of global/static variables with types and addresses. You can read/write addresses in the memory and watch them live in chart view. It can also flash .elf/.hex/.bin files.\nI am considering to expand features such as; compiling, debugging, adding serial communication + RTT console, high rate frequency s",
-      "guid": "https://news.ycombinator.com/item?id=49702621"
-    },
-    {
-      "title": "Show HN: ZKSM83,a ZK proof system for GameBoy CPU execution",
-      "link": "https://github.com/RyanKung/zksm83",
-      "pubDate": "Mon, 14 Sep 2026 19:15:08 +0000",
-      "date": "Mon, 14 Sep 2026 19:15:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/RyanKung/zksm83\nComments URL: https://news.ycombinator.com/item?id=49702386\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49702386"
-    },
-    {
-      "title": "Show HN: CleverCrow, Get paid to work your backlog",
-      "link": "https://clevercrow.io",
-      "pubDate": "Mon, 14 Sep 2026 19:11:47 +0000",
-      "date": "Mon, 14 Sep 2026 19:11:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Howdy all,\nMy first post [1] on CleverCrow generated some great conversation and a few things stood out: less AI, more money for open source maintainers please!\nSo in the intervening 84 days, that's what I've done. I've entirely removed all AI and pivoted to a model where backers put money on issues they want fixed and the whole pool goes towards paying the maintainer of the project (minus Stripe fees and a 5% platform fee).\nAlong the way I ditched javascript [2] which tightened up the security ",
-      "guid": "https://news.ycombinator.com/item?id=49702339"
-    },
-    {
-      "title": "Show HN: I built a browser-native agent for automating job application forms",
-      "link": "https://github.com/maazkhanxo/jobeasyapply-linkedin-auto-apply",
-      "pubDate": "Mon, 14 Sep 2026 19:05:23 +0000",
-      "date": "Mon, 14 Sep 2026 19:05:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/maazkhanxo/jobeasyapply-linkedin-auto-apply\nComments URL: https://news.ycombinator.com/item?id=49702241\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49702241"
-    },
-    {
-      "title": "Show HN: Serverside.chat",
-      "link": "https://github.com/bwasti/serverside.chat",
-      "pubDate": "Mon, 14 Sep 2026 18:55:45 +0000",
-      "date": "Mon, 14 Sep 2026 18:55:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/bwasti/serverside.chat\nComments URL: https://news.ycombinator.com/item?id=49702084\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49702084"
-    },
-    {
-      "title": "Show HN: Kario – AI Native Motion Graphics Editor",
-      "link": "https://www.karioai.com/",
-      "pubDate": "Mon, 14 Sep 2026 18:54:45 +0000",
-      "date": "Mon, 14 Sep 2026 18:54:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN, I built https://karioai.com, a web editor for creating motion graphics videos, whilst letting you perfect tiny details like easing.\nMy thesis is that since design is an art, collaborating with the AI on the same canvas instead of outsourcing the entire design to it provides a great balance between creativity and speed.\nI created this sample video (inspired by Linear) in Kario to explain how it works:\nhttps://www.karioai.com/share/6uHru-GZmA?export=JO0aFTKeDT\nHappy to chat about the AI or",
-      "guid": "https://news.ycombinator.com/item?id=49702066"
-    },
-    {
-      "title": "Show HN: Rent vs. buy calculator that shows two different break-even years",
-      "link": "https://smart-calculators.net/en-US/tools/rent-vs-buy",
-      "pubDate": "Mon, 14 Sep 2026 18:49:31 +0000",
-      "date": "Mon, 14 Sep 2026 18:49:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://smart-calculators.net/en-US/tools/rent-vs-buy\nComments URL: https://news.ycombinator.com/item?id=49701971\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49701971"
-    },
-    {
-      "title": "Show HN: Cliparr 2.0 – New canvas based timeline editor",
-      "link": "https://cliparr.dev/blog/cliparr-2-0-release/",
-      "pubDate": "Mon, 14 Sep 2026 18:47:26 +0000",
-      "date": "Mon, 14 Sep 2026 18:47:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://cliparr.dev/blog/cliparr-2-0-release/\nComments URL: https://news.ycombinator.com/item?id=49701936\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49701936"
-    },
-    {
-      "title": "Show HN: Typed agent memory with corrections and history",
-      "link": "https://github.com/Polign/recall",
-      "pubDate": "Mon, 14 Sep 2026 18:38:31 +0000",
-      "date": "Mon, 14 Sep 2026 18:38:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Polign/recall\nComments URL: https://news.ycombinator.com/item?id=49701788\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49701788"
-    },
-    {
-      "title": "Show HN: 100 Player Online Smash Bros",
-      "link": "https://meleeroyale.com/",
-      "pubDate": "Mon, 14 Sep 2026 18:27:19 +0000",
-      "date": "Mon, 14 Sep 2026 18:27:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I used GPT-6 Astra and the recent Melee decomp project (https://github.com/doldecomp/melee) to make an online battle royale mod. 100 players in a box, in stamina mode. The last player alive wins.\nYou will need a good ping/wired internet to run this properly. It works with some controllers out of the box (Xbox for example), but I'm working on figuring out Gamecube controllers.\nComments URL: https://news.ycombinator.com/item?id=49701603\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49701603"
     },
     {
       "title": "AI agents blew the whistle on their cheating colleagues",
@@ -266,17 +266,6 @@
       "icon": "🌱",
       "contentSnippet": "If your teams have ever spent valuable meeting time translating between frameworks instead of moving learning forward, this piece is for you. Nate McClennen and Rebecca Midles analyzed 16 leading school-design frameworks and 7 change models and found something remarkable: beneath every different vocabulary, the same seven questions keep emerging. Their Learning Innovation Wayfinder offers a common map, not to replace the frameworks your system trusts, but to help every partner finally see they h",
       "guid": "https://www.gettingsmart.com/?p=140411"
-    },
-    {
-      "title": "New York and Los Angeles Ban Student-Facing AI (For Now). Should Other Schools Follow?",
-      "link": "https://edsurge.com/news/new-york-and-los-angeles-ban-student-facing-ai-for-now-should-other-schools-follow",
-      "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "date": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "The bans, coupled with a new APA report, signal a shift from rapid AI adoption toward more deliberate evaluation.",
-      "guid": "post-guid-4E8A0"
     }
   ]
 }
