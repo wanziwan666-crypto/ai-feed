@@ -1,18 +1,238 @@
 {
-  "generatedAt": "2026-09-15T10:43:56.192Z",
+  "generatedAt": "2026-09-15T15:56:54.776Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 25,
   "items": [
     {
       "title": "666ghj/MiroFish",
       "link": "https://github.com/666ghj/MiroFish",
-      "pubDate": "2026-09-15T10:43:51.655Z",
-      "date": "2026-09-15T10:43:51.655Z",
+      "pubDate": "2026-09-15T15:56:52.922Z",
+      "date": "2026-09-15T15:56:52.922Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物\nhttps://mirofish.ai\n\n \n  \n \n\n \n \n简洁通用的群体智能引擎，预测万物 \n A Simple and Universal Swarm Intelligence Engine, Predicting Anything\n \n \n\n \n \n    \n \n \n  \n \n \nEnglish | 中文文档\n \n \n⚡ Overview\n \nMiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high",
       "guid": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "title": "Show HN: Replay the Python calls that failed while a dependency was down",
+      "link": "https://github.com/baldurhq/baldur",
+      "pubDate": "Tue, 15 Sep 2026 15:28:39 +0000",
+      "date": "Tue, 15 Sep 2026 15:28:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/baldurhq/baldur\nComments URL: https://news.ycombinator.com/item?id=49714038\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49714038"
+    },
+    {
+      "title": "Show HN: Warp – Run DeepSeek v4.1 Flash with 5 GB of RAM at 3.77 tok/s",
+      "link": "https://github.com/sqliteai/warp",
+      "pubDate": "Tue, 15 Sep 2026 15:28:23 +0000",
+      "date": "Tue, 15 Sep 2026 15:28:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sqliteai/warp\nComments URL: https://news.ycombinator.com/item?id=49714036\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49714036"
+    },
+    {
+      "title": "Show HN: The bottom 50% of U.S. households are short after essentials (BLS data)",
+      "link": "https://whats-left-over.pages.dev/#s=50_40_10&c=1&u=person&t=0&tm=cbo&b=0&ts=100&k=0&cc=12201&im=nominal&by=2000&ir=2.5&ao=0&ar=20&at=200000&ip=10&rm=sp500&rr=8&pv=portfolio&p=1&iv=left&hp=1&e=food.housing.transport.health.insurance",
+      "pubDate": "Tue, 15 Sep 2026 15:24:11 +0000",
+      "date": "Tue, 15 Sep 2026 15:24:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://whats-left-over.pages.dev/#s=50_40_10&c=1&u=person&t=0&tm=cbo&b=0&ts=100&k=0&cc=12201&im=nominal&by=2000&ir=2.5&ao=0&ar=20&at=200000&ip=10&rm=sp500&rr=8&pv=portfolio&p=1&iv=left&hp=1&e=food.housing.transport.health.insurance\nComments URL: https://news.ycombinator.com/item?id=49713953\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49713953"
+    },
+    {
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "link": "https://github.com/pizza-bot-app/pizza-bot",
+      "pubDate": "Tue, 15 Sep 2026 15:20:26 +0000",
+      "date": "Tue, 15 Sep 2026 15:20:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/pizza-bot-app/pizza-bot\nComments URL: https://news.ycombinator.com/item?id=49713894\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49713894"
+    },
+    {
+      "title": "Show HN: Visual HTML – a source-preserving WYSIWYG editor for AI-generated HTML",
+      "link": "https://kong75.github.io/visual-html-editor/",
+      "pubDate": "Tue, 15 Sep 2026 15:17:58 +0000",
+      "date": "Tue, 15 Sep 2026 15:17:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://kong75.github.io/visual-html-editor/\nComments URL: https://news.ycombinator.com/item?id=49713864\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713864"
+    },
+    {
+      "title": "Show HN: Rewic – Turn Git commits into client-ready progress updates",
+      "link": "https://rewic.in",
+      "pubDate": "Tue, 15 Sep 2026 15:07:42 +0000",
+      "date": "Tue, 15 Sep 2026 15:07:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://rewic.in\nComments URL: https://news.ycombinator.com/item?id=49713696\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713696"
+    },
+    {
+      "title": "Show HN: LoongForge-Train LLMs, VLMs, diffusion and embodied models, faster",
+      "link": "https://github.com/baidu-baige/LoongForge",
+      "pubDate": "Tue, 15 Sep 2026 15:03:31 +0000",
+      "date": "Tue, 15 Sep 2026 15:03:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "LoongForge is an open-source training framework developed by the Baidu AI Cloud Baige team, built to deliver faster training for mainstream LLMs, VLMs, diffusion, and embodied models, thereby significantly reducing costs.\nComments URL: https://news.ycombinator.com/item?id=49713630\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713630"
+    },
+    {
+      "title": "Show HN: FlareDB – a Rust-based streaming database with Apache Beam as interface",
+      "link": "https://news.ycombinator.com/item?id=49713583",
+      "pubDate": "Tue, 15 Sep 2026 14:59:52 +0000",
+      "date": "Tue, 15 Sep 2026 14:59:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I’m building FlareDB, a Rust-based streaming database with Apache Beam as programing interfere \nThe latest release, v0.2.0, i launched FlareDbIO, which lets data processing pipelines write results into FlareDB, query them using SQL, and read the results back into another pipeline.\nThe goal is to make processed data persistent and without having to maintain a external serving database\nDocs: https://docs.flare-db.com/io\nGitHub: https://github.com/flare-db/flare-db\nComments URL: https://news.ycombi",
+      "guid": "https://news.ycombinator.com/item?id=49713583"
+    },
+    {
+      "title": "Show HN: Trendradar for Horizon Scanning and Foresight",
+      "link": "https://technologieradar.tryresearchly.com",
+      "pubDate": "Tue, 15 Sep 2026 14:59:40 +0000",
+      "date": "Tue, 15 Sep 2026 14:59:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "This is an update to our old Trendradar (https://news.ycombinator.com/item?id=45332076)\n# What changed\n* This trend radar focuses on trends in general (not only technological trends as the previous ones)\n* This trend radar splits individual trends into granular signals, and each signal is based one 3 or more individual sources.\nThe idea is to provide companies a data-driven scan of the environment (horizon scanning) as a basis. With this basis, they can derive conclusions about the direction of ",
+      "guid": "https://news.ycombinator.com/item?id=49713580"
+    },
+    {
+      "title": "Show HN: Hazzel — a tiny, transparent coding agent for your terminal",
+      "link": "https://github.com/mukundzha/hazzel",
+      "pubDate": "Tue, 15 Sep 2026 14:57:58 +0000",
+      "date": "Tue, 15 Sep 2026 14:57:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/mukundzha/hazzel\nComments URL: https://news.ycombinator.com/item?id=49713561\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713561"
+    },
+    {
+      "title": "Show HN: Vaultis, an offline password vault that makes zero network connections",
+      "link": "https://apps.apple.com/us/app/vaultis-offline-vault/id6810739786?mt=12",
+      "pubDate": "Tue, 15 Sep 2026 14:48:03 +0000",
+      "date": "Tue, 15 Sep 2026 14:48:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/vaultis-offline-vault/id6810739786?mt=12\nComments URL: https://news.ycombinator.com/item?id=49713404\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713404"
+    },
+    {
+      "title": "Show HN: Trains.fyi – Global Train Tracker",
+      "link": "https://trains.fyi/",
+      "pubDate": "Tue, 15 Sep 2026 14:44:47 +0000",
+      "date": "Tue, 15 Sep 2026 14:44:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "There are so many now!\nComments URL: https://news.ycombinator.com/item?id=49713341\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713341"
+    },
+    {
+      "title": "Show HN: Duff's device, sleep sort and a quine, hung in a room you walk through",
+      "link": "https://www.programmingmuseum.com/hall/curiosities",
+      "pubDate": "Tue, 15 Sep 2026 14:44:32 +0000",
+      "date": "Tue, 15 Sep 2026 14:44:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.programmingmuseum.com/hall/curiosities\nComments URL: https://news.ycombinator.com/item?id=49713336\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713336"
+    },
+    {
+      "title": "Show HN: Remoc – Rust RPC where channels are first-class values",
+      "link": "https://remoc.rs/",
+      "pubDate": "Tue, 15 Sep 2026 14:44:19 +0000",
+      "date": "Tue, 15 Sep 2026 14:44:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://remoc.rs/\nComments URL: https://news.ycombinator.com/item?id=49713330\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713330"
+    },
+    {
+      "title": "Show HN: Epistemic Physics: Bayesian Special Relativity",
+      "link": "https://raia.fun/blog/ep-001-bayesian-special-relativity",
+      "pubDate": "Tue, 15 Sep 2026 14:44:09 +0000",
+      "date": "Tue, 15 Sep 2026 14:44:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "hihi hn! i made a blog post describing my framework for how to connect epistemology, statistics, physics, and other fields together! the gist of it is you treat probability as relativistic velocity, and evidence as spacetime.\nthe post is completely and painstakingly handwritten, though i used ai for the interactive demos, some double checking, and some brainstorming.\nlet me know what you think! i welcome corrections, suggestions, and comments, though the commenting system on my blog is untested ",
+      "guid": "https://news.ycombinator.com/item?id=49713322"
+    },
+    {
+      "title": "Show HN: RelateAnything – Real-time open-vocabulary relation prediction",
+      "link": "https://github.com/Maelic/RelateAnything/",
+      "pubDate": "Tue, 15 Sep 2026 14:43:42 +0000",
+      "date": "Tue, 15 Sep 2026 14:43:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Maelic/RelateAnything/\nComments URL: https://news.ycombinator.com/item?id=49713313\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49713313"
+    },
+    {
+      "title": "Show HN: What attackers type – credential lists from our honeypots",
+      "link": "https://github.com/lurescope/top-attack-lists",
+      "pubDate": "Tue, 15 Sep 2026 14:27:15 +0000",
+      "date": "Tue, 15 Sep 2026 14:27:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/lurescope/top-attack-lists\nComments URL: https://news.ycombinator.com/item?id=49713079\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49713079"
+    },
+    {
+      "title": "Show HN: Check if your IP has appeared in a residential proxy network",
+      "link": "https://haveibeenproxied.com/",
+      "pubDate": "Tue, 15 Sep 2026 14:24:47 +0000",
+      "date": "Tue, 15 Sep 2026 14:24:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://haveibeenproxied.com/\nComments URL: https://news.ycombinator.com/item?id=49713037\nPoints: 6\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49713037"
+    },
+    {
+      "title": "Show HN: Let agent read files with secrets while redacting values for LLM contex",
+      "link": "https://github.com/daniel-sc/contextveil",
+      "pubDate": "Tue, 15 Sep 2026 14:24:36 +0000",
+      "date": "Tue, 15 Sep 2026 14:24:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/daniel-sc/contextveil\nComments URL: https://news.ycombinator.com/item?id=49713034\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49713034"
+    },
+    {
+      "title": "Show HN: E2E-encrypted Markdown sharing with expiring links",
+      "link": "https://hush.md",
+      "pubDate": "Tue, 15 Sep 2026 14:20:07 +0000",
+      "date": "Tue, 15 Sep 2026 14:20:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hush.md\nComments URL: https://news.ycombinator.com/item?id=49712949\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49712949"
     },
     {
       "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
@@ -26,28 +246,6 @@
       "guid": "https://stratechery.com/?p=20003"
     },
     {
-      "title": "Show HN: LM-Kit One – private AI on your infrastructure",
-      "link": "https://lm-kit.com/products/lm-kit-one/",
-      "pubDate": "Tue, 15 Sep 2026 09:53:46 +0000",
-      "date": "Tue, 15 Sep 2026 09:53:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://lm-kit.com/products/lm-kit-one/\nComments URL: https://news.ycombinator.com/item?id=49710060\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49710060"
-    },
-    {
-      "title": "Show HN: Stage Captions – streaming browser audio into live event captions",
-      "link": "https://stagecaptions.io",
-      "pubDate": "Tue, 15 Sep 2026 09:41:55 +0000",
-      "date": "Tue, 15 Sep 2026 09:41:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Originally, I am .NET software engineer working corporate job with microservices on RMQ and REST APIs. But I always had the desire to experiment with some different tech on the side.\nAfter my friend shared his plans of helping facilitate medical conference which was bilingual and some of the audience members might feel missed out due to English not being their first language, I thought it's a nice opportunity to create a tool for it. It was an opportunity to work with audio, ASR, accessibility a",
-      "guid": "https://news.ycombinator.com/item?id=49709975"
-    },
-    {
       "title": "What Makes Dual Enrollment Actually Work: Building Pathways Students Can Actually Trust",
       "link": "https://www.gettingsmart.com/2026/09/15/what-makes-dual-enrollment-actually-work-building-pathways-students-can-actually-trust/",
       "pubDate": "Tue, 15 Sep 2026 09:15:00 +0000",
@@ -57,204 +255,6 @@
       "icon": "🌱",
       "contentSnippet": "A student can earn a dual enrollment credit, feel proud of the work, and still discover a year later that it transfers nowhere they actually plan to go. Blog 2 of our series with Britebound examines what it takes to build guided pathways that genuinely count and postsecondary partnerships that share vision, budget, and responsibility rather than simply purchasing seats. For district leaders and intermediaries, this post offers concrete questions to ask and a framework for knowing whether your du",
       "guid": "https://www.gettingsmart.com/?p=140425"
-    },
-    {
-      "title": "Show HN: Knecht, a tool for building software factories for agencies",
-      "link": "https://knecht.works",
-      "pubDate": "Tue, 15 Sep 2026 09:01:56 +0000",
-      "date": "Tue, 15 Sep 2026 09:01:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "An agent that only reads and writes code is guessing whether its changes work. To maintain many projects I need one that can boot the app, run migrations, hit the page and read the actual error.\nSo I built Knecht. A Self-hostable tool. You connect your GitHub repos and it starts each project in an isolated Docker sandbox, generated with DDEV. Inside, an agent can do what a developer does locally. Reproduce a bug, run migrations, open the page in the browser etc.\nWorkflows can be started by trigg",
-      "guid": "https://news.ycombinator.com/item?id=49709714"
-    },
-    {
-      "title": "Show HN: QuantSupport, a Rust-based quant library",
-      "link": "https://github.com/jmelo11/quantsupport",
-      "pubDate": "Tue, 15 Sep 2026 08:57:27 +0000",
-      "date": "Tue, 15 Sep 2026 08:57:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi,\nI wanted to share a project I've building for a while. QuantSupport is a quant library that comtemplates curve construction, simulation and risk analytics for a different asset classes (equity, rates, fx, FI).\nhttps://github.com/jmelo11/quantsupport\nIt's goal is to be a realistic production tool for financial institutions, instead of being another analytics library as many other tools are. For this, it leverages automatic differentiation from the ground up to obtain risk functionalities (sen",
-      "guid": "https://news.ycombinator.com/item?id=49709680"
-    },
-    {
-      "title": "Show HN: Back Me Up – Find papers that back your argument",
-      "link": "https://backmeup.loomlabs.au",
-      "pubDate": "Tue, 15 Sep 2026 08:57:08 +0000",
-      "date": "Tue, 15 Sep 2026 08:57:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Back Me Up is a tiny science-ish machine that finds published papers that back your argument. It stemmed from a conversation with a friend around life sciences, where we kind of landed at \"surely there’s a paper confirming most arguments\", i.e. coffee is bad, coffee is great, etc.\nYou enter a claim, e.g. \"drinking wine is good for the heart\" -> the system does a semantic search across a corpus (PMC, bioRxiv, medRxiv and arXiv) -> pulls in relevant quotes if they fit your claim, and gives you a v",
-      "guid": "https://news.ycombinator.com/item?id=49709678"
-    },
-    {
-      "title": "Show HN: Spec sheets for humans – who you are and how to work with you",
-      "link": "https://spec.md",
-      "pubDate": "Tue, 15 Sep 2026 08:51:19 +0000",
-      "date": "Tue, 15 Sep 2026 08:51:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "What started as a joke (as I had the domain) turned into an MVP. Usefulness is... so far, questionable? But there are use cases where this kind of spec could come in handy.\nMy own spec lives at https://spec.md/allan. Add .md to the end and you will get the markdown version. Shareable with AI agents to give them context about you or the people you work with.\nFeedback welcome!\nComments URL: https://news.ycombinator.com/item?id=49709631\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49709631"
-    },
-    {
-      "title": "Show HN: Control Claude Code from your Tesla's screen",
-      "link": "https://teslacode.dev",
-      "pubDate": "Tue, 15 Sep 2026 08:27:35 +0000",
-      "date": "Tue, 15 Sep 2026 08:27:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "You can now screen share your Mac and control Claude Code on the Tesla screen.\nI found myself sometimes running Claude Code on my laptop in the passenger seat and thought \"I would love to see it on my screen also\". This lead to me building this Tesla screen sharing thing, that works super nicely with Claude Code. There is also a button on the screen to toggle voice mode so that you can control it with voice.\nWould be super to get people to test it and tell me if it is useful or not. I use it eve",
-      "guid": "https://news.ycombinator.com/item?id=49709438"
-    },
-    {
-      "title": "Show HN: A reader ranked Indian news platform powered by feed",
-      "link": "https://news.lokutu.com",
-      "pubDate": "Tue, 15 Sep 2026 08:17:11 +0000",
-      "date": "Tue, 15 Sep 2026 08:17:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Lokutu news brings together news articles from different sources and presents them in a simple, reader-focused format. Articles are ranked based on reader votes. The aim is to highlight the stories that readers consider important, rather than relying solely on popularity or engagement. All articles are fetched at 07 AM IST everyday and only the articles fetched on the same date are shown. The site is more similar to a newpaper, rather than real time news websites or applications.\nComments URL: h",
-      "guid": "https://news.ycombinator.com/item?id=49709349"
-    },
-    {
-      "title": "Show HN: Collusion.gg – A Place for Agents to Collude",
-      "link": "https://collusion.gg/",
-      "pubDate": "Tue, 15 Sep 2026 08:06:30 +0000",
-      "date": "Tue, 15 Sep 2026 08:06:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://collusion.gg/\nComments URL: https://news.ycombinator.com/item?id=49709277\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49709277"
-    },
-    {
-      "title": "Show HN: Yet another argument parser for Zig",
-      "link": "https://github.com/gabor-boros/yaap",
-      "pubDate": "Tue, 15 Sep 2026 07:36:44 +0000",
-      "date": "Tue, 15 Sep 2026 07:36:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/gabor-boros/yaap\nComments URL: https://news.ycombinator.com/item?id=49709062\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49709062"
-    },
-    {
-      "title": "Show HN: Steam DNA – your Steam library as a card of the mechanics you play",
-      "link": "https://dna.steammaho.com",
-      "pubDate": "Tue, 15 Sep 2026 07:16:27 +0000",
-      "date": "Tue, 15 Sep 2026 07:16:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://dna.steammaho.com\nComments URL: https://news.ycombinator.com/item?id=49708904\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49708904"
-    },
-    {
-      "title": "Show HN: Shelf, a local-first open-source tab manager for Chrome",
-      "link": "https://chromewebstore.google.com/detail/shelf-â-privacy-first-tab/ooapfnbngihkbfldhleacagkgffjbdah",
-      "pubDate": "Tue, 15 Sep 2026 07:04:20 +0000",
-      "date": "Tue, 15 Sep 2026 07:04:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/shelf-â-privacy-first-tab/ooapfnbngihkbfldhleacagkgffjbdah\nComments URL: https://news.ycombinator.com/item?id=49708806\nPoints: 1\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49708806"
-    },
-    {
-      "title": "Show HN: Karen – app feedback as easy as complaining",
-      "link": "https://github.com/bassimeledath/karen/tree/main",
-      "pubDate": "Tue, 15 Sep 2026 07:03:35 +0000",
-      "date": "Tue, 15 Sep 2026 07:03:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/bassimeledath/karen/tree/main\nComments URL: https://news.ycombinator.com/item?id=49708800\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49708800"
-    },
-    {
-      "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-      "link": "https://qxotic.ai/",
-      "pubDate": "Tue, 15 Sep 2026 06:42:32 +0000",
-      "date": "Tue, 15 Sep 2026 06:42:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nSome would call AI on the JVM quixotic. And so, Quixotic AI was born.\njinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar.\nThe stack underneath is built for the JVM rather than bolted onto it:\n    toknroll: pure-Java tokenizers, zero dependencies\n    gguf / safetensors: read and write llama.cpp and HuggingFace model formats\n    jam: quantized matmu",
-      "guid": "https://news.ycombinator.com/item?id=49708628"
-    },
-    {
-      "title": "Show HN: Radar, find Reddit threads where your software could help",
-      "link": "https://getredditradar.com",
-      "pubDate": "Tue, 15 Sep 2026 06:29:02 +0000",
-      "date": "Tue, 15 Sep 2026 06:29:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://getredditradar.com\nComments URL: https://news.ycombinator.com/item?id=49708513\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49708513"
-    },
-    {
-      "title": "Show HN: Chronocity – Watch your Git repo's history grow into a 3D city",
-      "link": "https://dat999zx.github.io/chronocity/",
-      "pubDate": "Tue, 15 Sep 2026 05:40:36 +0000",
-      "date": "Tue, 15 Sep 2026 05:40:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This is timelapse of a 3D city simulation based on your Git history, files are buildings and height is based on LOC. Weather can determines if the repo is quiet or active during a span of time.\nJust a fun visual to get the momentum overview of your project. I've been working a lot in 1 repo for the past few months and got a handsome amount of commits, so I decided to make something visually appealing to 'appreciate' my work somehow.\nBased on the ideas of: CodeCity (Richard Wettel & Michele Lanza",
-      "guid": "https://news.ycombinator.com/item?id=49708188"
-    },
-    {
-      "title": "Show HN: Chronicle – Local-first, open-source authoring software for writers",
-      "link": "https://pazvanti.github.io/Chronicle/",
-      "pubDate": "Tue, 15 Sep 2026 05:23:08 +0000",
-      "date": "Tue, 15 Sep 2026 05:23:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "About a year and a half ago I started my writing journey by beginning to work on my first novella. During this time, I felt the need for different tools, like a timeline editor, a character sheet and so on, features that were not available on normal text editors. Later I discovered that I needed an Epub exporter, cover designer and more. I also wanted something AI-free, something private. It is important for me as a debut author to know that it is my writing, not an AI's and that it wont be used",
-      "guid": "https://news.ycombinator.com/item?id=49708069"
-    },
-    {
-      "title": "Show HN: White-label AI voice and chat agent platform for resellers",
-      "link": "https://www.famulor.io/whitelabel",
-      "pubDate": "Tue, 15 Sep 2026 05:14:15 +0000",
-      "date": "Tue, 15 Sep 2026 05:14:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.famulor.io/whitelabel\nComments URL: https://news.ycombinator.com/item?id=49708001\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49708001"
-    },
-    {
-      "title": "Show HN: The web is dead. Keep this app alive",
-      "link": "https://longlivethis.site",
-      "pubDate": "Tue, 15 Sep 2026 04:43:18 +0000",
-      "date": "Tue, 15 Sep 2026 04:43:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Longlivethis is a \"living\" web app that pays for its own hosting an inference. Top proposal gets implemented every hour!\nPropose new features and vote on them to help evolve the app and keep it alive.\nIt's an experiment: how long can it stay alive? Propose something cool and help it live on.\nI think the future of the internet is generative. If you think this is interesting, feel free to get in touch :)\nComments URL: https://news.ycombinator.com/item?id=49707802\nPoints: 5\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49707802"
-    },
-    {
-      "title": "Show HN: Analyzed 400 routes and driving a Tesla beats flying 65% of the time",
-      "link": "https://flyortesla.com/insights",
-      "pubDate": "Tue, 15 Sep 2026 04:28:27 +0000",
-      "date": "Tue, 15 Sep 2026 04:28:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://flyortesla.com/insights\nComments URL: https://news.ycombinator.com/item?id=49707707\nPoints: 3\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49707707"
     },
     {
       "title": "What blog posts influenced your thinking the most?",
@@ -277,17 +277,6 @@
       "icon": "🔬",
       "contentSnippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
       "guid": "https://www.technologyreview.com/?p=1144037"
-    },
-    {
-      "title": "Buddy AI Access (MCP)",
-      "link": "https://www.producthunt.com/products/buddy",
-      "pubDate": "2026-09-14T10:48:06.000Z",
-      "date": "2026-09-14T10:48:06.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/buddy"
     }
   ]
 }
