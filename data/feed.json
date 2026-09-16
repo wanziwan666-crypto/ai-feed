@@ -1,18 +1,73 @@
 {
-  "generatedAt": "2026-09-16T02:31:17.862Z",
+  "generatedAt": "2026-09-16T03:00:41.083Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
     {
       "title": "666ghj/MiroFish",
       "link": "https://github.com/666ghj/MiroFish",
-      "pubDate": "2026-09-16T02:31:14.708Z",
-      "date": "2026-09-16T02:31:14.708Z",
+      "pubDate": "2026-09-16T03:00:27.660Z",
+      "date": "2026-09-16T03:00:27.660Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物\nhttps://mirofish.ai\n\n \n  \n \n\n \n \n简洁通用的群体智能引擎，预测万物 \n A Simple and Universal Swarm Intelligence Engine, Predicting Anything\n \n \n\n \n \n    \n \n \n  \n \n \nEnglish | 中文文档\n \n \n⚡ Overview\n \nMiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals), it automatically constructs a high",
       "guid": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "title": "Show HN: Graft – local-first persistent memory for coding agents",
+      "link": "https://github.com/AEndrix03/Graft",
+      "pubDate": "Wed, 16 Sep 2026 02:23:36 +0000",
+      "date": "Wed, 16 Sep 2026 02:23:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/AEndrix03/Graft\nComments URL: https://news.ycombinator.com/item?id=49721427\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49721427"
+    },
+    {
+      "title": "Show HN: Writeably cuts the waffle without losing your meaning or voice",
+      "link": "https://writeably.com/write",
+      "pubDate": "Wed, 16 Sep 2026 01:56:51 +0000",
+      "date": "Wed, 16 Sep 2026 01:56:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://writeably.com/write\nComments URL: https://news.ycombinator.com/item?id=49721261\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49721261"
+    },
+    {
+      "title": "Show HN: (alter)native-Linux-builder for Nix on Darwin",
+      "link": "https://github.com/quinneden/alternative-linux-builder",
+      "pubDate": "Wed, 16 Sep 2026 01:55:22 +0000",
+      "date": "Wed, 16 Sep 2026 01:55:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A swift-based binary that can be used as an external builder for nix (via external-builders experimental feature) to build linux packages on darwin without having to setup a full remote build VM. This project aims to reproduce the functionality of Determinate Nix's native-linux-builder for upstream Nix installs. It also provides a Nix-darwin module to configure the external builder.\nComments URL: https://news.ycombinator.com/item?id=49721253\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49721253"
+    },
+    {
+      "title": "Show HN: Breakdown: a daily game about guessing data distributions",
+      "link": "https://breakdown.today",
+      "pubDate": "Wed, 16 Sep 2026 01:53:29 +0000",
+      "date": "Wed, 16 Sep 2026 01:53:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Breakdown is a daily game where you guess how some data is distributed. Today's puzzle is \"what is the world's habitable land used for.\" Make your best guess and then reveal the answer. You might be surprised by how far off you are (or how close).\nThere's a new question every day, and you can also play all past questions in the archive.\nNo account required and no ads.\nInspired by the Ipsos Perils of Perception surveys, it's also an attempt to gamify testing our knowledge and biases.\nIf this is i",
+      "guid": "https://news.ycombinator.com/item?id=49721246"
+    },
+    {
+      "title": "Show HN: Whop Video Downloader",
+      "link": "https://chromewebstore.google.com/detail/whop-video-downloader/aijaloilljdgamclcoababimlnahoemm",
+      "pubDate": "Wed, 16 Sep 2026 01:48:30 +0000",
+      "date": "Wed, 16 Sep 2026 01:48:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Keep learning when you're away from Wi-Fi. Whop Video Downloader lets you save supported Whop course videos to your computer and revisit them whenever it suits you.\nComments URL: https://news.ycombinator.com/item?id=49721211\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49721211"
     },
     {
       "title": "Show HN: Review agent changes locally before pushing",
@@ -22,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I've often found that agents do stupid things when implementing requests. When I only see their changes  with  limited context in a scroll-by approval blob, it's easy to miss some of that stupidity.  In those cases, I'll often only see it when I can review the full change in context in a PR.\nThis tool adds a local review step: your agent commits the changes, pushes to a local 'review' remote, and waits for feedback. The push itself opens a review via post-receive hook, and provides you with a lo",
+      "contentSnippet": "I've often found that agents do stupid things when implementing requests. When I only see their changes  with  limited context in a scroll-by approval blob, it's easy to miss some of that stupidity.  In those cases, I'll often only see it when I can review the full change in context in a PR.\nThis tool adds a local review step, giving the human a final opportunity to be in the loop: your agent commits the changes, pushes to a local 'review' remote, and waits for feedback. The push itself opens a ",
       "guid": "https://news.ycombinator.com/item?id=49721156"
     },
     {
@@ -44,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Thurbeen/thurbox\nComments URL: https://news.ycombinator.com/item?id=49721082\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/Thurbeen/thurbox\nComments URL: https://news.ycombinator.com/item?id=49721082\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49721082"
     },
     {
@@ -189,61 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Hi HN, I’m Sean. I built HonestSky because I was tired of weather apps that were slow to load, covered in ads some to the point of being unusable and then putting longer forecasts behind paywalls.\nI’ve been using it myself for over a year, and today I finally (finally finally) released it on the iOS App Store.\nIt includes hourly and extended forecasts, radar, severe weather alerts, and air quality. All features are free, with no ads or account required.\nPrivacy was another reason I wanted to bui",
       "guid": "https://news.ycombinator.com/item?id=49719113"
-    },
-    {
-      "title": "Show HN: Clarveo – See the trading patterns costing you money",
-      "link": "https://clarveo.app",
-      "pubDate": "Tue, 15 Sep 2026 20:29:34 +0000",
-      "date": "Tue, 15 Sep 2026 20:29:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Started with the simple idea to have my own trading journal and vibe code something..turned out to a full fledged SaaS coach for daytraders.\nComments URL: https://news.ycombinator.com/item?id=49718473\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49718473"
-    },
-    {
-      "title": "Show HN: Inkling – ask Claude Code for a doc, get HTML instead of Markdown",
-      "link": "https://github.com/MeetVys/inkling",
-      "pubDate": "Tue, 15 Sep 2026 19:59:54 +0000",
-      "date": "Tue, 15 Sep 2026 19:59:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/MeetVys/inkling\nComments URL: https://news.ycombinator.com/item?id=49718056\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49718056"
-    },
-    {
-      "title": "Show HN: Seamless pane navigation across nested tmux sessions over SSH",
-      "link": "https://github.com/klntsky/tmux-seamless-remote",
-      "pubDate": "Tue, 15 Sep 2026 19:54:22 +0000",
-      "date": "Tue, 15 Sep 2026 19:54:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey, I've got tired of dealing with tmux prefixes so I made a plugin that makes pane switching seamless across SSH/nested tmux boundaries.\nNow you can just use Alt+↑/↓/←/→ instead of doing mental math calculating the right combination of prefixes to switch panes. Enjoy!\nComments URL: https://news.ycombinator.com/item?id=49717989\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49717989"
-    },
-    {
-      "title": "Show HN: farseer.space – fly anywhere in the universe in your browser",
-      "link": "https://farseer.space/",
-      "pubDate": "Tue, 15 Sep 2026 19:50:08 +0000",
-      "date": "Tue, 15 Sep 2026 19:50:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've been hacking on a universe simulator, modeled on the path that the amazing SpaceEngine worked out over a decade ago, but without its Windows platform restriction. It takes real scientific data where we have it and augments it with procedural generation. So you can fly to e.g. the Whirlpool Galaxy, see a real image of it, but then fly into a 3d model that's created based on the image characteristics and visit individual stars etc within it. Same with nebula and other celestial objects.\nI use",
-      "guid": "https://news.ycombinator.com/item?id=49717936"
-    },
-    {
-      "title": "Show HN: Choreographed Algebra",
-      "link": "https://0xb00.com",
-      "pubDate": "Tue, 15 Sep 2026 19:49:38 +0000",
-      "date": "Tue, 15 Sep 2026 19:49:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://0xb00.com\nComments URL: https://news.ycombinator.com/item?id=49717926\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49717926"
     },
     {
       "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
