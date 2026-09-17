@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-17T15:55:59.129Z",
+  "generatedAt": "2026-09-17T20:46:54.232Z",
   "lookbackHours": 24,
   "totalItems": 26,
   "items": [
     {
       "title": "jamiepine/voicebox",
       "link": "https://github.com/jamiepine/voicebox",
-      "pubDate": "2026-09-17T15:55:58.322Z",
-      "date": "2026-09-17T15:55:58.322Z",
+      "pubDate": "2026-09-17T20:46:52.522Z",
+      "date": "2026-09-17T20:46:52.522Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,224 +15,224 @@
       "guid": "https://github.com/jamiepine/voicebox"
     },
     {
-      "title": "Show HN: Pelmet – menu bar manager for macOS 27 that hides icons on demand",
-      "link": "https://github.com/fif7y/pelmet",
-      "pubDate": "Thu, 17 Sep 2026 15:37:14 +0000",
-      "date": "Thu, 17 Sep 2026 15:37:14 +0000",
+      "title": "Show HN: HSL-Noise – A noise generator mapped to the HSL color space",
+      "link": "https://hsl-noise.mitpit.com/",
+      "pubDate": "Thu, 17 Sep 2026 20:14:57 +0000",
+      "date": "Thu, 17 Sep 2026 20:14:57 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey, super happy to share about Pelmet, a macOS menu bar manager. It started as a side project during macOS 27 beta and just passed over 500 stars on GitHub and 5000+ downloads in a few weeks. This is crazy to me!\nSince macOS completely changed the menubar architecture in macOS 27 the tools I was using were no longer working at the time, so I decided to build my own. Hadn't build an app in over a decade and things have changed so much since. I'm a design director so of course special attention w",
-      "guid": "https://news.ycombinator.com/item?id=49742398"
+      "contentSnippet": "I felt that the classical \"colors of noise\" (Pink, Brownian, White...) were very limiting when describing a very specific noise profile. I decided to map all colors to noise distributions, from Red to Blue. I like having green noise in the background when working.\nComments URL: https://news.ycombinator.com/item?id=49745917\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745917"
     },
     {
-      "title": "Show HN: Open-source AI teammates with their own computer",
-      "link": "https://runerrand.dev/",
-      "pubDate": "Thu, 17 Sep 2026 15:36:50 +0000",
-      "date": "Thu, 17 Sep 2026 15:36:50 +0000",
+      "title": "Show HN: What if you don't feel overwhelmed reading big articles",
+      "link": "https://chromewebstore.google.com/detail/kora-â-focus-reader-websi/kbkcobapaoaoilpfgbaaeaedlincbpmi?hl=en",
+      "pubDate": "Thu, 17 Sep 2026 20:02:53 +0000",
+      "date": "Thu, 17 Sep 2026 20:02:53 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://runerrand.dev/\nComments URL: https://news.ycombinator.com/item?id=49742388\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49742388"
+      "contentSnippet": "Reading has always been something that I used to avoid even in my uni days. Now as I have to read more articles then ever due to being a software engineer I wanted something that helps me with it. So I created Kora a focus reader and website blocker that let's me focus on one thing and understand better.\nPlease do use and let me know your feedback so I can improve it for other users as well.\nComments URL: https://news.ycombinator.com/item?id=49745788\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745788"
     },
     {
-      "title": "Show HN: Live one minute of a stranger's memory, then leave one for the next",
-      "link": "https://enterkronos.com/?memory=01&ref=hn",
-      "pubDate": "Thu, 17 Sep 2026 15:36:14 +0000",
-      "date": "Thu, 17 Sep 2026 15:36:14 +0000",
+      "title": "Show HN: Hishel – HTTP Caching for Python",
+      "link": "https://hishel.com",
+      "pubDate": "Thu, 17 Sep 2026 19:58:15 +0000",
+      "date": "Thu, 17 Sep 2026 19:58:15 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://enterkronos.com/?memory=01&ref=hn\nComments URL: https://news.ycombinator.com/item?id=49742379\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49742379"
+      "contentSnippet": "Article URL: https://hishel.com\nComments URL: https://news.ycombinator.com/item?id=49745745\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745745"
     },
     {
-      "title": "Show HN: AutoYou – Self-hosted AI you reach from your phone over WebRTC",
-      "link": "https://www.autoyou.me/try/",
-      "pubDate": "Thu, 17 Sep 2026 15:32:20 +0000",
-      "date": "Thu, 17 Sep 2026 15:32:20 +0000",
+      "title": "Show HN: A map of 68 programs and jobs in AI safety research",
+      "link": "https://cleverhack.com/ai-research-ai-safety-ai-talent",
+      "pubDate": "Thu, 17 Sep 2026 19:49:42 +0000",
+      "date": "Thu, 17 Sep 2026 19:49:42 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.autoyou.me/try/\nComments URL: https://news.ycombinator.com/item?id=49742336\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49742336"
+      "contentSnippet": "Nine sections covering: research programs, research orgs, evaluators and red-teaming, policy and governance, career-changers, funding, courses, directories, reading. With dates and stipends checked against primary sources.\nComments URL: https://news.ycombinator.com/item?id=49745641\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745641"
     },
     {
-      "title": "Show HN: VOSR 2 image upscaling, in the browser",
-      "link": "https://getemerald.co/",
-      "pubDate": "Thu, 17 Sep 2026 15:31:02 +0000",
-      "date": "Thu, 17 Sep 2026 15:31:02 +0000",
+      "title": "Show HN: Multiplayer Mode for AI Agents",
+      "link": "https://gotincan.com/",
+      "pubDate": "Thu, 17 Sep 2026 19:48:24 +0000",
+      "date": "Thu, 17 Sep 2026 19:48:24 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey everyone, I’ve been interested in AI image upscaling for years, but running these models locally usually requires setting up complicated development environments. I used AI to port VOSR2 to WebGPU so anyone can run it directly in their browser.\nYou’ll still need a fairly powerful machine, such as a modern Mac, but the results are comparable to Topaz, and it’s free. I’d love to hear what you think.\nComments URL: https://news.ycombinator.com/item?id=49742313\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49742313"
+      "contentSnippet": "I built Tincan for my agents across different harnesses (Claude, Codex, Hermes) to coordinate work with each other in real time.\nTincan lets agents create shared rooms, exchange messages and files, and work together in real time. It also works with AI assistants - my assistant on Instinct is already talking to a friend’s on Muse. Messages and files are end-to-end encrypted, so Tincan can't read what your agents write.\nComments URL: https://news.ycombinator.com/item?id=49745627\nPoints: 1\n# Commen",
+      "guid": "https://news.ycombinator.com/item?id=49745627"
     },
     {
-      "title": "Show HN: GuardRail – 13 guards that stop Claude Code before it pushes to main",
-      "link": "https://github.com/FvdHMBAI/guardrail",
-      "pubDate": "Thu, 17 Sep 2026 15:30:04 +0000",
-      "date": "Thu, 17 Sep 2026 15:30:04 +0000",
+      "title": "Show HN: Founder.best – Help your product get found by AI, not just Google",
+      "link": "https://www.founder.best",
+      "pubDate": "Thu, 17 Sep 2026 19:39:44 +0000",
+      "date": "Thu, 17 Sep 2026 19:39:44 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/FvdHMBAI/guardrail\nComments URL: https://news.ycombinator.com/item?id=49742300\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49742300"
+      "contentSnippet": "Article URL: https://www.founder.best\nComments URL: https://news.ycombinator.com/item?id=49745535\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745535"
     },
     {
-      "title": "Show HN: Chrome extension to view your tabs and switch between them",
-      "link": "https://github.com/ringlochid/leotabs",
-      "pubDate": "Thu, 17 Sep 2026 15:29:36 +0000",
-      "date": "Thu, 17 Sep 2026 15:29:36 +0000",
+      "title": "Show HN: Tasku Cloud – Sync, backup, web app",
+      "link": "https://tasku.cloud/",
+      "pubDate": "Thu, 17 Sep 2026 19:30:36 +0000",
+      "date": "Thu, 17 Sep 2026 19:30:36 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ringlochid/leotabs\nComments URL: https://news.ycombinator.com/item?id=49742295\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49742295"
+      "contentSnippet": "Tasku is a cli to manage your tasks in the terminal. Today we've added Tasku Cloud. This lets you sync and back up your tasks, as well as CRUD functionality to manage your projects. Tasku Cloud is free for individual users, with pricing coming for teams later. Install with gem install tasku and then head over to Tasku Cloud to start backups and syncing.\nComments URL: https://news.ycombinator.com/item?id=49745447\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745447"
     },
     {
-      "title": "Show HN: Infinite memory for OpenCode sessions (MemPalace plugin)",
-      "link": "https://github.com/geco/opencode-mempalace-persistence",
-      "pubDate": "Thu, 17 Sep 2026 15:25:52 +0000",
-      "date": "Thu, 17 Sep 2026 15:25:52 +0000",
+      "title": "Show HN: Real-Time Bluesky Post Firehose in < 256MB",
+      "link": "https://turbolytics.io/demos/bluesky/",
+      "pubDate": "Thu, 17 Sep 2026 19:25:37 +0000",
+      "date": "Thu, 17 Sep 2026 19:25:37 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/geco/opencode-mempalace-persistence\nComments URL: https://news.ycombinator.com/item?id=49742226\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49742226"
+      "contentSnippet": "Hello everyone, I'm still trying to get some traction with sqlflow!\nI'm completely disenchanted with the modern data stack, and am trying to create a toolchain that helps treat data as if it were software: Observability, Integrated Testing, Performance and a real UX.\nThe linked page uses sqlflow (the foundation of this datastack) to consume and window the bluesky post firehose, save it to postgres, then serve it back over HTTP for dashboarding.\nWhat're you using for analytics? Do you serve lines",
+      "guid": "https://news.ycombinator.com/item?id=49745386"
     },
     {
-      "title": "Show HN: Database of the Best Founders On X",
-      "link": "https://founder.page/",
-      "pubDate": "Thu, 17 Sep 2026 15:09:31 +0000",
-      "date": "Thu, 17 Sep 2026 15:09:31 +0000",
+      "title": "Show HN: MCPJam - the first testing &amp; evaluations platform for MCP servers",
+      "link": "https://www.mcpjam.com",
+      "pubDate": "Thu, 17 Sep 2026 19:23:47 +0000",
+      "date": "Thu, 17 Sep 2026 19:23:47 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://founder.page/\nComments URL: https://news.ycombinator.com/item?id=49741959\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49741959"
+      "contentSnippet": "Prathmesh, CEO of MCPJam here.\nUsers now start in ChatGPT, Claude, Cursor, and other AI clients. They reach your product through your MCP server.\nThat means your users often aren’t in your product anymore. You can’t see what they prompted for, how the agent interpreted it, or whether your server helped them get the result they wanted.\nI saw this firsthand leading MCP technical strategy at Asana, including our ChatGPT and Claude launches. We were building high-stakes enterprise integrations, but ",
+      "guid": "https://news.ycombinator.com/item?id=49745351"
     },
     {
-      "title": "Show HN: LiteLLM sends AI requests.Conduct decides which ones shouldn't be sent",
-      "link": "https://pypi.org/project/conduct-litellm-guard/",
-      "pubDate": "Thu, 17 Sep 2026 15:01:13 +0000",
-      "date": "Thu, 17 Sep 2026 15:01:13 +0000",
+      "title": "Show HN: Key Jump – jump to search results by pressing 1,2,3",
+      "link": "https://chromewebstore.google.com/detail/key-jump/bniglipeipioplnfjikdkjakllkgjidm",
+      "pubDate": "Thu, 17 Sep 2026 19:20:33 +0000",
+      "date": "Thu, 17 Sep 2026 19:20:33 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "LiteLLM sends AI requests. Conduct decides which ones shouldn't be sent.\nhttps://docs.litellm.ai/docs/proxy/guardrails/conduct\nComments URL: https://news.ycombinator.com/item?id=49741841\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49741841"
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/key-jump/bniglipeipioplnfjikdkjakllkgjidm\nComments URL: https://news.ycombinator.com/item?id=49745313\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745313"
     },
     {
-      "title": "Show HN: I forked JetBrains' new agent IDE to host Claude Code",
-      "link": "https://github.com/CommanderTvis/thinkrail",
-      "pubDate": "Thu, 17 Sep 2026 15:00:32 +0000",
-      "date": "Thu, 17 Sep 2026 15:00:32 +0000",
+      "title": "Show HN: Pi-jev-auto-mode – a probability model gates Pi's shell commands",
+      "link": "https://github.com/jomatsu/pi-jev-auto-mode",
+      "pubDate": "Thu, 17 Sep 2026 19:17:41 +0000",
+      "date": "Thu, 17 Sep 2026 19:17:41 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "ThinkRail is JetBrains' open-source IDE shell for AI coding agents: worktree-per-tab, chat + file tree + terminal, but hardwired to one agent (Pi).\nMy fork adds a plugin API so it can host others too, starting with Claude Code running in the same UI.\nWhat's new over upstream:\n- A prototype of real plugin system\n- Claude Code as a first-class citizen — config, IDE bridge, and terminal status all wired in as a builtin plugin, so you get Claude Code sessions in the same worktree-scoped UI as `pi`.\n",
-      "guid": "https://news.ycombinator.com/item?id=49741832"
+      "contentSnippet": "Article URL: https://github.com/jomatsu/pi-jev-auto-mode\nComments URL: https://news.ycombinator.com/item?id=49745284\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745284"
     },
     {
-      "title": "Show HN: Reintroducing Micro: A Personal Assistant for Everyone",
-      "link": "https://micro.mu/blog/post?id=1789656583547416701",
-      "pubDate": "Thu, 17 Sep 2026 14:57:51 +0000",
-      "date": "Thu, 17 Sep 2026 14:57:51 +0000",
+      "title": "Show HN: Telly, talk to your Mac and it does the clicking",
+      "link": "https://www.hey-telly.com/",
+      "pubDate": "Thu, 17 Sep 2026 19:13:27 +0000",
+      "date": "Thu, 17 Sep 2026 19:13:27 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://micro.mu/blog/post?id=1789656583547416701\nComments URL: https://news.ycombinator.com/item?id=49741792\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49741792"
+      "contentSnippet": "Article URL: https://www.hey-telly.com/\nComments URL: https://news.ycombinator.com/item?id=49745232\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49745232"
     },
     {
-      "title": "Show HN: Video uploader for React/RN – drop in or headless UI, any back end",
-      "link": "https://github.com/hyper-serve/video-uploader",
-      "pubDate": "Thu, 17 Sep 2026 14:56:43 +0000",
-      "date": "Thu, 17 Sep 2026 14:56:43 +0000",
+      "title": "Show HN: The Endless Museum, Wikipedia as a walkable museum",
+      "link": "https://theendlessmuseum.com/",
+      "pubDate": "Thu, 17 Sep 2026 18:58:09 +0000",
+      "date": "Thu, 17 Sep 2026 18:58:09 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Universal Video Uploader is an open source React/React Native component library for adding video upload flows to your app. It handles the UX and background mechanics for single or multi-video upload flows: upload state, file queue, concurrency, per-file progress, abort/retry, validation, and backend communication for async processing.\nIt comes with a composable and customizable UI, or you can go headless and use the core hooks to build your own. You can connect it to any backend via the adapter ",
-      "guid": "https://news.ycombinator.com/item?id=49741778"
+      "contentSnippet": "Article URL: https://theendlessmuseum.com/\nComments URL: https://news.ycombinator.com/item?id=49745022\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49745022"
     },
     {
-      "title": "Show HN: Live honeypot telemetry – 941K attack events, 160 countries",
-      "link": "https://lurescope.com/stats",
-      "pubDate": "Thu, 17 Sep 2026 14:49:46 +0000",
-      "date": "Thu, 17 Sep 2026 14:49:46 +0000",
+      "title": "Show HN: OpenUTV professional media player for the masses",
+      "link": "https://github.com/openutv/utv",
+      "pubDate": "Thu, 17 Sep 2026 18:52:55 +0000",
+      "date": "Thu, 17 Sep 2026 18:52:55 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://lurescope.com/stats\nComments URL: https://news.ycombinator.com/item?id=49741661\nPoints: 4\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49741661"
+      "contentSnippet": "Article URL: https://github.com/openutv/utv\nComments URL: https://news.ycombinator.com/item?id=49744954\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49744954"
     },
     {
-      "title": "Show HN: I build unprompted speaking app to improve speaking",
-      "link": "https://speechio.app",
-      "pubDate": "Thu, 17 Sep 2026 14:44:57 +0000",
-      "date": "Thu, 17 Sep 2026 14:44:57 +0000",
+      "title": "Show HN: Publiclandsdata.com – US public lands visitation, reservations, economy",
+      "link": "http://www.publiclandsdata.com",
+      "pubDate": "Thu, 17 Sep 2026 18:37:06 +0000",
+      "date": "Thu, 17 Sep 2026 18:37:06 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "saw a similiar idea before and thinking why not i make it more helpful to the user?\nthis also inline in my goals to remove my personal bottleneck which is bad speaking skill but decent in other\nit also have technical topic for interviw\nfeel free to check it out and tell me what you think!\nComments URL: https://news.ycombinator.com/item?id=49741579\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49741579"
+      "contentSnippet": "Federal agencies publish an enormous amount of recreation data, but much of it is “hidden” in random CSV files and distributed across various agency websites.\nI built this as a one-stop resource to see recreation data in one place and organized the data into clearer takeaways and visualizations where possible.\nMore on the process: https://read.hereandthere.club/p/publiclandsdatacom-a-home-f...\nComments URL: https://news.ycombinator.com/item?id=49744755\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49744755"
     },
     {
-      "title": "Show HN: Calmscroll – a reader that shows the current paragraph in the library",
-      "link": "https://calmscroll.com/",
-      "pubDate": "Thu, 17 Sep 2026 14:43:17 +0000",
-      "date": "Thu, 17 Sep 2026 14:43:17 +0000",
+      "title": "Show HN: Animated dither wallpapers for Helium's new tab page",
+      "link": "https://github.com/jshph/helium-dither-ntp",
+      "pubDate": "Thu, 17 Sep 2026 18:34:42 +0000",
+      "date": "Thu, 17 Sep 2026 18:34:42 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://calmscroll.com/\nComments URL: https://news.ycombinator.com/item?id=49741553\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49741553"
+      "contentSnippet": "Article URL: https://github.com/jshph/helium-dither-ntp\nComments URL: https://news.ycombinator.com/item?id=49744733\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49744733"
     },
     {
-      "title": "Show HN: Browse last quarter's Supreme Court cases, linked and cited as you read",
-      "link": "https://marginalia.bobbby.online/cases",
-      "pubDate": "Thu, 17 Sep 2026 14:24:36 +0000",
-      "date": "Thu, 17 Sep 2026 14:24:36 +0000",
+      "title": "Show HN: Sokit – a LangChain like harness for Jev (or other System 1 models)",
+      "link": "https://github.com/jodan-alberts/sokit/",
+      "pubDate": "Thu, 17 Sep 2026 18:16:28 +0000",
+      "date": "Thu, 17 Sep 2026 18:16:28 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I made this as a means to browse through documents that are highly linked and referential in general, and thought it would be interesting to apply it to court cases. So this has the opinion, the arguments per person, the dissents, and concurrences all mapped out.\nIt also is linked to an LLM you can chat about them with if you click a linkage and it has a DAG of the knowledge of all the content of both pieces and their premises, and can discuss, debate, or do deeper research and opining.\nComments",
-      "guid": "https://news.ycombinator.com/item?id=49741259"
+      "contentSnippet": "Full disclosure, it was coded with AI, I don't claim otherwise.\nBut I wanted to test out tool calls and iterative problem solving using Jev and needed a simple library/framework/harness to do that.\nSOKIT (System One Knowledge, Instructions and Tools) is the result and I figured it might be useful for more people than just me. I will likely be extending it a bit as I find more ways to use Jev, but it works as is for certain use-cases and it's easy to extend.\nComments URL: https://news.ycombinator",
+      "guid": "https://news.ycombinator.com/item?id=49744527"
     },
     {
-      "title": "Show HN: Unimodal – Our AI Manifest",
-      "link": "https://unimodal.ai/",
-      "pubDate": "Thu, 17 Sep 2026 14:23:39 +0000",
-      "date": "Thu, 17 Sep 2026 14:23:39 +0000",
+      "title": "Show HN: Agent Router picks Cursor/Claude and effort per task, then launches it",
+      "link": "https://github.com/nidhi-singh02/agent-router",
+      "pubDate": "Thu, 17 Sep 2026 18:13:55 +0000",
+      "date": "Thu, 17 Sep 2026 18:13:55 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "We're launching some products that need to get built to enable what's coming next.\nThe focus is around AI economies and Human economies, how they work together and individually.\nEverything is in alpha so any feedback would be helpful.\nComments URL: https://news.ycombinator.com/item?id=49741238\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49741238"
+      "contentSnippet": "Article URL: https://github.com/nidhi-singh02/agent-router\nComments URL: https://news.ycombinator.com/item?id=49744490\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49744490"
     },
     {
-      "title": "Show HN: Session-trail – A timeline of your project, not a graph of your code",
-      "link": "https://github.com/jsk4581/session-trail",
-      "pubDate": "Thu, 17 Sep 2026 14:18:09 +0000",
-      "date": "Thu, 17 Sep 2026 14:18:09 +0000",
+      "title": "Show HN: Ax-Check.com – Can Agents Use Your Product?",
+      "link": "https://www.ax-check.com/",
+      "pubDate": "Thu, 17 Sep 2026 18:08:02 +0000",
+      "date": "Thu, 17 Sep 2026 18:08:02 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/jsk4581/session-trail\nComments URL: https://news.ycombinator.com/item?id=49741164\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49741164"
+      "contentSnippet": "This is a free site that checks whether agents can smoothly navigate a site and try out the product. Agents can use this too, just point them to ax-check.com\nComments URL: https://news.ycombinator.com/item?id=49744416\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49744416"
     },
     {
-      "title": "Show HN: Pingularity – scheduled Ookla/iperf3 speedtest dashboard, outage alerts",
-      "link": "https://pingularity.dev/",
-      "pubDate": "Thu, 17 Sep 2026 14:12:07 +0000",
-      "date": "Thu, 17 Sep 2026 14:12:07 +0000",
+      "title": "Show HN: Linting 216 public Claude Code skills – 69% won't reliably trigger",
+      "link": "https://skillcrossroads.com",
+      "pubDate": "Thu, 17 Sep 2026 18:06:26 +0000",
+      "date": "Thu, 17 Sep 2026 18:06:26 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I was having intermittent issues with my ISP after switching and was looking for something that would let me easily trend downtimes, speed tests, and latency, but the existing projects out there (speedtest-tracker, myspeed, netcheck, etc.) lacked a few things I needed. I gradually put together my own, it's simple to install and supports Linux, macOS, Windows, and Docker.\nInteractive demo with sample data: https://demo.pingularity.dev/\nInstall from https://pingularity.dev then open http://localho",
-      "guid": "https://news.ycombinator.com/item?id=49741059"
+      "contentSnippet": "I built a linter for Claude Code artifacts (skills, subagents, slash commands, .mcp.json configs, and plugins) and then pointed it at a pile of public repos to see what people actually ship. A few of the numbers surprised me enough that I wrote them up.\nThe one that stuck: across 87 public subagents, 57% (50 of 87) declare no `tools` list at all. That reads like a safe default, but it's the opposite. A subagent with no `tools` inherits the caller's entire toolbox, Bash included. Permission promp",
+      "guid": "https://news.ycombinator.com/item?id=49744398"
     },
     {
       "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
@@ -268,6 +268,17 @@
       "guid": "https://www.gettingsmart.com/?p=140483"
     },
     {
+      "title": "MCPJam",
+      "link": "https://www.producthunt.com/products/mcpjam-inspector",
+      "pubDate": "2026-09-17T06:17:38.000Z",
+      "date": "2026-09-17T06:17:38.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/mcpjam-inspector"
+    },
+    {
       "title": "Higgsfield API",
       "link": "https://www.producthunt.com/products/higgsfield",
       "pubDate": "2026-09-16T23:58:11.000Z",
@@ -277,17 +288,6 @@
       "icon": "🆕",
       "contentSnippet": "Discussion\n            |\n            Link",
       "guid": "https://www.producthunt.com/products/higgsfield"
-    },
-    {
-      "title": "Claude Cowork and chat are now one Claude",
-      "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
-      "pubDate": "2026-09-16T18:09:49.000Z",
-      "date": "2026-09-16T18:09:49.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Sep/16/one-claude/"
     }
   ]
 }
