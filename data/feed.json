@@ -1,8 +1,41 @@
 {
-  "generatedAt": "2026-09-17T02:35:45.912Z",
+  "generatedAt": "2026-09-17T03:00:34.074Z",
   "lookbackHours": 24,
   "totalItems": 23,
   "items": [
+    {
+      "title": "Show HN: BiNeuron – Local, open-source alternative to ChatGPT Codex",
+      "link": "https://github.com/just-not-google/BiNeuron/tree/main",
+      "pubDate": "Thu, 17 Sep 2026 02:26:39 +0000",
+      "date": "Thu, 17 Sep 2026 02:26:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/just-not-google/BiNeuron/tree/main\nComments URL: https://news.ycombinator.com/item?id=49735724\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49735724"
+    },
+    {
+      "title": "Show HN: Pqp, an open-source Discord alternative with watch parties",
+      "link": "https://github.com/rafaelcg/pqp",
+      "pubDate": "Thu, 17 Sep 2026 02:00:21 +0000",
+      "date": "Thu, 17 Sep 2026 02:00:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/rafaelcg/pqp\nComments URL: https://news.ycombinator.com/item?id=49735555\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49735555"
+    },
+    {
+      "title": "Show HN: Spendalyst – tells you when a recurring charge changes price",
+      "link": "https://app.spendalyst.com/demo",
+      "pubDate": "Thu, 17 Sep 2026 01:55:23 +0000",
+      "date": "Thu, 17 Sep 2026 01:55:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://app.spendalyst.com/demo\nComments URL: https://news.ycombinator.com/item?id=49735523\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49735523"
+    },
     {
       "title": "Show HN: FastRecall, ultra-cheap memory across AI models",
       "link": "https://fastrecall.ai/",
@@ -66,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://mikenikles.com/blog/learn-claude-code\nComments URL: https://news.ycombinator.com/item?id=49733761\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://mikenikles.com/blog/learn-claude-code\nComments URL: https://news.ycombinator.com/item?id=49733761\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49733761"
     },
     {
@@ -110,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Make Art Not Apps. Runs completely in your browser.\nComments URL: https://news.ycombinator.com/item?id=49733300\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Make Art Not Apps. Runs completely in your browser.\nComments URL: https://news.ycombinator.com/item?id=49733300\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49733300"
     },
     {
@@ -189,39 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Hi, I'm Ann, building Plexus.\nWe gives hardware teams live dashboards and stored history for your sensor data, so you don't have to build and maintain that setup yourself. You can try it without signing up on our site.\nI built it because small hardware teams keep ending up with the same homemade stack (InfluxDB, Grafana, a pile of scripts) and one engineer who is the only person who knows how it all fits together. Building it is the easy part. Maintaining it for the life of the company… that's n",
       "guid": "https://news.ycombinator.com/item?id=49732498"
-    },
-    {
-      "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
-      "link": "https://agent.milotche.com/en/",
-      "pubDate": "Wed, 16 Sep 2026 20:09:34 +0000",
-      "date": "Wed, 16 Sep 2026 20:09:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://agent.milotche.com/en/\nComments URL: https://news.ycombinator.com/item?id=49732271\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49732271"
-    },
-    {
-      "title": "Show HN: Halo 3's Guardian, playable in the browser, as my personal website",
-      "link": "https://runboli.com",
-      "pubDate": "Wed, 16 Sep 2026 20:08:16 +0000",
-      "date": "Wed, 16 Sep 2026 20:08:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've never had a personal website, and I didn't want to make a resume/portfolio site, so I rebuilt Guardian and hid a treasure hunt through my life inside it.\nYou start in the Halo 3 main menu, go through the lobby, spawn in the map, and explore. There are photos, stories, quests, mini-games, and Easter eggs scattered around. Movement is via WASD and mouse, no signup.\nGuardian was my third place growing up. Starting in 9th grade, my friends and I would get home after school, get on Halo, and han",
-      "guid": "https://news.ycombinator.com/item?id=49732259"
-    },
-    {
-      "title": "Show HN: Fail2zig. A single-binary fail2ban replacement written in Zig",
-      "link": "https://fail2zig.com/",
-      "pubDate": "Wed, 16 Sep 2026 19:52:26 +0000",
-      "date": "Wed, 16 Sep 2026 19:52:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Built fail2zig because I like fail2ban's log-to-ban model but wanted a smaller runtime with explicit limits on the work attacker controlled input can cause.\nfail2zig is a single static binary with bounded parsers instead of a regex engine, SQLite-backed durable state, and nftables enforcement directly through netlink. Also has the ability to inspect and migrate existing fail2ban configurations.\nI just release 0.4.0 today which is the point where I'm more comfortable putting it in front of more p",
-      "guid": "https://news.ycombinator.com/item?id=49732015"
     },
     {
       "title": "Claude Cowork and chat are now one Claude",
