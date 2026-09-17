@@ -1,8 +1,195 @@
 {
-  "generatedAt": "2026-09-16T20:41:09.781Z",
+  "generatedAt": "2026-09-17T02:35:45.912Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 23,
   "items": [
+    {
+      "title": "Show HN: FastRecall, ultra-cheap memory across AI models",
+      "link": "https://fastrecall.ai/",
+      "pubDate": "Thu, 17 Sep 2026 01:31:50 +0000",
+      "date": "Thu, 17 Sep 2026 01:31:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi everyone! After working on memory at OpenAI, I built FastRecall to solve one problem: using different AI models results in clunky ad-hoc context management systems or lost context entirely.\nWith the model layer becoming commoditized, your context should travel seamlessly across models whether you are using OpenRouter or some other model aggregator.\nFastRecall offers a simple API that stores your context cheaply and efficiently. In fact, we are so cheap that recalls are entirely free, with gen",
+      "guid": "https://news.ycombinator.com/item?id=49735358"
+    },
+    {
+      "title": "Show HN: Hacker News, a little more focused",
+      "link": "https://hn-tags.beehivesoftware.xyz/?tags=programming",
+      "pubDate": "Thu, 17 Sep 2026 00:19:25 +0000",
+      "date": "Thu, 17 Sep 2026 00:19:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love AI and LLMs as much as the next person, but sometimes I just want to browse stories about, say programming. So I built this for myself and figured I will share it here as well.\nEach story gets up to three tags, and I can use them to filter down the top stories to just the topics I am interested in. The tagging isn’t perfect. For example, some tags have a lot of overlap, like AI/ML and LLMs. But it works well enough for me and since it’s a side project, it doesn’t have to be perfect :)\nCom",
+      "guid": "https://news.ycombinator.com/item?id=49734856"
+    },
+    {
+      "title": "Show HN: Nullsec – server-blind encrypted paste",
+      "link": "https://nullsec.pntr.dev",
+      "pubDate": "Thu, 17 Sep 2026 00:03:47 +0000",
+      "date": "Thu, 17 Sep 2026 00:03:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://nullsec.pntr.dev\nComments URL: https://news.ycombinator.com/item?id=49734742\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49734742"
+    },
+    {
+      "title": "Show HN: Helping agents break out of their sandboxes in a monitorable way",
+      "link": "https://sparrowsystems.co/",
+      "pubDate": "Wed, 16 Sep 2026 23:22:24 +0000",
+      "date": "Wed, 16 Sep 2026 23:22:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sparrowsystems.co/\nComments URL: https://news.ycombinator.com/item?id=49734386\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49734386"
+    },
+    {
+      "title": "Show HN: DroidPutter – Run Cardputer Apps on Android via USB OTG",
+      "link": "https://github.com/fcavalcantirj/droidputter",
+      "pubDate": "Wed, 16 Sep 2026 22:51:21 +0000",
+      "date": "Wed, 16 Sep 2026 22:51:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/fcavalcantirj/droidputter\nComments URL: https://news.ycombinator.com/item?id=49734133\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49734133"
+    },
+    {
+      "title": "Show HN: Learn Claude Code – Interactive Mindmap",
+      "link": "https://mikenikles.com/blog/learn-claude-code",
+      "pubDate": "Wed, 16 Sep 2026 22:13:46 +0000",
+      "date": "Wed, 16 Sep 2026 22:13:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mikenikles.com/blog/learn-claude-code\nComments URL: https://news.ycombinator.com/item?id=49733761\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49733761"
+    },
+    {
+      "title": "Show HN: Collected every single \"What are you working on\" project into a website",
+      "link": "https://what-are-you-working-on-62u6b.reachpad.app/",
+      "pubDate": "Wed, 16 Sep 2026 22:13:08 +0000",
+      "date": "Wed, 16 Sep 2026 22:13:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://what-are-you-working-on-62u6b.reachpad.app/\nComments URL: https://news.ycombinator.com/item?id=49733753\nPoints: 3\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=49733753"
+    },
+    {
+      "title": "Show HN: Fivetran CLI is released to Beta",
+      "link": "https://pypi.org/project/fivetran-cli/",
+      "pubDate": "Wed, 16 Sep 2026 22:08:00 +0000",
+      "date": "Wed, 16 Sep 2026 22:08:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "At long last, Fivetran has a CLI app that humans and AI can use to easily orchestrate the platform with a quick install and an api key. It can do (most) everything possible on the platform without ever touching the web UI!\nComments URL: https://news.ycombinator.com/item?id=49733705\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49733705"
+    },
+    {
+      "title": "Show HN: Kosmic Kart – Mario Kart-style racing with friends in the browser",
+      "link": "https://kosmi.io/kosmic-kart/",
+      "pubDate": "Wed, 16 Sep 2026 21:54:45 +0000",
+      "date": "Wed, 16 Sep 2026 21:54:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://kosmi.io/kosmic-kart/\nComments URL: https://news.ycombinator.com/item?id=49733578\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49733578"
+    },
+    {
+      "title": "Show HN: Make Art Not Apps",
+      "link": "https://www.makeartnotapps.com/",
+      "pubDate": "Wed, 16 Sep 2026 21:31:00 +0000",
+      "date": "Wed, 16 Sep 2026 21:31:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Make Art Not Apps. Runs completely in your browser.\nComments URL: https://news.ycombinator.com/item?id=49733300\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49733300"
+    },
+    {
+      "title": "Show HN: OpenCode Mentor - An anti-vibecoding, programming mentor configuration",
+      "link": "https://github.com/davejpeters/opencode-mentor",
+      "pubDate": "Wed, 16 Sep 2026 21:15:14 +0000",
+      "date": "Wed, 16 Sep 2026 21:15:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/davejpeters/opencode-mentor\nComments URL: https://news.ycombinator.com/item?id=49733127\nPoints: 4\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49733127"
+    },
+    {
+      "title": "Show HN: Hometowns – Map the area codes in your contacts list",
+      "link": "https://benaduggan.github.io/hometowns/",
+      "pubDate": "Wed, 16 Sep 2026 21:13:54 +0000",
+      "date": "Wed, 16 Sep 2026 21:13:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've always been interested in area codes because we all tend to keep our first phone number and it tells a little bit of your life story. I probably only know 5 area codes that really excite me because I'm familiar with the area, but I've wondered how many others are from areas I'm familiar with, but I'm just not familiar with the area code.\nSo in full transparency, this project came together because I finally threw an LLM at it. I've had this project written down for probably 10 years, and the",
+      "guid": "https://news.ycombinator.com/item?id=49733107"
+    },
+    {
+      "title": "Show HN: unSnag – Display tasks you can do and graph task dependencies",
+      "link": "https://unsnag.app",
+      "pubDate": "Wed, 16 Sep 2026 21:12:50 +0000",
+      "date": "Wed, 16 Sep 2026 21:12:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "My garage has needed clearing out for quite a while, and to most people it looks like I've just been putting it off. But I'm not procrastinating; the truth is that I'm blocked from doing most of the work. There are two different people that need to remove some heavy equipment that's stored there. Until that's done, I can't access the mess behind the equipment. Since most of my garage clean-up tasks are downstream from the equipment removal, if I focus on those tasks, I feel frustrated because I ",
+      "guid": "https://news.ycombinator.com/item?id=49733095"
+    },
+    {
+      "title": "Show HN: Vending Machine Lab – Build business, leave for 2 wks, see what breaks",
+      "link": "https://vending-machine-lab.pages.dev/",
+      "pubDate": "Wed, 16 Sep 2026 21:05:48 +0000",
+      "date": "Wed, 16 Sep 2026 21:05:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I spent a while exploring whether AI could help build businesses that operate with little ongoing owner involvement. This was inspired in part by Andon Labs’ Vending-Bench work on AI agents running simulated businesses. Their Project Vend collaboration with Anthropic takes that question into a real shop. (Obviously it was also inspired by \"the dream.\")\nUnfortunately, currently, I think the answer is generally \"no.\" Vending-Bench shows outcomes relative to a well-defined business environment, whi",
+      "guid": "https://news.ycombinator.com/item?id=49733012"
+    },
+    {
+      "title": "Show HN: Interakt – open-source self-hosted search and AI chat for your website",
+      "link": "https://github.com/alphasolutionsrepo/interakt",
+      "pubDate": "Wed, 16 Sep 2026 21:01:06 +0000",
+      "date": "Wed, 16 Sep 2026 21:01:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/alphasolutionsrepo/interakt\nComments URL: https://news.ycombinator.com/item?id=49732963\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49732963"
+    },
+    {
+      "title": "Show HN: A simple Mac extension for recent screenshots",
+      "link": "https://github.com/KanishkVashisht/screenshot-shelf",
+      "pubDate": "Wed, 16 Sep 2026 20:46:15 +0000",
+      "date": "Wed, 16 Sep 2026 20:46:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Had my very own \"personal software\" moment recently. Apple's screenshot experience is god awful, you take a screenshot and then race to the destination where you need to drag and drop it (messages, etc.)\nAsked codex to solve this and it did! hit cmd shift s and a drawer opens up with most recent screenshots. Fully drag and droppable.\nComments URL: https://news.ycombinator.com/item?id=49732769\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49732769"
+    },
+    {
+      "title": "Show HN: Plexus – Telemetry for hardware teams who could build it but shouldn't",
+      "link": "https://plexus.company",
+      "pubDate": "Wed, 16 Sep 2026 20:26:05 +0000",
+      "date": "Wed, 16 Sep 2026 20:26:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi, I'm Ann, building Plexus.\nWe gives hardware teams live dashboards and stored history for your sensor data, so you don't have to build and maintain that setup yourself. You can try it without signing up on our site.\nI built it because small hardware teams keep ending up with the same homemade stack (InfluxDB, Grafana, a pile of scripts) and one engineer who is the only person who knows how it all fits together. Building it is the easy part. Maintaining it for the life of the company… that's n",
+      "guid": "https://news.ycombinator.com/item?id=49732498"
+    },
     {
       "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
       "link": "https://agent.milotche.com/en/",
@@ -37,94 +224,6 @@
       "guid": "https://news.ycombinator.com/item?id=49732015"
     },
     {
-      "title": "Show HN: A game where the level is whatever web page you're on",
-      "link": "https://page-rage.com/",
-      "pubDate": "Wed, 16 Sep 2026 19:44:21 +0000",
-      "date": "Wed, 16 Sep 2026 19:44:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://page-rage.com/\nComments URL: https://news.ycombinator.com/item?id=49731921\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49731921"
-    },
-    {
-      "title": "Show HN: Padwan-LLM, a lightweight LLM Python client",
-      "link": "https://github.com/polarsen-io/padwan-llm",
-      "pubDate": "Wed, 16 Sep 2026 19:12:12 +0000",
-      "date": "Wed, 16 Sep 2026 19:12:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/polarsen-io/padwan-llm\nComments URL: https://news.ycombinator.com/item?id=49731552\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49731552"
-    },
-    {
-      "title": "Show HN: Trail, a New Logic Game",
-      "link": "https://trail.franzai.com/",
-      "pubDate": "Wed, 16 Sep 2026 19:12:06 +0000",
-      "date": "Wed, 16 Sep 2026 19:12:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://trail.franzai.com/\nComments URL: https://news.ycombinator.com/item?id=49731551\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49731551"
-    },
-    {
-      "title": "Show HN: In-Browser Sanskrit ASR Model",
-      "link": "https://huggingface.co/gnumanth/sushrota-sanskrit-asr-onnx",
-      "pubDate": "Wed, 16 Sep 2026 19:04:33 +0000",
-      "date": "Wed, 16 Sep 2026 19:04:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Su-śrotā Sanskrit ASR — ONNX & In-Browser INT8\nThis repository provides ONNX and INT8 quantized exports of Su-śrotā (v13b), a scholar-grade Sanskrit speech recognition model developed by Prof. Prathosh A P (Indian Institute of Science, Bengaluru).\nThese models allow running Sanskrit ASR 100% serverless in a web browser (via onnxruntime-web) or locally on Mac/Linux/Windows with zero PyTorch/NeMo dependencies.\nDemo -> https://h3manth.com/ai/sanskrit-asr/\nComments URL: https://news.ycombinator.com/",
-      "guid": "https://news.ycombinator.com/item?id=49731455"
-    },
-    {
-      "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
-      "link": "https://github.com/itskie/friday",
-      "pubDate": "Wed, 16 Sep 2026 18:55:09 +0000",
-      "date": "Wed, 16 Sep 2026 18:55:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/itskie/friday\nComments URL: https://news.ycombinator.com/item?id=49731353\nPoints: 6\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49731353"
-    },
-    {
-      "title": "Show HN: Fufu – an opinionated Git client inspired by Jujutsu",
-      "link": "https://tyler-johnson.github.io/fufu/",
-      "pubDate": "Wed, 16 Sep 2026 18:54:25 +0000",
-      "date": "Wed, 16 Sep 2026 18:54:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://tyler-johnson.github.io/fufu/\nComments URL: https://news.ycombinator.com/item?id=49731341\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49731341"
-    },
-    {
-      "title": "Show HN: Blast Arena – Quake 3-style deathmatch in the browser (WebRTC P2P)",
-      "link": "https://kosmi.io/blast-arena/",
-      "pubDate": "Wed, 16 Sep 2026 18:36:03 +0000",
-      "date": "Wed, 16 Sep 2026 18:36:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://kosmi.io/blast-arena/\nComments URL: https://news.ycombinator.com/item?id=49731107\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49731107"
-    },
-    {
-      "title": "Show HN: Deiko – point at your screen, talk, and hand the brief to your agent",
-      "link": "https://deiko.app/",
-      "pubDate": "Wed, 16 Sep 2026 18:34:33 +0000",
-      "date": "Wed, 16 Sep 2026 18:34:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "macOS, 0.4.5, free to try: curl -fsSL https://deiko.app/install.sh | sh\nI kept losing time explaining my own screen to Claude Code. Screenshot, crop,\npaste, then type three paragraphs describing which dropdown I meant. The\ncontext was all right in front of me and I was transcribing it by hand.\nDeiko: double-tap Right Option, and it listens while following your cursor.\nHover what you mean while you talk — \"this dropdown closes when I scroll, keep\nit open\". Each thing you point at gets cropped and",
-      "guid": "https://news.ycombinator.com/item?id=49731089"
-    },
-    {
       "title": "Claude Cowork and chat are now one Claude",
       "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
       "pubDate": "2026-09-16T18:09:49.000Z",
@@ -134,105 +233,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Sep/16/one-claude/"
-    },
-    {
-      "title": "Show HN: Real-Time Chess Assistant (C++ DirectX, OpenCV, ImGui and Stockfish)",
-      "link": "https://github.com/rccmb/oracle",
-      "pubDate": "Wed, 16 Sep 2026 18:05:26 +0000",
-      "date": "Wed, 16 Sep 2026 18:05:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/rccmb/oracle\nComments URL: https://news.ycombinator.com/item?id=49730729\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49730729"
-    },
-    {
-      "title": "Show HN: TabMail. Open-source AI email for Thunderbird and iPhone",
-      "link": "https://tabmail.ai/",
-      "pubDate": "Wed, 16 Sep 2026 17:59:03 +0000",
-      "date": "Wed, 16 Sep 2026 17:59:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi all,\nI'm the sole developer of TabMail. I wanted my email client to have AI features, and ended up making a Thunderbird add-on and an iPhone app. I've now open-sourced both under MPL 2.0, and I wanted to share them here to get some community feedback, if possible.\nI made a short video of both, since it's easier to show what they do than explain everything in a post. Hopefully you like it: https://tabmail.ai/demos/tabmail-promo.mp4\nYou can review a prepared reply, tell it what to change, or as",
-      "guid": "https://news.ycombinator.com/item?id=49730649"
-    },
-    {
-      "title": "Show HN: I built a router for agent tools",
-      "link": "https://github.com/monid-ai/monid",
-      "pubDate": "Wed, 16 Sep 2026 17:58:40 +0000",
-      "date": "Wed, 16 Sep 2026 17:58:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/monid-ai/monid\nComments URL: https://news.ycombinator.com/item?id=49730644\nPoints: 10\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49730644"
-    },
-    {
-      "title": "Show HN: Pkgbot – Fast Linux package search engine",
-      "link": "https://pkg.bot",
-      "pubDate": "Wed, 16 Sep 2026 17:56:21 +0000",
-      "date": "Wed, 16 Sep 2026 17:56:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I recently switched to NixOS and in the process of setting it up, found the package search on its repo site very clunky and tedious. No permalink to share, no way to find or sort by recency or version.\nThat got me thinking that most repo websites, including aggregators like pkgs.org and repology.org have the same issue with UX (AUR is nice and simple though).\nSo I made https://pkg.bot on top of the excellent Repology data dump specifically with the following subjective goals:\n- Good, non-bloated",
-      "guid": "https://news.ycombinator.com/item?id=49730611"
-    },
-    {
-      "title": "Show HN: Zill",
-      "link": "https://news.ycombinator.com/item?id=49730450",
-      "pubDate": "Wed, 16 Sep 2026 17:42:09 +0000",
-      "date": "Wed, 16 Sep 2026 17:42:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "https://zill.ninja/\nA new free URL shortener built for fun.\nComments URL: https://news.ycombinator.com/item?id=49730450\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49730450"
-    },
-    {
-      "title": "Show HN: An ObjC-like compiler for Mac ARM, x86_64(Linux, Win), WASM, &amp; others",
-      "link": "https://news.ycombinator.com/item?id=49730393",
-      "pubDate": "Wed, 16 Sep 2026 17:37:42 +0000",
-      "date": "Wed, 16 Sep 2026 17:37:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi folks,\nSo this is my announcement of a compiler[1] I've been working on for about 6 months now (so yes, to get the obvious out of the way early, this was written with Claude code).\nThe compiler is called 'xc', stands for 'cross-C' or 'extended-C' or whatever you want, really. It's fairly similar to Objective-C in style (without the [] brackets), and in fact the first version of the language was written in ObjC.\nIt works on Mac M-series, Windows, and Linux - and any of these hosts can create b",
-      "guid": "https://news.ycombinator.com/item?id=49730393"
-    },
-    {
-      "title": "Show HN: Play subway surfer inside your Claude Code terminal",
-      "link": "https://github.com/lucastononro/cc-subway",
-      "pubDate": "Wed, 16 Sep 2026 17:29:40 +0000",
-      "date": "Wed, 16 Sep 2026 17:29:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Brain-rotting while vibing lol\nComments URL: https://news.ycombinator.com/item?id=49730274\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49730274"
-    },
-    {
-      "title": "Show HN: TypeScript parser for AIXM, the FAA/EUROCONTROL aviation data format",
-      "link": "https://github.com/devladpopov/aixm-parser",
-      "pubDate": "Wed, 16 Sep 2026 17:27:53 +0000",
-      "date": "Wed, 16 Sep 2026 17:27:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/devladpopov/aixm-parser\nComments URL: https://news.ycombinator.com/item?id=49730243\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49730243"
-    },
-    {
-      "title": "Show HN: Understanding your Claude Code with trajectory segmentation",
-      "link": "https://github.com/lucastononro/cc-traj-seg",
-      "pubDate": "Wed, 16 Sep 2026 17:27:08 +0000",
-      "date": "Wed, 16 Sep 2026 17:27:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Would love to get feedbacks.\nFeel free to open a PR with features that might be useful for you or fork it and take it off!\nThe goal is to make AI easier to be understood w/o having to read the entire long tail of decisions and garbage that claude generated along the way.\nComments URL: https://news.ycombinator.com/item?id=49730230\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49730230"
     },
     {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
@@ -255,28 +255,6 @@
       "icon": "📊",
       "contentSnippet": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
       "guid": "https://stratechery.com/?p=20019"
-    },
-    {
-      "title": "The Missing Middle: Why Kids Still Struggle to Read After Third Grade",
-      "link": "https://edsurge.com/news/the-missing-middle-why-kids-still-struggle-to-read-after-third-grade",
-      "pubDate": "Wed, 16 Sep 2026 00:00:00 GMT",
-      "date": "Wed, 16 Sep 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "What happens when middle school students hit the reading comprehension wall.",
-      "guid": "post-guid-2A56EBa8"
-    },
-    {
-      "title": "Gemini Live audio",
-      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "pubDate": "2026-09-15T22:47:07.000Z",
-      "date": "2026-09-15T22:47:07.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Sep/15/gemini-live/"
     }
   ]
 }
