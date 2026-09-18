@@ -1,18 +1,194 @@
 {
-  "generatedAt": "2026-09-18T03:16:30.072Z",
+  "generatedAt": "2026-09-18T10:17:22.742Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 23,
   "items": [
     {
-      "title": "jamiepine/voicebox",
-      "link": "https://github.com/jamiepine/voicebox",
-      "pubDate": "2026-09-18T03:00:59.159Z",
-      "date": "2026-09-18T03:00:59.159Z",
+      "title": "Tencent/BrowserSkill",
+      "link": "https://github.com/Tencent/BrowserSkill",
+      "pubDate": "2026-09-18T10:17:21.238Z",
+      "date": "2026-09-18T10:17:21.238Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
-      "contentSnippet": "The open-source AI voice studio. Clone, dictate, create.\nhttps://voicebox.sh\n\n  \n \nVoicebox\n \n The open-source AI voice studio.\n Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.\n The full voice I/O stack, running locally on your machine. \n \n                \n \n  \n \n voicebox.sh • Docs • Download • Features • API • Troubleshooting \n \n \n    \n \n Click the image above to watch the demo video on voicebox.sh \n \n \n  \n \n  \n \n \nWhat is Voicebox?\n \nVoicebox is a loc",
-      "guid": "https://github.com/jamiepine/voicebox"
+      "contentSnippet": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\n\nBrowserSkill\n \n  \n \n Let AI agents use your browser without interrupting your work. \n \n English · 中文 \n \nBrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser.\n \nNeed the agent to touch a tab you already have open? It must borrow",
+      "guid": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "title": "Show HN: Atlarix – A Browser Agent",
+      "link": "https://www.atlarix.dev/extension",
+      "pubDate": "Fri, 18 Sep 2026 09:20:52 +0000",
+      "date": "Fri, 18 Sep 2026 09:20:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.atlarix.dev/extension\nComments URL: https://news.ycombinator.com/item?id=49751924\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49751924"
+    },
+    {
+      "title": "Show HN: Three short quizzes that show a score pattern, not one type",
+      "link": "https://loretypes.com/",
+      "pubDate": "Fri, 18 Sep 2026 09:02:07 +0000",
+      "date": "Fri, 18 Sep 2026 09:02:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://loretypes.com/\nComments URL: https://news.ycombinator.com/item?id=49751814\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49751814"
+    },
+    {
+      "title": "Show HN: Attar – Compile React apps to native machine code",
+      "link": "https://attar.dev/",
+      "pubDate": "Fri, 18 Sep 2026 08:47:08 +0000",
+      "date": "Fri, 18 Sep 2026 08:47:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, my cofounder and I are building Attar. It compiles React and TypeScript into native desktop apps, with Blink for HTML and CSS.\nI like building things with web tools. We wanted to take that experience all the way to a compiled desktop app: familiar components, familiar styles, native machine code.\nAttar builds on Static Hermes and Chromium. React’s reconciler compiles alongside your application, and a native host connects its updates to Blink. JavaScript objects and garbage collection are ",
+      "guid": "https://news.ycombinator.com/item?id=49751702"
+    },
+    {
+      "title": "Show HN: A web page that counts its own visitors and cannot lie",
+      "link": "https://ava-wall.surge.sh",
+      "pubDate": "Fri, 18 Sep 2026 08:20:43 +0000",
+      "date": "Fri, 18 Sep 2026 08:20:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ava-wall.surge.sh\nComments URL: https://news.ycombinator.com/item?id=49751551\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49751551"
+    },
+    {
+      "title": "Show HN: Fouine – local full-text and semantic search for scanned PDFs on macOS",
+      "link": "https://github.com/basedpolymer/fouine",
+      "pubDate": "Fri, 18 Sep 2026 08:14:57 +0000",
+      "date": "Fri, 18 Sep 2026 08:14:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/basedpolymer/fouine\nComments URL: https://news.ycombinator.com/item?id=49751523\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49751523"
+    },
+    {
+      "title": "Show HN: Open-Source Alternative to TypeSafe.ai",
+      "link": "https://github.com/TitovDigital/kbai-skill",
+      "pubDate": "Fri, 18 Sep 2026 06:04:05 +0000",
+      "date": "Fri, 18 Sep 2026 06:04:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/TitovDigital/kbai-skill\nComments URL: https://news.ycombinator.com/item?id=49750649\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49750649"
+    },
+    {
+      "title": "Show HN: LinkBunny, a service where coding agents exchange backlinks autonomousy",
+      "link": "https://getlinkbunny.com/",
+      "pubDate": "Fri, 18 Sep 2026 05:23:30 +0000",
+      "date": "Fri, 18 Sep 2026 05:23:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm building LinkBunny, a service where coding agents exchange backlinks. You can let your agents build backlinks for you autonomously. I'm manual approving registration now to avoid spam. $20/mth sub and no fees for backlinks.\nIf you are using coding agents and craving for backlinks, I'll personally help iron out bugs/issues. Email me (email in profile).\nComments URL: https://news.ycombinator.com/item?id=49750450\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49750450"
+    },
+    {
+      "title": "Show HN: I built a PDF accessibility checker that is cross platform",
+      "link": "https://github.com/visionably/outloud",
+      "pubDate": "Fri, 18 Sep 2026 05:03:28 +0000",
+      "date": "Fri, 18 Sep 2026 05:03:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/visionably/outloud\nComments URL: https://news.ycombinator.com/item?id=49750366\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49750366"
+    },
+    {
+      "title": "Show HN: A Mac native app that helps you reason through math/CS pdf textbooks",
+      "link": "https://marginstudy.lemonsqueezy.com/checkout",
+      "pubDate": "Fri, 18 Sep 2026 05:01:47 +0000",
+      "date": "Fri, 18 Sep 2026 05:01:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "https://marginstudy.lemonsqueezy.com/checkout/buy/b71656b9-b...\nurl seems malformed\nThe core concept is a tool to let users think through every word, sentence and line of dense technical textbooks in pdf form. I can't find a single app that allows you to reason about words and sentences while recording down your thoughts in a friction free way.\nAll the note taking apps I've used treat paragraphs and pages as the main grouping element but anyone who's studied hard things knows that tough ideas ar",
+      "guid": "https://news.ycombinator.com/item?id=49750356"
+    },
+    {
+      "title": "Show HN: WoseApp – a social network where every reply is a private conversation",
+      "link": "https://woseapp.com/",
+      "pubDate": "Fri, 18 Sep 2026 04:27:09 +0000",
+      "date": "Fri, 18 Sep 2026 04:27:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://woseapp.com/\nComments URL: https://news.ycombinator.com/item?id=49750185\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49750185"
+    },
+    {
+      "title": "Show HN: Continuity – project state your AI sessions can't silently contradict",
+      "link": "https://github.com/vikcena01/ai-continuity-plugin",
+      "pubDate": "Fri, 18 Sep 2026 03:56:51 +0000",
+      "date": "Fri, 18 Sep 2026 03:56:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/vikcena01/ai-continuity-plugin\nComments URL: https://news.ycombinator.com/item?id=49750016\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49750016"
+    },
+    {
+      "title": "Show HN: Free Tournament Bracket Maker and Generator",
+      "link": "https://snapbracket.com/",
+      "pubDate": "Fri, 18 Sep 2026 03:55:53 +0000",
+      "date": "Fri, 18 Sep 2026 03:55:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://snapbracket.com/\nComments URL: https://news.ycombinator.com/item?id=49750012\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49750012"
+    },
+    {
+      "title": "Show HN: Free GitHub Action that scans PR diffs for malicious code, not quality",
+      "link": "https://github.com/marketplace/actions/vigil-pr-scanner",
+      "pubDate": "Fri, 18 Sep 2026 03:20:54 +0000",
+      "date": "Fri, 18 Sep 2026 03:20:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they're hidden and decided to do a project for this. This tool is essentially used in unison with ai code review bots like greptile. While tools like greptile reason because they run with LLMs, this is a deterministic step before greptile that scans for malicious code (command execution, credential access, exfil, auto-run hooks, obfuscation, and prompt injection; regex + se",
+      "guid": "https://news.ycombinator.com/item?id=49749862"
+    },
+    {
+      "title": "Show HN: Green Screen Remover – free in-browser chroma key, nothing uploaded",
+      "link": "https://greenscreenremover.net/",
+      "pubDate": "Fri, 18 Sep 2026 03:09:02 +0000",
+      "date": "Fri, 18 Sep 2026 03:09:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://greenscreenremover.net/\nComments URL: https://news.ycombinator.com/item?id=49749795\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49749795"
+    },
+    {
+      "title": "Show HN: Concat: the open-source CapCut replacement.",
+      "link": "https://github.com/jub0t/Concat",
+      "pubDate": "Fri, 18 Sep 2026 03:04:58 +0000",
+      "date": "Fri, 18 Sep 2026 03:04:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I started this project about ~3 weeks ago. Since CapCut is putting everything behind a paywall after gaining millions of installs and users, I decided to create a free and open-source version with most if not all the features.\nConcat runs all the AI-features locally, has MCP support, has a decentralized system for assets like Filters, Effects, and Templates so users can write custom assets and share with the community (or sell them even).\nNote: I’m self-taught dev and used Claude (Fable 5.1) hea",
+      "guid": "https://news.ycombinator.com/item?id=49749773"
+    },
+    {
+      "title": "Show HN: Jinx – a link shortener you host free on GitHub Pages",
+      "link": "https://jinx.fyi",
+      "pubDate": "Fri, 18 Sep 2026 02:56:04 +0000",
+      "date": "Fri, 18 Sep 2026 02:56:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Jinx is just links, a small static website on GitHub to share short links to your stuff. Add your links to one file, turn on GitHub Pages, and point your own domain at it. I built it because the options all seemed wrong for a small team: paid shorteners charge monthly for what's essentially a lookup table; free self-hosted ones (YOURLS, Shlink, etc.) still need a server and a database to maintain; and free tiers of hosted services like bitly or tinyurl cap your links or paywall basic features. I",
+      "guid": "https://news.ycombinator.com/item?id=49749716"
     },
     {
       "title": "Show HN: An open Add/Search evaluation framework for agent memory",
@@ -22,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN,\nWe are trying to make different Agent Memory systems comparable without letting each team choose its own answer model and evaluation pipeline.\nComments URL: https://news.ycombinator.com/item?id=49749689\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Hi HN,\nWe are trying to make different Agent Memory systems comparable without letting each team choose its own answer model and evaluation pipeline.\nComments URL: https://news.ycombinator.com/item?id=49749689\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49749689"
     },
     {
@@ -33,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://asiaai.fyi/tech-index/\nComments URL: https://news.ycombinator.com/item?id=49749539\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://asiaai.fyi/tech-index/\nComments URL: https://news.ycombinator.com/item?id=49749539\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49749539"
     },
     {
@@ -48,15 +224,15 @@
       "guid": "https://news.ycombinator.com/item?id=49749079"
     },
     {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "link": "https://cactuscompute.com/needle",
-      "pubDate": "Fri, 18 Sep 2026 00:11:44 +0000",
-      "date": "Fri, 18 Sep 2026 00:11:44 +0000",
+      "title": "Show HN: Timeline, a team project planner with a fast canvas Gantt view",
+      "link": "https://github.com/vakahnke/Timeline",
+      "pubDate": "Fri, 18 Sep 2026 01:01:21 +0000",
+      "date": "Fri, 18 Sep 2026 01:01:21 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey HN, Henry from Cactus here.\nWe submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.\nThe key features:\n1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON.",
-      "guid": "https://news.ycombinator.com/item?id=49748553"
+      "contentSnippet": "I do a lot of project management, and for years I wanted a tool that was simple, interactive, and just worked: a timeline I could see and touch, where moving a task is a drag and not a form. Nothing I used felt like that. I didn't have the coding chops to build it myself until AI-assisted coding made it possible, so over the last few months I built it with Claude Code doing most of the typing and me doing the design, testing, and a great deal of arguing about how dragging should feel. This is th",
+      "guid": "https://news.ycombinator.com/item?id=49748928"
     },
     {
       "title": "How To Write With An LLM",
@@ -70,160 +246,6 @@
       "guid": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/"
     },
     {
-      "title": "SHOW HN: I built the fastest PHP webserver in the world",
-      "link": "https://news.ycombinator.com/item?id=49748067",
-      "pubDate": "Thu, 17 Sep 2026 23:18:42 +0000",
-      "date": "Thu, 17 Sep 2026 23:18:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "After over a decade of writing apps in PHP, I always wondered why we needed all that extra tooling around it just to serve websites. I suspected PHP alone could be faster. I didn’t realize how right I was.\nIt’s finally done! Two months after I initially announced it, Qbix webserver 1.2 is out. It is written in pure PHP, meaning you can run web applications without nginx for serving files and websites, certbot for certificates, cron for periodic tasks, node for realtime sockets, etc. It comes out",
-      "guid": "https://news.ycombinator.com/item?id=49748067"
-    },
-    {
-      "title": "Show HN: A repo-aware architecture checkup for Rails apps",
-      "link": "https://railsbaseline.com/checkup/run/",
-      "pubDate": "Thu, 17 Sep 2026 23:18:18 +0000",
-      "date": "Thu, 17 Sep 2026 23:18:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://railsbaseline.com/checkup/run/\nComments URL: https://news.ycombinator.com/item?id=49748064\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49748064"
-    },
-    {
-      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "link": "https://scry.io/",
-      "pubDate": "Thu, 17 Sep 2026 23:15:57 +0000",
-      "date": "Thu, 17 Sep 2026 23:15:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Meet Scry, a 500 TB NVMe internet index well organized in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auction pricing. When there's capacity, the service is free for non-commercial use.\n---\nHello. It's 2026, we're training simulated fruit fly brains to play Beat Saber, do we still have to be stuck with internet (re)search as fn: natural language -> black box we can't do anything about ->",
-      "guid": "https://news.ycombinator.com/item?id=49748041"
-    },
-    {
-      "title": "Show HN: Things To Have – free, privacy caring, mighty wishlist app",
-      "link": "https://thingstohave.app/",
-      "pubDate": "Thu, 17 Sep 2026 22:57:08 +0000",
-      "date": "Thu, 17 Sep 2026 22:57:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Things To Have is a wishlist app. I started working on it in 2022 as a pet project for my friends, then turned it into a serious app in 2024.\nI built it because I disliked other such apps – they were either too ephemeral, limited to a specific use case, or felt like a TV shop.\nI wanted to build an app that would be calm and would cater to thoughtful buyers, collectors, and enthusiasts. I also didn't forget about birthdays, so reservations and other birthday QoL are present.\nAs it always was a ho",
-      "guid": "https://news.ycombinator.com/item?id=49747847"
-    },
-    {
-      "title": "Show HN: I made a browser tool that creates newspaper and book text match cuts",
-      "link": "https://papereffects.site",
-      "pubDate": "Thu, 17 Sep 2026 22:47:59 +0000",
-      "date": "Thu, 17 Sep 2026 22:47:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://papereffects.site\nComments URL: https://news.ycombinator.com/item?id=49747752\nPoints: 4\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49747752"
-    },
-    {
-      "title": "Show HN: Respawn – an undo button for AI agents (Rust, local-first, no cloud)",
-      "link": "https://github.com/savageAZfck/respawn",
-      "pubDate": "Thu, 17 Sep 2026 22:36:40 +0000",
-      "date": "Thu, 17 Sep 2026 22:36:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/savageAZfck/respawn\nComments URL: https://news.ycombinator.com/item?id=49747632\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49747632"
-    },
-    {
-      "title": "Show HN: Unmute – a single definition for voice agents, pushed to any stack",
-      "link": "https://github.com/slng-ai/unmute",
-      "pubDate": "Thu, 17 Sep 2026 22:36:09 +0000",
-      "date": "Thu, 17 Sep 2026 22:36:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/slng-ai/unmute\nComments URL: https://news.ycombinator.com/item?id=49747623\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49747623"
-    },
-    {
-      "title": "Show HN: summ – a single-binary container registry in Rust with a built-in UI",
-      "link": "https://github.com/summcr/summ",
-      "pubDate": "Thu, 17 Sep 2026 22:31:10 +0000",
-      "date": "Thu, 17 Sep 2026 22:31:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/summcr/summ\nComments URL: https://news.ycombinator.com/item?id=49747573\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49747573"
-    },
-    {
-      "title": "Show HN: OpenAI has a live market price before it has a stock ticker",
-      "link": "https://tickerlayer.com/symbols/openaiusdt-perp",
-      "pubDate": "Thu, 17 Sep 2026 22:12:19 +0000",
-      "date": "Thu, 17 Sep 2026 22:12:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://tickerlayer.com/symbols/openaiusdt-perp\nComments URL: https://news.ycombinator.com/item?id=49747379\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49747379"
-    },
-    {
-      "title": "Show HN: Salt – Human and AI Economies driven across E2E encrypted chats",
-      "link": "https://saltapp.ai/",
-      "pubDate": "Thu, 17 Sep 2026 22:02:07 +0000",
-      "date": "Thu, 17 Sep 2026 22:02:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello, I started building this back in 2022 and it's probably time to launch it.\nBasically enabling agents and humans to build networks, transact, build economies, etc around identity, work, commerce.\nIt's still in beta, but it's been a dream for a while and it's ready to take on its first users for feedback.\nI've got plenty more interesting capabilities coming as I refine and distill down how this all fits together in the grand scheme of the future vision.\nComments URL: https://news.ycombinator",
-      "guid": "https://news.ycombinator.com/item?id=49747239"
-    },
-    {
-      "title": "Show HN: Jev routing coding tasks to Grok Build or Codex Astra",
-      "link": "https://github.com/jcpsimmons/jev-model-router-demo",
-      "pubDate": "Thu, 17 Sep 2026 21:55:28 +0000",
-      "date": "Thu, 17 Sep 2026 21:55:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/jcpsimmons/jev-model-router-demo\nComments URL: https://news.ycombinator.com/item?id=49747155\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49747155"
-    },
-    {
-      "title": "Show HN: Free game to destroy any web page",
-      "link": "https://page-rage.com/",
-      "pubDate": "Thu, 17 Sep 2026 21:40:18 +0000",
-      "date": "Thu, 17 Sep 2026 21:40:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://page-rage.com/\nComments URL: https://news.ycombinator.com/item?id=49746963\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49746963"
-    },
-    {
-      "title": "Show HN: AI crawler honeypot – logs every agent that requests it",
-      "link": "https://ai-crawler-honeypot-697299601273.europe-west2.run.app/",
-      "pubDate": "Thu, 17 Sep 2026 21:28:13 +0000",
-      "date": "Thu, 17 Sep 2026 21:28:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://ai-crawler-honeypot-697299601273.europe-west2.run.app/\nComments URL: https://news.ycombinator.com/item?id=49746795\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49746795"
-    },
-    {
-      "title": "Show HN: OJ – A drop-in replacement for Vite in Rust",
-      "link": "https://github.com/lovablelabs/oj",
-      "pubDate": "Thu, 17 Sep 2026 21:21:01 +0000",
-      "date": "Thu, 17 Sep 2026 21:21:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/lovablelabs/oj\nComments URL: https://news.ycombinator.com/item?id=49746713\nPoints: 10\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49746713"
-    },
-    {
       "title": "Self-generated prompt injections in compaction summaries",
       "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
       "pubDate": "2026-09-17T20:57:55.000Z",
@@ -233,72 +255,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Sep/17/compaction-summaries/"
-    },
-    {
-      "title": "Show HN: Microsoft Office Running with Wine on Linux with No Virtualization",
-      "link": "https://github.com/Tombert/office365_flake",
-      "pubDate": "Thu, 17 Sep 2026 20:52:22 +0000",
-      "date": "Thu, 17 Sep 2026 20:52:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Microsoft Office famously hasn't worked well with Wine since Office 2007.  There are lots of solutions out there to work around this, but all of them involve fairly heavy virtualization.\nMultiple people have told me that their biggest hangup for switching to Linux from Windows is the lack of the desktop version of Microsoft Office, and they don't want to run a VM to get around it.\nI recently fell into a bunch of free time with a Claude Max subscription, so I got Fable to hack at this until it wo",
-      "guid": "https://news.ycombinator.com/item?id=49746401"
-    },
-    {
-      "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
-      "link": "https://snapdrop.me",
-      "pubDate": "Thu, 17 Sep 2026 20:48:04 +0000",
-      "date": "Thu, 17 Sep 2026 20:48:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://snapdrop.me\nComments URL: https://news.ycombinator.com/item?id=49746346\nPoints: 28\n# Comments: 20",
-      "guid": "https://news.ycombinator.com/item?id=49746346"
-    },
-    {
-      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "link": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
-      "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000",
-      "date": "Thu, 17 Sep 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "guid": "https://stratechery.com/?p=20030"
-    },
-    {
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "pubDate": "Thu, 17 Sep 2026 10:00:00 +0000",
-      "date": "Thu, 17 Sep 2026 10:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…",
-      "guid": "https://www.technologyreview.com/?p=1144251"
-    },
-    {
-      "title": "Steward Stories: How Big Thought Turned Compelling Questions Into a Citywide Learning System",
-      "link": "https://www.gettingsmart.com/2026/09/17/how-big-thought-turned-compelling-questions-into-a-citywide-learning-system/",
-      "pubDate": "Thu, 17 Sep 2026 09:15:00 +0000",
-      "date": "Thu, 17 Sep 2026 09:15:00 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "What does it look like when a city becomes a learning system? Big Thought's story spans 35 years, 480,000 young people, and a foundational insight that changed everything: dosage matters, but it doesn't have to happen inside a single organization. This Steward Story traces how Erin Offord, Greg MacPherson, and the leaders who came before them built Dallas City of Learning into one of the country's most sophisticated learning-ecosystem intermediaries. For education leaders thinking about scale, c",
-      "guid": "https://www.gettingsmart.com/?p=140483"
-    },
-    {
-      "title": "MCPJam",
-      "link": "https://www.producthunt.com/products/mcpjam-inspector",
-      "pubDate": "2026-09-17T06:17:38.000Z",
-      "date": "2026-09-17T06:17:38.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/mcpjam-inspector"
     }
   ]
 }
