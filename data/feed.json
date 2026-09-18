@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-09-18T02:23:55.739Z",
+  "generatedAt": "2026-09-18T03:16:30.072Z",
   "lookbackHours": 24,
   "totalItems": 27,
   "items": [
     {
       "title": "jamiepine/voicebox",
       "link": "https://github.com/jamiepine/voicebox",
-      "pubDate": "2026-09-18T02:23:53.959Z",
-      "date": "2026-09-18T02:23:53.959Z",
+      "pubDate": "2026-09-18T03:00:59.159Z",
+      "date": "2026-09-18T03:00:59.159Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The open-source AI voice studio. Clone, dictate, create.\nhttps://voicebox.sh\n\n  \n \nVoicebox\n \n The open-source AI voice studio.\n Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.\n The full voice I/O stack, running locally on your machine. \n \n                \n \n  \n \n voicebox.sh • Docs • Download • Features • API • Troubleshooting \n \n \n    \n \n Click the image above to watch the demo video on voicebox.sh \n \n \n  \n \n  \n \n \nWhat is Voicebox?\n \nVoicebox is a loc",
       "guid": "https://github.com/jamiepine/voicebox"
+    },
+    {
+      "title": "Show HN: An open Add/Search evaluation framework for agent memory",
+      "link": "https://agentmemoryleaderboard.ai/",
+      "pubDate": "Fri, 18 Sep 2026 02:52:01 +0000",
+      "date": "Fri, 18 Sep 2026 02:52:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nWe are trying to make different Agent Memory systems comparable without letting each team choose its own answer model and evaluation pipeline.\nComments URL: https://news.ycombinator.com/item?id=49749689\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49749689"
+    },
+    {
+      "title": "Show HN: A directory of 164 Asian AI companies, ranked by disclosed scale",
+      "link": "https://asiaai.fyi/tech-index/",
+      "pubDate": "Fri, 18 Sep 2026 02:25:01 +0000",
+      "date": "Fri, 18 Sep 2026 02:25:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://asiaai.fyi/tech-index/\nComments URL: https://news.ycombinator.com/item?id=49749539\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49749539"
     },
     {
       "title": "Show HN: PortButler – send files from macOS to a device with no way to receive",
@@ -99,7 +121,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://papereffects.site\nComments URL: https://news.ycombinator.com/item?id=49747752\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://papereffects.site\nComments URL: https://news.ycombinator.com/item?id=49747752\nPoints: 4\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49747752"
     },
     {
@@ -198,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/lovablelabs/oj\nComments URL: https://news.ycombinator.com/item?id=49746713\nPoints: 8\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/lovablelabs/oj\nComments URL: https://news.ycombinator.com/item?id=49746713\nPoints: 10\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49746713"
     },
     {
@@ -231,30 +253,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://snapdrop.me\nComments URL: https://news.ycombinator.com/item?id=49746346\nPoints: 22\n# Comments: 19",
+      "contentSnippet": "Article URL: https://snapdrop.me\nComments URL: https://news.ycombinator.com/item?id=49746346\nPoints: 28\n# Comments: 20",
       "guid": "https://news.ycombinator.com/item?id=49746346"
-    },
-    {
-      "title": "Show HN: Radio – a shared workspace for your agents and teammates",
-      "link": "https://radio.plasma.ai/",
-      "pubDate": "Thu, 17 Sep 2026 20:47:05 +0000",
-      "date": "Thu, 17 Sep 2026 20:47:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "An internal tool we've been using to coordinate coding agents running in parallel across different machines. Just share the channel link with your existing agent chats, and your agents can reply to you and to each other in real time. Would love feedback.\nComments URL: https://news.ycombinator.com/item?id=49746327\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49746327"
-    },
-    {
-      "title": "Show HN: Composing domain-specific harness on Python in 10 mins",
-      "link": "https://cayu.dev/walkthrough/",
-      "pubDate": "Thu, 17 Sep 2026 20:46:00 +0000",
-      "date": "Thu, 17 Sep 2026 20:46:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://cayu.dev/walkthrough/\nComments URL: https://news.ycombinator.com/item?id=49746313\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49746313"
     },
     {
       "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
