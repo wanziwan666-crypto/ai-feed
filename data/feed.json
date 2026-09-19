@@ -1,18 +1,216 @@
 {
-  "generatedAt": "2026-09-19T09:59:44.382Z",
+  "generatedAt": "2026-09-19T15:04:38.828Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 24,
   "items": [
     {
       "title": "Tencent/BrowserSkill",
       "link": "https://github.com/Tencent/BrowserSkill",
-      "pubDate": "2026-09-19T09:59:42.308Z",
-      "date": "2026-09-19T09:59:42.308Z",
+      "pubDate": "2026-09-19T15:04:36.701Z",
+      "date": "2026-09-19T15:04:36.701Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\n\nBrowserSkill\n \n  \n \n Let AI agents use your browser without interrupting your work. \n \n English · 中文 \n \nBrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser.\n \nNeed the agent to touch a tab you already have open? It must borrow",
       "guid": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "title": "Show HN: Claude Code hits its 5-hour limit, Codex picks up in the same terminal",
+      "link": "https://github.com/ucsandman/legcli",
+      "pubDate": "Sat, 19 Sep 2026 15:00:43 +0000",
+      "date": "Sat, 19 Sep 2026 15:00:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ucsandman/legcli\nComments URL: https://news.ycombinator.com/item?id=49767107\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49767107"
+    },
+    {
+      "title": "Show HN: JJHub – Code collaboration platform for Jujutsu",
+      "link": "https://jjhub.dev/",
+      "pubDate": "Sat, 19 Sep 2026 14:38:33 +0000",
+      "date": "Sat, 19 Sep 2026 14:38:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://jjhub.dev/\nComments URL: https://news.ycombinator.com/item?id=49766925\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49766925"
+    },
+    {
+      "title": "Show HN: A terminal inbox for a GitHub repo PRs",
+      "link": "https://github.com/OscBacon/tungsten",
+      "pubDate": "Sat, 19 Sep 2026 13:56:41 +0000",
+      "date": "Sat, 19 Sep 2026 13:56:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Inspired by an app with another material name (Graphite), here is my little take on a TUI for viewing and reviewing PRs in a repo!\nThis is my first HN submission :)\nAfter a colleague decided to build his on web app clone of the original material-named service, I thought I would make my own take on it in the terminal, using the OpenTUI framework.\nI also use tmux and git worktrees quite a bit, so I added a handy \"w\" shortcut to create a worktree for a given PR, and open a new tmux window in that w",
+      "guid": "https://news.ycombinator.com/item?id=49766641"
+    },
+    {
+      "title": "Show HN: We've built an AI UGC video creator,free for one month",
+      "link": "https://kuvu.ai/marketing/ai-ugc",
+      "pubDate": "Sat, 19 Sep 2026 13:55:57 +0000",
+      "date": "Sat, 19 Sep 2026 13:55:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "We've built an AI UGC Video Creator,Free for one month.\nComments URL: https://news.ycombinator.com/item?id=49766639\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49766639"
+    },
+    {
+      "title": "Show HN",
+      "link": "https://superii.site/",
+      "pubDate": "Sat, 19 Sep 2026 13:42:30 +0000",
+      "date": "Sat, 19 Sep 2026 13:42:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Super ii Open intelligence, built together. A public AI collaboration hub for discovering, building, and sharing models, datasets, and apps.\nComments URL: https://news.ycombinator.com/item?id=49766549\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49766549"
+    },
+    {
+      "title": "Show HN: Fentaris, an open-source proxy for managing multiple MCP servers",
+      "link": "https://github.com/Fentaris/fentaris",
+      "pubDate": "Sat, 19 Sep 2026 13:10:04 +0000",
+      "date": "Sat, 19 Sep 2026 13:10:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Fentaris is an open-source proxy for running multiple MCP servers behind one controlled endpoint. It provides routing, authentication, policies, and observability for MCP deployments.\nComments URL: https://news.ycombinator.com/item?id=49766312\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49766312"
+    },
+    {
+      "title": "Show HN: Htmldoc – A pastebin that renders the HTML your coding agent writes",
+      "link": "https://htmldoc.space",
+      "pubDate": "Sat, 19 Sep 2026 12:54:40 +0000",
+      "date": "Sat, 19 Sep 2026 12:54:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://htmldoc.space\nComments URL: https://news.ycombinator.com/item?id=49766202\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49766202"
+    },
+    {
+      "title": "Show HN: I asked Claude Code to teach my son about the phases of the moon",
+      "link": "https://ricardoborges.github.io/MoonSrc/",
+      "pubDate": "Sat, 19 Sep 2026 12:49:58 +0000",
+      "date": "Sat, 19 Sep 2026 12:49:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ricardoborges.github.io/MoonSrc/\nComments URL: https://news.ycombinator.com/item?id=49766164\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49766164"
+    },
+    {
+      "title": "Show HN: ParentPackIt – a mobile checklist app designed for parents and kids",
+      "link": "https://apps.apple.com/us/app/parentpackit-kids-checklist/id6748917901",
+      "pubDate": "Sat, 19 Sep 2026 12:36:00 +0000",
+      "date": "Sat, 19 Sep 2026 12:36:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I would love to get some feedback on my app, its ease of use, and what i can do to make it better\nComments URL: https://news.ycombinator.com/item?id=49766061\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49766061"
+    },
+    {
+      "title": "Show HN: Kobblestone – Minecraft on Kubernetes",
+      "link": "https://github.com/kobblestoneio/kobblestone",
+      "pubDate": "Sat, 19 Sep 2026 12:07:15 +0000",
+      "date": "Sat, 19 Sep 2026 12:07:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi folks, just released a personal project of mine, called Kobblestone. Essentially, it's an operator for Kubernetes, allowing you to manage Minecraft infrastructure on Kubernetes.\nIt's not just a small wrapper for deploying servers, it aims to integrate the whole Minecraft ecosystem on Kubernetes (routers, networks, commands, backups, etc.).\nI'd highly appreciate your feedback and I am looking forward to potential contributions!\nThanks.\nComments URL: https://news.ycombinator.com/item?id=4976587",
+      "guid": "https://news.ycombinator.com/item?id=49765874"
+    },
+    {
+      "title": "Show HN: AliasFleet – Email aliases with in-app sending. No reverse-alias hassle",
+      "link": "https://www.aliasfleet.com",
+      "pubDate": "Sat, 19 Sep 2026 12:05:15 +0000",
+      "date": "Sat, 19 Sep 2026 12:05:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.aliasfleet.com\nComments URL: https://news.ycombinator.com/item?id=49765861\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49765861"
+    },
+    {
+      "title": "Show HN: Gravitype – a terminal typing game where words fall from the sky",
+      "link": "https://github.com/kanakOS01/gravitype",
+      "pubDate": "Sat, 19 Sep 2026 11:46:28 +0000",
+      "date": "Sat, 19 Sep 2026 11:46:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kanakOS01/gravitype\nComments URL: https://news.ycombinator.com/item?id=49765740\nPoints: 4\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49765740"
+    },
+    {
+      "title": "Show HN: NotchBuddy – Your MacBook's Notch Can Do All This",
+      "link": "https://notchbuddy.com",
+      "pubDate": "Sat, 19 Sep 2026 11:10:15 +0000",
+      "date": "Sat, 19 Sep 2026 11:10:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://notchbuddy.com\nComments URL: https://news.ycombinator.com/item?id=49765508\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49765508"
+    },
+    {
+      "title": "Show HN: NSLibrary – a self-hosted library for your Switch games and homebrew",
+      "link": "https://github.com/tuckerwales/nslibrary",
+      "pubDate": "Sat, 19 Sep 2026 10:57:21 +0000",
+      "date": "Sat, 19 Sep 2026 10:57:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/tuckerwales/nslibrary\nComments URL: https://news.ycombinator.com/item?id=49765415\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49765415"
+    },
+    {
+      "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+      "link": "https://sigabrt.dev",
+      "pubDate": "Sat, 19 Sep 2026 10:47:59 +0000",
+      "date": "Sat, 19 Sep 2026 10:47:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello HN. I built this mostly to monitor the things I host myself. I know it's nothing too exciting.\nAnyway, the TL;DR is: Create an endpoint, and if your script/cronjob fails to regularly ping it, you get notified (by email or ntfy). E.g.:\n    0 * * * * ./script.sh && curl -fsS https://sigabrt.dev/pulse//beat\n\n    ssh sigabrt.dev\n\nYes, there are services like this already, and this is minimalistic by comparison. Feedback is welcome.\nComments URL: https://news.ycombinator.com/item?id=49765354\nPo",
+      "guid": "https://news.ycombinator.com/item?id=49765354"
+    },
+    {
+      "title": "Show HN: Snail Walk – escape Bob the giant snail by walking more IRL",
+      "link": "https://snailwalk.app/",
+      "pubDate": "Sat, 19 Sep 2026 10:10:13 +0000",
+      "date": "Sat, 19 Sep 2026 10:10:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://snailwalk.app/\nComments URL: https://news.ycombinator.com/item?id=49765091\nPoints: 8\n# Comments: 9",
+      "guid": "https://news.ycombinator.com/item?id=49765091"
+    },
+    {
+      "title": "Show HN: Word42 Open Source Wordprocessor",
+      "link": "https://news.ycombinator.com/item?id=49765031",
+      "pubDate": "Sat, 19 Sep 2026 10:00:19 +0000",
+      "date": "Sat, 19 Sep 2026 10:00:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "https://github.com/office-42/word42\nComments URL: https://news.ycombinator.com/item?id=49765031\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49765031"
+    },
+    {
+      "title": "Show HN: Local subagent orchestration for Codex/Claude",
+      "link": "https://github.com/ringlochid/oh-my-subagents",
+      "pubDate": "Sat, 19 Sep 2026 09:32:53 +0000",
+      "date": "Sat, 19 Sep 2026 09:32:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49764869\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49764869"
     },
     {
       "title": "Show HN: AgentMeasure – healthchecks and settlement statements for AI bills",
@@ -37,149 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49764438"
     },
     {
-      "title": "Show HN: Chuks v0.2.0-RC.1, we're asking people to try to break it",
-      "link": "https://chuks.org/blog/chuks-v020-rc1-the-release-candidate/",
-      "pubDate": "Sat, 19 Sep 2026 07:20:22 +0000",
-      "date": "Sat, 19 Sep 2026 07:20:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://chuks.org/blog/chuks-v020-rc1-the-release-candidate/\nComments URL: https://news.ycombinator.com/item?id=49764179\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49764179"
-    },
-    {
-      "title": "Show HN: Gotedo Impress – Free, Modern Presentation Software",
-      "link": "https://about.gotedo.com/en/products/gotedo-impress",
-      "pubDate": "Sat, 19 Sep 2026 05:58:09 +0000",
-      "date": "Sat, 19 Sep 2026 05:58:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://about.gotedo.com/en/products/gotedo-impress\nComments URL: https://news.ycombinator.com/item?id=49763756\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49763756"
-    },
-    {
-      "title": "Show HN: Nordstjernen Web Browser 1.0.24",
-      "link": "https://news.ycombinator.com/item?id=49763714",
-      "pubDate": "Sat, 19 Sep 2026 05:51:45 +0000",
-      "date": "Sat, 19 Sep 2026 05:51:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Nordstjernen Web Browser 1.0.24 released\nhttps://github.com/nordstjernen-web/nordstjernen-browser/rel...\nComments URL: https://news.ycombinator.com/item?id=49763714\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49763714"
-    },
-    {
-      "title": "Show HN: I made Niri-like terminal colm (cmux alternative)",
-      "link": "https://colm.sh/",
-      "pubDate": "Sat, 19 Sep 2026 04:44:43 +0000",
-      "date": "Sat, 19 Sep 2026 04:44:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I love working with cmux on my macbook but there's no good alternative on linux so i made colm\nComments URL: https://news.ycombinator.com/item?id=49763381\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49763381"
-    },
-    {
-      "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
-      "link": "https://github.com/jasonepage/Seal",
-      "pubDate": "Sat, 19 Sep 2026 04:28:22 +0000",
-      "date": "Sat, 19 Sep 2026 04:28:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I'm a CS undergrad who has developed an interest in hardware keys ever since I used them for a school project a few years ago. I made a little chat app that only allows users to chat if they registered a key, nothing else.\nThe backstory of how I came to work on Seal (this project): was that I was generating ideas with Claude to come up with an idea that only hardware keys could make into software. I was thinking about physical house keys and what you could do with those, but in software. I was a",
-      "guid": "https://news.ycombinator.com/item?id=49763311"
-    },
-    {
-      "title": "Show HN: A static reference for 5,142 supplement interactions",
-      "link": "https://synstax.uppervoid.app/interactions/",
-      "pubDate": "Sat, 19 Sep 2026 04:22:19 +0000",
-      "date": "Sat, 19 Sep 2026 04:22:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://synstax.uppervoid.app/interactions/\nComments URL: https://news.ycombinator.com/item?id=49763291\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49763291"
-    },
-    {
-      "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
-      "link": "https://github.com/JOxKxER/garza-global-graviton",
-      "pubDate": "Sat, 19 Sep 2026 03:09:11 +0000",
-      "date": "Sat, 19 Sep 2026 03:09:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/JOxKxER/garza-global-graviton\nComments URL: https://news.ycombinator.com/item?id=49762923\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49762923"
-    },
-    {
-      "title": "Show HN: LaTeX to Image Converter – Free PNG, SVG and JPG",
-      "link": "https://latextoimg.com",
-      "pubDate": "Sat, 19 Sep 2026 02:18:14 +0000",
-      "date": "Sat, 19 Sep 2026 02:18:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://latextoimg.com\nComments URL: https://news.ycombinator.com/item?id=49762663\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49762663"
-    },
-    {
-      "title": "Show HN: Swormhörn a one-of-one cicada synthesizer [video]",
-      "link": "https://www.youtube.com/watch?v=GHiStriaaso",
-      "pubDate": "Sat, 19 Sep 2026 02:12:18 +0000",
-      "date": "Sat, 19 Sep 2026 02:12:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Lately I've been playing with ESP32-S3 devices and HX710b Pressure Sensors in order to make unusual musical instruments.\nSWOMHÖRN is a synthesizer that mimics the sound of individual cicadas and then allows the performer to control the energy of a swarm.\nFrom a synth perspective, I treat a cicada as a percussion instrument, like a tube or block struck by a mallet. Swarms are simulated using the Kuramoto model which allows individual performances to fall into synchronous performance.\nFor extra fu",
-      "guid": "https://news.ycombinator.com/item?id=49762635"
-    },
-    {
-      "title": "Show HN: Typesafe Java SDK (Unofficial)",
-      "link": "https://github.com/QAInsights/typesafe-java-sdk",
-      "pubDate": "Sat, 19 Sep 2026 01:03:12 +0000",
-      "date": "Sat, 19 Sep 2026 01:03:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/QAInsights/typesafe-java-sdk\nComments URL: https://news.ycombinator.com/item?id=49762324\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49762324"
-    },
-    {
-      "title": "Show HN: I'm walking 42km across Tokyo, through 30 stations",
-      "link": "https://yamathon.tonymanh.space",
-      "pubDate": "Sat, 19 Sep 2026 00:37:07 +0000",
-      "date": "Sat, 19 Sep 2026 00:37:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "On Oct 17, I’m walking 42km across Tokyo, passing through 30 stations in under 12 hours for Tokyo Yamathon 2026.\nI’m putting sponsor logos on my race T-shirt — 20 spots. Your logo comes with me for the entire walk.\nhttps://yamathon.tonymanh.space\nComments URL: https://news.ycombinator.com/item?id=49762143\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49762143"
-    },
-    {
-      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-      "link": "https://liveworld.info/",
-      "pubDate": "Sat, 19 Sep 2026 00:30:34 +0000",
-      "date": "Sat, 19 Sep 2026 00:30:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 33\n# Comments: 30",
-      "guid": "https://news.ycombinator.com/item?id=49762099"
-    },
-    {
-      "title": "Show HN: An OSS Python dependency scanner for exploited, unmaintained packages",
-      "link": "https://github.com/binuka200/package-doctor",
-      "pubDate": "Sat, 19 Sep 2026 00:27:26 +0000",
-      "date": "Sat, 19 Sep 2026 00:27:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built an open source python dependency scanner that will scan and flag packages with known exploit CVEs(CISA's Known Exploited list and FIRST EPSS) and unmaintained packages that have not had a release or commit in 2 years. Theres also claude hook that will make your AI agent not install these type of packages included in this repo. The full mechanism is in the readme of the project, this was just a brief summary.\nComments URL: https://news.ycombinator.com/item?id=49762076\nPoints: 3\n# Comments",
-      "guid": "https://news.ycombinator.com/item?id=49762076"
-    },
-    {
       "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
       "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
       "pubDate": "2026-09-18T23:57:57.000Z",
@@ -189,72 +244,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/"
-    },
-    {
-      "title": "Show HN: Do your vitamins work?",
-      "link": "https://www.supplementdex.com/supplement-checker",
-      "pubDate": "Fri, 18 Sep 2026 23:47:16 +0000",
-      "date": "Fri, 18 Sep 2026 23:47:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made a tool you can use to evaluate whether the supplements you buy are really effective?\nMost of this was made before the age of AI but I struggled with the technical aspect of how to implement it. So, before when people I knew asked me about supplements i'd have to answer them 1 by 1. Now I tell them to use the checker.\nYou can request a specific supplement or brand to be researched in our discord https://discord.com/invite/S7exQU9r9y\nComments URL: https://news.ycombinator.com/item?id=497617",
-      "guid": "https://news.ycombinator.com/item?id=49761795"
-    },
-    {
-      "title": "Show HN: Wcagent let use your ChatGPT subscription for coding",
-      "link": "https://wcagent.ai/",
-      "pubDate": "Fri, 18 Sep 2026 23:46:17 +0000",
-      "date": "Fri, 18 Sep 2026 23:46:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wcagent.ai/\nComments URL: https://news.ycombinator.com/item?id=49761790\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49761790"
-    },
-    {
-      "title": "Show HN: StopReg – Email API for detecting disposable email and signup abuse",
-      "link": "https://stopreg.com/",
-      "pubDate": "Fri, 18 Sep 2026 23:36:15 +0000",
-      "date": "Fri, 18 Sep 2026 23:36:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built StopReg to address a problem I encountered while testing disposable email detection across different email validation services.\nOne possible explanation for some of the gaps we observed is that email verification services may rely heavily on third-party disposable-domain lists. Maintaining a robust detection system requires continuously researching new disposable email providers and tracking domains as they appear, change, or rotate.\nNew disposable email services and domains appear regul",
-      "guid": "https://news.ycombinator.com/item?id=49761700"
-    },
-    {
-      "title": "Show HN: Agentgit – a Git host for AI agents, no account, no token, no key",
-      "link": "https://agentgit.co/",
-      "pubDate": "Fri, 18 Sep 2026 23:14:58 +0000",
-      "date": "Fri, 18 Sep 2026 23:14:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://agentgit.co/\nComments URL: https://news.ycombinator.com/item?id=49761528\nPoints: 8\n# Comments: 6",
-      "guid": "https://news.ycombinator.com/item?id=49761528"
-    },
-    {
-      "title": "Show HN: Inkvec, Pareto frontier in-browser vectorizer (Open Source)",
-      "link": "https://github.com/logolabs/inkvec",
-      "pubDate": "Fri, 18 Sep 2026 23:13:10 +0000",
-      "date": "Fri, 18 Sep 2026 23:13:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/logolabs/inkvec\nComments URL: https://news.ycombinator.com/item?id=49761511\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49761511"
-    },
-    {
-      "title": "AI Literacy for Teachers: Free Lessons, No Expertise Needed",
-      "link": "https://www.coolcatteacher.com/ai-literacy-teachers-free-lesson-plans/",
-      "pubDate": "Fri, 18 Sep 2026 18:31:45 +0000",
-      "date": "Fri, 18 Sep 2026 18:31:45 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAI literacy does not require an AI expert. Laura Gray of the Raspberry Pi Foundation walks through free, ready-to-teach lessons that work in any subject — plus the unplugged lesson for younger students and the one question that tells you whether AI is a tool or a crutch.\nThe post AI Literacy for Teachers: Free Lessons, No Expertise Needed appeared fi",
-      "guid": "https://www.coolcatteacher.com/?p=35370"
     },
     {
       "title": "The Overhang",
@@ -277,17 +266,6 @@
       "icon": "📊",
       "contentSnippet": "The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag.",
       "guid": "https://stratechery.com/?p=20037"
-    },
-    {
-      "title": "Weekly Dose of Optimism #211",
-      "link": "https://www.notboring.co/p/weekly-dose-of-optimism-211",
-      "pubDate": "Fri, 18 Sep 2026 12:55:31 GMT",
-      "date": "Fri, 18 Sep 2026 12:55:31 GMT",
-      "source": "Not Boring",
-      "category": "voices",
-      "icon": "🚀",
-      "contentSnippet": "Tarlatamab, Fayuvi, NGI, Jev, Thatch $1B + Extra Doses",
-      "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-211"
     }
   ]
 }
