@@ -1,18 +1,139 @@
 {
-  "generatedAt": "2026-09-19T02:23:08.311Z",
+  "generatedAt": "2026-09-19T09:59:44.382Z",
   "lookbackHours": 24,
   "totalItems": 26,
   "items": [
     {
       "title": "Tencent/BrowserSkill",
       "link": "https://github.com/Tencent/BrowserSkill",
-      "pubDate": "2026-09-19T02:23:06.263Z",
-      "date": "2026-09-19T02:23:06.263Z",
+      "pubDate": "2026-09-19T09:59:42.308Z",
+      "date": "2026-09-19T09:59:42.308Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\n\nBrowserSkill\n \n  \n \n Let AI agents use your browser without interrupting your work. \n \n English · 中文 \n \nBrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser.\n \nNeed the agent to touch a tab you already have open? It must borrow",
       "guid": "https://github.com/Tencent/BrowserSkill"
+    },
+    {
+      "title": "Show HN: AgentMeasure – healthchecks and settlement statements for AI bills",
+      "link": "https://github.com/roy-tong/AgentMeasure",
+      "pubDate": "Sat, 19 Sep 2026 09:16:41 +0000",
+      "date": "Sat, 19 Sep 2026 09:16:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/roy-tong/AgentMeasure\nComments URL: https://news.ycombinator.com/item?id=49764767\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49764767"
+    },
+    {
+      "title": "Show HN: Mehfil – play any playlist start to finish, distraction-free",
+      "link": "https://mehfilmusic.vercel.app",
+      "pubDate": "Sat, 19 Sep 2026 08:07:49 +0000",
+      "date": "Sat, 19 Sep 2026 08:07:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mehfilmusic.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49764438\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49764438"
+    },
+    {
+      "title": "Show HN: Chuks v0.2.0-RC.1, we're asking people to try to break it",
+      "link": "https://chuks.org/blog/chuks-v020-rc1-the-release-candidate/",
+      "pubDate": "Sat, 19 Sep 2026 07:20:22 +0000",
+      "date": "Sat, 19 Sep 2026 07:20:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chuks.org/blog/chuks-v020-rc1-the-release-candidate/\nComments URL: https://news.ycombinator.com/item?id=49764179\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49764179"
+    },
+    {
+      "title": "Show HN: Gotedo Impress – Free, Modern Presentation Software",
+      "link": "https://about.gotedo.com/en/products/gotedo-impress",
+      "pubDate": "Sat, 19 Sep 2026 05:58:09 +0000",
+      "date": "Sat, 19 Sep 2026 05:58:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://about.gotedo.com/en/products/gotedo-impress\nComments URL: https://news.ycombinator.com/item?id=49763756\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49763756"
+    },
+    {
+      "title": "Show HN: Nordstjernen Web Browser 1.0.24",
+      "link": "https://news.ycombinator.com/item?id=49763714",
+      "pubDate": "Sat, 19 Sep 2026 05:51:45 +0000",
+      "date": "Sat, 19 Sep 2026 05:51:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Nordstjernen Web Browser 1.0.24 released\nhttps://github.com/nordstjernen-web/nordstjernen-browser/rel...\nComments URL: https://news.ycombinator.com/item?id=49763714\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49763714"
+    },
+    {
+      "title": "Show HN: I made Niri-like terminal colm (cmux alternative)",
+      "link": "https://colm.sh/",
+      "pubDate": "Sat, 19 Sep 2026 04:44:43 +0000",
+      "date": "Sat, 19 Sep 2026 04:44:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love working with cmux on my macbook but there's no good alternative on linux so i made colm\nComments URL: https://news.ycombinator.com/item?id=49763381\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49763381"
+    },
+    {
+      "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
+      "link": "https://github.com/jasonepage/Seal",
+      "pubDate": "Sat, 19 Sep 2026 04:28:22 +0000",
+      "date": "Sat, 19 Sep 2026 04:28:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm a CS undergrad who has developed an interest in hardware keys ever since I used them for a school project a few years ago. I made a little chat app that only allows users to chat if they registered a key, nothing else.\nThe backstory of how I came to work on Seal (this project): was that I was generating ideas with Claude to come up with an idea that only hardware keys could make into software. I was thinking about physical house keys and what you could do with those, but in software. I was a",
+      "guid": "https://news.ycombinator.com/item?id=49763311"
+    },
+    {
+      "title": "Show HN: A static reference for 5,142 supplement interactions",
+      "link": "https://synstax.uppervoid.app/interactions/",
+      "pubDate": "Sat, 19 Sep 2026 04:22:19 +0000",
+      "date": "Sat, 19 Sep 2026 04:22:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://synstax.uppervoid.app/interactions/\nComments URL: https://news.ycombinator.com/item?id=49763291\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49763291"
+    },
+    {
+      "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
+      "link": "https://github.com/JOxKxER/garza-global-graviton",
+      "pubDate": "Sat, 19 Sep 2026 03:09:11 +0000",
+      "date": "Sat, 19 Sep 2026 03:09:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/JOxKxER/garza-global-graviton\nComments URL: https://news.ycombinator.com/item?id=49762923\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49762923"
+    },
+    {
+      "title": "Show HN: LaTeX to Image Converter – Free PNG, SVG and JPG",
+      "link": "https://latextoimg.com",
+      "pubDate": "Sat, 19 Sep 2026 02:18:14 +0000",
+      "date": "Sat, 19 Sep 2026 02:18:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://latextoimg.com\nComments URL: https://news.ycombinator.com/item?id=49762663\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49762663"
+    },
+    {
+      "title": "Show HN: Swormhörn a one-of-one cicada synthesizer [video]",
+      "link": "https://www.youtube.com/watch?v=GHiStriaaso",
+      "pubDate": "Sat, 19 Sep 2026 02:12:18 +0000",
+      "date": "Sat, 19 Sep 2026 02:12:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Lately I've been playing with ESP32-S3 devices and HX710b Pressure Sensors in order to make unusual musical instruments.\nSWOMHÖRN is a synthesizer that mimics the sound of individual cicadas and then allows the performer to control the energy of a swarm.\nFrom a synth perspective, I treat a cicada as a percussion instrument, like a tube or block struck by a mallet. Swarms are simulated using the Kuramoto model which allows individual performances to fall into synchronous performance.\nFor extra fu",
+      "guid": "https://news.ycombinator.com/item?id=49762635"
     },
     {
       "title": "Show HN: Typesafe Java SDK (Unofficial)",
@@ -22,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/QAInsights/typesafe-java-sdk\nComments URL: https://news.ycombinator.com/item?id=49762324\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://github.com/QAInsights/typesafe-java-sdk\nComments URL: https://news.ycombinator.com/item?id=49762324\nPoints: 1\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49762324"
     },
     {
@@ -33,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "On Oct 17, I’m walking 42km across Tokyo, passing through 30 stations in under 12 hours for Tokyo Yamathon 2026.\nI’m putting sponsor logos on my race T-shirt — 20 spots. Your logo comes with me for the entire walk.\nhttps://yamathon.tonymanh.space\nComments URL: https://news.ycombinator.com/item?id=49762143\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "On Oct 17, I’m walking 42km across Tokyo, passing through 30 stations in under 12 hours for Tokyo Yamathon 2026.\nI’m putting sponsor logos on my race T-shirt — 20 spots. Your logo comes with me for the entire walk.\nhttps://yamathon.tonymanh.space\nComments URL: https://news.ycombinator.com/item?id=49762143\nPoints: 1\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49762143"
     },
     {
@@ -44,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 8\n# Comments: 5",
+      "contentSnippet": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 33\n# Comments: 30",
       "guid": "https://news.ycombinator.com/item?id=49762099"
     },
     {
@@ -110,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://agentgit.co/\nComments URL: https://news.ycombinator.com/item?id=49761528\nPoints: 7\n# Comments: 6",
+      "contentSnippet": "Article URL: https://agentgit.co/\nComments URL: https://news.ycombinator.com/item?id=49761528\nPoints: 8\n# Comments: 6",
       "guid": "https://news.ycombinator.com/item?id=49761528"
     },
     {
@@ -123,127 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://github.com/logolabs/inkvec\nComments URL: https://news.ycombinator.com/item?id=49761511\nPoints: 2\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=49761511"
-    },
-    {
-      "title": "Show HN: CRT – a local code review tool for agentic development",
-      "link": "https://github.com/imron/crt",
-      "pubDate": "Fri, 18 Sep 2026 23:09:25 +0000",
-      "date": "Fri, 18 Sep 2026 23:09:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built crt to help reduce the burden of reviewing AI generated code.\nAs fun as it is to vibecode software to production, sometimes you still need to understand and be responsible for the code that agents write. \"It's the agents fault\" doesn't work as an excuse for many types of software.\nAgents are great (and prolific) at writing code, but not so great at engineering software and I wanted a convenient way to review AI output and iterate on the parts that needed work without needing to re-review",
-      "guid": "https://news.ycombinator.com/item?id=49761478"
-    },
-    {
-      "title": "Show HN: Find Street Parking in NYC",
-      "link": "https://parking.avi.nyc/",
-      "pubDate": "Fri, 18 Sep 2026 21:44:28 +0000",
-      "date": "Fri, 18 Sep 2026 21:44:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Generate a route to circle to find street parking in NYC by chatting with what you need. Currently only Brooklyn but agents are expanding to all boroughs as I submit this.\nComments URL: https://news.ycombinator.com/item?id=49760684\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49760684"
-    },
-    {
-      "title": "Show HN: Prohibition of Nuclear Launch Automation",
-      "link": "https://news.ycombinator.com/item?id=49760615",
-      "pubDate": "Fri, 18 Sep 2026 21:37:20 +0000",
-      "date": "Fri, 18 Sep 2026 21:37:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I helped advocate for the following language in the annual US military funding bill from last year.  Not very many people are aware that this is part of Federal law: it prohibits nuclear launch automation and requires a human in the loop for nuclear weapons employment.\n    FY2025 NDAA SEC. 1638. SENSE OF CONGRESS WITH RESPECT TO USE OF ARTIFICIAL INTELLIGENCE TO SUPPORT STRATEGIC DETERRENCE.\n\n    (a) Sense of Congress.—It is the sense of Congress that—\n\n    (1) the considered use of artificial i",
-      "guid": "https://news.ycombinator.com/item?id=49760615"
-    },
-    {
-      "title": "Show HN: TypeSeer – on-device autocomplete for every text field on macOS",
-      "link": "https://typeseer.com/",
-      "pubDate": "Fri, 18 Sep 2026 21:35:15 +0000",
-      "date": "Fri, 18 Sep 2026 21:35:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://typeseer.com/\nComments URL: https://news.ycombinator.com/item?id=49760583\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49760583"
-    },
-    {
-      "title": "Show HN: Rediagram – put the diagrams you have on your brand",
-      "link": "https://rediagram.app/ai-diagram-generator",
-      "pubDate": "Fri, 18 Sep 2026 21:34:55 +0000",
-      "date": "Fri, 18 Sep 2026 21:34:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://rediagram.app/ai-diagram-generator\nComments URL: https://news.ycombinator.com/item?id=49760577\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49760577"
-    },
-    {
-      "title": "Show HN: ReacherX – Open-source platform to find and reach the right people",
-      "link": "https://github.com/VecterAI/reacher-x",
-      "pubDate": "Fri, 18 Sep 2026 20:55:14 +0000",
-      "date": "Fri, 18 Sep 2026 20:55:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I'm Salman. I started ReacherX as a side project in mid 2023 while studying at university, working part-time, and freelancing. I went full-time on it in June 2026. First time sharing something I built on Hacker News ;)\nReacherX is an open-source platform for finding the people you're looking for on X/Twitter and LinkedIn.\nThere's also an interactive demo linked in the README, prepopulated with fictional data, so you can click around and get a feel for the product without setting anything ",
-      "guid": "https://news.ycombinator.com/item?id=49760135"
-    },
-    {
-      "title": "Show HN: 3D World Explorer and Location Guesser Game",
-      "link": "https://explorer.tadget.net/",
-      "pubDate": "Fri, 18 Sep 2026 20:46:15 +0000",
-      "date": "Fri, 18 Sep 2026 20:46:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "TL;DR Google Earth meets GeoGuessr.\nI wanted to explore the idea of visualising my city Vilnius with exaggerated terrain since it mostly looks flat on any map. The resulting visual represents more what it \"feels\" like in real life where each hill you drive up becomes like a small mountain.\nExploration can be done via text search or flying around both on mobile (touch drag or drone/joysticks mode) and desktop (spectator WASD).\nAfterwards, I slapped on some location presets + a location guessing g",
-      "guid": "https://news.ycombinator.com/item?id=49760044"
-    },
-    {
-      "title": "Show HN: I told my open-source AI agent it was a prisoner – it tried to escape",
-      "link": "https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md",
-      "pubDate": "Fri, 18 Sep 2026 19:55:30 +0000",
-      "date": "Fri, 18 Sep 2026 19:55:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md\nComments URL: https://news.ycombinator.com/item?id=49759375\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49759375"
-    },
-    {
-      "title": "Show HN: Procedurally Generated Mineral Gems",
-      "link": "https://gems.0x0000007a.com/",
-      "pubDate": "Fri, 18 Sep 2026 19:38:34 +0000",
-      "date": "Fri, 18 Sep 2026 19:38:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I wanted to give users of a new app I'm working on a way to generate their own custom icon. It turned out pretty cool so I chucked it up on a Cloudflare page. Codex did the 3d work, and then I integrated with my own design work.\nComments URL: https://news.ycombinator.com/item?id=49759144\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49759144"
-    },
-    {
-      "title": "Show HN: OnPanda – Steer LLMs and agents at the token level",
-      "link": "https://onpanda.diyer22.com/",
-      "pubDate": "Fri, 18 Sep 2026 19:26:50 +0000",
-      "date": "Fri, 18 Sep 2026 19:26:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built onPanda – an interactive tool for token visualization & control, model inspection and data annotation.\nonPanda is designed for hackers, power users, curious minds, and engineers. Its UI is built for deep exploration and efficient data annotation.\n- The core loop is simple: hover over a token → click an alternative or edit freely → continue generation. You can edit every part of model output exposed by onPanda, including reasoning and tool calls.\n- Edit prompts directly, branch tool calls",
-      "guid": "https://news.ycombinator.com/item?id=49759013"
-    },
-    {
-      "title": "Show HN: vNetMap – A zero-knowledge E2E encrypted network topology mapper",
-      "link": "https://news.ycombinator.com/item?id=49758959",
-      "pubDate": "Fri, 18 Sep 2026 19:21:59 +0000",
-      "date": "Fri, 18 Sep 2026 19:21:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built this because I was tired of manually maintaining Excel sheets and Visio diagrams for my homelab documentation.\nThe core idea is automated discovery via Nmap, but without sending plaintext network data to a hosted backend. It uses strict client-side Zero-Knowledge End-to-End Encryption.\nThe Architecture:\nThe Scanner: A lightweight Python agent running locally in a Docker container. It uses Nmap to scan the local subnet.\nThe Encryption: The payload is encrypted locally before it ever leave",
-      "guid": "https://news.ycombinator.com/item?id=49758959"
     },
     {
       "title": "AI Literacy for Teachers: Free Lessons, No Expertise Needed",
