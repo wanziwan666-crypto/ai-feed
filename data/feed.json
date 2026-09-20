@@ -1,18 +1,227 @@
 {
-  "generatedAt": "2026-09-20T03:01:58.588Z",
+  "generatedAt": "2026-09-20T10:20:15.291Z",
   "lookbackHours": 24,
-  "totalItems": 1,
+  "totalItems": 20,
   "items": [
     {
-      "title": "Tencent/BrowserSkill",
-      "link": "https://github.com/Tencent/BrowserSkill",
-      "pubDate": "2026-09-20T03:01:28.921Z",
-      "date": "2026-09-20T03:01:28.921Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: Delightful Cells – reliable AI batch processing for spreadsheets",
+      "link": "https://delightfulcells.com",
+      "pubDate": "Sun, 20 Sep 2026 09:31:29 +0000",
+      "date": "Sun, 20 Sep 2026 09:31:29 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.\n\nBrowserSkill\n \n  \n \n Let AI agents use your browser without interrupting your work. \n \n English · 中文 \n \nBrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser.\n \nNeed the agent to touch a tab you already have open? It must borrow",
-      "guid": "https://github.com/Tencent/BrowserSkill"
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://delightfulcells.com\nComments URL: https://news.ycombinator.com/item?id=49774124\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49774124"
+    },
+    {
+      "title": "Show HN: I-server: Hide server using ICMP reflection/Destination Unreachable",
+      "link": "https://github.com/hajoon22/i-server",
+      "pubDate": "Sun, 20 Sep 2026 09:10:47 +0000",
+      "date": "Sun, 20 Sep 2026 09:10:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A project that communicates with clients behind NAT while making it difficult to directly identify the actual server, using ICMP Echo Reflection and ICMP Destination Unreachable.\nComments URL: https://news.ycombinator.com/item?id=49774010\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49774010"
+    },
+    {
+      "title": "Show HN: Book recommendations with live library availability",
+      "link": "https://leafle.nanosheep.net",
+      "pubDate": "Sun, 20 Sep 2026 09:05:11 +0000",
+      "date": "Sun, 20 Sep 2026 09:05:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://leafle.nanosheep.net\nComments URL: https://news.ycombinator.com/item?id=49773980\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49773980"
+    },
+    {
+      "title": "Show HN: I built Hacker News alternative and scale to 11,000 users",
+      "link": "https://founderstoday.org/",
+      "pubDate": "Sun, 20 Sep 2026 09:03:50 +0000",
+      "date": "Sun, 20 Sep 2026 09:03:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://founderstoday.org/\nComments URL: https://news.ycombinator.com/item?id=49773968\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773968"
+    },
+    {
+      "title": "Show HN: AI Facial Attractiveness Model Aligned with Human Preferences",
+      "link": "https://faceanalysisai.com/",
+      "pubDate": "Sun, 20 Sep 2026 08:48:35 +0000",
+      "date": "Sun, 20 Sep 2026 08:48:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://faceanalysisai.com/\nComments URL: https://news.ycombinator.com/item?id=49773871\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773871"
+    },
+    {
+      "title": "Show HN: I cleaned AI watermarks from my clipboard",
+      "link": "https://www.pastezero.com/",
+      "pubDate": "Sun, 20 Sep 2026 08:40:19 +0000",
+      "date": "Sun, 20 Sep 2026 08:40:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.pastezero.com/\nComments URL: https://news.ycombinator.com/item?id=49773825\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49773825"
+    },
+    {
+      "title": "Show HN: Fluentry – local voice-to-text dictation for Linux, Wayland included",
+      "link": "https://fluentry.github.io/",
+      "pubDate": "Sun, 20 Sep 2026 08:36:59 +0000",
+      "date": "Sun, 20 Sep 2026 08:36:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://fluentry.github.io/\nComments URL: https://news.ycombinator.com/item?id=49773794\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773794"
+    },
+    {
+      "title": "Show HN: Vyne, a 205MB on-device decision model with typed, calibrated outputs",
+      "link": "https://vyne.toolchain.studio/",
+      "pubDate": "Sun, 20 Sep 2026 08:31:59 +0000",
+      "date": "Sun, 20 Sep 2026 08:31:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vyne.toolchain.studio/\nComments URL: https://news.ycombinator.com/item?id=49773767\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773767"
+    },
+    {
+      "title": "Show HN: Will Jev pull the lever in the trolley problem?",
+      "link": "https://gpu.studio/trolley",
+      "pubDate": "Sun, 20 Sep 2026 08:31:26 +0000",
+      "date": "Sun, 20 Sep 2026 08:31:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "The Jev benchmark you've all been waiting for: Will Jev pull the lever in the trolley problem?\nDon't think too much about it :)\nPlace whatever you'd like on each side of the tracks, and GPU (my startup's AI system, whee!) will have Jev judge the result.\nAs a bonus, two really good looking SVGs are rendered with gpt-oss-120b for what you place on the tracks. I've made a really high quality thing here.\nMy first impression is that Jev does well! I understand it's not exactly designed for this kind ",
+      "guid": "https://news.ycombinator.com/item?id=49773756"
+    },
+    {
+      "title": "Show HN: ManifestGo – AI tuned for MV3 extension boilerplate and edge case",
+      "link": "https://manifestgo.app/",
+      "pubDate": "Sun, 20 Sep 2026 08:04:48 +0000",
+      "date": "Sun, 20 Sep 2026 08:04:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://manifestgo.app/\nComments URL: https://news.ycombinator.com/item?id=49773611\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773611"
+    },
+    {
+      "title": "Show HN: Hush – GitHub issue triage that abstains when it isn't confident",
+      "link": "https://github.com/emreozyoruk/hush",
+      "pubDate": "Sun, 20 Sep 2026 07:56:37 +0000",
+      "date": "Sun, 20 Sep 2026 07:56:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/emreozyoruk/hush\nComments URL: https://news.ycombinator.com/item?id=49773547\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773547"
+    },
+    {
+      "title": "Show HN: How to Vibe Code Hardware",
+      "link": "https://drone.charlesazam.com/login",
+      "pubDate": "Sun, 20 Sep 2026 07:55:42 +0000",
+      "date": "Sun, 20 Sep 2026 07:55:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Code is the future of hardware engineering.\nComments URL: https://news.ycombinator.com/item?id=49773539\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773539"
+    },
+    {
+      "title": "Show HN: WideMelon - Nintendo DS games in widescreen and a phone touchscreen",
+      "link": "https://github.com/pruefsumme/widemelon",
+      "pubDate": "Sun, 20 Sep 2026 07:32:28 +0000",
+      "date": "Sun, 20 Sep 2026 07:32:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/pruefsumme/widemelon\nComments URL: https://news.ycombinator.com/item?id=49773400\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773400"
+    },
+    {
+      "title": "Show HN: ChatGPT to Word – export a thread to a readable .docx",
+      "link": "https://chatgpt2word.com",
+      "pubDate": "Sun, 20 Sep 2026 06:47:11 +0000",
+      "date": "Sun, 20 Sep 2026 06:47:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Paste a ChatGPT conversation and get a Word file with headings and spacing that survive sharing. Free, in-browser.\nComments URL: https://news.ycombinator.com/item?id=49773125\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773125"
+    },
+    {
+      "title": "Show HN: Website Auditor –> Test your brand's AI visibility, get growth plan",
+      "link": "https://website-auditor.io/",
+      "pubDate": "Sun, 20 Sep 2026 06:44:51 +0000",
+      "date": "Sun, 20 Sep 2026 06:44:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN community - Website Auditor crawls and hits 4 AI Assistants (Claude, ChatGPT, Gemini, Perplexity) based on your website's detected business sector with questions based on the market served. If your business comes back in the top five of your market served for that business sector, you are scored. If not, you get a 0. Based on that, I pull the citations AI assistants use to determine ranking, and put together a 90-day growth plan (available with a free trial subscription) for your site. It",
+      "guid": "https://news.ycombinator.com/item?id=49773112"
+    },
+    {
+      "title": "Show HN: Web Tools List – browser tools grouped by the job, not the format",
+      "link": "https://webtoolslist.com",
+      "pubDate": "Sun, 20 Sep 2026 06:44:48 +0000",
+      "date": "Sun, 20 Sep 2026 06:44:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I got tired of directories that dump 400 converters in one pile. This one is grouped by job: generate, convert, edit, calculate, check. PDF/image/QR guides included. Free, no account.\nComments URL: https://news.ycombinator.com/item?id=49773111\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773111"
+    },
+    {
+      "title": "Show HN: Morse Code Translator – real-time text-to-Morse with audio",
+      "link": "https://morsetranslator.me/",
+      "pubDate": "Sun, 20 Sep 2026 06:39:11 +0000",
+      "date": "Sun, 20 Sep 2026 06:39:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://morsetranslator.me/\nComments URL: https://news.ycombinator.com/item?id=49773086\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49773086"
+    },
+    {
+      "title": "Show HN: ScoreTail, Browser-based sheet music editor with live collaboration",
+      "link": "https://scoretail.com",
+      "pubDate": "Sun, 20 Sep 2026 05:48:51 +0000",
+      "date": "Sun, 20 Sep 2026 05:48:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://scoretail.com\nComments URL: https://news.ycombinator.com/item?id=49772820\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49772820"
+    },
+    {
+      "title": "Show HN: Architectural Guardrails for AI native development",
+      "link": "https://github.com/cxgrd/cli",
+      "pubDate": "Sun, 20 Sep 2026 04:17:49 +0000",
+      "date": "Sun, 20 Sep 2026 04:17:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/cxgrd/cli\nComments URL: https://news.ycombinator.com/item?id=49772473\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49772473"
+    },
+    {
+      "title": "Show HN: The Smallest LLM",
+      "link": "https://gist.github.com/skorotkiewicz/dedc3b5a857be7d0f2b378334721713c",
+      "pubDate": "Sun, 20 Sep 2026 04:05:05 +0000",
+      "date": "Sun, 20 Sep 2026 04:05:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://gist.github.com/skorotkiewicz/dedc3b5a857be7d0f2b378334721713c\nComments URL: https://news.ycombinator.com/item?id=49772424\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49772424"
     }
   ]
 }
