@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T02:32:48.992Z",
+  "generatedAt": "2026-09-19T03:31:04.823Z",
   "lookbackHours": 24,
   "totalItems": 21,
   "items": [
     {
       "title": "Tencent/BrowserSkill",
       "link": "https://github.com/Tencent/BrowserSkill",
-      "pubDate": "2026-09-20T02:32:42.481Z",
-      "date": "2026-09-20T02:32:42.481Z",
+      "pubDate": "2026-09-19T03:21:44.495Z",
+      "date": "2026-09-19T03:21:44.495Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,10 +15,32 @@
       "guid": "https://github.com/Tencent/BrowserSkill"
     },
     {
-      "title": "Show HN: Bastardica – Create bastard web fonts",
-      "link": "https://bastardica.mitpit.com",
-      "pubDate": "Sun, 20 Sep 2026 02:02:53 +0000",
-      "date": "Sun, 20 Sep 2026 02:02:53 +0000",
+      "title": "Show HN: LaTeX to Image Converter – Free PNG, SVG and JPG",
+      "link": "https://latextoimg.com",
+      "pubDate": "Sat, 19 Sep 2026 02:18:14 +0000",
+      "date": "Sat, 19 Sep 2026 02:18:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://latextoimg.com\nComments URL: https://news.ycombinator.com/item?id=49762663\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49762663"
+    },
+    {
+      "title": "Show HN: Swormhörn a one-of-one cicada synthesizer [video]",
+      "link": "https://www.youtube.com/watch?v=GHiStriaaso",
+      "pubDate": "Sat, 19 Sep 2026 02:12:18 +0000",
+      "date": "Sat, 19 Sep 2026 02:12:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Lately I've been playing with ESP32-S3 devices and HX710b Pressure Sensors in order to make unusual musical instruments.\nSWOMHÖRN is a synthesizer that mimics the sound of individual cicadas and then allows the performer to control the energy of a swarm.\nFrom a synth perspective, I treat a cicada as a percussion instrument, like a tube or block struck by a mallet. Swarms are simulated using the Kuramoto model which allows individual performances to fall into synchronous performance.\nFor extra fu",
+      "guid": "https://news.ycombinator.com/item?id=49762635"
+    },
+    {
+      "title": "Show HN: Typesafe Java SDK (Unofficial)",
+      "link": "https://github.com/QAInsights/typesafe-java-sdk",
+      "pubDate": "Sat, 19 Sep 2026 01:03:12 +0000",
+      "date": "Sat, 19 Sep 2026 01:03:12 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
@@ -44,8 +66,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/zdenham/jev-lint\nComments URL: https://news.ycombinator.com/item?id=49771155\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49771155"
+      "contentSnippet": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 14\n# Comments: 14",
+      "guid": "https://news.ycombinator.com/item?id=49762099"
     },
     {
       "title": "Show HN: I created an open source locally usable full fledged AI platform",
@@ -209,30 +231,52 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Newtdev/blynk-deferlink\nComments URL: https://news.ycombinator.com/item?id=49769843\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49769843"
+      "contentSnippet": "I wanted to give users of a new app I'm working on a way to generate their own custom icon. It turned out pretty cool so I chucked it up on a Cloudflare page. Codex did the 3d work, and then I integrated with my own design work.\nComments URL: https://news.ycombinator.com/item?id=49759144\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49759144"
     },
     {
-      "title": "Show HN: OpenWand – A mission to remove chat interface from working with AI",
-      "link": "https://github.com/SunnyLich/OpenWand",
-      "pubDate": "Sat, 19 Sep 2026 20:11:35 +0000",
-      "date": "Sat, 19 Sep 2026 20:11:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi everyone,\nI'm working on OpenWand, an \"LLM chat interface\" that is optimized for AI co-work.\nIts function is to truly integrate AI into your workflow, so no more switching windows, no more copying context, less prompt typing. You can focus on working, not prompting.\nYou can think of it as a free Chatgpt (the interface/frontend) alternative for your everyday work.\nI would be very grateful for any help, testing, feedback and/or bug reports.\nWhat's shown here is just my current implementation. B",
-      "guid": "https://news.ycombinator.com/item?id=49769747"
+      "title": "AI Literacy for Teachers: Free Lessons, No Expertise Needed",
+      "link": "https://www.coolcatteacher.com/ai-literacy-teachers-free-lesson-plans/",
+      "pubDate": "Fri, 18 Sep 2026 18:31:45 +0000",
+      "date": "Fri, 18 Sep 2026 18:31:45 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAI literacy does not require an AI expert. Laura Gray of the Raspberry Pi Foundation walks through free, ready-to-teach lessons that work in any subject — plus the unplugged lesson for younger students and the one question that tells you whether AI is a tool or a crutch.\nThe post AI Literacy for Teachers: Free Lessons, No Expertise Needed appeared fi",
+      "guid": "https://www.coolcatteacher.com/?p=35370"
     },
     {
-      "title": "Show HN: MP3 to MIDI Lab – Convert MP3/WAV to MIDI in the Browser",
-      "link": "https://mp3tomidilab.com/",
-      "pubDate": "Sat, 19 Sep 2026 19:50:36 +0000",
-      "date": "Sat, 19 Sep 2026 19:50:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mp3tomidilab.com/\nComments URL: https://news.ycombinator.com/item?id=49769604\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49769604"
+      "title": "The Overhang",
+      "link": "https://www.oneusefulthing.org/p/the-overhang",
+      "pubDate": "Fri, 18 Sep 2026 17:54:32 GMT",
+      "date": "Fri, 18 Sep 2026 17:54:32 GMT",
+      "source": "Ethan Mollick · One Useful Thing",
+      "category": "voices",
+      "icon": "💡",
+      "contentSnippet": "Using your deep knowledge, wide knowledge, taste, and agency",
+      "guid": "https://www.oneusefulthing.org/p/the-overhang"
+    },
+    {
+      "title": "2026.38: Doomforce",
+      "link": "https://stratechery.com/2026/doomforce/",
+      "pubDate": "Fri, 18 Sep 2026 17:00:00 +0000",
+      "date": "Fri, 18 Sep 2026 17:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag.",
+      "guid": "https://stratechery.com/?p=20037"
+    },
+    {
+      "title": "Weekly Dose of Optimism #211",
+      "link": "https://www.notboring.co/p/weekly-dose-of-optimism-211",
+      "pubDate": "Fri, 18 Sep 2026 12:55:31 GMT",
+      "date": "Fri, 18 Sep 2026 12:55:31 GMT",
+      "source": "Not Boring",
+      "category": "voices",
+      "icon": "🚀",
+      "contentSnippet": "Tarlatamab, Fayuvi, NGI, Jev, Thatch $1B + Extra Doses",
+      "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-211"
     }
   ]
 }
