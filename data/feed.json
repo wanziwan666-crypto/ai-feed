@@ -1,6 +1,227 @@
 {
-  "generatedAt": "2026-09-20T20:01:46.682Z",
+  "generatedAt": "2026-09-21T02:30:42.709Z",
   "lookbackHours": 24,
-  "totalItems": 0,
-  "items": []
+  "totalItems": 20,
+  "items": [
+    {
+      "title": "Show HN: Pollresults.org – free US election opinion poll API",
+      "link": "https://pollresults.org",
+      "pubDate": "Mon, 21 Sep 2026 01:02:13 +0000",
+      "date": "Mon, 21 Sep 2026 01:02:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Not sure if this is even allowed here because of politics, but I made an API for US election poll results. NYT publishes cumulative CSV files with results on their site here (https://www.nytimes.com/interactive/polls/latest-polls.html) under a CC by 4.0 license, so my API parses those files every 10 mins and serves an API from cloudflare. I have done a bunch of random election analytics projects before and this is something I had always wanted.\nComments URL: https://news.ycombinator.com/item?id=",
+      "guid": "https://news.ycombinator.com/item?id=49781823"
+    },
+    {
+      "title": "Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter",
+      "link": "https://github.com/behdad/gdocs-me-up",
+      "pubDate": "Mon, 21 Sep 2026 00:46:42 +0000",
+      "date": "Mon, 21 Sep 2026 00:46:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Over the years I had written dozens of Google Docs documents, that I wanted to post to my website. Not only Google Docs's publish feature is broken and incomplete, Google does not index Google Docs either. So I set out to fix it for myself using AI agents. Sharing here in case someone else finds it useful.\nComments URL: https://news.ycombinator.com/item?id=49781727\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49781727"
+    },
+    {
+      "title": "Show HN: Vsqrd – AWS for Biology Experiments",
+      "link": "https://vsqrd.com/",
+      "pubDate": "Mon, 21 Sep 2026 00:21:02 +0000",
+      "date": "Mon, 21 Sep 2026 00:21:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi hn. We built VSQRD, which is a place to order and run outsourced preclinical studies.\nRight now biotechs that outsource studies to CROs (contract research organizations) have to find them manually. That makes it hard to find the right expertise at the right price.\nBut hey it doesn't have to be this way!! We built vsqrd.com, where CROs can list their study offerings and biotechs can compare and order from them directly. We handle the billing and legal work in the background.\nWe’re starting wit",
+      "guid": "https://news.ycombinator.com/item?id=49781580"
+    },
+    {
+      "title": "Show HN: Lain, a structural code graph and agent coordinator for coding agents",
+      "link": "https://github.com/spuentesp/lain",
+      "pubDate": "Mon, 21 Sep 2026 00:15:55 +0000",
+      "date": "Mon, 21 Sep 2026 00:15:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/spuentesp/lain\nComments URL: https://news.ycombinator.com/item?id=49781554\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49781554"
+    },
+    {
+      "title": "Show HN: Converting AVS audio viz to WebAssembly using GPT 5.6",
+      "link": "https://strlns.github.io/very-serious-vibecoding/AVS-Web-Native-Editor-Alpha/",
+      "pubDate": "Sun, 20 Sep 2026 23:58:55 +0000",
+      "date": "Sun, 20 Sep 2026 23:58:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://strlns.github.io/very-serious-vibecoding/AVS-Web-Native-Editor-Alpha/\nComments URL: https://news.ycombinator.com/item?id=49781443\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49781443"
+    },
+    {
+      "title": "Show HN: Lightspeed, build real time apps the Laravel way (+asteroids demo)",
+      "link": "https://news.ycombinator.com/item?id=49781032",
+      "pubDate": "Sun, 20 Sep 2026 23:02:28 +0000",
+      "date": "Sun, 20 Sep 2026 23:02:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN!\nLaravel has worked with websockets for years but generally speaking it's a one way push architecture (i.e. http in, sockets out).\nLightspeed is kind of like node in that it's a single server that serves your http and your websockets all under one roof. Auth runs in 0.03ms (a Redis read, no database). Your Laravel handler runs inside the full container and the reply comes back down the same socket. I think this could be really cool for creating new ways of working with Laravel.\nAnyway, I p",
+      "guid": "https://news.ycombinator.com/item?id=49781032"
+    },
+    {
+      "title": "Show HN: Try Omarchy for Windows – Full Omarchy Desktop on Windows",
+      "link": "https://github.com/omacom/try-omarchy-windows",
+      "pubDate": "Sun, 20 Sep 2026 22:56:44 +0000",
+      "date": "Sun, 20 Sep 2026 22:56:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "No VM setup or configuration. Download TryOmarchy.exe, follow the prompts, and you'll be booted into a full Omarchy desktop within minutes. No dual booting or repartitioning required.\nUnder the hood it uses QEMU + WHPX, with GPU acceleration where supported.\nComments URL: https://news.ycombinator.com/item?id=49780980\nPoints: 3\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49780980"
+    },
+    {
+      "title": "Show HN: AI Adoption Survey (Census)",
+      "link": "https://www.crawlspider.com/pages/ai-adoption-rate",
+      "pubDate": "Sun, 20 Sep 2026 22:47:26 +0000",
+      "date": "Sun, 20 Sep 2026 22:47:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.crawlspider.com/pages/ai-adoption-rate\nComments URL: https://news.ycombinator.com/item?id=49780915\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49780915"
+    },
+    {
+      "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
+      "link": "https://github.com/openlayer-ai/jevals",
+      "pubDate": "Sun, 20 Sep 2026 22:39:47 +0000",
+      "date": "Sun, 20 Sep 2026 22:39:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/openlayer-ai/jevals\nComments URL: https://news.ycombinator.com/item?id=49780849\nPoints: 7\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49780849"
+    },
+    {
+      "title": "Show HN: Mini-Runbot – Ephemeral Odoo Enviroments Using Python and Docker",
+      "link": "https://github.com/rafnixg/odoo-platform-ephemeral-environment",
+      "pubDate": "Sun, 20 Sep 2026 22:18:31 +0000",
+      "date": "Sun, 20 Sep 2026 22:18:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I build a Mini-Runbot, an open source PoC for creating ephemeral enviroments for Odoo from a Git commit.\nThis is a mini implementation of the real workflow used by Odoo in Odoo-Runbot and the workflow using in the platform Odoo.sh\nThis workdflow take a testing branch and prepare a database, install modules, start Odoo instance, export a port, check that everything works and cleaning everything up afterward.\nA build can:\n- resolve a Git branch or tag\n- prepare an isolated checkout\n- install selec",
+      "guid": "https://news.ycombinator.com/item?id=49780675"
+    },
+    {
+      "title": "Show HN: Native Mac menu bar app for the Anker Prime 160W (local BLE)",
+      "link": "https://github.com/djui/ankered",
+      "pubDate": "Sun, 20 Sep 2026 21:51:10 +0000",
+      "date": "Sun, 20 Sep 2026 21:51:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/djui/ankered\nComments URL: https://news.ycombinator.com/item?id=49780467\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49780467"
+    },
+    {
+      "title": "Show HN: Ran Qwen 3.8 27B autonomously(ish) for 3 weeks on single 3090",
+      "link": "https://huggingface.co/datasets/skeole/qwen-cpp-agent-0-protocol",
+      "pubDate": "Sun, 20 Sep 2026 21:38:22 +0000",
+      "date": "Sun, 20 Sep 2026 21:38:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://huggingface.co/datasets/skeole/qwen-cpp-agent-0-protocol\nComments URL: https://news.ycombinator.com/item?id=49780344\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49780344"
+    },
+    {
+      "title": "Show HN: AgentTrace–Observability and runtime self-healing engine for AI agents",
+      "link": "https://github.com/mohitkumar188/AgentTrace",
+      "pubDate": "Sun, 20 Sep 2026 21:24:17 +0000",
+      "date": "Sun, 20 Sep 2026 21:24:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/mohitkumar188/AgentTrace\nComments URL: https://news.ycombinator.com/item?id=49780222\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49780222"
+    },
+    {
+      "title": "Show HN: Jevlang: Python with a Smart \"If\"",
+      "link": "https://github.com/sumanmichael/jevlang",
+      "pubDate": "Sun, 20 Sep 2026 21:13:41 +0000",
+      "date": "Sun, 20 Sep 2026 21:13:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sumanmichael/jevlang\nComments URL: https://news.ycombinator.com/item?id=49780133\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49780133"
+    },
+    {
+      "title": "Show HN: Badbox – A deterministic bad-pattern detector for codebases",
+      "link": "https://github.com/0ctacity/badbox",
+      "pubDate": "Sun, 20 Sep 2026 21:04:14 +0000",
+      "date": "Sun, 20 Sep 2026 21:04:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/0ctacity/badbox\nComments URL: https://news.ycombinator.com/item?id=49780062\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49780062"
+    },
+    {
+      "title": "Show HN: A parry focused game built in ThreeJS (WIP)",
+      "link": "https://ashina-chi.vercel.app/",
+      "pubDate": "Sun, 20 Sep 2026 20:24:53 +0000",
+      "date": "Sun, 20 Sep 2026 20:24:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ashina-chi.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49779722\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49779722"
+    },
+    {
+      "title": "Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
+      "link": "https://github.com/marciob/openmsg",
+      "pubDate": "Sun, 20 Sep 2026 20:10:39 +0000",
+      "date": "Sun, 20 Sep 2026 20:10:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/marciob/openmsg\nComments URL: https://news.ycombinator.com/item?id=49779581\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49779581"
+    },
+    {
+      "title": "Show HN: Roffume – Add fragrance to your resume with roff",
+      "link": "https://github.com/sebastiancarlos/roffume",
+      "pubDate": "Sun, 20 Sep 2026 19:53:01 +0000",
+      "date": "Sun, 20 Sep 2026 19:53:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/sebastiancarlos/roffume\nComments URL: https://news.ycombinator.com/item?id=49779400\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49779400"
+    },
+    {
+      "title": "Show HN: A browser MMO designed to be played by scripts, not people",
+      "link": "https://space-core.at/",
+      "pubDate": "Sun, 20 Sep 2026 19:48:01 +0000",
+      "date": "Sun, 20 Sep 2026 19:48:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://space-core.at/\nComments URL: https://news.ycombinator.com/item?id=49779362\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49779362"
+    },
+    {
+      "title": "Show HN: Emetgate – a verification gate between an LLM and your source tree",
+      "link": "https://github.com/emetgate/emetgate",
+      "pubDate": "Sun, 20 Sep 2026 19:29:19 +0000",
+      "date": "Sun, 20 Sep 2026 19:29:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/emetgate/emetgate\nComments URL: https://news.ycombinator.com/item?id=49779155\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49779155"
+    }
+  ]
 }
