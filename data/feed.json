@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T02:33:19.309Z",
+  "generatedAt": "2026-09-22T03:03:25.404Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 22,
   "items": [
     {
       "title": "Show HN: Marklite: Lightweight Markdown Viewer/Editor",
@@ -222,28 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Git is supposed to be bad at handling mono repos especially where there are many binary files like game projects repo, and also there are no permisson settings, but are important in game development. BlackGit's cli client lets you download only cared files through sparse-checkout(initially not even the default root files) with a mini agent to use natural languages to manipulate the repo, and blackgit's server serves a file level control layer as a proxy to upstreams(github/gitlab)\nComments URL: ",
       "guid": "https://news.ycombinator.com/item?id=49792742"
-    },
-    {
-      "title": "Someone Who Noticed: Kathy Nimmer, the Helen Keller Award, and Why Noticing Matters in the Age of AI",
-      "link": "https://www.coolcatteacher.com/notice/",
-      "pubDate": "Mon, 21 Sep 2026 18:00:35 +0000",
-      "date": "Mon, 21 Sep 2026 18:00:35 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nKathy Nimmer taught high school English for 29 years, totally blind, and built SEEDS, a program that protects new teachers. She won the 2026 Helen Keller Achievement Award. Vicki and John open with the AI stories that all have one thing in common: someone who noticed.\nThe post Someone Who Noticed: Kathy Nimmer, the Helen Keller Award, and Why Noticin",
-      "guid": "https://www.coolcatteacher.com/?p=35380"
-    },
-    {
-      "title": "Rebound: How Schools Accelerate Learning Recovery",
-      "link": "https://www.coolcatteacher.com/e991/",
-      "pubDate": "Mon, 21 Sep 2026 14:15:38 +0000",
-      "date": "Mon, 21 Sep 2026 14:15:38 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 4 in the countdown of the ten most-downloaded episodes of the first 1,000. Dr. Douglas Fisher on acceleration research — why you push forward instead of going back to reteach.\nThe post Rebound: How Schools Accelerate Learning Recovery appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every da",
-      "guid": "https://www.coolcatteacher.com/?p=35310"
     },
     {
       "title": "Frontier Overhangs",
