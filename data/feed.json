@@ -1,8 +1,206 @@
 {
-  "generatedAt": "2026-09-21T21:27:14.089Z",
+  "generatedAt": "2026-09-22T02:33:19.309Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 24,
   "items": [
+    {
+      "title": "Show HN: Marklite: Lightweight Markdown Viewer/Editor",
+      "link": "https://marklite.app",
+      "pubDate": "Tue, 22 Sep 2026 01:05:45 +0000",
+      "date": "Tue, 22 Sep 2026 01:05:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "MarkLite is a free, open-source lightweight Markdown Viewer and Editor for Linux and Windows.\nComments URL: https://news.ycombinator.com/item?id=49795583\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49795583"
+    },
+    {
+      "title": "Show HN: Shapefile viewer that asks which datum when the .prj is missing",
+      "link": "https://9revolution9.com/tools/geo/shp-geojson",
+      "pubDate": "Tue, 22 Sep 2026 01:00:53 +0000",
+      "date": "Tue, 22 Sep 2026 01:00:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://9revolution9.com/tools/geo/shp-geojson\nComments URL: https://news.ycombinator.com/item?id=49795552\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49795552"
+    },
+    {
+      "title": "Show HN: EagleQR -QR scanner that checks domain age and unshorts URL before open",
+      "link": "https://play.google.com/store/apps/details?id=com.safeqr.scancreate&hl=en_US",
+      "pubDate": "Tue, 22 Sep 2026 01:00:14 +0000",
+      "date": "Tue, 22 Sep 2026 01:00:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://play.google.com/store/apps/details?id=com.safeqr.scancreate&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=49795549\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49795549"
+    },
+    {
+      "title": "Show HN: Nvidia networking equipment masquerading as ATT consumer modems and PON",
+      "link": "https://news.ycombinator.com/item?id=49795325",
+      "pubDate": "Tue, 22 Sep 2026 00:30:49 +0000",
+      "date": "Tue, 22 Sep 2026 00:30:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "HN wouldn’t let me use this in the link field:\nhttps://pon.wiki/guides/masquerade-as-the-att-inc-bgw620-700...\nAfter putting my iPhone in lockdown mode > disconnecting my ATT fiber PON (leaving the router on) > going to WiFi settings in iOS > disabling Connectivity Assist and crucially > “Reset Data Usage”, iOS informed me that my certificate expired in May of 2025. The “common name” was set to ‘dsldevice.domain_not_set.invalid’, which lead me to the above link.\nComments URL: https://news.ycombi",
+      "guid": "https://news.ycombinator.com/item?id=49795325"
+    },
+    {
+      "title": "Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev",
+      "link": "https://github.com/Ramneet-Singh/jevopt",
+      "pubDate": "Tue, 22 Sep 2026 00:11:59 +0000",
+      "date": "Tue, 22 Sep 2026 00:11:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Can Jev optimise the size of compiled binaries better than clang -Oz?\nTurns out it can (sometimes)! Introducing jevopt: making intelligent compiler optimisation decisions with Jev. I used Jev to make intelligent inlining decisions at each LLVM IR call-site. Here’s why and how I did it.\nEverywhere I looked, I saw cool Jev demos, so I thought I'd apply it to my area: systems programming and compilers. When optimising binary size (e.g. in embedded systems), choosing whether to inline a function cal",
+      "guid": "https://news.ycombinator.com/item?id=49795171"
+    },
+    {
+      "title": "Show HN: Jev Powered Obsidian Search",
+      "link": "https://github.com/Emlembow/jev-graph-search",
+      "pubDate": "Tue, 22 Sep 2026 00:05:39 +0000",
+      "date": "Tue, 22 Sep 2026 00:05:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Emlembow/jev-graph-search\nComments URL: https://news.ycombinator.com/item?id=49795109\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49795109"
+    },
+    {
+      "title": "Show HN: Context Tetris clear rows to bank the useful context Keep the noise out",
+      "link": "https://vstorm-co.github.io/agenticos/arcade/context.html",
+      "pubDate": "Mon, 21 Sep 2026 23:37:33 +0000",
+      "date": "Mon, 21 Sep 2026 23:37:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vstorm-co.github.io/agenticos/arcade/context.html\nComments URL: https://news.ycombinator.com/item?id=49794896\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49794896"
+    },
+    {
+      "title": "Show HN: Building Seven in Public",
+      "link": "https://claude.ai/share/61ae35d6-82f2-425a-84b6-907a3ec1b5c4",
+      "pubDate": "Mon, 21 Sep 2026 23:13:15 +0000",
+      "date": "Mon, 21 Sep 2026 23:13:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "https://github.com/02zerocool/truth-benchmark\nComments URL: https://news.ycombinator.com/item?id=49794705\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49794705"
+    },
+    {
+      "title": "Show HN: Transom – easily manage multiple browser profiles on macOS",
+      "link": "https://github.com/darvid/transom",
+      "pubDate": "Mon, 21 Sep 2026 22:44:44 +0000",
+      "date": "Mon, 21 Sep 2026 22:44:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/darvid/transom\nComments URL: https://news.ycombinator.com/item?id=49794450\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49794450"
+    },
+    {
+      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
+      "link": "https://ultracapitalism.io/play/",
+      "pubDate": "Mon, 21 Sep 2026 22:35:51 +0000",
+      "date": "Mon, 21 Sep 2026 22:35:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ultracapitalism.io/play/\nComments URL: https://news.ycombinator.com/item?id=49794379\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49794379"
+    },
+    {
+      "title": "Show HN: A Dice Roguelike",
+      "link": "https://www.reddit.com/r/roguelites/s/hSYBj5jri9",
+      "pubDate": "Mon, 21 Sep 2026 22:35:24 +0000",
+      "date": "Mon, 21 Sep 2026 22:35:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.reddit.com/r/roguelites/s/hSYBj5jri9\nComments URL: https://news.ycombinator.com/item?id=49794373\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49794373"
+    },
+    {
+      "title": "Show HN: Laya decision engine on AWS Lambda, backed by Lambda SnapStart",
+      "link": "https://github.com/HQarroum/laymbda",
+      "pubDate": "Mon, 21 Sep 2026 22:24:57 +0000",
+      "date": "Mon, 21 Sep 2026 22:24:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/HQarroum/laymbda\nComments URL: https://news.ycombinator.com/item?id=49794281\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49794281"
+    },
+    {
+      "title": "Show HN: SoTA Feed – Every open-weights release from the labs that matter",
+      "link": "https://sota.borgcloud.ai/",
+      "pubDate": "Mon, 21 Sep 2026 22:19:31 +0000",
+      "date": "Mon, 21 Sep 2026 22:19:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sota.borgcloud.ai/\nComments URL: https://news.ycombinator.com/item?id=49794230\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49794230"
+    },
+    {
+      "title": "Show HN: Fast inference for deep seek flash v4.1 469 tok/s for coding",
+      "link": "https://www.coralbricks.ai",
+      "pubDate": "Mon, 21 Sep 2026 22:12:48 +0000",
+      "date": "Mon, 21 Sep 2026 22:12:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.coralbricks.ai\nComments URL: https://news.ycombinator.com/item?id=49794152\nPoints: 3\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=49794152"
+    },
+    {
+      "title": "Show HN: Praxos – Multiplayer AI",
+      "link": "https://www.praxos.ai/",
+      "pubDate": "Mon, 21 Sep 2026 21:40:19 +0000",
+      "date": "Mon, 21 Sep 2026 21:40:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey Hacker News! Lucas here, founder of Praxos (YC S24).\nPraxos is a team messaging platform for people and AI agents.\nIt offers people and AI agents a place to talk and work together via a messaging platform that remembers the context around conversations.\nThat context can then be used by the next person, AI agent, or even you, a week later. You can pick work back up without needing to get hold of another person to explain things again for you… or give you a refresher.\nA surprising amount of wo",
+      "guid": "https://news.ycombinator.com/item?id=49793831"
+    },
+    {
+      "title": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
+      "link": "https://gcm.echorelay.net/",
+      "pubDate": "Mon, 21 Sep 2026 21:15:04 +0000",
+      "date": "Mon, 21 Sep 2026 21:15:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I started this four and a half years ago. I wanted to build a climate model as both a toy and educational tool that I could visualize in a web browser. I have always been interested in meteorology and asked r/ClimateScience for advice on the math and physics on building an in-browser climate model as an educational tool, and a few people said it was far too ambitious. They were right. I could build the geometry, an icosahedral hexagonal grid on a globe, and I have an intuitive understanding of t",
+      "guid": "https://news.ycombinator.com/item?id=49793545"
+    },
+    {
+      "title": "Show HN: A Self-hosted Deferred Deep linking. Firebase dynamic link model",
+      "link": "https://github.com/Newtdev/blynk-deferlink",
+      "pubDate": "Mon, 21 Sep 2026 21:10:11 +0000",
+      "date": "Mon, 21 Sep 2026 21:10:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Newtdev/blynk-deferlink\nComments URL: https://news.ycombinator.com/item?id=49793476\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49793476"
+    },
+    {
+      "title": "Show HN: MoA – Attention kernel proven minimal before code was written",
+      "link": "https://github.com/womenflyplanes/moa-attention-verified-mullin",
+      "pubDate": "Mon, 21 Sep 2026 20:57:35 +0000",
+      "date": "Mon, 21 Sep 2026 20:57:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/womenflyplanes/moa-attention-verified-mullin\nComments URL: https://news.ycombinator.com/item?id=49793313\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49793313"
+    },
     {
       "title": "Show HN: Public validation suite for deterministic molecular simulation",
       "link": "https://www.exxogen.hu/press-releases",
@@ -26,149 +224,6 @@
       "guid": "https://news.ycombinator.com/item?id=49792742"
     },
     {
-      "title": "Show HN: Emote – A reaction API for AI agents",
-      "link": "https://useemote.com",
-      "pubDate": "Mon, 21 Sep 2026 19:46:54 +0000",
-      "date": "Mon, 21 Sep 2026 19:46:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://useemote.com\nComments URL: https://news.ycombinator.com/item?id=49792381\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49792381"
-    },
-    {
-      "title": "Show HN: Differential – a TUI diff reviewer with semantic grouping",
-      "link": "https://github.com/thepartly/differential",
-      "pubDate": "Mon, 21 Sep 2026 19:42:38 +0000",
-      "date": "Mon, 21 Sep 2026 19:42:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi all — for those of you still reviewing code, I built a tool to make that easier, mostly for my own sake. There are some alternatives out there already, but none of them quite checked all the boxes for me, so I made my own. Feedback welcome!\nComments URL: https://news.ycombinator.com/item?id=49792323\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49792323"
-    },
-    {
-      "title": "Show HN: A website that tracks US food prices every day",
-      "link": "https://www.kadoa.com/food-prices",
-      "pubDate": "Mon, 21 Sep 2026 19:24:10 +0000",
-      "date": "Mon, 21 Sep 2026 19:24:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The US Department of Agriculture (USDA) publishes daily food price data for about 290 commodities on:\n- what growers were paid at shipping point\n- what buyers paid at the big city wholesale markets\n- what prices supermarkets advertised in their weekly ads\nThis data comes out as dozens of separate text reports and PDFs, one per market, with no history and no way to see how prices change over time.\nI think this should be public data that is easy to access and understand, so I built an open-source ",
-      "guid": "https://news.ycombinator.com/item?id=49792076"
-    },
-    {
-      "title": "Show HN: Two unnecessary playgrounds – C# and ZX Spectrum in the browser",
-      "link": "https://news.ycombinator.com/item?id=49792062",
-      "pubDate": "Mon, 21 Sep 2026 19:22:54 +0000",
-      "date": "Mon, 21 Sep 2026 19:22:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "C# playground\nhttps://csharp.codeguppy.com\nZX-Spectrum playground\nhttps://speccy.codeguppy.com\nComments URL: https://news.ycombinator.com/item?id=49792062\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49792062"
-    },
-    {
-      "title": "Show HN: NEXO, a daily diagnosis game scored on the ICD-10 tree",
-      "link": "https://nexo.wiki.br/en",
-      "pubDate": "Mon, 21 Sep 2026 19:21:28 +0000",
-      "date": "Mon, 21 Sep 2026 19:21:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nexo.wiki.br/en\nComments URL: https://news.ycombinator.com/item?id=49792038\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49792038"
-    },
-    {
-      "title": "Show HN: Grid flex rhymes with derivatives trading: an observation",
-      "link": "https://www.academia.edu/2998-3665/3/3/10.20935/AcadEnergy8514",
-      "pubDate": "Mon, 21 Sep 2026 19:16:31 +0000",
-      "date": "Mon, 21 Sep 2026 19:16:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.academia.edu/2998-3665/3/3/10.20935/AcadEnergy8514\nComments URL: https://news.ycombinator.com/item?id=49791974\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49791974"
-    },
-    {
-      "title": "Show HN: VernLLM – LLM fallback, no gateway",
-      "link": "https://vernllm.dev/",
-      "pubDate": "Mon, 21 Sep 2026 19:13:37 +0000",
-      "date": "Mon, 21 Sep 2026 19:13:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The specific docs: https://vernllm.dev/docs/core/provider-fallback\nComments URL: https://news.ycombinator.com/item?id=49791930\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49791930"
-    },
-    {
-      "title": "Show HN: Factlabel: catches AI agents lying about the data they're reporting on",
-      "link": "https://github.com/generallymatthew/factlabel",
-      "pubDate": "Mon, 21 Sep 2026 19:07:55 +0000",
-      "date": "Mon, 21 Sep 2026 19:07:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/generallymatthew/factlabel\nComments URL: https://news.ycombinator.com/item?id=49791857\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49791857"
-    },
-    {
-      "title": "Show HN: VisionOS 27, iOS 27 object tracking demo – placing objects eyes closed",
-      "link": "https://github.com/robomex/visionOS-27-iOS-27-Object-Tracking-Demo",
-      "pubDate": "Mon, 21 Sep 2026 18:34:28 +0000",
-      "date": "Mon, 21 Sep 2026 18:34:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I was very excited when visionOS 2 added object tracking two years ago, but there was significant lag that made it unsuitable for real-time placement of objects to match targets.\nWith this year's visionOS 27 and iOS 27 object tracking updates (primarily high frame rate tracking and more accurate tracking via extended mode training), I put together an open source demo so I can place objects on target with my eyes closed.\nComments URL: https://news.ycombinator.com/item?id=49791398\nPoints: 1\n# Comm",
-      "guid": "https://news.ycombinator.com/item?id=49791398"
-    },
-    {
-      "title": "Show HN: Conway's Game of Life in boot sector",
-      "link": "https://github.com/0xAX/BootLife",
-      "pubDate": "Mon, 21 Sep 2026 18:28:20 +0000",
-      "date": "Mon, 21 Sep 2026 18:28:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello HN!\nOn these weekends, I was sitting and thinking about where our industry is going, and how fun it was earlier, when we wrote more code than chat messages. The thoughts quickly turned into a wish to build something like we did earlier. In my case, it ended up as something much \"earlier\" than I had in mind initially...\nSo, Conway's Game of Life running from a 512-byte x86 boot sector. Maybe you will find it interesting. I tried to comment the code as much as possible, which might be especi",
-      "guid": "https://news.ycombinator.com/item?id=49791296"
-    },
-    {
-      "title": "Show HN: Four-Leaf MCP, open-source job search and interview prep",
-      "link": "https://github.com/fourleafai/clover-public",
-      "pubDate": "Mon, 21 Sep 2026 18:13:11 +0000",
-      "date": "Mon, 21 Sep 2026 18:13:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/fourleafai/clover-public\nComments URL: https://news.ycombinator.com/item?id=49791084\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49791084"
-    },
-    {
-      "title": "Show HN: Artwork List – map of artworks near you",
-      "link": "https://artworklist.com/nearby/",
-      "pubDate": "Mon, 21 Sep 2026 18:06:24 +0000",
-      "date": "Mon, 21 Sep 2026 18:06:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I want more art in my life. So I needed a way to find new art, and track the art I want to see.\nI built ArtworkList.com for that - it lets you make lists of art, and also find art nearby\nUse the \"nearby\" feature here: https://artworklist.com/nearby/\nZoom in to see collections and artworks around where you live or when you're traveling.\nComments URL: https://news.ycombinator.com/item?id=49790971\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49790971"
-    },
-    {
-      "title": "Show HN: Combinators in Array Languages",
-      "link": "https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/",
-      "pubDate": "Mon, 21 Sep 2026 18:03:58 +0000",
-      "date": "Mon, 21 Sep 2026 18:03:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Raymond Smullyan’s \"To Mock a Mockingbird\" book's aviary of combinator birds implemented in APL-derived languages and the problem implementing the Sage bird (Fixed Point or Y combinator) in an eagerly evaluated language.\nNewer APLs support lazy evaluation.  My eager language has a workaround for this.   The Z combinator is the standard strict-language fix: wrap the self-application in one extra function layer (λv. x x v), so the recursion is a value (a delayed call) rather than an executing expr",
-      "guid": "https://news.ycombinator.com/item?id=49790937"
-    },
-    {
       "title": "Someone Who Noticed: Kathy Nimmer, the Helen Keller Award, and Why Noticing Matters in the Age of AI",
       "link": "https://www.coolcatteacher.com/notice/",
       "pubDate": "Mon, 21 Sep 2026 18:00:35 +0000",
@@ -178,61 +233,6 @@
       "icon": "🐱",
       "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nKathy Nimmer taught high school English for 29 years, totally blind, and built SEEDS, a program that protects new teachers. She won the 2026 Helen Keller Achievement Award. Vicki and John open with the AI stories that all have one thing in common: someone who noticed.\nThe post Someone Who Noticed: Kathy Nimmer, the Helen Keller Award, and Why Noticin",
       "guid": "https://www.coolcatteacher.com/?p=35380"
-    },
-    {
-      "title": "Show HN: Gitstats - your coding stats, private and work repos, no GitHub token",
-      "link": "https://gitstats.org",
-      "pubDate": "Mon, 21 Sep 2026 17:56:58 +0000",
-      "date": "Mon, 21 Sep 2026 17:56:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN. I built this dashboard because I wanted to see how much code I write every day and how my\nproductivity changes.\nYou can preview it with seeded demo data without registering here: https://gitstats.org/demo\nI'm a software engineer at a startup and I constantly build my own projects, but most of my GitHub\nactivity is in private repos and I often was curious how much code do I produce in total and how do\nI compare to my colleagues/friends. So I built this dashboard to show all the info you c",
-      "guid": "https://news.ycombinator.com/item?id=49790833"
-    },
-    {
-      "title": "Show HN: I made a Pomodoro timer that speeds up time",
-      "link": "https://arsh.zip/timer/what",
-      "pubDate": "Mon, 21 Sep 2026 17:53:46 +0000",
-      "date": "Mon, 21 Sep 2026 17:53:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Okay well the title is a bit of a stretch but it does mess with the perception of time. I made a pomodoro timer inspired by a trick MrBeast uses to prevent viewers from skipping ads in his videos.\ntry the timer here: https://arsh.zip/timer/\nI recommend tryig distraction-free mode to really sell the illusion\nComments URL: https://news.ycombinator.com/item?id=49790784\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49790784"
-    },
-    {
-      "title": "Show HN: Viaduct – C4 models that coding agents can read and update",
-      "link": "https://c4.quietgridlabs.com/",
-      "pubDate": "Mon, 21 Sep 2026 17:50:35 +0000",
-      "date": "Mon, 21 Sep 2026 17:50:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://c4.quietgridlabs.com/\nComments URL: https://news.ycombinator.com/item?id=49790729\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49790729"
-    },
-    {
-      "title": "Show HN: Snagr – abandoned checkout emails for Polar",
-      "link": "https://www.snagr.sh",
-      "pubDate": "Mon, 21 Sep 2026 17:48:21 +0000",
-      "date": "Mon, 21 Sep 2026 17:48:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I sell digital products with Polar. When someone opens checkout and leaves, Polar doesn’t keep that lead in a useful way for me.\nSnagr captures the buyer details at checkout and sends a follow-up email so they can finish payment.\nBuilt it for myself. In the last 30 days it recovered $269.76 for me.\nWould love feedback from other Polar / indie sellers and if they would love to see something similar for other Merchant of Records\nComments URL: https://news.ycombinator.com/item?id=49790697\nPoints: 1",
-      "guid": "https://news.ycombinator.com/item?id=49790697"
-    },
-    {
-      "title": "Show HN: 8 months extending my terminal to handle all my work with all agents",
-      "link": "https://github.com/albertwujj/agent-term",
-      "pubDate": "Mon, 21 Sep 2026 17:44:58 +0000",
-      "date": "Mon, 21 Sep 2026 17:44:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I’ve been using this as my only terminal since January, adding things I needed and keeping what worked well. I didn’t expect so many useful additions to work so well with a terminal and Electron as the base.\nI still check out agents in desktop apps and IDEs from time to time, curious to see what they offer. But with this terminal, I don’t want to work any other way.\nLet me know what additions are important to you.\nComments URL: https://news.ycombinator.com/item?id=49790644\nPoints: 1\n# Comments: ",
-      "guid": "https://news.ycombinator.com/item?id=49790644"
     },
     {
       "title": "Rebound: How Schools Accelerate Learning Recovery",
@@ -266,17 +266,6 @@
       "icon": "🌱",
       "contentSnippet": "The third installment in our four-part series with Britebound moves beyond course design to ask a harder question: who is responsible when a student struggles? This post makes the case that robust dual enrollment requires named staff, early drop windows, family scaffolding, and mentors who open doors to careers students have never had reason to imagine. For district leaders building or scaling concurrent enrollment programs, this is the support infrastructure blueprint you have been looking for.",
       "guid": "https://www.gettingsmart.com/?p=140502"
-    },
-    {
-      "title": "Navigating the Future of Work: A Conversation with JFF’s Maria Flynn",
-      "link": "https://edsurge.com/news/navigating-the-future-of-work-a-conversation-with-jffs-maria-flynn",
-      "pubDate": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "date": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "From baseline AI literacy to early career exposure, Jobs for the Future president Maria Flynn shares how education systems can prepare young people for ...",
-      "guid": "post-guid-3cbAC634"
     }
   ]
 }
