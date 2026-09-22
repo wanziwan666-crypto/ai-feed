@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-09-22T03:03:25.404Z",
+  "generatedAt": "2026-09-22T10:38:22.746Z",
   "lookbackHours": 24,
   "totalItems": 22,
   "items": [
+    {
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "link": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "pubDate": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "date": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "guid": "https://stratechery.com/?p=20078"
+    },
+    {
+      "title": "Show HN: DiagramHub – A central hub for draw.io diagrams with SSO",
+      "link": "https://diagramhub.app",
+      "pubDate": "Tue, 22 Sep 2026 09:47:41 +0000",
+      "date": "Tue, 22 Sep 2026 09:47:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://diagramhub.app\nComments URL: https://news.ycombinator.com/item?id=49798680\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49798680"
+    },
+    {
+      "title": "Show HN:Clipwise – a Notion web clipper with no account and no server",
+      "link": "https://chromewebstore.google.com/detail/clipwise-â-notion-web-cli/fjgllpbhbnjdkhgmokagglhkahngmjki",
+      "pubDate": "Tue, 22 Sep 2026 09:16:28 +0000",
+      "date": "Tue, 22 Sep 2026 09:16:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/clipwise-â-notion-web-cli/fjgllpbhbnjdkhgmokagglhkahngmjki\nComments URL: https://news.ycombinator.com/item?id=49798429\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49798429"
+    },
+    {
+      "title": "The Creolisation of Recognition",
+      "link": "https://www.gettingsmart.com/2026/09/22/the-creolisation-of-recognition/",
+      "pubDate": "Tue, 22 Sep 2026 09:15:00 +0000",
+      "date": "Tue, 22 Sep 2026 09:15:00 +0000",
+      "source": "Getting Smart",
+      "category": "ai-education",
+      "icon": "🌱",
+      "contentSnippet": "What if our recognition systems are still doing the quiet work of colonization, even when they claim inclusion? Simone Ravaioli of Instructure explores creolization as a generative framework for redesigning how we validate learning across cultural and epistemological borders. Drawing on thinkers like Tyson Yunkaporta and Serge Ravet, this piece challenges education leaders to move beyond Recognition of Prior Learning toward relational protocols that let different knowledge systems meet as equals",
+      "guid": "https://www.gettingsmart.com/?p=140497"
+    },
+    {
+      "title": "Show HN: Z8Log – Structured logging your AI coding agent can query",
+      "link": "https://z8log.com/welcome",
+      "pubDate": "Tue, 22 Sep 2026 07:50:39 +0000",
+      "date": "Tue, 22 Sep 2026 07:50:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://z8log.com/welcome\nComments URL: https://news.ycombinator.com/item?id=49797902\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49797902"
+    },
+    {
+      "title": "Show HN: Easytris – Tetris that wants you to win",
+      "link": "https://medv.io/easytris/",
+      "pubDate": "Tue, 22 Sep 2026 07:44:12 +0000",
+      "date": "Tue, 22 Sep 2026 07:44:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://medv.io/easytris/\nComments URL: https://news.ycombinator.com/item?id=49797857\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49797857"
+    },
+    {
+      "title": "Show HN: I made ShipStreak to keep daily shipping gaps public",
+      "link": "https://www.shipstreak.space/?via=hn",
+      "pubDate": "Tue, 22 Sep 2026 07:01:46 +0000",
+      "date": "Tue, 22 Sep 2026 07:01:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.shipstreak.space/?via=hn\nComments URL: https://news.ycombinator.com/item?id=49797597\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49797597"
+    },
+    {
+      "title": "Show HN: Cheap and easy throwaway VPN server",
+      "link": "https://a.l3x.in/blog/throwaway-vpn/",
+      "pubDate": "Tue, 22 Sep 2026 06:52:38 +0000",
+      "date": "Tue, 22 Sep 2026 06:52:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "As usual, all kind of feedback welcome (https://a.l3x.in/contact)\nComments URL: https://news.ycombinator.com/item?id=49797551\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49797551"
+    },
+    {
+      "title": "Show HN: A tool to find the dish you are craving",
+      "link": "https://icrave.food/",
+      "pubDate": "Tue, 22 Sep 2026 04:46:33 +0000",
+      "date": "Tue, 22 Sep 2026 04:46:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Small experiment flipping the discovery mechanism for restaurants. Instead of finding a good restaurant and having no clue about what the best dish is on the menu is, crave flips the script, you start with what you are craving and then find the best restaurants.\nNo sign up, totally free to use. Tell me what you think, mostly just build it for myself.\nComments URL: https://news.ycombinator.com/item?id=49796881\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49796881"
+    },
+    {
+      "title": "Show HN: NoteCode++ – an offline, desktop-style code editor for Android",
+      "link": "https://github.com/knewnothing-git/notecode-",
+      "pubDate": "Tue, 22 Sep 2026 04:29:22 +0000",
+      "date": "Tue, 22 Sep 2026 04:29:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/knewnothing-git/notecode-\nComments URL: https://news.ycombinator.com/item?id=49796797\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49796797"
+    },
+    {
+      "title": "Show HN: aSPARK – an agile AI product team for Claude Code",
+      "link": "https://github.com/a-lottes/aSPARK",
+      "pubDate": "Tue, 22 Sep 2026 04:14:39 +0000",
+      "date": "Tue, 22 Sep 2026 04:14:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/a-lottes/aSPARK\nComments URL: https://news.ycombinator.com/item?id=49796728\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49796728"
+    },
+    {
+      "title": "Show HN: ghfs – A read-only FUSE filesystem that keeps GitHub issues on disk",
+      "link": "https://ghfs.dev/",
+      "pubDate": "Tue, 22 Sep 2026 03:11:11 +0000",
+      "date": "Tue, 22 Sep 2026 03:11:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ghfs.dev/\nComments URL: https://news.ycombinator.com/item?id=49796385\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49796385"
+    },
+    {
+      "title": "Show HN: An honest comparison of the Agent Harness vs. six alternatives",
+      "link": "https://time2magic.com/agent-harness",
+      "pubDate": "Tue, 22 Sep 2026 02:30:39 +0000",
+      "date": "Tue, 22 Sep 2026 02:30:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://time2magic.com/agent-harness\nComments URL: https://news.ycombinator.com/item?id=49796157\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49796157"
+    },
+    {
+      "title": "Show HN: Primescript – Academic Markdown editor with vector search and LaTeX",
+      "link": "https://primescript.com",
+      "pubDate": "Tue, 22 Sep 2026 02:29:18 +0000",
+      "date": "Tue, 22 Sep 2026 02:29:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://primescript.com\nComments URL: https://news.ycombinator.com/item?id=49796142\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49796142"
+    },
+    {
+      "title": "Show HN: A Mondrian-style puzzle block game",
+      "link": "https://game.wdamao.com/mondrian-blocks/",
+      "pubDate": "Tue, 22 Sep 2026 02:27:48 +0000",
+      "date": "Tue, 22 Sep 2026 02:27:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Three blocks are placed in fixed positions on the board; you must fill the rest of the board with blocks of other shapes to clear the level.\nComments URL: https://news.ycombinator.com/item?id=49796132\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49796132"
+    },
     {
       "title": "Show HN: Marklite: Lightweight Markdown Viewer/Editor",
       "link": "https://marklite.app",
@@ -79,171 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://vstorm-co.github.io/agenticos/arcade/context.html\nComments URL: https://news.ycombinator.com/item?id=49794896\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49794896"
-    },
-    {
-      "title": "Show HN: Building Seven in Public",
-      "link": "https://claude.ai/share/61ae35d6-82f2-425a-84b6-907a3ec1b5c4",
-      "pubDate": "Mon, 21 Sep 2026 23:13:15 +0000",
-      "date": "Mon, 21 Sep 2026 23:13:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "https://github.com/02zerocool/truth-benchmark\nComments URL: https://news.ycombinator.com/item?id=49794705\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49794705"
-    },
-    {
-      "title": "Show HN: Transom – easily manage multiple browser profiles on macOS",
-      "link": "https://github.com/darvid/transom",
-      "pubDate": "Mon, 21 Sep 2026 22:44:44 +0000",
-      "date": "Mon, 21 Sep 2026 22:44:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/darvid/transom\nComments URL: https://news.ycombinator.com/item?id=49794450\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49794450"
-    },
-    {
-      "title": "Show HN: Ultracapitalism, a Company-Building Autobattler",
-      "link": "https://ultracapitalism.io/play/",
-      "pubDate": "Mon, 21 Sep 2026 22:35:51 +0000",
-      "date": "Mon, 21 Sep 2026 22:35:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://ultracapitalism.io/play/\nComments URL: https://news.ycombinator.com/item?id=49794379\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49794379"
-    },
-    {
-      "title": "Show HN: A Dice Roguelike",
-      "link": "https://www.reddit.com/r/roguelites/s/hSYBj5jri9",
-      "pubDate": "Mon, 21 Sep 2026 22:35:24 +0000",
-      "date": "Mon, 21 Sep 2026 22:35:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.reddit.com/r/roguelites/s/hSYBj5jri9\nComments URL: https://news.ycombinator.com/item?id=49794373\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49794373"
-    },
-    {
-      "title": "Show HN: Laya decision engine on AWS Lambda, backed by Lambda SnapStart",
-      "link": "https://github.com/HQarroum/laymbda",
-      "pubDate": "Mon, 21 Sep 2026 22:24:57 +0000",
-      "date": "Mon, 21 Sep 2026 22:24:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/HQarroum/laymbda\nComments URL: https://news.ycombinator.com/item?id=49794281\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49794281"
-    },
-    {
-      "title": "Show HN: SoTA Feed – Every open-weights release from the labs that matter",
-      "link": "https://sota.borgcloud.ai/",
-      "pubDate": "Mon, 21 Sep 2026 22:19:31 +0000",
-      "date": "Mon, 21 Sep 2026 22:19:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sota.borgcloud.ai/\nComments URL: https://news.ycombinator.com/item?id=49794230\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49794230"
-    },
-    {
-      "title": "Show HN: Fast inference for deep seek flash v4.1 469 tok/s for coding",
-      "link": "https://www.coralbricks.ai",
-      "pubDate": "Mon, 21 Sep 2026 22:12:48 +0000",
-      "date": "Mon, 21 Sep 2026 22:12:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.coralbricks.ai\nComments URL: https://news.ycombinator.com/item?id=49794152\nPoints: 3\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49794152"
-    },
-    {
-      "title": "Show HN: Praxos – Multiplayer AI",
-      "link": "https://www.praxos.ai/",
-      "pubDate": "Mon, 21 Sep 2026 21:40:19 +0000",
-      "date": "Mon, 21 Sep 2026 21:40:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey Hacker News! Lucas here, founder of Praxos (YC S24).\nPraxos is a team messaging platform for people and AI agents.\nIt offers people and AI agents a place to talk and work together via a messaging platform that remembers the context around conversations.\nThat context can then be used by the next person, AI agent, or even you, a week later. You can pick work back up without needing to get hold of another person to explain things again for you… or give you a refresher.\nA surprising amount of wo",
-      "guid": "https://news.ycombinator.com/item?id=49793831"
-    },
-    {
-      "title": "Show HN: WebGCM – a global climate model running in the browser on WebGPU",
-      "link": "https://gcm.echorelay.net/",
-      "pubDate": "Mon, 21 Sep 2026 21:15:04 +0000",
-      "date": "Mon, 21 Sep 2026 21:15:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I started this four and a half years ago. I wanted to build a climate model as both a toy and educational tool that I could visualize in a web browser. I have always been interested in meteorology and asked r/ClimateScience for advice on the math and physics on building an in-browser climate model as an educational tool, and a few people said it was far too ambitious. They were right. I could build the geometry, an icosahedral hexagonal grid on a globe, and I have an intuitive understanding of t",
-      "guid": "https://news.ycombinator.com/item?id=49793545"
-    },
-    {
-      "title": "Show HN: A Self-hosted Deferred Deep linking. Firebase dynamic link model",
-      "link": "https://github.com/Newtdev/blynk-deferlink",
-      "pubDate": "Mon, 21 Sep 2026 21:10:11 +0000",
-      "date": "Mon, 21 Sep 2026 21:10:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Newtdev/blynk-deferlink\nComments URL: https://news.ycombinator.com/item?id=49793476\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49793476"
-    },
-    {
-      "title": "Show HN: MoA – Attention kernel proven minimal before code was written",
-      "link": "https://github.com/womenflyplanes/moa-attention-verified-mullin",
-      "pubDate": "Mon, 21 Sep 2026 20:57:35 +0000",
-      "date": "Mon, 21 Sep 2026 20:57:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/womenflyplanes/moa-attention-verified-mullin\nComments URL: https://news.ycombinator.com/item?id=49793313\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49793313"
-    },
-    {
-      "title": "Show HN: Public validation suite for deterministic molecular simulation",
-      "link": "https://www.exxogen.hu/press-releases",
-      "pubDate": "Mon, 21 Sep 2026 20:32:28 +0000",
-      "date": "Mon, 21 Sep 2026 20:32:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.exxogen.hu/press-releases\nComments URL: https://news.ycombinator.com/item?id=49792992\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49792992"
-    },
-    {
-      "title": "Show HN: Blackgit – use Git to only download those cared files",
-      "link": "https://github.com/zhuzhonghua/blackgit",
-      "pubDate": "Mon, 21 Sep 2026 20:13:10 +0000",
-      "date": "Mon, 21 Sep 2026 20:13:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Git is supposed to be bad at handling mono repos especially where there are many binary files like game projects repo, and also there are no permisson settings, but are important in game development. BlackGit's cli client lets you download only cared files through sparse-checkout(initially not even the default root files) with a mini agent to use natural languages to manipulate the repo, and blackgit's server serves a file level control layer as a proxy to upstreams(github/gitlab)\nComments URL: ",
-      "guid": "https://news.ycombinator.com/item?id=49792742"
-    },
-    {
-      "title": "Frontier Overhangs",
-      "link": "https://stratechery.com/2026/frontier-overhangs/",
-      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000",
-      "date": "Mon, 21 Sep 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
-      "guid": "https://stratechery.com/?p=20065"
-    },
-    {
-      "title": "What Makes Dual Enrollment Actually Work: Robust Student & Family Support & Career Connection",
-      "link": "https://www.gettingsmart.com/2026/09/21/what-makes-dual-enrollment-actually-work-robust-student-family-support-career-connection/",
-      "pubDate": "Mon, 21 Sep 2026 09:15:00 +0000",
-      "date": "Mon, 21 Sep 2026 09:15:00 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "The third installment in our four-part series with Britebound moves beyond course design to ask a harder question: who is responsible when a student struggles? This post makes the case that robust dual enrollment requires named staff, early drop windows, family scaffolding, and mentors who open doors to careers students have never had reason to imagine. For district leaders building or scaling concurrent enrollment programs, this is the support infrastructure blueprint you have been looking for.",
-      "guid": "https://www.gettingsmart.com/?p=140502"
     }
   ]
 }
