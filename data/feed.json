@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-23T02:33:29.348Z",
+  "generatedAt": "2026-09-23T03:04:15.512Z",
   "lookbackHours": 24,
   "totalItems": 25,
   "items": [
+    {
+      "title": "Show HN: Making agent decisions better and traceable",
+      "link": "https://news.ycombinator.com/item?id=49810838",
+      "pubDate": "Wed, 23 Sep 2026 02:15:28 +0000",
+      "date": "Wed, 23 Sep 2026 02:15:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey all,\nI'm building Mubit to help agents make better decisions.\nMubit is an agent decision attribution and calibration platform per user at scale.\nEach user's interaction affects the way agents make decisions and they usually get cluttered over time. Mubit helps you see the decisions an agent made (per user), calibrate it (run time / context layer), and adapt it (model layer but think Jev like decision model farm for all your power customers).\nOur website is at https://mubit.ai and docs at htt",
+      "guid": "https://news.ycombinator.com/item?id=49810838"
+    },
     {
       "title": "Show HN:Tornedo- Everything a torrent client does, without leaving your terminal",
       "link": "https://www.npmjs.com/package/tornedo",
@@ -222,17 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://deepeval.com/blog/introducing-jev-as-a-judge\nComments URL: https://news.ycombinator.com/item?id=49807852\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49807852"
-    },
-    {
-      "title": "Show HN: ToolHub – Hierarchical nav for 30 MCP tools without context bloat",
-      "link": "https://github.com/Talos-popcorn/toolhub",
-      "pubDate": "Tue, 22 Sep 2026 20:34:13 +0000",
-      "date": "Tue, 22 Sep 2026 20:34:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Talos-popcorn/toolhub\nComments URL: https://news.ycombinator.com/item?id=49807686\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49807686"
     },
     {
       "title": "Don’t be fooled by this summer of AI hype ",
