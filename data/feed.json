@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-09-24T02:22:49.813Z",
+  "generatedAt": "2026-09-24T03:01:28.554Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
+    {
+      "title": "Show HN: CrunchMyPay – 50 pay calculators, every formula and source shown",
+      "link": "https://www.crunchmypay.com/",
+      "pubDate": "Thu, 24 Sep 2026 02:25:52 +0000",
+      "date": "Thu, 24 Sep 2026 02:25:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.crunchmypay.com/\nComments URL: https://news.ycombinator.com/item?id=49825462\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49825462"
+    },
+    {
+      "title": "Show HN: Chatlo – an iOS-native AI agent, now with Jev",
+      "link": "https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943",
+      "pubDate": "Thu, 24 Sep 2026 02:23:12 +0000",
+      "date": "Thu, 24 Sep 2026 02:23:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello HN!\nI’m sure many of you have used AI agent apps like OpenClaw, Claude Code, or Codex on your PCs, but you rarely see AI agents running on the iOS platform. That’s why I created an agent app that runs exclusively on iOS—it doesn’t require a separate computer or server; it runs entirely on your iPhone.\nPlus, in the latest version, we’ve become the first to integrate Jev AI—a very popular decision-making AI—on the App Store.\nWe invite you to try it out, and we look forward to your feedback.\n",
+      "guid": "https://news.ycombinator.com/item?id=49825446"
+    },
     {
       "title": "Show HN: A game about fake news and memes",
       "link": "https://unspin.app/",
@@ -11,7 +33,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://unspin.app/\nComments URL: https://news.ycombinator.com/item?id=49825088\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://unspin.app/\nComments URL: https://news.ycombinator.com/item?id=49825088\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49825088"
     },
     {
@@ -33,7 +55,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Chaos-vy/ChaosTree\nComments URL: https://news.ycombinator.com/item?id=49824910\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/Chaos-vy/ChaosTree\nComments URL: https://news.ycombinator.com/item?id=49824910\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49824910"
     },
     {
@@ -44,7 +66,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://mametter.itch.io/posting-puzzle\nComments URL: https://news.ycombinator.com/item?id=49824899\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://mametter.itch.io/posting-puzzle\nComments URL: https://news.ycombinator.com/item?id=49824899\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49824899"
     },
     {
@@ -55,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 7\n# Comments: 1",
+      "contentSnippet": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 10\n# Comments: 6",
       "guid": "https://news.ycombinator.com/item?id=49824715"
     },
     {
@@ -200,28 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://ancreative.ca/tv-family-calendar\nComments URL: https://news.ycombinator.com/item?id=49822729\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49822729"
-    },
-    {
-      "title": "Show HN: Letter – Relationship-based access control (ReBAC) Postgres extension",
-      "link": "https://github.com/paulharter/letter",
-      "pubDate": "Wed, 23 Sep 2026 21:00:49 +0000",
-      "date": "Wed, 23 Sep 2026 21:00:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/paulharter/letter\nComments URL: https://news.ycombinator.com/item?id=49822534\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=49822534"
-    },
-    {
-      "title": "Show HN: Lifeboat, 2-6x more concurrent agent sessions per GPU, no quantization",
-      "link": "https://github.com/IterateAI/lifeboat-releases",
-      "pubDate": "Wed, 23 Sep 2026 20:32:43 +0000",
-      "date": "Wed, 23 Sep 2026 20:32:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/IterateAI/lifeboat-releases\nComments URL: https://news.ycombinator.com/item?id=49822130\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49822130"
     },
     {
       "title": "Gemini 3.8 TTS Playground",
