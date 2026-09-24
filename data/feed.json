@@ -1,8 +1,239 @@
 {
-  "generatedAt": "2026-09-24T10:48:02.666Z",
+  "generatedAt": "2026-09-24T16:11:21.804Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 24,
   "items": [
+    {
+      "title": "Show HN: Armada – Every Claude Code and Codex session and limit, on one screen",
+      "link": "https://armada.mgcrea.io/",
+      "pubDate": "Thu, 24 Sep 2026 15:36:15 +0000",
+      "date": "Thu, 24 Sep 2026 15:36:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://armada.mgcrea.io/\nComments URL: https://news.ycombinator.com/item?id=49832165\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49832165"
+    },
+    {
+      "title": "Show HN: Enclawed – A hard-fork hardening framework for AI agent gateways",
+      "link": "https://enclawed.com/",
+      "pubDate": "Thu, 24 Sep 2026 15:35:39 +0000",
+      "date": "Thu, 24 Sep 2026 15:35:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://enclawed.com/\nComments URL: https://news.ycombinator.com/item?id=49832151\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49832151"
+    },
+    {
+      "title": "Show HN: Most Hated Tools",
+      "link": "https://www.mosthatedtools.app/",
+      "pubDate": "Thu, 24 Sep 2026 15:32:17 +0000",
+      "date": "Thu, 24 Sep 2026 15:32:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.mosthatedtools.app/\nComments URL: https://news.ycombinator.com/item?id=49832080\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49832080"
+    },
+    {
+      "title": "Show HN: ChaosTree 2.0.1: A highly optimized Java Sorted Set/Map library",
+      "link": "https://github.com/Chaos-vy/ChaosTree",
+      "pubDate": "Thu, 24 Sep 2026 15:28:41 +0000",
+      "date": "Thu, 24 Sep 2026 15:28:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Chaos-vy/ChaosTree\nComments URL: https://news.ycombinator.com/item?id=49832022\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49832022"
+    },
+    {
+      "title": "Show HN: Local First AI Calculator",
+      "link": "https://axiom.clor.app/",
+      "pubDate": "Thu, 24 Sep 2026 15:25:33 +0000",
+      "date": "Thu, 24 Sep 2026 15:25:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://axiom.clor.app/\nComments URL: https://news.ycombinator.com/item?id=49831955\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831955"
+    },
+    {
+      "title": "How to Become a Better Teacher Every Day",
+      "link": "https://www.coolcatteacher.com/bettereveryday/",
+      "pubDate": "Thu, 24 Sep 2026 15:24:00 +0000",
+      "date": "Thu, 24 Sep 2026 15:24:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nThree educators on what changed their teaching — attention and cognitive load, why a grade stops feedback, and a 60-second routine for teaching a word.\nThe post How to Become a Better Teacher Every Day appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing this on anothe",
+      "guid": "https://www.coolcatteacher.com/?p=35389"
+    },
+    {
+      "title": "Show HN: CraftCX – Observability and intelligence tooling for AI Support team",
+      "link": "https://craftcx.com/blog/introducing-craftcx",
+      "pubDate": "Thu, 24 Sep 2026 15:21:45 +0000",
+      "date": "Thu, 24 Sep 2026 15:21:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://craftcx.com/blog/introducing-craftcx\nComments URL: https://news.ycombinator.com/item?id=49831884\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831884"
+    },
+    {
+      "title": "Show HN: Jev-phone – driving iOS and Android apps with jev",
+      "link": "https://github.com/Rajmeet/jev-phone",
+      "pubDate": "Thu, 24 Sep 2026 15:19:42 +0000",
+      "date": "Thu, 24 Sep 2026 15:19:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Rajmeet/jev-phone\nComments URL: https://news.ycombinator.com/item?id=49831841\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831841"
+    },
+    {
+      "title": "Show HN: Are My ETFs Overvalued? Daily ETF insights and comparisons tool",
+      "link": "https://etf-copilot.com/",
+      "pubDate": "Thu, 24 Sep 2026 15:13:12 +0000",
+      "date": "Thu, 24 Sep 2026 15:13:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built ETF Copilot (https://etf-copilot.com/go/show-hn) as analytical support for my own investing. It answers what financial screeners and platforms do not: which valuation, growth, quality and risk metrics matter for each ETF, and how do they compare to own history and peers. It covers 1,000+ US-listed equity ETFs and updates every night with fresh data.\nFree version without signup offers 5 fund views. Overlap, concentration, and theme pages are unlimited. Pro $20/month tier adds unlimited vi",
+      "guid": "https://news.ycombinator.com/item?id=49831744"
+    },
+    {
+      "title": "Show HN: Learn SQL free with no tracking or ads",
+      "link": "https://www.sql-easy.com/",
+      "pubDate": "Thu, 24 Sep 2026 15:11:33 +0000",
+      "date": "Thu, 24 Sep 2026 15:11:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I make Beekeeper Studio (DB GUI). I took over SQL Easy about a year ago and have been improving it since then. No commercial intent. Just a useful community resource.\nFun: Here's what it looked like in 2023: https://web.archive.org/web/20230305075142/https://www.sql-e...\nHow could I improve it further?\nComments URL: https://news.ycombinator.com/item?id=49831720\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831720"
+    },
+    {
+      "title": "Show HN: Hermes, Kokoro and Parakeet, behind a face you can talk to",
+      "link": "https://memoe.app/",
+      "pubDate": "Thu, 24 Sep 2026 14:43:05 +0000",
+      "date": "Thu, 24 Sep 2026 14:43:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://memoe.app/\nComments URL: https://news.ycombinator.com/item?id=49831344\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831344"
+    },
+    {
+      "title": "Show HN: Resume Claude Code subagents killed by a usage limit, don't redo them",
+      "link": "https://github.com/error0702/agent-limit-retry",
+      "pubDate": "Thu, 24 Sep 2026 14:41:43 +0000",
+      "date": "Thu, 24 Sep 2026 14:41:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/error0702/agent-limit-retry\nComments URL: https://news.ycombinator.com/item?id=49831324\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831324"
+    },
+    {
+      "title": "Show HN: ContextDebt – finds code whose stated reason to exist has expired",
+      "link": "https://github.com/ContextDebt/contextdebt",
+      "pubDate": "Thu, 24 Sep 2026 14:39:24 +0000",
+      "date": "Thu, 24 Sep 2026 14:39:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ContextDebt/contextdebt\nComments URL: https://news.ycombinator.com/item?id=49831285\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831285"
+    },
+    {
+      "title": "Show HN: PreFlight – Local citation verifier and claim auditor for LaTeX",
+      "link": "https://preflightai.tech/workbench",
+      "pubDate": "Thu, 24 Sep 2026 14:36:15 +0000",
+      "date": "Thu, 24 Sep 2026 14:36:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://preflightai.tech/workbench\nComments URL: https://news.ycombinator.com/item?id=49831235\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831235"
+    },
+    {
+      "title": "Show HN: PlaceCall (YC W26) – agentic API to call businesses and get things done",
+      "link": "https://news.ycombinator.com/item?id=49831231",
+      "pubDate": "Thu, 24 Sep 2026 14:36:03 +0000",
+      "date": "Thu, 24 Sep 2026 14:36:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, this is Yarik and Vlad from VOYGR - we are building the tools for agents and apps to engage with local businesses.\nIt all started with our own pain point at VOYGR: calling businesses to verify if they are open. We are both from Google (Maps and Search) and even there, the merchants and venues don’t keep this info updated. So we built an API and started using it in-house.\nOn July 4th, we were driving through Portland looking for a place to eat. Google Maps was saying “Holiday hours may var",
+      "guid": "https://news.ycombinator.com/item?id=49831231"
+    },
+    {
+      "title": "Show HN: Sixup – IPv6 routing in one binary, replaces odhcp6c/radvd/odhcpd/ndppd",
+      "link": "https://github.com/lqs/sixup",
+      "pubDate": "Thu, 24 Sep 2026 14:29:43 +0000",
+      "date": "Thu, 24 Sep 2026 14:29:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/lqs/sixup\nComments URL: https://news.ycombinator.com/item?id=49831145\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831145"
+    },
+    {
+      "title": "Show HN: Griz`: a faster, more token efficient way to edit files",
+      "link": "https://twitter.com/Douglance/status/2103115694074446258",
+      "pubDate": "Thu, 24 Sep 2026 14:29:07 +0000",
+      "date": "Thu, 24 Sep 2026 14:29:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "`griz` is a faster, more token efficient way to edit files by your coding agents.\nIt uses tool calls to find, replace, add, delete, or undo changes faster than the default Edit tools in popular harnesses.\nIt also has a \"code mode\" feature that allows you to compose changes with any CLI or other MCPs installed, so you don't lose the native composibilty we would expect from default tools.\nVery powerful tool. Let me know if you have any feature requests or run into issues. Enjoy!\nComments URL: http",
+      "guid": "https://news.ycombinator.com/item?id=49831138"
+    },
+    {
+      "title": "Show HN: Panda Stretch, 1 minute stretches for who sit all day",
+      "link": "https://panda-stretch.com/",
+      "pubDate": "Thu, 24 Sep 2026 14:24:45 +0000",
+      "date": "Thu, 24 Sep 2026 14:24:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://panda-stretch.com/\nComments URL: https://news.ycombinator.com/item?id=49831076\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49831076"
+    },
+    {
+      "title": "Show HN: I'm crawling 11k homepages every week to track which fonts they use",
+      "link": "https://fontsovertime.com/",
+      "pubDate": "Thu, 24 Sep 2026 14:19:08 +0000",
+      "date": "Thu, 24 Sep 2026 14:19:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://fontsovertime.com/\nComments URL: https://news.ycombinator.com/item?id=49831000\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49831000"
+    },
+    {
+      "title": "Show HN: PippinVR – open-source Virtual Screen environment for macOS",
+      "link": "https://github.com/triscuitcircuit/PippinVR",
+      "pubDate": "Thu, 24 Sep 2026 14:16:24 +0000",
+      "date": "Thu, 24 Sep 2026 14:16:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "This project was created out of frustration that all macOS VR virtual screen software (Meta Quest Remote Desktop, Immersed) is proprietary. If I have code recording my screen, I want to know what it is actually doing.\nPippinVR is named after the Apple Pippin, which itself was named after a relative to the McIntosh apple. The Apple Pippin was meant to be more than a platform just for game consoles, which is what I see VR to be as well.\nThis code is under the GNUv3 license, as I feel strongly that",
+      "guid": "https://news.ycombinator.com/item?id=49830973"
+    },
+    {
+      "title": "Show HN: Wb-flow – Multi-agent CLI where state lives in Markdown, not context",
+      "link": "https://flow.wbc-ui.com",
+      "pubDate": "Thu, 24 Sep 2026 14:10:32 +0000",
+      "date": "Thu, 24 Sep 2026 14:10:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://flow.wbc-ui.com\nComments URL: https://news.ycombinator.com/item?id=49830875\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49830875"
+    },
     {
       "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
       "link": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
@@ -13,226 +244,6 @@
       "icon": "📊",
       "contentSnippet": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
       "guid": "https://stratechery.com/?p=20097"
-    },
-    {
-      "title": "Show HN: FreshThread – context monitor and handoffs for Codex Desktop (Windows)",
-      "link": "https://github.com/GG95-lab/FreshThread-BETA-version",
-      "pubDate": "Thu, 24 Sep 2026 09:48:49 +0000",
-      "date": "Thu, 24 Sep 2026 09:48:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/GG95-lab/FreshThread-BETA-version\nComments URL: https://news.ycombinator.com/item?id=49828381\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49828381"
-    },
-    {
-      "title": "Show HN: Tachyon – Java MCP Server SDK",
-      "link": "https://tachyonmcp.dev",
-      "pubDate": "Thu, 24 Sep 2026 09:32:24 +0000",
-      "date": "Thu, 24 Sep 2026 09:32:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Expose Java methods as Streamable HTTP MCP Server. Compliant with latest+previous MCP specification with all MCP features: tools, resources, prompts, completions, extensions, including tasks and skills (SEP-2640). Runs on Netty - industry standard IO library. Supports DSL and declarative java annotations.\nGitHub: https://github.com/tachyonmcp/tachyon\nComments URL: https://news.ycombinator.com/item?id=49828275\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49828275"
-    },
-    {
-      "title": "Show HN: Trader News – Hacker News for Finance",
-      "link": "https://news.ycombinator.com/item?id=49828019",
-      "pubDate": "Thu, 24 Sep 2026 08:54:57 +0000",
-      "date": "Thu, 24 Sep 2026 08:54:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hacker News helps me stay in touch with the world of technology without putting in extensive web browsing work, and I love it for that reason. I am interested in financial markets and wanted a “Hacker News for finance”, but Googling produced surprisingly poor results. So I forked the great HN clone, shark [1], and added some market focused twists.\nThe result is:  https://tradernews.fyi\nTrader News is the Hacker News interface you are familiar with, with a difference. Above the article area is a ",
-      "guid": "https://news.ycombinator.com/item?id=49828019"
-    },
-    {
-      "title": "Show HN: Wl-pick – a live window picker for Sway",
-      "link": "https://mil.ad/blog/2026/wl-pick.html",
-      "pubDate": "Thu, 24 Sep 2026 08:44:51 +0000",
-      "date": "Thu, 24 Sep 2026 08:44:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mil.ad/blog/2026/wl-pick.html\nComments URL: https://news.ycombinator.com/item?id=49827956\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827956"
-    },
-    {
-      "title": "Show HN: ListenIn – Mac dictation tuned for mixed Chinese-English speech",
-      "link": "https://listenin.dev/",
-      "pubDate": "Thu, 24 Sep 2026 08:22:26 +0000",
-      "date": "Thu, 24 Sep 2026 08:22:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://listenin.dev/\nComments URL: https://news.ycombinator.com/item?id=49827789\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827789"
-    },
-    {
-      "title": "Show HN: Muro: Free Native Live Wallpapers for macOS",
-      "link": "https://murowallpaper.com",
-      "pubDate": "Thu, 24 Sep 2026 08:21:04 +0000",
-      "date": "Thu, 24 Sep 2026 08:21:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://murowallpaper.com\nComments URL: https://news.ycombinator.com/item?id=49827781\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827781"
-    },
-    {
-      "title": "Show HN: La Machine – a useless box running Erlang on an ESP32 via AtomVM",
-      "link": "https://github.com/pguyot/la_machine",
-      "pubDate": "Thu, 24 Sep 2026 08:20:45 +0000",
-      "date": "Thu, 24 Sep 2026 08:20:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/pguyot/la_machine\nComments URL: https://news.ycombinator.com/item?id=49827778\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827778"
-    },
-    {
-      "title": "Show HN: compaction.dev makes cc/codex/cursor resend less, per run",
-      "link": "https://github.com/philipppohlmann/compaction",
-      "pubDate": "Thu, 24 Sep 2026 08:03:17 +0000",
-      "date": "Thu, 24 Sep 2026 08:03:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/philipppohlmann/compaction\nComments URL: https://news.ycombinator.com/item?id=49827661\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827661"
-    },
-    {
-      "title": "Show HN: Full-page screenshots with free annotation and PDF export",
-      "link": "https://chromewebstore.google.com/detail/fullpage-screenshot/oancbefogdnnbfclaimdkplonkpgdpdj",
-      "pubDate": "Thu, 24 Sep 2026 08:00:52 +0000",
-      "date": "Thu, 24 Sep 2026 08:00:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built Fullpage Screenshot because I wanted to capture a whole webpage and mark it up without paying to unlock the editor. GoFullPage offers annotation through Premium; this extension includes crop, arrows, shapes, text, pen, and solid redaction for free. \nNo accounts and nothing ever leaves your computer.\nPS: The annotation editor is built with the open source Konva.js—shoutout to its maintainers.\nComments URL: https://news.ycombinator.com/item?id=49827649\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827649"
-    },
-    {
-      "title": "Show HN: CastTake – turn one product photo into a short AI UGC ad video",
-      "link": "https://casttake.com/ai-ugc-ad-generator",
-      "pubDate": "Thu, 24 Sep 2026 07:49:11 +0000",
-      "date": "Thu, 24 Sep 2026 07:49:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://casttake.com/ai-ugc-ad-generator\nComments URL: https://news.ycombinator.com/item?id=49827560\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827560"
-    },
-    {
-      "title": "Show HN: CubeLV – AI that designs your automation before building it",
-      "link": "https://app.cubelv.com",
-      "pubDate": "Thu, 24 Sep 2026 07:39:23 +0000",
-      "date": "Thu, 24 Sep 2026 07:39:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://app.cubelv.com\nComments URL: https://news.ycombinator.com/item?id=49827478\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49827478"
-    },
-    {
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "link": "https://cms-sfx-demo.apeleg.com/",
-      "pubDate": "Thu, 24 Sep 2026 07:22:17 +0000",
-      "date": "Thu, 24 Sep 2026 07:22:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Air-gapped file encryption packed into a single, self-decrypting HTML page. AI-free.\nComments URL: https://news.ycombinator.com/item?id=49827375\nPoints: 6\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49827375"
-    },
-    {
-      "title": "Show HN: A modern favicon generator designed for clean UI and quality icon set",
-      "link": "https://favicon.kumardeepak.com",
-      "pubDate": "Thu, 24 Sep 2026 07:02:25 +0000",
-      "date": "Thu, 24 Sep 2026 07:02:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://favicon.kumardeepak.com\nComments URL: https://news.ycombinator.com/item?id=49827203\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827203"
-    },
-    {
-      "title": "Show HN: Carosello. A faster image/video viewer for Linux in Rust and gtk4",
-      "link": "https://github.com/grigio/carosello",
-      "pubDate": "Thu, 24 Sep 2026 07:00:46 +0000",
-      "date": "Thu, 24 Sep 2026 07:00:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/grigio/carosello\nComments URL: https://news.ycombinator.com/item?id=49827186\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49827186"
-    },
-    {
-      "title": "Show HN: I asked 5 LLMs 10k questions and indexed every domain they cited",
-      "link": "https://citegeo.uvansa.com",
-      "pubDate": "Thu, 24 Sep 2026 06:27:32 +0000",
-      "date": "Thu, 24 Sep 2026 06:27:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://citegeo.uvansa.com\nComments URL: https://news.ycombinator.com/item?id=49826945\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49826945"
-    },
-    {
-      "title": "Show HN: FireWand – A lightweight manager for GCP SQL databases",
-      "link": "https://firewand.dev/",
-      "pubDate": "Thu, 24 Sep 2026 06:06:34 +0000",
-      "date": "Thu, 24 Sep 2026 06:06:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://firewand.dev/\nComments URL: https://news.ycombinator.com/item?id=49826797\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49826797"
-    },
-    {
-      "title": "Show HN: Tokenhush – keeps your secrets out of what Claude Code sends",
-      "link": "https://github.com/fregie/tokenhush",
-      "pubDate": "Thu, 24 Sep 2026 03:59:58 +0000",
-      "date": "Thu, 24 Sep 2026 03:59:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/fregie/tokenhush\nComments URL: https://news.ycombinator.com/item?id=49826094\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49826094"
-    },
-    {
-      "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
-      "link": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
-      "pubDate": "Thu, 24 Sep 2026 03:53:54 +0000",
-      "date": "Thu, 24 Sep 2026 03:53:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.\nComments URL: https://news.ycombinator.com/item?id=49826059\nPoints: 47\n# Comments: 59",
-      "guid": "https://news.ycombinator.com/item?id=49826059"
-    },
-    {
-      "title": "Show HN: Built-in APM for vibe-coded apps so your AI can fix them",
-      "link": "https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/",
-      "pubDate": "Thu, 24 Sep 2026 03:31:45 +0000",
-      "date": "Thu, 24 Sep 2026 03:31:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/\nComments URL: https://news.ycombinator.com/item?id=49825904\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49825904"
-    },
-    {
-      "title": "Show HN: I made Jev moderate Discord servers",
-      "link": "https://soter.frolleks.site",
-      "pubDate": "Thu, 24 Sep 2026 03:14:51 +0000",
-      "date": "Thu, 24 Sep 2026 03:14:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "demo: https://x.com/frolleks/status/2102751607238902258\nComments URL: https://news.ycombinator.com/item?id=49825787\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49825787"
     },
     {
       "title": "Floot MCP",
@@ -246,17 +257,6 @@
       "guid": "https://www.producthunt.com/products/floot"
     },
     {
-      "title": "Gemini 3.8 text-to-speech models",
-      "link": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
-      "pubDate": "2026-09-23T19:11:12.000Z",
-      "date": "2026-09-23T19:11:12.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models"
-    },
-    {
       "title": "Gemini 3.8 TTS Playground",
       "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
       "pubDate": "2026-09-23T17:12:27.000Z",
@@ -266,28 +266,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
-    },
-    {
-      "title": "Would We Send Our Kids to HAA?",
-      "link": "https://www.notboring.co/p/haa",
-      "pubDate": "Wed, 23 Sep 2026 13:45:43 GMT",
-      "date": "Wed, 23 Sep 2026 13:45:43 GMT",
-      "source": "Not Boring",
-      "category": "voices",
-      "icon": "🚀",
-      "contentSnippet": "The Future of Education: Whatever They Wish",
-      "guid": "https://www.notboring.co/p/haa"
-    },
-    {
-      "title": "5 Easy Brain Breaks for Your Classroom",
-      "link": "https://www.coolcatteacher.com/e993/",
-      "pubDate": "Wed, 23 Sep 2026 11:00:00 +0000",
-      "date": "Wed, 23 Sep 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 2 in the countdown of the ten most-downloaded episodes of the first 1,000 — and the oldest show on the list. Rob Donatelli's five brain breaks, still working nine years later.\nThe post 5 Easy Brain Breaks for Your Classroom appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf",
-      "guid": "https://www.coolcatteacher.com/?p=35312"
     }
   ]
 }
