@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T03:01:28.554Z",
-  "lookbackHours": 24,
-  "totalItems": 24,
+  "generatedAt": "2026-09-24T03:16:43.927Z",
+  "lookbackHours": 72,
+  "totalItems": 36,
   "items": [
     {
       "title": "Show HN: CrunchMyPay – 50 pay calculators, every formula and source shown",
@@ -266,6 +266,138 @@
       "icon": "📊",
       "contentSnippet": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
       "guid": "https://stratechery.com/?p=20085"
+    },
+    {
+      "title": "Why AI Made Me a Better Principal",
+      "link": "https://edsurge.com/news/why-ai-made-me-a-better-principal",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+      "source": "EdSurge · Education Tech",
+      "category": "ai-education",
+      "icon": "📚",
+      "contentSnippet": "The true metric of AI in school leadership is not time saved, but the presence and clarity restored to daily decision-making.",
+      "guid": "post-guid-2118A"
+    },
+    {
+      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+      "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+      "pubDate": "2026-09-22T23:46:41.000Z",
+      "date": "2026-09-22T23:46:41.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "link": "https://www.producthunt.com/products/claude-fable-5-1",
+      "pubDate": "2026-09-22T16:36:09.000Z",
+      "date": "2026-09-22T16:36:09.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/claude-fable-5-1"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype ",
+      "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "pubDate": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "date": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+      "guid": "https://www.technologyreview.com/?p=1144867"
+    },
+    {
+      "title": "5 Ways to Build Reading Stamina in Grades 6-12",
+      "link": "https://www.coolcatteacher.com/e992/",
+      "pubDate": "Tue, 22 Sep 2026 11:00:00 +0000",
+      "date": "Tue, 22 Sep 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 3 in the countdown of the ten most-downloaded episodes of the first 1,000. Reading specialist Lisa Hollihan Allen on building stamina in students who have stopped reading.\nThe post 5 Ways to Build Reading Stamina in Grades 6-12 appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow",
+      "guid": "https://www.coolcatteacher.com/?p=35311"
+    },
+    {
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "link": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "pubDate": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "date": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "guid": "https://stratechery.com/?p=20078"
+    },
+    {
+      "title": "The Creolisation of Recognition",
+      "link": "https://www.gettingsmart.com/2026/09/22/the-creolisation-of-recognition/",
+      "pubDate": "Tue, 22 Sep 2026 09:15:00 +0000",
+      "date": "Tue, 22 Sep 2026 09:15:00 +0000",
+      "source": "Getting Smart",
+      "category": "ai-education",
+      "icon": "🌱",
+      "contentSnippet": "What if our recognition systems are still doing the quiet work of colonization, even when they claim inclusion? Simone Ravaioli of Instructure explores creolization as a generative framework for redesigning how we validate learning across cultural and epistemological borders. Drawing on thinkers like Tyson Yunkaporta and Serge Ravet, this piece challenges education leaders to move beyond Recognition of Prior Learning toward relational protocols that let different knowledge systems meet as equals",
+      "guid": "https://www.gettingsmart.com/?p=140497"
+    },
+    {
+      "title": "Learning Commons Launches Open Platform for K-12 Edtech",
+      "link": "https://edsurge.com/news/learning-commons-launches-open-ai-platform-for-k-12-edtech",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "date": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "source": "EdSurge · Education Tech",
+      "category": "ai-education",
+      "icon": "📚",
+      "contentSnippet": "The CZI-backed initiative helps educators and developers use state standards, curricula, and datasets to create and evaluate classroom AI, but critics ...",
+      "guid": "post-guid-37FC4B4C"
+    },
+    {
+      "title": "Someone Who Noticed: Kathy Nimmer, the Helen Keller Award, and Why Noticing Matters in the Age of AI",
+      "link": "https://www.coolcatteacher.com/notice/",
+      "pubDate": "Mon, 21 Sep 2026 18:00:35 +0000",
+      "date": "Mon, 21 Sep 2026 18:00:35 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nKathy Nimmer taught high school English for 29 years, totally blind, and built SEEDS, a program that protects new teachers. She won the 2026 Helen Keller Achievement Award. Vicki and John open with the AI stories that all have one thing in common: someone who noticed.\nThe post Someone Who Noticed: Kathy Nimmer, the Helen Keller Award, and Why Noticin",
+      "guid": "https://www.coolcatteacher.com/?p=35380"
+    },
+    {
+      "title": "Rebound: How Schools Accelerate Learning Recovery",
+      "link": "https://www.coolcatteacher.com/e991/",
+      "pubDate": "Mon, 21 Sep 2026 14:15:38 +0000",
+      "date": "Mon, 21 Sep 2026 14:15:38 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nNumber 4 in the countdown of the ten most-downloaded episodes of the first 1,000. Dr. Douglas Fisher on acceleration research — why you push forward instead of going back to reteach.\nThe post Rebound: How Schools Accelerate Learning Recovery appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every da",
+      "guid": "https://www.coolcatteacher.com/?p=35310"
+    },
+    {
+      "title": "Frontier Overhangs",
+      "link": "https://stratechery.com/2026/frontier-overhangs/",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "date": "Mon, 21 Sep 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
+      "guid": "https://stratechery.com/?p=20065"
+    },
+    {
+      "title": "What Makes Dual Enrollment Actually Work: Robust Student & Family Support & Career Connection",
+      "link": "https://www.gettingsmart.com/2026/09/21/what-makes-dual-enrollment-actually-work-robust-student-family-support-career-connection/",
+      "pubDate": "Mon, 21 Sep 2026 09:15:00 +0000",
+      "date": "Mon, 21 Sep 2026 09:15:00 +0000",
+      "source": "Getting Smart",
+      "category": "ai-education",
+      "icon": "🌱",
+      "contentSnippet": "The third installment in our four-part series with Britebound moves beyond course design to ask a harder question: who is responsible when a student struggles? This post makes the case that robust dual enrollment requires named staff, early drop windows, family scaffolding, and mentors who open doors to careers students have never had reason to imagine. For district leaders building or scaling concurrent enrollment programs, this is the support infrastructure blueprint you have been looking for.",
+      "guid": "https://www.gettingsmart.com/?p=140502"
     }
   ]
 }
