@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-25T02:39:01.157Z",
+  "generatedAt": "2026-09-25T03:00:35.572Z",
   "lookbackHours": 24,
   "totalItems": 22,
   "items": [
+    {
+      "title": "Show HN: A dedicated Mac that keeps Claude Code or Codex running 24/7",
+      "link": "https://macrun.dev/agents",
+      "pubDate": "Fri, 25 Sep 2026 02:33:30 +0000",
+      "date": "Fri, 25 Sep 2026 02:33:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://macrun.dev/agents\nComments URL: https://news.ycombinator.com/item?id=49839560\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49839560"
+    },
     {
       "title": "Show HN: Clippy's Revenge – Made by Opus 5.5 [video]",
       "link": "https://www.youtube.com/watch?v=qUaBObmpYTI",
@@ -211,17 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://zephclick.com\nComments URL: https://news.ycombinator.com/item?id=49836576\nPoints: 9\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=49836576"
-    },
-    {
-      "title": "Show HN: p2p.kiwi – Cross-Platform (macOS <-> Windows <-> Linux) P2P Screenshare",
-      "link": "https://p2p.kiwi/",
-      "pubDate": "Thu, 24 Sep 2026 20:45:34 +0000",
-      "date": "Thu, 24 Sep 2026 20:45:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Full E2EE Cross-Platform (MacOS  Windows  Linux) P2P Mesh.\nThis project started almost 2 years ago (by that time it went with the name \"Bananas Screen Sharing\", which still yields results on Google) and has come a long way.\nThis started, because I was fed up with the lack of proper screenshare support on Linux (even when supported, the clients degrade to only being able to view, but not really participate).\nAdditionally, I got tired of this dance:\n\"Here.. no.. almost.. a bit to the top.. yeah, a",
-      "guid": "https://news.ycombinator.com/item?id=49836525"
     },
     {
       "title": "How to Become a Better Teacher Every Day",
