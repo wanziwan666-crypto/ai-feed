@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-26T10:32:45.348Z",
+  "generatedAt": "2026-09-26T15:25:29.350Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 23,
   "items": [
     {
       "title": "paperclipai/paperclip",
       "link": "https://github.com/paperclipai/paperclip",
-      "pubDate": "2026-09-26T10:32:43.672Z",
-      "date": "2026-09-26T10:32:43.672Z",
+      "pubDate": "2026-09-26T15:25:28.179Z",
+      "date": "2026-09-26T15:25:28.179Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,211 @@
     {
       "title": "vectorize-io/hindsight",
       "link": "https://github.com/vectorize-io/hindsight",
-      "pubDate": "2026-09-26T10:32:43.672Z",
-      "date": "2026-09-26T10:32:43.672Z",
+      "pubDate": "2026-09-26T15:25:28.179Z",
+      "date": "2026-09-26T15:25:28.179Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Hindsight: Agent Memory That Learns\nhttps://hindsight.vectorize.io/\n\n \n \n\n \n \nDocumentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud\n \n \n      \n \n \n   \n \n \n \nWhat is Hindsight?\n \nHindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember.\n \n\n \n \nIt eliminates the shortcomings of alternative techniques such as",
       "guid": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "title": "Show HN: Prodigy – The Self-Updating Technical Digest",
+      "link": "https://www.prodigy.org.in/",
+      "pubDate": "Sat, 26 Sep 2026 14:45:54 +0000",
+      "date": "Sat, 26 Sep 2026 14:45:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've seen newsletters where we have 15-20 people working on typing out the content and publish it. Obviously that gives you originality, but what if we don't have that much time and resources?\nI made Prodigy, a self-updating AI newsletter that fetches the best technical updates from sources like X, Hacker News, Git and top-conference papers. A LLaMa model runs in the backend and summarises the complete post to capture the key remarks. A Git Actions framework updates the pages every 5 minutes (PR",
+      "guid": "https://news.ycombinator.com/item?id=49857096"
+    },
+    {
+      "title": "Show HN: RemoveBackgroundMusic – preview background music reduction",
+      "link": "https://removebackgroundmusic.com",
+      "pubDate": "Sat, 26 Sep 2026 14:22:10 +0000",
+      "date": "Sat, 26 Sep 2026 14:22:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://removebackgroundmusic.com\nComments URL: https://news.ycombinator.com/item?id=49856857\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49856857"
+    },
+    {
+      "title": "Show HN: HomeAI.design – Visualize interior design ideas from a photo",
+      "link": "https://homeai.design/",
+      "pubDate": "Sat, 26 Sep 2026 14:13:19 +0000",
+      "date": "Sat, 26 Sep 2026 14:13:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI’m an indie developer and I recently built HomeAI.design.\nThe original idea was simple. When people renovate a room, it's difficult to imagine what a different design would actually look like in their own space.\nSo I built a tool where you upload a room photo and generate different interior design ideas.\nI'm still figuring out what users really need, especially compared with other AI interior design tools.\nWould love feedback on the product and the generated results.\nComments URL: https:",
+      "guid": "https://news.ycombinator.com/item?id=49856774"
+    },
+    {
+      "title": "Show HN: Fly Language Model",
+      "link": "https://flm.kuber.studio/",
+      "pubDate": "Sat, 26 Sep 2026 14:10:43 +0000",
+      "date": "Sat, 26 Sep 2026 14:10:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://flm.kuber.studio/\nComments URL: https://news.ycombinator.com/item?id=49856744\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49856744"
+    },
+    {
+      "title": "Show HN: I checked 1M free proxies – 1 in 5 working ones injected scripts",
+      "link": "https://github.com/maximilianfeix/proxy-scraper",
+      "pubDate": "Sat, 26 Sep 2026 14:06:12 +0000",
+      "date": "Sat, 26 Sep 2026 14:06:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/maximilianfeix/proxy-scraper\nComments URL: https://news.ycombinator.com/item?id=49856691\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49856691"
+    },
+    {
+      "title": "Show HN: Minimal dbt-style SQL builds with DuckDB and Make",
+      "link": "https://github.com/ltrgoddard/duckdb.mk",
+      "pubDate": "Sat, 26 Sep 2026 14:06:08 +0000",
+      "date": "Sat, 26 Sep 2026 14:06:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "\"DuckDB and Make are all you need!\"\nI love the ergonomics of dbt for building reproducible data pipelines with DuckDB -- particularly the ability to define output tables as individual `SELECT` queries and have them refer to each other -- but have always found the configuration and boilerplate excessive for the projects I work on. With the recent Rust rewrite of dbt Core, now seemed like a good time to consider the bits I actually need/use.\nRecently, I realised that DuckDB itself can parse SQL qu",
+      "guid": "https://news.ycombinator.com/item?id=49856688"
+    },
+    {
+      "title": "Show HN: The easiest way to (embed a calculator) on any website, with no coding",
+      "link": "https://calcupedia.io",
+      "pubDate": "Sat, 26 Sep 2026 14:04:21 +0000",
+      "date": "Sat, 26 Sep 2026 14:04:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://calcupedia.io\nComments URL: https://news.ycombinator.com/item?id=49856671\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49856671"
+    },
+    {
+      "title": "Show HN: AI coding agents that prove their work",
+      "link": "https://daneb.github.io/keel/",
+      "pubDate": "Sat, 26 Sep 2026 13:31:40 +0000",
+      "date": "Sat, 26 Sep 2026 13:31:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Release of 0.10\nComments URL: https://news.ycombinator.com/item?id=49856381\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49856381"
+    },
+    {
+      "title": "Show HN: Note Duel – LLM Arena for composing music",
+      "link": "https://www.noteduel.com/",
+      "pubDate": "Sat, 26 Sep 2026 13:28:24 +0000",
+      "date": "Sat, 26 Sep 2026 13:28:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN! Inspired by some of the unexpectedly good music I saw Astra + Opus compose on X [1], I've put together Note Duel - think LM Arena, but for musical composition instead of just generating text. I've only tested a few models so far, but will add more... would welcome thoughts + feedback!\n[1] https://x.com/aug5thmusic/status/2097373938393456984\nComments URL: https://news.ycombinator.com/item?id=49856350\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49856350"
+    },
+    {
+      "title": "Show HN: Docspira – JSON/YAML/regex tools that never leave the browser",
+      "link": "https://docspira.com/",
+      "pubDate": "Sat, 26 Sep 2026 12:26:35 +0000",
+      "date": "Sat, 26 Sep 2026 12:26:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://docspira.com/\nComments URL: https://news.ycombinator.com/item?id=49855864\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49855864"
+    },
+    {
+      "title": "Show HN: Blue Lock Farm – a Roblox wiki, database and tools",
+      "link": "https://bluelockfarm.com/",
+      "pubDate": "Sat, 26 Sep 2026 12:18:11 +0000",
+      "date": "Sat, 26 Sep 2026 12:18:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bluelockfarm.com/\nComments URL: https://news.ycombinator.com/item?id=49855816\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49855816"
+    },
+    {
+      "title": "Show HN: Asụsụ Ọma, a free app for learning Igbo with native-speaker audio",
+      "link": "https://asusuoma.com",
+      "pubDate": "Sat, 26 Sep 2026 12:04:50 +0000",
+      "date": "Sat, 26 Sep 2026 12:04:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://asusuoma.com\nComments URL: https://news.ycombinator.com/item?id=49855738\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49855738"
+    },
+    {
+      "title": "Show HN: Ollaya Web UI",
+      "link": "https://github.com/samarkandiy/ollaya-web-ui",
+      "pubDate": "Sat, 26 Sep 2026 11:55:44 +0000",
+      "date": "Sat, 26 Sep 2026 11:55:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/samarkandiy/ollaya-web-ui\nComments URL: https://news.ycombinator.com/item?id=49855683\nPoints: 6\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49855683"
+    },
+    {
+      "title": "Show HN: I built a tool that gives any website an API and MCP",
+      "link": "https://news.ycombinator.com/item?id=49855468",
+      "pubDate": "Sat, 26 Sep 2026 11:22:37 +0000",
+      "date": "Sat, 26 Sep 2026 11:22:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Anyone else run into this problem?\nI built staaake Meets (staaakemeets.com) because we run side tech events around the world. You create an event once and it can be shared to Luma, Meetup and Eventbrite. I connected each platform through their API and it works great. (not the problem)\nThen I wanted to add more platforms, like Partiful, and realized some don't have a public API. I started noticing the same problem with other projects too. There are still a lot of big products that don't have an A",
+      "guid": "https://news.ycombinator.com/item?id=49855468"
+    },
+    {
+      "title": "Show HN: Catescape",
+      "link": "https://catescape.dev/",
+      "pubDate": "Sat, 26 Sep 2026 10:42:15 +0000",
+      "date": "Sat, 26 Sep 2026 10:42:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, this daily puzzle game is inspired by an old flash game \"trap the cat\" I played ~20 years ago. A friend challenged me to make a small game, and I decided to have a stab. I included special tiles to make it a bit more interesting, but honestly the challenge to do it in as few moves as possible each day is what has kept it interesting for me.\nIf you want to play a bit more, I just added an archive so past days are accessible.\nLet me know what you think, and if you have any comments or sugg",
+      "guid": "https://news.ycombinator.com/item?id=49855239"
+    },
+    {
+      "title": "Show HN: CStructSharp – C-struct (de)serialization for C# and JavaScript (WASM)",
+      "link": "https://github.com/vvollers/cstructsharp",
+      "pubDate": "Sat, 26 Sep 2026 10:31:25 +0000",
+      "date": "Sat, 26 Sep 2026 10:31:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been working on this for a while now (I made a POC for myself some years ago which I didn't release. But AI helped me a lot to finally complete/polish it).\nInspired by digital forensic toolkits, this library allows a user to take a c-struct definition and use that to serialize an deserialize binary data.\nIt is a flexible library which features modern c# mechanisms and conventions. I tried to make it easy to use, easy to understand, performant and powerful. You can both use it to parse and u",
+      "guid": "https://news.ycombinator.com/item?id=49855152"
+    },
+    {
+      "title": "Show HN: Where in Europe to Survive the Polycrisis",
+      "link": "https://om-intelligence.ch/projects/play.html?p=polycrisis#/",
+      "pubDate": "Sat, 26 Sep 2026 10:26:34 +0000",
+      "date": "Sat, 26 Sep 2026 10:26:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "in an attempt to find a place to seddle down i made this directory of places in europe and their pro/cons in the coming poly crisis\nComments URL: https://news.ycombinator.com/item?id=49855127\nPoints: 5\n# Comments: 5",
+      "guid": "https://news.ycombinator.com/item?id=49855127"
+    },
+    {
+      "title": "Show HN: Notifications for your own posts on HN",
+      "link": "https://www.hazumi.news/top",
+      "pubDate": "Sat, 26 Sep 2026 10:25:24 +0000",
+      "date": "Sat, 26 Sep 2026 10:25:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Morning all,\nYou can now link your HN account, and Hazumi will watch your account's recent posts and send a browser push notification whenever someone comments on them.\nThis is completely free and separate from the regular post watcher where you can manually watch any post you like for changes.\nWould love to hear your feedback!\nCheers,\nJames\nComments URL: https://news.ycombinator.com/item?id=49855119\nPoints: 1\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=49855119"
     },
     {
       "title": "Show HN: Causal analyst agent skill for Claude",
@@ -33,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I'm not a Data Scientist but have been super intrigued with causal inference off late, so I made a Claude skill to simplify the modelling and experimentation process.\nComments URL: https://news.ycombinator.com/item?id=49855115\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "I'm not a Data Scientist but have been super intrigued with causal inference off late, so I made a Claude skill to simplify the modelling and experimentation process.\nYou upload your dataset to Claude (Opus) and this skill picks your brain for your domain knowledge about the dataset and comes up with a causal dag that you can iterate through. It then runs the data through a number of classical statistics, ML and newer transformer models to come up with outcomes. And it finally creates a html rep",
       "guid": "https://news.ycombinator.com/item?id=49855115"
     },
     {
@@ -48,204 +246,6 @@
       "guid": "https://news.ycombinator.com/item?id=49854806"
     },
     {
-      "title": "Show HN: App2Api – Give your AI the API behind your app",
-      "link": "https://app2api.com/",
-      "pubDate": "Sat, 26 Sep 2026 09:27:27 +0000",
-      "date": "Sat, 26 Sep 2026 09:27:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://app2api.com/\nComments URL: https://news.ycombinator.com/item?id=49854783\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49854783"
-    },
-    {
-      "title": "Show HN: Linecite – find and fix stale file:line references in your docs",
-      "link": "https://github.com/gotoUSA/linecite",
-      "pubDate": "Sat, 26 Sep 2026 08:52:59 +0000",
-      "date": "Sat, 26 Sep 2026 08:52:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/gotoUSA/linecite\nComments URL: https://news.ycombinator.com/item?id=49854530\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49854530"
-    },
-    {
-      "title": "Show HN: Browser-only XIRR calculator – your real return from your real deposits",
-      "link": "https://tradune.com/tools/beat-the-market-calculator/",
-      "pubDate": "Sat, 26 Sep 2026 08:49:32 +0000",
-      "date": "Sat, 26 Sep 2026 08:49:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://tradune.com/tools/beat-the-market-calculator/\nComments URL: https://news.ycombinator.com/item?id=49854510\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49854510"
-    },
-    {
-      "title": "Show HN: WFY24 Weather Widget Zero-setup weather module for Joomla 6",
-      "link": "https://extensions.joomla.org/extension/wfy24-weather-widget/",
-      "pubDate": "Sat, 26 Sep 2026 08:26:15 +0000",
-      "date": "Sat, 26 Sep 2026 08:26:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://extensions.joomla.org/extension/wfy24-weather-widget/\nComments URL: https://news.ycombinator.com/item?id=49854393\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49854393"
-    },
-    {
-      "title": "Show HN: Print Graph Paper",
-      "link": "https://printgraphpaper.app/",
-      "pubDate": "Sat, 26 Sep 2026 07:45:59 +0000",
-      "date": "Sat, 26 Sep 2026 07:45:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://printgraphpaper.app/\nComments URL: https://news.ycombinator.com/item?id=49854203\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49854203"
-    },
-    {
-      "title": "Show HN: Fast image/video viewer for Linux in Rust and gtk4. Carosello",
-      "link": "https://github.com/grigio/carosello",
-      "pubDate": "Sat, 26 Sep 2026 07:10:49 +0000",
-      "date": "Sat, 26 Sep 2026 07:10:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/grigio/carosello\nComments URL: https://news.ycombinator.com/item?id=49854027\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49854027"
-    },
-    {
-      "title": "Show HN: Translate a SVG back to a diagram – drawio",
-      "link": "https://zoosky.github.io/accent-draw/",
-      "pubDate": "Sat, 26 Sep 2026 06:30:23 +0000",
-      "date": "Sat, 26 Sep 2026 06:30:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://zoosky.github.io/accent-draw/\nComments URL: https://news.ycombinator.com/item?id=49853811\nPoints: 2\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49853811"
-    },
-    {
-      "title": "Show HN: WhiteScreenLight.com– A pure white screen for testing/ lighting",
-      "link": "https://whitescreenlight.com/",
-      "pubDate": "Sat, 26 Sep 2026 06:24:31 +0000",
-      "date": "Sat, 26 Sep 2026 06:24:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://whitescreenlight.com/\nComments URL: https://news.ycombinator.com/item?id=49853776\nPoints: 3\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49853776"
-    },
-    {
-      "title": "Show HN: Pysimplicial, Python library for simplicial complexes in topological ML",
-      "link": "https://github.com/kaifczxc-lab/pysimplicial",
-      "pubDate": "Sat, 26 Sep 2026 06:09:25 +0000",
-      "date": "Sat, 26 Sep 2026 06:09:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/kaifczxc-lab/pysimplicial\nComments URL: https://news.ycombinator.com/item?id=49853695\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49853695"
-    },
-    {
-      "title": "Show HN: 12 Puzzle – a sliding puzzle on the hyperbolic plane",
-      "link": "https://mametter.itch.io/12-puzzle",
-      "pubDate": "Sat, 26 Sep 2026 05:51:24 +0000",
-      "date": "Sat, 26 Sep 2026 05:51:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mametter.itch.io/12-puzzle\nComments URL: https://news.ycombinator.com/item?id=49853596\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49853596"
-    },
-    {
-      "title": "Show HN: I built a chatbot that can only reply in emoji, powered by Jev",
-      "link": "https://jev.chat",
-      "pubDate": "Sat, 26 Sep 2026 05:46:54 +0000",
-      "date": "Sat, 26 Sep 2026 05:46:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jev.chat\nComments URL: https://news.ycombinator.com/item?id=49853574\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49853574"
-    },
-    {
-      "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
-      "link": "https://botbin.io/?md=true",
-      "pubDate": "Sat, 26 Sep 2026 05:42:40 +0000",
-      "date": "Sat, 26 Sep 2026 05:42:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://botbin.io/?md=true\nComments URL: https://news.ycombinator.com/item?id=49853553\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49853553"
-    },
-    {
-      "title": "Show HN: Gutcheck, grep for meaning with a local CPU model",
-      "link": "https://github.com/sfmqrb/gutcheck",
-      "pubDate": "Sat, 26 Sep 2026 05:21:34 +0000",
-      "date": "Sat, 26 Sep 2026 05:21:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sfmqrb/gutcheck\nComments URL: https://news.ycombinator.com/item?id=49853451\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49853451"
-    },
-    {
-      "title": "Show HN: Jevcut – an auto-clipper where code picks the cut points, not the model",
-      "link": "https://github.com/VBS2004/jevcut",
-      "pubDate": "Sat, 26 Sep 2026 05:10:44 +0000",
-      "date": "Sat, 26 Sep 2026 05:10:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/VBS2004/jevcut\nComments URL: https://news.ycombinator.com/item?id=49853400\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49853400"
-    },
-    {
-      "title": "Show HN: ZenMode OS, Open-source launcher: stay under your limit, save in gold",
-      "link": "https://zenmodeos.com/story/index.html",
-      "pubDate": "Sat, 26 Sep 2026 04:59:19 +0000",
-      "date": "Sat, 26 Sep 2026 04:59:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://zenmodeos.com/story/index.html\nComments URL: https://news.ycombinator.com/item?id=49853348\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49853348"
-    },
-    {
-      "title": "Show HN: I built my parents a credit card chooser with Jev",
-      "link": "https://points.chengeric.com/",
-      "pubDate": "Sat, 26 Sep 2026 04:58:31 +0000",
-      "date": "Sat, 26 Sep 2026 04:58:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://points.chengeric.com/\nComments URL: https://news.ycombinator.com/item?id=49853344\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49853344"
-    },
-    {
-      "title": "Show HN: HN roasted my email signatures, so I rebuilt the editor",
-      "link": "https://esigna.app",
-      "pubDate": "Sat, 26 Sep 2026 04:10:09 +0000",
-      "date": "Sat, 26 Sep 2026 04:10:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://esigna.app\nComments URL: https://news.ycombinator.com/item?id=49853113\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49853113"
-    },
-    {
-      "title": "Show HN: Jevlang. delegate every if/while condition to Jev",
-      "link": "https://github.com/RoyWiggins/jevlang",
-      "pubDate": "Sat, 26 Sep 2026 03:26:26 +0000",
-      "date": "Sat, 26 Sep 2026 03:26:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/RoyWiggins/jevlang\nComments URL: https://news.ycombinator.com/item?id=49852920\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49852920"
-    },
-    {
       "title": "2026.39: Begun, the Aggregator Wars Have",
       "link": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
       "pubDate": "Fri, 25 Sep 2026 17:00:00 +0000",
@@ -255,17 +255,6 @@
       "icon": "📊",
       "contentSnippet": "The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
       "guid": "https://stratechery.com/?p=20104"
-    },
-    {
-      "title": "Weekly Dose of Optimism #212",
-      "link": "https://www.notboring.co/p/weekly-dose-of-optimism-212",
-      "pubDate": "Fri, 25 Sep 2026 12:36:02 GMT",
-      "date": "Fri, 25 Sep 2026 12:36:02 GMT",
-      "source": "Not Boring",
-      "category": "voices",
-      "icon": "🚀",
-      "contentSnippet": "Vironexis, Solcoa, Terraform, Joby, Meta VR Glasses + Extra Doses",
-      "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-212"
     }
   ]
 }
