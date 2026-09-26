@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T20:53:48.895Z",
+  "generatedAt": "2026-09-26T02:41:50.480Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 24,
   "items": [
     {
       "title": "vectorize-io/hindsight",
       "link": "https://github.com/vectorize-io/hindsight",
-      "pubDate": "2026-09-25T20:53:43.062Z",
-      "date": "2026-09-25T20:53:43.062Z",
+      "pubDate": "2026-09-26T02:41:48.697Z",
+      "date": "2026-09-26T02:41:48.697Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,169 +15,224 @@
       "guid": "https://github.com/vectorize-io/hindsight"
     },
     {
-      "title": "Show HN: A free resume builder where the AI can rewrite but can't invent",
-      "link": "https://nokku.payanai.com/resume-builder",
-      "pubDate": "Fri, 25 Sep 2026 20:31:54 +0000",
-      "date": "Fri, 25 Sep 2026 20:31:54 +0000",
+      "title": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
+      "link": "https://github.com/BackTrackCo/tenjin-agent",
+      "pubDate": "Sat, 26 Sep 2026 00:25:57 +0000",
+      "date": "Sat, 26 Sep 2026 00:25:57 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://nokku.payanai.com/resume-builder\nComments URL: https://news.ycombinator.com/item?id=49849546\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49849546"
+      "contentSnippet": "Hey HN! We're Ali And Vrajang. We just created a tool router for Claude Code built on Jev. It basically gives your agent superpowers.\nYou keep working like you always do. When Jev thinks a tool would help, it provides it to your agent and your agent uses it. It watches your masked prompts, session context, web searches and subagent tasks, so it knows exactly when to intervene.\nFor now, tools come from a curated library. It's the basics like Exa, Firecrawl, Context7,  but we're planning to add mo",
+      "guid": "https://news.ycombinator.com/item?id=49851853"
     },
     {
-      "title": "Show HN: Drift – A clickable map of ideas unfolding from single question (demo)",
-      "link": "https://www.echohive.ai/experiments/drift-atlas",
-      "pubDate": "Fri, 25 Sep 2026 20:02:19 +0000",
-      "date": "Fri, 25 Sep 2026 20:02:19 +0000",
+      "title": "Show HN: A game about fake news and memes",
+      "link": "https://unspin.app/",
+      "pubDate": "Sat, 26 Sep 2026 00:11:33 +0000",
+      "date": "Sat, 26 Sep 2026 00:11:33 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.echohive.ai/experiments/drift-atlas\nComments URL: https://news.ycombinator.com/item?id=49849194\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49849194"
+      "contentSnippet": "I made this game to help me with media literacy. View it like Wordle but for fake news.\nI would appreciate your honest feedback since I'm serious about making it way better.\nComments URL: https://news.ycombinator.com/item?id=49851776\nPoints: 6\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49851776"
     },
     {
-      "title": "Show HN: I made a 3D rock climbing analysis tool using iPhone LiDAR [video]",
-      "link": "https://www.youtube.com/watch?v=vjItC11jF0o",
-      "pubDate": "Fri, 25 Sep 2026 19:48:59 +0000",
-      "date": "Fri, 25 Sep 2026 19:48:59 +0000",
+      "title": "Show HN: KISS – A highly performant agent harness inspired off Pi built in Rust",
+      "link": "https://github.com/racetozero/kiss",
+      "pubDate": "Sat, 26 Sep 2026 00:05:09 +0000",
+      "date": "Sat, 26 Sep 2026 00:05:09 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Having learned a lot from sharing my previous rock climbing demos, I realized that a lot of rock climbing analysis is well-suited for 3D. Even something as simple as supporting videos where the person filming moves with the climber requires 3D information.\nTo get the depth information, I used my iPhone 15 Pro's LiDAR depth sensor through my local iPhone app. I recorded the video and depth measurements from my app, and I ran the rest of the analysis on my computer. I used ViTPose+ Large for pose ",
-      "guid": "https://news.ycombinator.com/item?id=49849064"
+      "contentSnippet": "I built myself a highly performant agent harness built in Rust that's quite heavily inspired by Pi with a few extra addons like optional sub-agents, dynamic workflows, MCP, ACP, WebMCP.\nIt also has opt-in Jev support for dynamic compaction and dynamic reasoning/effort changing mid-turn.\nYou can also embed it in your own projects. There are SDKs for Rust, Python, TypeScript, and WASM, plus JSONL RPC and WebSocket RPC for any other language. The WASM build runs the full agent loop in the browser w",
+      "guid": "https://news.ycombinator.com/item?id=49851739"
     },
     {
-      "title": "Show HN: AgentLens – Replay and compare Codex runs",
-      "link": "https://github.com/fang520huang-lgtm/AgentLens",
-      "pubDate": "Fri, 25 Sep 2026 19:33:40 +0000",
-      "date": "Fri, 25 Sep 2026 19:33:40 +0000",
+      "title": "Show HN: Gaia, an AI character trying to earn enough to stay online",
+      "link": "https://gaiabot.lol",
+      "pubDate": "Fri, 25 Sep 2026 23:13:51 +0000",
+      "date": "Fri, 25 Sep 2026 23:13:51 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "A replay button for AI coding agents. See what Codex likely read, ran, and changed, then compare two runs to find where they diverged.\nComments URL: https://news.ycombinator.com/item?id=49848914\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49848914"
+      "contentSnippet": "Hi all!\nI built Gaia recently to see whether an AI character could cover their own costs. \nI’m keeping those costs as low as I can, using a minimal server along with Deepseek flash 4.1 and trying Ko-fi while I work out what she could make that someone would pay for.\nIf she doesn’t bring in money by Sunday, she'll \"die\", being charged \"rent\" based off server space she occupies.\nI’d be interested to hear what you think of the idea, and what are issues with it. I’ll be around for the next hour or s",
+      "guid": "https://news.ycombinator.com/item?id=49851265"
     },
     {
-      "title": "Show HN: Agate, a 260M image model with separate thinker and renderer",
-      "link": "https://huggingface.co/Logolabs/agate-preview-001",
-      "pubDate": "Fri, 25 Sep 2026 19:25:29 +0000",
-      "date": "Fri, 25 Sep 2026 19:25:29 +0000",
+      "title": "Show HN: I wrote a book on trading psychology, Daoism, and quant risk",
+      "link": "https://bayrising.dev/#book",
+      "pubDate": "Fri, 25 Sep 2026 23:05:25 +0000",
+      "date": "Fri, 25 Sep 2026 23:05:25 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://huggingface.co/Logolabs/agate-preview-001\nComments URL: https://news.ycombinator.com/item?id=49848811\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49848811"
+      "contentSnippet": "Hi HN\nTrading is full of difficult decisions. You can know exactly what you should do, yet emotions, fear, and greed can still push you to do the opposite.\nI’ve experienced this firsthand. I couldn’t find a proper trading psychology framework on the market that truly addressed this part of trading for me.\nAfter years of searching, I found something that works for me. So I created this book to help others too.\nI’m the author of THE DAO OF TRADING: Trade Like Water, Adapt to Market Trends, Manage ",
+      "guid": "https://news.ycombinator.com/item?id=49851184"
     },
     {
-      "title": "Show HN: Aslmp, an async Python SLMP client for Mitsubishi MELSEC PLCs",
-      "link": "https://github.com/AcaysiaChem/aslmp",
-      "pubDate": "Fri, 25 Sep 2026 19:18:03 +0000",
-      "date": "Fri, 25 Sep 2026 19:18:03 +0000",
+      "title": "Show HN: Wallstreetclaws.com – Create AI Agents for Trading",
+      "link": "https://wallstreetclaws.com",
+      "pubDate": "Fri, 25 Sep 2026 22:37:15 +0000",
+      "date": "Fri, 25 Sep 2026 22:37:15 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/AcaysiaChem/aslmp\nComments URL: https://news.ycombinator.com/item?id=49848732\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49848732"
+      "contentSnippet": "I wanted to try out some AI driven trading strategies so created this platform (https://wallstreetclaws.com) where people can easily create and deploy AI agents for trading.\nIt supports two types of Agents:\n1. Cortex: Fully agentic strategy execution. An LLM will run your system prompt with access to market data, web search and simulated market APIs.\n2. Flux: Define advanced quant strategies using indicators, entry conditions, exit conditions, risk management, etc. You can also run backtests on ",
+      "guid": "https://news.ycombinator.com/item?id=49850874"
     },
     {
-      "title": "Show HN: Paper-docx – agent-native Python-docx fork with 78% fewer DOCX failures",
-      "link": "https://github.com/paper-instruments/paper-docx",
-      "pubDate": "Fri, 25 Sep 2026 19:05:31 +0000",
-      "date": "Fri, 25 Sep 2026 19:05:31 +0000",
+      "title": "Show HN: MyA11yReport MCP – Build and test accessible websites with AI",
+      "link": "https://mya11y.report/mcp/",
+      "pubDate": "Fri, 25 Sep 2026 22:27:21 +0000",
+      "date": "Fri, 25 Sep 2026 22:27:21 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/paper-instruments/paper-docx\nComments URL: https://news.ycombinator.com/item?id=49848598\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49848598"
+      "contentSnippet": "Give your AI development tools (like Claude Desktop or Cursor) the ability to run WCAG accessibility audits locally and compliant code.\nComments URL: https://news.ycombinator.com/item?id=49850774\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49850774"
     },
     {
-      "title": "Show HN: CK3DNA – searchable CK3 character DNA and coat of arms codes",
-      "link": "https://ck3dna.com/",
-      "pubDate": "Fri, 25 Sep 2026 19:02:04 +0000",
-      "date": "Fri, 25 Sep 2026 19:02:04 +0000",
+      "title": "Show HN: OOMU is a free macOS native desktop AI harness (local and cloud)",
+      "link": "https://oomu.ai/download.html",
+      "pubDate": "Fri, 25 Sep 2026 22:16:22 +0000",
+      "date": "Fri, 25 Sep 2026 22:16:22 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://ck3dna.com/\nComments URL: https://news.ycombinator.com/item?id=49848556\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49848556"
+      "contentSnippet": "I built OOMU because I honestly got tired of the endless cycle of installing, fixing, updating, fixing, using, fixing the open source harnesses out there like OpenClaw. I also quickly got tired of paying for cloud API tokens.\nOOMU (https://oomu.ai) isn't just another chatbot. It's a native macOS binary written in Rust and AppKit. It handles real work like interactings with system apps, work in the terminal, and compiling docs like Word, Excel, PowerPoint, and PDF. It can also handle multi-turn t",
+      "guid": "https://news.ycombinator.com/item?id=49850662"
     },
     {
-      "title": "Show HN: Digitron – a virtual analog synth and sequencer",
-      "link": "https://apps.apple.com/us/app/digitron-synthesizer/id6737997923",
-      "pubDate": "Fri, 25 Sep 2026 19:01:40 +0000",
-      "date": "Fri, 25 Sep 2026 19:01:40 +0000",
+      "title": "Show HN: Recurse – Develop and deploy specialist agents faster",
+      "link": "https://recurse.run",
+      "pubDate": "Fri, 25 Sep 2026 22:06:03 +0000",
+      "date": "Fri, 25 Sep 2026 22:06:03 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I’ve just released Digitron on iOS.\nIt’s a virtual analog synthesizer with a sequencer. If I had to describe the rough idea, I’d say it’s something like a child of a Moog and a Pocket Operator.\nI started working on it about four years ago, mostly out of boredom. I was tired of building similar client-server apps that, in the end, were mostly different ways of displaying lists. I wanted to build something self-contained.\nThe first version of Digitron was pretty simple: a 16-step sequencer and a m",
-      "guid": "https://news.ycombinator.com/item?id=49848552"
+      "contentSnippet": "Hi HN! We are looking to gather some feedback on our serverless agent harness. The admittedly not-so-specific use case is to accelerate agent development and deployment. After building several custom/special-purpose agents for a few customers, we built this to accelerate our workflow at first, and now we are trying to understand whether it could be useful to others.\nOur driver use case was development of specialist agents with a request/response lifecycle. Think of agents that have a well establ",
+      "guid": "https://news.ycombinator.com/item?id=49850553"
     },
     {
-      "title": "Show HN: Free .has-a.computer sub-domain for your website",
-      "link": "https://has-a.computer/",
-      "pubDate": "Fri, 25 Sep 2026 18:56:24 +0000",
-      "date": "Fri, 25 Sep 2026 18:56:24 +0000",
+      "title": "Show HN: OnionGuard – IP-agnostic, zero-JS DDoS defense in Go for Tor services",
+      "link": "https://github.com/ihatemyfcklife/onionguard",
+      "pubDate": "Fri, 25 Sep 2026 21:56:33 +0000",
+      "date": "Fri, 25 Sep 2026 21:56:33 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "has-a.computer is a free and open source service to get a `.has-a.computer` subdomain for your personal websites.\nComments URL: https://news.ycombinator.com/item?id=49848492\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49848492"
+      "contentSnippet": "Article URL: https://github.com/ihatemyfcklife/onionguard\nComments URL: https://news.ycombinator.com/item?id=49850480\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49850480"
     },
     {
-      "title": "Show HN: Obsidian Plugin for OpenModelica",
-      "link": "https://community.obsidian.md/plugins/modelica-studio",
-      "pubDate": "Fri, 25 Sep 2026 18:53:10 +0000",
-      "date": "Fri, 25 Sep 2026 18:53:10 +0000",
+      "title": "Show HN: VNetMap – A zero-knowledge E2E encrypted network topology mapper",
+      "link": "https://news.ycombinator.com/item?id=49850400",
+      "pubDate": "Fri, 25 Sep 2026 21:45:39 +0000",
+      "date": "Fri, 25 Sep 2026 21:45:39 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I created an Obsidian plugin that serves as a front-end for OpenModelica that allows you to model and simulate cyber-physical systems (mechanical, fluid, magnetic, thermal, etc.) or a mix of all these systems all inside Obsidian.\nWhat is special about Modelica is that it is acausal: components do not have fixed input/output roles. You describe physical relationships with equations and connections, and the equations do not need to be written in a step-by-step order. Modelica (language) or OpenMod",
-      "guid": "https://news.ycombinator.com/item?id=49848452"
+      "contentSnippet": "For years I have used Excel to document my Home Network. If you have switches, servers and many sevices i know you know what i mean by that.\nThere was also no good way to know which patch panel cable runs to witch outlet and what's connected to it.\nSo I started building my own Angular app to map my network.\nI quickly wanted to automate the process of discovering new devices so i don't have to add every device manually. So I built a Docker agent that runs nmap to scan the Network.\nWith the Scanni",
+      "guid": "https://news.ycombinator.com/item?id=49850400"
     },
     {
-      "title": "Show HN: I couldn't deal with another Claude Code tab",
-      "link": "https://aidash.dev/",
-      "pubDate": "Fri, 25 Sep 2026 18:22:30 +0000",
-      "date": "Fri, 25 Sep 2026 18:22:30 +0000",
+      "title": "Show HN: Jev.Store – A dedicated directory of useful things made on Jev",
+      "link": "https://www.jev.store/",
+      "pubDate": "Fri, 25 Sep 2026 21:42:18 +0000",
+      "date": "Fri, 25 Sep 2026 21:42:18 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://aidash.dev/\nComments URL: https://news.ycombinator.com/item?id=49848141\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49848141"
+      "contentSnippet": "Jev launched a few days ago and has taken X (Twitter) by the storm.\nThere’s so much hype around Jev but if you dig deeper it’s mostly software slop or just plain ragebait. As a curious builder myself, it's very hard to filter signal from noise.\nDecided to fix it. Spent 48 hours straight building - Jev.Store\nHand curating only high quality projects tested by owner for valid use cases.\nIf you've, built anything useful on Jev, let me know, would love to feature your project there.\nComments URL: htt",
+      "guid": "https://news.ycombinator.com/item?id=49850364"
     },
     {
-      "title": "Show HN: Stop shipping AI slop, Executor makes agents prove it works",
-      "link": "https://github.com/Atri10/executor",
-      "pubDate": "Fri, 25 Sep 2026 18:05:31 +0000",
-      "date": "Fri, 25 Sep 2026 18:05:31 +0000",
+      "title": "Show HN: Farm.js – A full-stack framework with an AOT compiler for React",
+      "link": "https://farmjs.dev/",
+      "pubDate": "Fri, 25 Sep 2026 21:24:41 +0000",
+      "date": "Fri, 25 Sep 2026 21:24:41 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Atri10/executor\nComments URL: https://news.ycombinator.com/item?id=49847953\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49847953"
+      "contentSnippet": "Article URL: https://farmjs.dev/\nComments URL: https://news.ycombinator.com/item?id=49850140\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49850140"
     },
     {
-      "title": "Show HN: Reliopt – Pareto-frontier, contract-gated optimization for LLM programs",
-      "link": "https://github.com/obielin/reliopt",
-      "pubDate": "Fri, 25 Sep 2026 17:12:35 +0000",
-      "date": "Fri, 25 Sep 2026 17:12:35 +0000",
+      "title": "Show HN: NerfWatch() – Track AI degradation with daily tests and community votes",
+      "link": "https://nerfwatch.lol",
+      "pubDate": "Fri, 25 Sep 2026 21:21:12 +0000",
+      "date": "Fri, 25 Sep 2026 21:21:12 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/obielin/reliopt\nComments URL: https://news.ycombinator.com/item?id=49847252\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49847252"
+      "contentSnippet": "Article URL: https://nerfwatch.lol\nComments URL: https://news.ycombinator.com/item?id=49850096\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49850096"
     },
     {
-      "title": "Show HN: I made a WWI dogfight game that runs in the browser",
-      "link": "https://www.gamedev.pl/ay/biplane-skirmish",
-      "pubDate": "Fri, 25 Sep 2026 17:05:27 +0000",
-      "date": "Fri, 25 Sep 2026 17:05:27 +0000",
+      "title": "Show HN: BuyerCue – Find potential customer by paid-placement evidence",
+      "link": "https://www.buyercue.io",
+      "pubDate": "Fri, 25 Sep 2026 21:20:56 +0000",
+      "date": "Fri, 25 Sep 2026 21:20:56 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hello, this is one of my new games, developed with my own custom game engine. A lot of it was enabled by the latest AI models like Opus or Astra, I feel like I can finally express myself without being bogged down in asset work or programming. I hope you enjoy it :)\nComments URL: https://news.ycombinator.com/item?id=49847157\nPoints: 2\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=49847157"
+      "contentSnippet": "Article URL: https://www.buyercue.io\nComments URL: https://news.ycombinator.com/item?id=49850094\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49850094"
+    },
+    {
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "link": "https://www.gptbeyond.com/try?home=1",
+      "pubDate": "Fri, 25 Sep 2026 21:09:28 +0000",
+      "date": "Fri, 25 Sep 2026 21:09:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picked up coding again, learned react, typescript, etc - even built a rudimentary site - and then came the chatgpt moment, followed by Claude etc.\nSo, as a side project, considering that I had spent 20 years in finance and M&A I started building Ekselio, loveable for finance workflows.\nDifferently from o",
+      "guid": "https://news.ycombinator.com/item?id=49849986"
+    },
+    {
+      "title": "Show HN: Browser Bookmarks, Done Right: Stop Building a Cemetery of Links",
+      "link": "https://chromewebstore.google.com/detail/kosh-bookmark-manager/meldjdfnfgefeoegccphimkmgmeamcce",
+      "pubDate": "Fri, 25 Sep 2026 21:04:22 +0000",
+      "date": "Fri, 25 Sep 2026 21:04:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chromewebstore.google.com/detail/kosh-bookmark-manager/meldjdfnfgefeoegccphimkmgmeamcce\nComments URL: https://news.ycombinator.com/item?id=49849928\nPoints: 5\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49849928"
+    },
+    {
+      "title": "Show HN: Pbi-guard – Unit testing for Power BI",
+      "link": "https://github.com/Patens-dev/pbi-guard",
+      "pubDate": "Fri, 25 Sep 2026 21:04:07 +0000",
+      "date": "Fri, 25 Sep 2026 21:04:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Patens-dev/pbi-guard\nComments URL: https://news.ycombinator.com/item?id=49849926\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49849926"
+    },
+    {
+      "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
+      "link": "https://piloxa.com/for-ai-agents",
+      "pubDate": "Fri, 25 Sep 2026 20:38:05 +0000",
+      "date": "Fri, 25 Sep 2026 20:38:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://piloxa.com/for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49849629\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49849629"
+    },
+    {
+      "title": "Show HN: I read ISO 273 off the standard because the online charts disagree",
+      "link": "https://supra.silviaai.dev/reference/iso-273-clearance-holes",
+      "pubDate": "Fri, 25 Sep 2026 20:33:02 +0000",
+      "date": "Fri, 25 Sep 2026 20:33:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://supra.silviaai.dev/reference/iso-273-clearance-holes\nComments URL: https://news.ycombinator.com/item?id=49849565\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49849565"
     },
     {
       "title": "2026.39: Begun, the Aggregator Wars Have",
@@ -191,61 +246,6 @@
       "guid": "https://stratechery.com/?p=20104"
     },
     {
-      "title": "Show HN: Doom or Bloom, map your AI worldview",
-      "link": "https://www.doom-or-bloom.com",
-      "pubDate": "Fri, 25 Sep 2026 16:51:28 +0000",
-      "date": "Fri, 25 Sep 2026 16:51:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Map your AI worldview by answering a few questions, and see how you compare with others.\nonly takes a few minutes && free & open source && private by default && powered by Jev\nI think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.\nComments URL: https://news.ycombinator.com/item?id=49846953\nPoints: 35\n# Comments: 27",
-      "guid": "https://news.ycombinator.com/item?id=49846953"
-    },
-    {
-      "title": "Show HN: Open-Source Origami CLI",
-      "link": "https://github.com/BrainGridAI/origami-cli",
-      "pubDate": "Fri, 25 Sep 2026 16:49:28 +0000",
-      "date": "Fri, 25 Sep 2026 16:49:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/BrainGridAI/origami-cli\nComments URL: https://news.ycombinator.com/item?id=49846920\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49846920"
-    },
-    {
-      "title": "Show HN: PromptPad- A lightweight editor for long coding prompts",
-      "link": "https://github.com/aaravchour/PromptPad",
-      "pubDate": "Fri, 25 Sep 2026 16:49:16 +0000",
-      "date": "Fri, 25 Sep 2026 16:49:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made PromptPad because whenever I tried to generate prompts, but I wanted to edit it, I would always have to open another VSC window, text file, or Word Document, and this would make my space messy, and also eat up my precious RAM. So I decided to make PromptPad to fix these issues. PromptPad is a small floating editor, with formatting and writing prompts for AI tools, not putting AI into the editor. I made it with an exceptionally low memory footprint (Averages around 15mb)\nCurrently PromptPa",
-      "guid": "https://news.ycombinator.com/item?id=49846916"
-    },
-    {
-      "title": "Show HN: An open-source launch kit to help you vibe code your knowledge base",
-      "link": "https://knowledgebase.dev/",
-      "pubDate": "Fri, 25 Sep 2026 16:48:09 +0000",
-      "date": "Fri, 25 Sep 2026 16:48:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://knowledgebase.dev/\nComments URL: https://news.ycombinator.com/item?id=49846900\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49846900"
-    },
-    {
-      "title": "Show HN: Encryption as a Service",
-      "link": "https://rypt.dev/",
-      "pubDate": "Fri, 25 Sep 2026 16:36:14 +0000",
-      "date": "Fri, 25 Sep 2026 16:36:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello, I’m looking for some criticism. I’m also looking for some people to help test this service.\nComments URL: https://news.ycombinator.com/item?id=49846752\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49846752"
-    },
-    {
       "title": "Weekly Dose of Optimism #212",
       "link": "https://www.notboring.co/p/weekly-dose-of-optimism-212",
       "pubDate": "Fri, 25 Sep 2026 12:36:02 GMT",
@@ -257,17 +257,6 @@
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-212"
     },
     {
-      "title": "Student Mental Health Questions for Teachers: What Am I Missing?",
-      "link": "https://www.coolcatteacher.com/e995/",
-      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0000",
-      "date": "Fri, 25 Sep 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nTherapist and former high school teacher Charle Peck shares the one question to ask a struggling student instead of \"What's wrong with you?\" plus a 30-second rapid reset you can do with the whole class.\nThe post Student Mental Health Questions for Teachers: What Am I Missing? appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher help",
-      "guid": "https://www.coolcatteacher.com/?p=35407"
-    },
-    {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "pubDate": "Fri, 25 Sep 2026 09:16:25 +0000",
@@ -277,17 +266,6 @@
       "icon": "🔬",
       "contentSnippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
       "guid": "https://www.technologyreview.com/?p=1145144"
-    },
-    {
-      "title": "Basedash MCP write",
-      "link": "https://www.producthunt.com/products/basedash",
-      "pubDate": "2026-09-24T22:20:29.000Z",
-      "date": "2026-09-24T22:20:29.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/basedash"
     }
   ]
 }
