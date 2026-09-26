@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-09-26T02:41:50.480Z",
+  "generatedAt": "2026-09-26T04:14:03.561Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 25,
   "items": [
     {
       "title": "vectorize-io/hindsight",
       "link": "https://github.com/vectorize-io/hindsight",
-      "pubDate": "2026-09-26T02:41:48.697Z",
-      "date": "2026-09-26T02:41:48.697Z",
+      "pubDate": "2026-09-26T03:38:51.569Z",
+      "date": "2026-09-26T03:38:51.569Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Hindsight: Agent Memory That Learns\nhttps://hindsight.vectorize.io/\n\n \n \n\n \n \nDocumentation • Integrations • Cookbook • Benchmarks • Paper • Hindsight Cloud\n \n \n      \n \n \n   \n \n \n \nWhat is Hindsight?\n \nHindsight™ is an agent memory system built to create smarter agents that learn over time. Most agent memory systems focus on recalling conversation history. Hindsight is focused on making agents that learn, not just remember.\n \n\n \n \nIt eliminates the shortcomings of alternative techniques such as",
       "guid": "https://github.com/vectorize-io/hindsight"
+    },
+    {
+      "title": "Show HN: Safe-fetch – a Python URL fetcher with per-redirect address checks",
+      "link": "https://github.com/Rehanfaisal/ssrf-safe-fetch",
+      "pubDate": "Sat, 26 Sep 2026 02:42:03 +0000",
+      "date": "Sat, 26 Sep 2026 02:42:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Rehanfaisal/ssrf-safe-fetch\nComments URL: https://news.ycombinator.com/item?id=49852693\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49852693"
+    },
+    {
+      "title": "Show HN: The Human Frequency",
+      "link": "https://humans-only.cloudflare-ryan.workers.dev/",
+      "pubDate": "Sat, 26 Sep 2026 02:05:21 +0000",
+      "date": "Sat, 26 Sep 2026 02:05:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Humans only.\nComments URL: https://news.ycombinator.com/item?id=49852475\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49852475"
     },
     {
       "title": "Show HN: Tenjin – A Jev based x402 tool router for Claude Code",
@@ -33,7 +55,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I made this game to help me with media literacy. View it like Wordle but for fake news.\nI would appreciate your honest feedback since I'm serious about making it way better.\nComments URL: https://news.ycombinator.com/item?id=49851776\nPoints: 6\n# Comments: 2",
+      "contentSnippet": "I made this game to help me with media literacy. View it like Wordle but for fake news.\nI would appreciate your honest feedback since I'm serious about making it way better.\nComments URL: https://news.ycombinator.com/item?id=49851776\nPoints: 9\n# Comments: 5",
       "guid": "https://news.ycombinator.com/item?id=49851776"
     },
     {
@@ -213,28 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=49849926"
     },
     {
-      "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
-      "link": "https://piloxa.com/for-ai-agents",
-      "pubDate": "Fri, 25 Sep 2026 20:38:05 +0000",
-      "date": "Fri, 25 Sep 2026 20:38:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://piloxa.com/for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49849629\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49849629"
-    },
-    {
-      "title": "Show HN: I read ISO 273 off the standard because the online charts disagree",
-      "link": "https://supra.silviaai.dev/reference/iso-273-clearance-holes",
-      "pubDate": "Fri, 25 Sep 2026 20:33:02 +0000",
-      "date": "Fri, 25 Sep 2026 20:33:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://supra.silviaai.dev/reference/iso-273-clearance-holes\nComments URL: https://news.ycombinator.com/item?id=49849565\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49849565"
-    },
-    {
       "title": "2026.39: Begun, the Aggregator Wars Have",
       "link": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
       "pubDate": "Fri, 25 Sep 2026 17:00:00 +0000",
@@ -255,6 +255,17 @@
       "icon": "🚀",
       "contentSnippet": "Vironexis, Solcoa, Terraform, Joby, Meta VR Glasses + Extra Doses",
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-212"
+    },
+    {
+      "title": "Student Mental Health Questions for Teachers: What Am I Missing?",
+      "link": "https://www.coolcatteacher.com/e995/",
+      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0000",
+      "date": "Fri, 25 Sep 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nTherapist and former high school teacher Charle Peck shares the one question to ask a struggling student instead of \"What's wrong with you?\" plus a 30-second rapid reset you can do with the whole class.\nThe post Student Mental Health Questions for Teachers: What Am I Missing? appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher help",
+      "guid": "https://www.coolcatteacher.com/?p=35407"
     },
     {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
