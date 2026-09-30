@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T02:35:25.098Z",
+  "generatedAt": "2026-09-30T03:09:09.081Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 25,
   "items": [
     {
       "title": "paperclipai/paperclip",
       "link": "https://github.com/paperclipai/paperclip",
-      "pubDate": "2026-09-30T02:35:17.066Z",
-      "date": "2026-09-30T02:35:17.066Z",
+      "pubDate": "2026-09-30T03:09:07.542Z",
+      "date": "2026-09-30T03:09:07.542Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "vectorize-io/hindsight",
       "link": "https://github.com/vectorize-io/hindsight",
-      "pubDate": "2026-09-30T02:35:17.066Z",
-      "date": "2026-09-30T02:35:17.066Z",
+      "pubDate": "2026-09-30T03:09:07.542Z",
+      "date": "2026-09-30T03:09:07.542Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,8 +28,8 @@
     {
       "title": "NawfalMotii79/PLFM_RADAR",
       "link": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "pubDate": "2026-09-30T02:35:17.066Z",
-      "date": "2026-09-30T02:35:17.066Z",
+      "pubDate": "2026-09-30T03:09:07.542Z",
+      "date": "2026-09-30T03:09:07.542Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -79,17 +79,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://www.indiegogo.com/projects/momentum-mouse/momentum-mouse-go?refcode=kH0RTo2_MUm4wpY6MALV9Q\nComments URL: https://news.ycombinator.com/item?id=49903180\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49903180"
-    },
-    {
-      "title": "Frustrated With AI? Make It Interview You First",
-      "link": "https://www.coolcatteacher.com/e997/",
-      "pubDate": "Wed, 30 Sep 2026 01:07:28 +0000",
-      "date": "Wed, 30 Sep 2026 01:07:28 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nFrustrated with AI? Dr. Jie Tao of Fairfield University shows teachers how to make AI interview you first, keep it working from your information with a scratch pad, and trade \"prompt and pray\" for consistent answers.\nThe post Frustrated With AI? Make It Interview You First appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping",
-      "guid": "https://www.coolcatteacher.com/?p=35428"
     },
     {
       "title": "Show HN: Spoondle (Daily Word Puzzle)",
