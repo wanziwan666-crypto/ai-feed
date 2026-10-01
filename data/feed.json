@@ -1,51 +1,238 @@
 {
-  "generatedAt": "2026-10-01T12:06:56.251Z",
+  "generatedAt": "2026-10-01T22:09:41.519Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 26,
   "items": [
     {
-      "title": "Show HN: Watch a neural net learn Clash Royale defense in the browser",
-      "link": "https://itzik123.github.io/ClashRoyaleAi/lab/",
-      "pubDate": "Thu, 01 Oct 2026 11:51:05 +0000",
-      "date": "Thu, 01 Oct 2026 11:51:05 +0000",
+      "title": "Show HN: Local-first video intelligence for Mac – find by text, visual, or audio",
+      "link": "https://orcah.app/",
+      "pubDate": "Thu, 01 Oct 2026 21:59:46 +0000",
+      "date": "Thu, 01 Oct 2026 21:59:46 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://itzik123.github.io/ClashRoyaleAi/lab/\nComments URL: https://news.ycombinator.com/item?id=49920469\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49920469"
+      "contentSnippet": "Article URL: https://orcah.app/\nComments URL: https://news.ycombinator.com/item?id=49927561\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49927561"
     },
     {
-      "title": "Show HN: Usage Updates, Claude and Codex credits, resets and limit changes",
-      "link": "https://usageupdates.com/",
-      "pubDate": "Thu, 01 Oct 2026 11:27:55 +0000",
-      "date": "Thu, 01 Oct 2026 11:27:55 +0000",
+      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+      "link": "https://github.com/graphene-data/graphene",
+      "pubDate": "Thu, 01 Oct 2026 21:29:52 +0000",
+      "date": "Thu, 01 Oct 2026 21:29:52 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://usageupdates.com/\nComments URL: https://news.ycombinator.com/item?id=49920307\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49920307"
+      "contentSnippet": "My friend and I have worked at a number of BI companies and thought: Can’t a coding agent do most of this now?\nAlmost. They just need a context/semantic layer to ensure query correctness and some kind of artifact for publishing findings and visualizations.\nWe built an open source project called Graphene that provides these tools:\n- Semantic layer that’s more token-efficient than YAML, more deterministic than Markdown (eg, composable, callable metric macros), with a query API that’s well in-distr",
+      "guid": "https://news.ycombinator.com/item?id=49927295"
     },
     {
-      "title": "Show HN: MeraGEO – check whether ChatGPT, Claude and Gemini name your brand",
-      "link": "https://merageo.com",
-      "pubDate": "Thu, 01 Oct 2026 11:25:06 +0000",
-      "date": "Thu, 01 Oct 2026 11:25:06 +0000",
+      "title": "Show HN: A 100% Client-Side HAR Analyzer That Parses Logs in Seconds",
+      "link": "https://har-analyzer.onlinetool.workers.dev/",
+      "pubDate": "Thu, 01 Oct 2026 21:22:36 +0000",
+      "date": "Thu, 01 Oct 2026 21:22:36 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://merageo.com\nComments URL: https://news.ycombinator.com/item?id=49920293\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49920293"
+      "contentSnippet": "Article URL: https://har-analyzer.onlinetool.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49927221\nPoints: 5\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49927221"
     },
     {
-      "title": "Show HN: Built a tool to organize my lab reports and visualise biomarker trends",
-      "link": "https://medicalhistory.app",
-      "pubDate": "Thu, 01 Oct 2026 11:15:44 +0000",
-      "date": "Thu, 01 Oct 2026 11:15:44 +0000",
+      "title": "Show HN: DOM-defense – turn your current webpage into a tower defense level",
+      "link": "https://chromewebstore.google.com/detail/dom-defense/bglbhkdakecceocdpnegdchjmmomnopg",
+      "pubDate": "Thu, 01 Oct 2026 21:20:29 +0000",
+      "date": "Thu, 01 Oct 2026 21:20:29 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "hi folks!\nI've got tired of loosing my medical lab reports in emails, clinic portals, forgeting file passwords... so built a MedicalHistory.app to organize medical documents and visualise biomarker trends over years between different clinics. Initially made this for personal use but it got so cool that I decided to make this available for everyone.\nYes, I thought that one Claude prompt can build this :D but then immersed myself for 6+ months understanding medical biomarkers ontology from unit no",
-      "guid": "https://news.ycombinator.com/item?id=49920240"
+      "contentSnippet": "I kept thinking about how a lot of us have to be online to do our work each day. It is not uncommon to have other open tabs with social media, games, or whatever. Why not turn your current page, whatever site you are on, into a game?\nSo I built DOM-defense. Once you click play on the current tab and it overlays a tower-defense game on that page. The path snakes its way through the pages hyperlinks. You place towers in the empty space. Enemies march alont the path and if they break the last block",
+      "guid": "https://news.ycombinator.com/item?id=49927208"
+    },
+    {
+      "title": "Show HN: Fumble – keybr, but it learns from everything you type (macOS)",
+      "link": "https://fumble.alexmcconnell.ie",
+      "pubDate": "Thu, 01 Oct 2026 21:05:17 +0000",
+      "date": "Thu, 01 Oct 2026 21:05:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love keybr, but it only sees the ten minutes a day I spend on keybr, not the ten hours I spend typing elsewhere. Can’t improve what you don’t measure.\n(A)I made Fumble is a macOS menu-bar app that watches you type (all day, all local), works out which keys/key pairs are costing you time and gives you lessons built around them.\nOne thing that surprised me: my slowest key is B, but the one costing me the most time is G. It's less than half as slow, but I press it three times as often. And 7 of m",
+      "guid": "https://news.ycombinator.com/item?id=49927078"
+    },
+    {
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "pubDate": "Thu, 01 Oct 2026 20:36:47 +0000",
+      "date": "Thu, 01 Oct 2026 20:36:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 22\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49926773"
+    },
+    {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "link": "https://rhun.app/",
+      "pubDate": "Thu, 01 Oct 2026 20:32:18 +0000",
+      "date": "Thu, 01 Oct 2026 20:32:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I found that I'm not using even 1/3 of vim/vscode features anymore.\nThat's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.\nThe editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollam",
+      "guid": "https://news.ycombinator.com/item?id=49926726"
+    },
+    {
+      "title": "Show HN: HeadWater Volume Ingestion Matrix – a production shortcut",
+      "link": "https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md",
+      "pubDate": "Thu, 01 Oct 2026 20:30:39 +0000",
+      "date": "Thu, 01 Oct 2026 20:30:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md\nComments URL: https://news.ycombinator.com/item?id=49926707\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49926707"
+    },
+    {
+      "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+      "link": "https://premortem.site",
+      "pubDate": "Thu, 01 Oct 2026 20:30:02 +0000",
+      "date": "Thu, 01 Oct 2026 20:30:02 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://premortem.site\nComments URL: https://news.ycombinator.com/item?id=49926691\nPoints: 4\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=49926691"
+    },
+    {
+      "title": "Show HN: HeadWater B2B Data and AI Kit – A Production Architecture Shortcut",
+      "link": "https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater-b2b-data-purification-%26-AI-Ingestion-Implementation-Kit.md",
+      "pubDate": "Thu, 01 Oct 2026 20:09:40 +0000",
+      "date": "Thu, 01 Oct 2026 20:09:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater-b2b-data-purification-%26-AI-Ingestion-Implementation-Kit.md\nComments URL: https://news.ycombinator.com/item?id=49926486\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49926486"
+    },
+    {
+      "title": "Show HN: MoA as Universal IL –> 30yrs from PhD to 5-device validated compiler",
+      "link": "https://github.com/womenflyplanes/moa-compiler",
+      "pubDate": "Thu, 01 Oct 2026 19:57:05 +0000",
+      "date": "Thu, 01 Oct 2026 19:57:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/womenflyplanes/moa-compiler\nComments URL: https://news.ycombinator.com/item?id=49926329\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49926329"
+    },
+    {
+      "title": "Show HN: Paper(Local CLI for Agent Debugging)",
+      "link": "https://news.ycombinator.com/item?id=49926274",
+      "pubDate": "Thu, 01 Oct 2026 19:51:13 +0000",
+      "date": "Thu, 01 Oct 2026 19:51:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI been using LLMs for coding a lot and while they aren't awful at generating code they suck at debugging and spend endless tokens on a debugging loop. Eventually that frustrated me and I built a CLI that attempts to make AI debugging easier. How it works is any error you encounter you would run a simple command \"paper run \" which would \"capture\" that error and log it in a incident_report and tell your agents.md that is the source of truth for the error. When you ask your agent to fix the ",
+      "guid": "https://news.ycombinator.com/item?id=49926274"
+    },
+    {
+      "title": "Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",
+      "link": "https://www.billmender.com/hospital-prices",
+      "pubDate": "Thu, 01 Oct 2026 19:42:09 +0000",
+      "date": "Thu, 01 Oct 2026 19:42:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "US hospitals must publish a machine-readable file of their prices, including the rate they've negotiated with each insurer. The files are huge (one is 36GB), in four formats and often messy, so almost nobody reads them.\nI built a crawler that finds each hospital's official file and pulls out 29 common services. Across 482 hospitals: a moderate ER visit is listed at a median $1,285 while insurers pay $288; a metabolic panel is listed at $207 while insurers pay $11.46.\nTo keep it honest: only per-",
+      "guid": "https://news.ycombinator.com/item?id=49926185"
+    },
+    {
+      "title": "Show HN: Cascade, Mac OS window cascade utility",
+      "link": "https://github.com/hasansayani/MacOSApps-Cascade",
+      "pubDate": "Thu, 01 Oct 2026 19:38:31 +0000",
+      "date": "Thu, 01 Oct 2026 19:38:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Quick vibe coded utility.\nHope it can be useful for you. Ones out there did not work as I wanted them to.\nI also want to highlight App Facts label, which I think is necessary in today's day and age of vibe coded apps and utilities.\nI am open to making it better and adding new features.\nComments URL: https://news.ycombinator.com/item?id=49926136\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49926136"
+    },
+    {
+      "title": "Show HN: Crookcooked – Open-source anti-theft alarm for Mac",
+      "link": "https://crookcooked.github.io/crookcooked/",
+      "pubDate": "Thu, 01 Oct 2026 19:32:20 +0000",
+      "date": "Thu, 01 Oct 2026 19:32:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I work from cafés and libraries a lot and hated leaving my MacBook alone for bathroom breaks, so I built crookcooked.\nArm it and the Mac locks. If someone messes with it, it screams, records them, and sends the clip plus a live view to your iPhone. Video is encrypted and sent over local network.\nOpen source, mostly vibe coded. I find myself using it quite often and thought it could be useful to other people as well!\nComments URL: https://news.ycombinator.com/item?id=49926063\nPoints: 1\n# Comments",
+      "guid": "https://news.ycombinator.com/item?id=49926063"
+    },
+    {
+      "title": "Show HN: Ferry – Sync your coding agent setup to remote Linux boxes",
+      "link": "https://dlhck.github.io/ferry/",
+      "pubDate": "Thu, 01 Oct 2026 19:23:31 +0000",
+      "date": "Thu, 01 Oct 2026 19:23:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://dlhck.github.io/ferry/\nComments URL: https://news.ycombinator.com/item?id=49925961\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49925961"
+    },
+    {
+      "title": "Show HN: Zsh-codex-assistant: codex session attached to your shell",
+      "link": "https://github.com/klntsky/zsh-codex-assistant",
+      "pubDate": "Thu, 01 Oct 2026 19:23:21 +0000",
+      "date": "Thu, 01 Oct 2026 19:23:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "None of the AI-in-the-shell projects were good enough for me, so I made my own minimalistic plugin that simply runs a Codex instance in background and attaches it to my shell on demand\nComments URL: https://news.ycombinator.com/item?id=49925958\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49925958"
+    },
+    {
+      "title": "Show HN: PBI Guard – Stop people from messing up your Power BI (you included)",
+      "link": "https://patens-dev.github.io/pbi-guard/",
+      "pubDate": "Thu, 01 Oct 2026 19:03:05 +0000",
+      "date": "Thu, 01 Oct 2026 19:03:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN!\nI have been a frequent user of Power BI for some time, and I have observed that the tooling is not up to date with the latest platforms/tooling in software engineering.\nAlthough some testing tools and frameworks exist (like Tabular Editor 2/3 or PQL), my day-to-day use cases felt like using a shotgun to catch fish (sure, you can do it, but a rod would have been better). So, I talked to some people and built a Power BI error checker where you can freeze a .pbip at any point in time (consid",
+      "guid": "https://news.ycombinator.com/item?id=49925738"
+    },
+    {
+      "title": "Show HN: D-Engine – deterministic LLM code edits, 42× fewer tokens than an agent",
+      "link": "https://github.com/corruchaga/D-Engine",
+      "pubDate": "Thu, 01 Oct 2026 18:52:26 +0000",
+      "date": "Thu, 01 Oct 2026 18:52:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/corruchaga/D-Engine\nComments URL: https://news.ycombinator.com/item?id=49925593\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49925593"
+    },
+    {
+      "title": "Show HN: Large Print Maker – large-print PDFs generated in the browser",
+      "link": "https://largeprintmaker.com/",
+      "pubDate": "Thu, 01 Oct 2026 18:38:43 +0000",
+      "date": "Thu, 01 Oct 2026 18:38:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://largeprintmaker.com/\nComments URL: https://news.ycombinator.com/item?id=49925419\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49925419"
+    },
+    {
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "pubDate": "Thu, 01 Oct 2026 12:10:00 +0000",
+      "date": "Thu, 01 Oct 2026 12:10:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…",
+      "guid": "https://www.technologyreview.com/?p=1145592"
     },
     {
       "title": "The Dot and the Swarm",
@@ -59,70 +246,15 @@
       "guid": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm"
     },
     {
-      "title": "Show HN: Linux Subsystem Diagrams",
-      "link": "https://news.ycombinator.com/item?id=49920106",
-      "pubDate": "Thu, 01 Oct 2026 10:50:01 +0000",
-      "date": "Thu, 01 Oct 2026 10:50:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Related to some of the previous thread(s).\nThere is an update in the detailed Linux subsystems diagrams in English:\n1. Entire Linux Network stack diagram - \nhttps://doi.org/10.5281/zenodo.12723600\n2. Linux disk I/O diagram - \nhttps://doi.org/10.5281/zenodo.15172530\n3. Commonly used Linux commands -  \nhttps://doi.org/10.5281/zenodo.21907569\nAnd also, a new release of the book: \"Operating systems and computer networks - Linux in Practice\" - in Croatian:\nhttps://doi.org/10.5281/zenodo.8119310\nP.S. ",
-      "guid": "https://news.ycombinator.com/item?id=49920106"
-    },
-    {
-      "title": "Show HN: Autobox – Make your agents sandbox themselves",
-      "link": "https://news.ycombinator.com/item?id=49920001",
-      "pubDate": "Thu, 01 Oct 2026 10:34:31 +0000",
-      "date": "Thu, 01 Oct 2026 10:34:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "https://github.com/freakynit/autobox\nFirst of all: this is NOT for folks who are already using a sandbox. The guarantees provided by Autobox are weaker. This is rather for folks who \"hesitate\" to use sandboxes.\nAutobox is built around two observations I kept making over past one year of seeing sandbox launches and their real-world usage:\n1. There are many sandboxing options now, and they work well. But leaving a handful few, almost nobody uses them. The blocker isn't the technology, it's the set",
-      "guid": "https://news.ycombinator.com/item?id=49920001"
-    },
-    {
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
       "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
       "pubDate": "Thu, 01 Oct 2026 10:32:24 +0000",
       "date": "Thu, 01 Oct 2026 10:32:24 +0000",
       "source": "MIT Tech Review",
       "category": "new-tools",
       "icon": "🔬",
-      "contentSnippet": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what…",
+      "contentSnippet": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what…",
       "guid": "https://www.technologyreview.com/?p=1145588"
-    },
-    {
-      "title": "Show HN: Inbox Cleanup – get to inbox zero in Gmail",
-      "link": "https://cleanup.upstream.do/",
-      "pubDate": "Thu, 01 Oct 2026 10:30:33 +0000",
-      "date": "Thu, 01 Oct 2026 10:30:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We've been working on a small tool that can help with huge (or really, any size) Gmail inboxes. It's meant for people who have let their inbox grow for years and don't know where to start.\nWe had this idea after talking to a lot of people about how they use their email, and one thing that kept coming up was how hard it is to keep up when you receive a lot of emails. Things pile up and cleaning up starts to feel impossible.\nOne important detail: the tool never performs any destructive operations ",
-      "guid": "https://news.ycombinator.com/item?id=49919971"
-    },
-    {
-      "title": "Show HN: An open-source LLM guardrail powered by Jev",
-      "link": "https://github.com/gulbaki/jev-llm-guard",
-      "pubDate": "Thu, 01 Oct 2026 10:28:16 +0000",
-      "date": "Thu, 01 Oct 2026 10:28:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/gulbaki/jev-llm-guard\nComments URL: https://news.ycombinator.com/item?id=49919953\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919953"
-    },
-    {
-      "title": "Show HN: Dev tools that stay out of your way (JSON, Base64, JWT, etc.)",
-      "link": "https://jsonformat.org/",
-      "pubDate": "Thu, 01 Oct 2026 10:28:07 +0000",
-      "date": "Thu, 01 Oct 2026 10:28:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jsonformat.org/\nComments URL: https://news.ycombinator.com/item?id=49919952\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919952"
     },
     {
       "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
@@ -147,50 +279,6 @@
       "guid": "https://www.technologyreview.com/?p=1145435"
     },
     {
-      "title": "Show HN: OrzChat, a minimalist anonymous random chat website",
-      "link": "https://orzchat.com",
-      "pubDate": "Thu, 01 Oct 2026 09:58:40 +0000",
-      "date": "Thu, 01 Oct 2026 09:58:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://orzchat.com\nComments URL: https://news.ycombinator.com/item?id=49919757\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919757"
-    },
-    {
-      "title": "Show HN: Modeling CHSH Degradation (S = 2.404) on Rigetti Cepheus-1-108Q",
-      "link": "https://quantumcomputing.stackexchange.com/questions/46448/modeling-chsh-degradation-s-2-404-on-rigetti-cepheus-1-108q-environmental-t",
-      "pubDate": "Thu, 01 Oct 2026 09:57:50 +0000",
-      "date": "Thu, 01 Oct 2026 09:57:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://quantumcomputing.stackexchange.com/questions/46448/modeling-chsh-degradation-s-2-404-on-rigetti-cepheus-1-108q-environmental-t\nComments URL: https://news.ycombinator.com/item?id=49919747\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919747"
-    },
-    {
-      "title": "Show HN: Walk the Endless Dungeon",
-      "link": "https://the-endless.pages.dev/",
-      "pubDate": "Thu, 01 Oct 2026 09:56:01 +0000",
-      "date": "Thu, 01 Oct 2026 09:56:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Small fun experiment to tinker with \"wave function collapse\" for infinite, organic feeling, maze generation. Then I wanted a way to have the same generation every time for a given seed, while still being explorable infinitely. So I merge a seed-based priority assignment and zone interface and then resolve the inside of a zone using WFC.\nThose places can be walked infinitely with infinite levels up and down.\nProbably just me, but it calms my nerves to roam those digital corridors.\nComments URL: h",
-      "guid": "https://news.ycombinator.com/item?id=49919734"
-    },
-    {
-      "title": "Show HN: Emoji Keyboard",
-      "link": "https://emojikeyboard.cc/",
-      "pubDate": "Thu, 01 Oct 2026 09:42:25 +0000",
-      "date": "Thu, 01 Oct 2026 09:42:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://emojikeyboard.cc/\nComments URL: https://news.ycombinator.com/item?id=49919650\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919650"
-    },
-    {
       "title": "Why the Experience of Experience Matters: Designing learning through experiences that actually have an impact",
       "link": "https://www.gettingsmart.com/2026/10/01/why-the-experience-of-experience-matters-designing-learning-through-experiences-that-actually-have-an-impact/",
       "pubDate": "Thu, 01 Oct 2026 09:15:00 +0000",
@@ -200,83 +288,6 @@
       "icon": "🌱",
       "contentSnippet": "What actually makes a learning experience valuable, and why do so many students point to school as the place that falls shortest? In this deeply researched piece, educator and doctoral faculty member Chris Unger unpacks the difference between faux experiences and authentic ones, drawing on Kolb, Lave and Wenger, Schon, and field case studies from innovative schools across the country. For any education leader thinking seriously about learning design, this is the framework you have been looking f",
       "guid": "https://www.gettingsmart.com/?p=140561"
-    },
-    {
-      "title": "Show HN: Loopback proxy for Claude Code: decide the model, route and observe it",
-      "link": "https://www.npmjs.com/package/reflex-router",
-      "pubDate": "Thu, 01 Oct 2026 09:11:26 +0000",
-      "date": "Thu, 01 Oct 2026 09:11:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.npmjs.com/package/reflex-router\nComments URL: https://news.ycombinator.com/item?id=49919472\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919472"
-    },
-    {
-      "title": "Show HN: Trace: a free, browser-based packet explorer",
-      "link": "https://trace.esdy.cc",
-      "pubDate": "Thu, 01 Oct 2026 08:50:47 +0000",
-      "date": "Thu, 01 Oct 2026 08:50:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Open a `.pcap` or `.pcapng` and explore DNS, HTTP, TLS, hosts, connections, network graphs, and packet details. Analysis runs locally in your browser; captures aren’t uploaded.\nComments URL: https://news.ycombinator.com/item?id=49919348\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919348"
-    },
-    {
-      "title": "Show HN: Ssgoi – Native app-like page transitions for mobile web",
-      "link": "https://ssgoi.dev",
-      "pubDate": "Thu, 01 Oct 2026 08:33:28 +0000",
-      "date": "Thu, 01 Oct 2026 08:33:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I'm building a mobile web app and wanted it to feel native: push, sheet,\nzoom between pages. So I made SSGOI. It works with any router and is\nspring-based, running on the Web Animations API.\nOn top of it I also made a set of mobile UI components:\nhttps://library.comwit.io/ui\nDocs: https://ssgoi.dev\nGithub: https://github.com/meursyphus/ssgoi\nFeedback welcome.\nComments URL: https://news.ycombinator.com/item?id=49919228\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919228"
-    },
-    {
-      "title": "Show HN: AI workspaces for teams with human-AI interfaces",
-      "link": "https://github.com/ailaflow/ailaflow",
-      "pubDate": "Thu, 01 Oct 2026 08:23:59 +0000",
-      "date": "Thu, 01 Oct 2026 08:23:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ailaflow/ailaflow\nComments URL: https://news.ycombinator.com/item?id=49919159\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919159"
-    },
-    {
-      "title": "Show HN: Our Latest research paper(preprint) on loops and graph is live on ArXiv",
-      "link": "https://arxiv.org/abs/2609.27871",
-      "pubDate": "Thu, 01 Oct 2026 08:20:42 +0000",
-      "date": "Thu, 01 Oct 2026 08:20:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://arxiv.org/abs/2609.27871\nComments URL: https://news.ycombinator.com/item?id=49919133\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919133"
-    },
-    {
-      "title": "Show HN: A shared world map where every building can be leveled by tank",
-      "link": "https://worldstrike.fun/",
-      "pubDate": "Thu, 01 Oct 2026 08:01:50 +0000",
-      "date": "Thu, 01 Oct 2026 08:01:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://worldstrike.fun/\nComments URL: https://news.ycombinator.com/item?id=49919005\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49919005"
-    },
-    {
-      "title": "Show HN: Wordpaste – clean Microsoft Word and Google Docs paste, keep equations",
-      "link": "https://smrifat1411.github.io/wordpaste/",
-      "pubDate": "Thu, 01 Oct 2026 07:37:31 +0000",
-      "date": "Thu, 01 Oct 2026 07:37:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://smrifat1411.github.io/wordpaste/\nComments URL: https://news.ycombinator.com/item?id=49918852\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49918852"
     }
   ]
 }
