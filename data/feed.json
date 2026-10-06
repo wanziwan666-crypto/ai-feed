@@ -1,84 +1,227 @@
 {
-  "generatedAt": "2026-10-06T12:28:23.399Z",
+  "generatedAt": "2026-10-06T22:03:02.200Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 24,
   "items": [
     {
-      "title": "Show HN: A Deterministic-First Local Control Center Leveraging AI for Routing",
-      "link": "https://github.com/JuanVeranoMesa/natta-toolkit",
-      "pubDate": "Tue, 06 Oct 2026 11:28:33 +0000",
-      "date": "Tue, 06 Oct 2026 11:28:33 +0000",
+      "title": "Show HN: We Westernized Qwen for US enterprise use",
+      "link": "https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized",
+      "pubDate": "Tue, 06 Oct 2026 21:41:23 +0000",
+      "date": "Tue, 06 Oct 2026 21:41:23 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/JuanVeranoMesa/natta-toolkit\nComments URL: https://news.ycombinator.com/item?id=49976948\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976948"
+      "contentSnippet": "Article URL: https://huggingface.co/hirundo-io/Qwen3.6-35B-A3B-Westernized\nComments URL: https://news.ycombinator.com/item?id=49984522\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49984522"
     },
     {
-      "title": "Show HN: Making an MIT hacker replicant for a PDP-1",
-      "link": "https://github.com/obsolescence/agent-pdp1/",
-      "pubDate": "Tue, 06 Oct 2026 11:26:42 +0000",
-      "date": "Tue, 06 Oct 2026 11:26:42 +0000",
+      "title": "Show HN: Ultrafast Apple Music macOS App",
+      "link": "https://tunefuse.app/",
+      "pubDate": "Tue, 06 Oct 2026 20:57:23 +0000",
+      "date": "Tue, 06 Oct 2026 20:57:23 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/obsolescence/agent-pdp1/\nComments URL: https://news.ycombinator.com/item?id=49976931\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976931"
+      "contentSnippet": "Hi folks!\nMy frustration with the Apple Music macOS app has been growing over the years.\nWhile I consider the iOS app to be pretty well done (when it comes to UI and performance), the macOS app is a slow disaster. There are also features like hotkey window missing, that I would appreciate or some UX decisions are nonsensical to me - for example clicking Artist in an album goes to a list of items in my library by the same Artist, not to the actual AM Artist page itself, to name one.\nAnyway, I dec",
+      "guid": "https://news.ycombinator.com/item?id=49984022"
     },
     {
-      "title": "Show HN: A 100% Client-Side HAR Analyzer Export Req in Multiple Option and Debug",
-      "link": "https://har-analyzer.onlinetool.workers.dev",
-      "pubDate": "Tue, 06 Oct 2026 11:23:17 +0000",
-      "date": "Tue, 06 Oct 2026 11:23:17 +0000",
+      "title": "Show HN: StatLite – Lightweight dashboard for application monitoring",
+      "link": "https://pvrlabs.xyz/statlite/",
+      "pubDate": "Tue, 06 Oct 2026 20:50:34 +0000",
+      "date": "Tue, 06 Oct 2026 20:50:34 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://har-analyzer.onlinetool.workers.dev\nComments URL: https://news.ycombinator.com/item?id=49976908\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976908"
+      "contentSnippet": "Single Go binary (~15 MB RAM), compact SQLite-based storage with configurable retention. Ideal for self-hosted app monitoring. No Prometheus/Grafana stack required.\nShows app and DB health, charts for latency, http status codes, native support for Micrometer-based frameworks like Spring Boot/Micronaut/Quarkus. Simple app integration recipes for Django, Express, FastAPI, Go/Gin and others.\nLive demo: https://pvrlabs.xyz/statlite/demo.html\nComments URL: https://news.ycombinator.com/item?id=4998391",
+      "guid": "https://news.ycombinator.com/item?id=49983919"
     },
     {
-      "title": "Show HN: dailypedia – personalized daily Wikipedia reads",
-      "link": "https://apps.apple.com/us/app/dailypedia-one-article-a-day/id6785082945",
-      "pubDate": "Tue, 06 Oct 2026 11:16:29 +0000",
-      "date": "Tue, 06 Oct 2026 11:16:29 +0000",
+      "title": "Show HN: VoxScribe, a local hold-to-talk voice dictation app for Windows",
+      "link": "https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation",
+      "pubDate": "Tue, 06 Oct 2026 20:32:40 +0000",
+      "date": "Tue, 06 Oct 2026 20:32:40 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/dailypedia-one-article-a-day/id6785082945\nComments URL: https://news.ycombinator.com/item?id=49976854\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976854"
+      "contentSnippet": "Article URL: https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation\nComments URL: https://news.ycombinator.com/item?id=49983690\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49983690"
     },
     {
-      "title": "Show HN: Tofu – let your agent deploy full-stack apps",
-      "link": "https://trytofu.ai",
-      "pubDate": "Tue, 06 Oct 2026 11:12:02 +0000",
-      "date": "Tue, 06 Oct 2026 11:12:02 +0000",
+      "title": "Show HN: SecretGate – self-hosted anonymous inbox, E2E encrypted in the browser",
+      "link": "https://personal.secretgate.site",
+      "pubDate": "Tue, 06 Oct 2026 20:24:17 +0000",
+      "date": "Tue, 06 Oct 2026 20:24:17 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI'm the founder of Tofu, a code deployment platform built for agents. Paste our setup prompt to any agent you're already using and Tofu enables your agent to take your project from code to production. Current features include frontend & backend hosting (created & managed by Tofu), Postgres database (created & managed by Tofu), domain management (one-click setup for Cloudflare managed domains, manual DNS record for others), authentication, Google login, and Analytics.\nWe built Tofu out of ",
-      "guid": "https://news.ycombinator.com/item?id=49976824"
+      "contentSnippet": "Article URL: https://personal.secretgate.site\nComments URL: https://news.ycombinator.com/item?id=49983573\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49983573"
     },
     {
-      "title": "Show HN: PolyRoll – A 3D Marble Game for Mobile/Desktop",
-      "link": "https://polyroll.neocities.org",
-      "pubDate": "Tue, 06 Oct 2026 10:41:02 +0000",
-      "date": "Tue, 06 Oct 2026 10:41:02 +0000",
+      "title": "Show HN: AA (a.k.a. AutoApply) – open-source job-hunt tool and research project",
+      "link": "https://github.com/Liebmann5/AA",
+      "pubDate": "Tue, 06 Oct 2026 20:10:27 +0000",
+      "date": "Tue, 06 Oct 2026 20:10:27 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Inspired by games like \"super monkey ball\" and good 'ol \"marble blast\".. PolyRoll is basically their evil clone..\nUses a combo of \"three.js\" and \"cannon-es\"\n---------\nBackstory:\n---------\n3 months ago I stopped at my buddy's house.. he showed me his Claude-code setup.. I had never tried agentic coding so I figured, why not try to make a game?\nAfter some brainstorming and developing a plan with gemini-pro, we set sonnet off on his merry way and went for a swim... About an hour or two later we had",
-      "guid": "https://news.ycombinator.com/item?id=49976619"
+      "contentSnippet": "Hi HN, I'm Nick. I'm a self-taught programmer with some B.S. in Applied Math, currently working construction but for the past few years have been building something that I think is extremely cool which is AA! My goal was to create a tool to hopefully help folks get jobs, and in the process perhaps gather and showcase job market data from a different perspective that I believe contains stories, ideas, and considerations worthy of sharing.\nAs of right now, AA has never successfully submitted anyth",
+      "guid": "https://news.ycombinator.com/item?id=49983381"
     },
     {
-      "title": "Show HN: FlowCompute – Open-source, Vulkan-based GUI for OpenFOAM fluid analysis",
-      "link": "https://github.com/FlowComputeClient/flowcompute",
-      "pubDate": "Tue, 06 Oct 2026 10:35:48 +0000",
-      "date": "Tue, 06 Oct 2026 10:35:48 +0000",
+      "title": "Show HN: DevPause – infinite worlds of living sculpture, rendered in raw WebGL2",
+      "link": "https://devpause.com",
+      "pubDate": "Tue, 06 Oct 2026 20:10:18 +0000",
+      "date": "Tue, 06 Oct 2026 20:10:18 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/FlowComputeClient/flowcompute\nComments URL: https://news.ycombinator.com/item?id=49976595\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49976595"
+      "contentSnippet": "Article URL: https://devpause.com\nComments URL: https://news.ycombinator.com/item?id=49983378\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49983378"
+    },
+    {
+      "title": "Show HN: A 4B model that gates stablecoin payments (99.5% decision accuracy)",
+      "link": "https://huggingface.co/spaces/sriram1983007/sra-riskgate-demo",
+      "pubDate": "Tue, 06 Oct 2026 20:00:00 +0000",
+      "date": "Tue, 06 Oct 2026 20:00:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built this Model for Stablecoin Risk Decision Engine https://huggingface.co/collections/sriram1983007/sra-riskgat...\nComments URL: https://news.ycombinator.com/item?id=49983275\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49983275"
+    },
+    {
+      "title": "Show HN: cairn, a map of all your repos for coding agents",
+      "link": "https://github.com/Moe1177/cairn",
+      "pubDate": "Tue, 06 Oct 2026 19:54:59 +0000",
+      "date": "Tue, 06 Oct 2026 19:54:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Moe1177/cairn\nComments URL: https://news.ycombinator.com/item?id=49983223\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49983223"
+    },
+    {
+      "title": "Show HN: GridCore – a scheduler that lets several local LLMs share one GPU",
+      "link": "https://blokhin.us/notes/gridcore-gpu-scheduler/",
+      "pubDate": "Tue, 06 Oct 2026 19:39:08 +0000",
+      "date": "Tue, 06 Oct 2026 19:39:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://blokhin.us/notes/gridcore-gpu-scheduler/\nComments URL: https://news.ycombinator.com/item?id=49983013\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49983013"
+    },
+    {
+      "title": "Show HN: 0Sql – Semantic Layer as a Service",
+      "link": "https://0sql.io/",
+      "pubDate": "Tue, 06 Oct 2026 19:36:55 +0000",
+      "date": "Tue, 06 Oct 2026 19:36:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "We pulled out the semantic layer from our other app (Strata.do) and made it a standalone service. Now anyone can build data apps with an integrated deterministic, secure, and fast query layer.\nHow it works:\n1. Use the zsql cli to build your model locally\n2. zsql deploy (self hosted versions soon)\n3. Post a query spec to your projects end point\n4. Get back SQL\nWe never connect to your data warehouse or see any actual data. We only see your model and generate valid sql's.\nThis is an alternative to",
+      "guid": "https://news.ycombinator.com/item?id=49982997"
+    },
+    {
+      "title": "Show HN: attention awareness – iPhone without the distraction",
+      "link": "https://attentionawareness.com/",
+      "pubDate": "Tue, 06 Oct 2026 19:35:23 +0000",
+      "date": "Tue, 06 Oct 2026 19:35:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I read the iPhone Dumbphone post here (https://news.ycombinator.com/item?id=45171200) and it changed my life.\nI hope attention awareness changes at least one other person's life. It achieves its purpose if that happens.\nFree and open source: https://github.com/mertbuilds/attentionawareness\nHope you like the site.\nComments URL: https://news.ycombinator.com/item?id=49982974\nPoints: 2\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=49982974"
+    },
+    {
+      "title": "Show HN: Sift – qualify companies and find who to contact from any website",
+      "link": "https://github.com/Aditya-v05/sift",
+      "pubDate": "Tue, 06 Oct 2026 19:35:19 +0000",
+      "date": "Tue, 06 Oct 2026 19:35:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Aditya-v05/sift\nComments URL: https://news.ycombinator.com/item?id=49982973\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49982973"
+    },
+    {
+      "title": "Show HN: Reika – A coding agent CLI designed around small local models first",
+      "link": "https://github.com/alexwkleung/reika",
+      "pubDate": "Tue, 06 Oct 2026 19:29:25 +0000",
+      "date": "Tue, 06 Oct 2026 19:29:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/alexwkleung/reika\nComments URL: https://news.ycombinator.com/item?id=49982904\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49982904"
+    },
+    {
+      "title": "Show HN: HieraticBench – Can AI read ancient Egyptian handwriting?",
+      "link": "https://hieraticbench.vercel.app/",
+      "pubDate": "Tue, 06 Oct 2026 19:22:15 +0000",
+      "date": "Tue, 06 Oct 2026 19:22:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don't know, hieratic is the cursive form of hieroglyphs that was used in day-to-day life in ancient Egypt. It's as old as hieroglyphs.\nI then went on a mission to have a sentence translated into hieratic. Luckily, in 2022, I was able to commission an Oxford Egyptologist to write it for me. After that, I took it to a hieratic specialist I found on Instagram to redraw it with \"biblical\" accuracy.\nWhen gene",
+      "guid": "https://news.ycombinator.com/item?id=49982822"
+    },
+    {
+      "title": "Show HN: An MCP server that finds text your agent reads and you can't see",
+      "link": "https://hiddencontent.ai/start/",
+      "pubDate": "Tue, 06 Oct 2026 19:21:50 +0000",
+      "date": "Tue, 06 Oct 2026 19:21:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hiddencontent.ai/start/\nComments URL: https://news.ycombinator.com/item?id=49982817\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49982817"
+    },
+    {
+      "title": "Show HN: Self-custody USDC billing for metered APIs – no Stripe, no bank, $0/mo",
+      "link": "https://github.com/web4-watchbot/web4-automaton/blob/main/docs/billing-rail-deep-dive.md",
+      "pubDate": "Tue, 06 Oct 2026 19:20:34 +0000",
+      "date": "Tue, 06 Oct 2026 19:20:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/web4-watchbot/web4-automaton/blob/main/docs/billing-rail-deep-dive.md\nComments URL: https://news.ycombinator.com/item?id=49982801\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49982801"
+    },
+    {
+      "title": "Show HN: Automatically unlock your laptop if your phone is nearby",
+      "link": "https://git.frog.ski/pam_bluetooth/about/",
+      "pubDate": "Tue, 06 Oct 2026 19:20:09 +0000",
+      "date": "Tue, 06 Oct 2026 19:20:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://git.frog.ski/pam_bluetooth/about/\nComments URL: https://news.ycombinator.com/item?id=49982795\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49982795"
+    },
+    {
+      "title": "Show HN: Gretel – Topic specific feeds built from YouTube recommendations",
+      "link": "https://github.com/Relic-a/Gretel/",
+      "pubDate": "Tue, 06 Oct 2026 19:04:55 +0000",
+      "date": "Tue, 06 Oct 2026 19:04:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "One of the annoying things about YouTube is that it is really good at catching my attention, but I have little control over what kind of feed it can show me, so it becomes distracting instead. I don't want to hide recommendations entirely though, I just don't want all my interests mixed into one feed.\nSo I wondered if I could have separate YouTube profiles for different interests, but make creating one as simple as picking a few topics instead of having to create or connect another Google accoun",
+      "guid": "https://news.ycombinator.com/item?id=49982629"
+    },
+    {
+      "title": "Show HN: Pratevenn – A speaking buddy for Norwegian (Bokmål) learners",
+      "link": "https://github.com/UrukiApp/pratevenn",
+      "pubDate": "Tue, 06 Oct 2026 18:56:44 +0000",
+      "date": "Tue, 06 Oct 2026 18:56:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/UrukiApp/pratevenn\nComments URL: https://news.ycombinator.com/item?id=49982533\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49982533"
     },
     {
       "title": "Here’s how our climate team picked 10 promising companies to watch",
@@ -103,50 +246,6 @@
       "guid": "https://www.technologyreview.com/?p=1145032"
     },
     {
-      "title": "BasiGo and its fleet of electric buses",
-      "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "date": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport operates. In a bid to contain the covid-19 pandemic in 2020, the Kenyan government…",
-      "guid": "https://www.technologyreview.com/?p=1145216"
-    },
-    {
-      "title": "Moment Energy and its shipping containers packed with old EV batteries",
-      "link": "https://www.technologyreview.com/2026/10/06/1145221/2026-climate-tech-companies-to-watch-moment-energy-shipping-containers-packed-old-ev-batteries/",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "date": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "Demand for energy storage is surging, with capacity expected to grow eightfold in the next decade. To meet that demand, Moment Energy wants to shortcut a supply chain that now flows largely through China, by domestically repurposing EV batteries into new grid-connected storage systems. Moment Energy’s four founders met while studying mechatronics engineering in college…",
-      "guid": "https://www.technologyreview.com/?p=1145221"
-    },
-    {
-      "title": "Show HN: Slash Anywhere – custom slash commands that work everywhere you type",
-      "link": "https://slashanywhere.com/",
-      "pubDate": "Tue, 06 Oct 2026 10:25:56 +0000",
-      "date": "Tue, 06 Oct 2026 10:25:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://slashanywhere.com/\nComments URL: https://news.ycombinator.com/item?id=49976534\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49976534"
-    },
-    {
-      "title": "Show HN: A complete technical SEO audit in an MCP wrapper",
-      "link": "https://github.com/houtini-ai/seo-audit",
-      "pubDate": "Tue, 06 Oct 2026 10:14:23 +0000",
-      "date": "Tue, 06 Oct 2026 10:14:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Install, and sync with your google search console - analytses from a local SQlite database dependency. Would love your comments.\nComments URL: https://news.ycombinator.com/item?id=49976458\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49976458"
-    },
-    {
       "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
       "link": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
       "pubDate": "Tue, 06 Oct 2026 10:07:36 +0000",
@@ -158,94 +257,6 @@
       "guid": "https://stratechery.com/?p=20236"
     },
     {
-      "title": "Show HN: Acceptodds a prediction market on which ICLR 2027 papers get accepted",
-      "link": "https://acceptodds.com",
-      "pubDate": "Tue, 06 Oct 2026 10:03:26 +0000",
-      "date": "Tue, 06 Oct 2026 10:03:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi, I built acceptodds, a prediction market on conference peer review. Every ICLR 2027 submission (42k papers) has a market: Accept vs. Reject.\nLike many in the ML community, I think the current conference/paper situation is a bit broken. I'm not sure how to fix it, but this is my attempt at building something fun to get the conversation started.\nSome details:\n- Prices come from Hanson's LMSR (logarithmic market scoring rule).\n- You can sell and/or rebuy at any time\n- There's a public leaderboar",
-      "guid": "https://news.ycombinator.com/item?id=49976376"
-    },
-    {
-      "title": "Show HN: Parity,check if a smaller model matches your fine-tuned one right?",
-      "link": "https://github.com/illate/parity",
-      "pubDate": "Tue, 06 Oct 2026 10:02:30 +0000",
-      "date": "Tue, 06 Oct 2026 10:02:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/illate/parity\nComments URL: https://news.ycombinator.com/item?id=49976362\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976362"
-    },
-    {
-      "title": "Show HN: Mashy – Nine short holes of pixel golf",
-      "link": "https://playmashy.com/",
-      "pubDate": "Tue, 06 Oct 2026 10:02:28 +0000",
-      "date": "Tue, 06 Oct 2026 10:02:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built this 9 hole pixel golf game last week to challenge my mates, let me know what you think :)\nComments URL: https://news.ycombinator.com/item?id=49976361\nPoints: 4\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=49976361"
-    },
-    {
-      "title": "Show HN: Dungeons and Business Cards",
-      "link": "https://business-cards.arispen.com/",
-      "pubDate": "Tue, 06 Oct 2026 09:57:01 +0000",
-      "date": "Tue, 06 Oct 2026 09:57:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://business-cards.arispen.com/\nComments URL: https://news.ycombinator.com/item?id=49976312\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976312"
-    },
-    {
-      "title": "Show HN: Screen size calculator that puts the TV on your wall in AR, no app",
-      "link": "https://displaymath.com/?d=samsung-s95d-77_300cm,lg-g6-97_300cm#canvas",
-      "pubDate": "Tue, 06 Oct 2026 09:24:42 +0000",
-      "date": "Tue, 06 Oct 2026 09:24:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://displaymath.com/?d=samsung-s95d-77_300cm,lg-g6-97_300cm#canvas\nComments URL: https://news.ycombinator.com/item?id=49976142\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976142"
-    },
-    {
-      "title": "Show HN: photocn the open-source photo editor for shadcn/ui",
-      "link": "https://photocn.dev",
-      "pubDate": "Tue, 06 Oct 2026 09:23:32 +0000",
-      "date": "Tue, 06 Oct 2026 09:23:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://photocn.dev\nComments URL: https://news.ycombinator.com/item?id=49976134\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976134"
-    },
-    {
-      "title": "Show HN: Apple Notes, Photos and Find My as Native Linux Apps (Omarchy/Arch)",
-      "link": "https://github.com/ferdousbhai/icloud-for-omarchy",
-      "pubDate": "Tue, 06 Oct 2026 09:22:13 +0000",
-      "date": "Tue, 06 Oct 2026 09:22:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ferdousbhai/icloud-for-omarchy\nComments URL: https://news.ycombinator.com/item?id=49976125\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976125"
-    },
-    {
-      "title": "Show HN: Fly spacecraft from a Linux shell over an ansible link (browser game)",
-      "link": "https://libre-space.zchira.workers.dev/",
-      "pubDate": "Tue, 06 Oct 2026 09:17:09 +0000",
-      "date": "Tue, 06 Oct 2026 09:17:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://libre-space.zchira.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49976099\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976099"
-    },
-    {
       "title": "From Compliance to Contribution: What Happens When Students Do Work That Matters",
       "link": "https://www.gettingsmart.com/2026/10/06/from-compliance-to-contribution-what-happens-when-students-do-work-that-matters/",
       "pubDate": "Tue, 06 Oct 2026 09:15:00 +0000",
@@ -255,39 +266,6 @@
       "icon": "🌱",
       "contentSnippet": "What if the most important outcome of a learning experience was not a credential but a shift in how a young person sees themselves? Nikki Stancampiano and Reem Al-Adhami share how the PAST Foundation's work-based learning program moved students from compliance to contribution, and from career exposure to genuine identity formation. This piece is essential reading for leaders designing learning experiences that build agency, belonging, and purpose alongside academic skills.\nThe post From Complian",
       "guid": "https://www.gettingsmart.com/?p=140802"
-    },
-    {
-      "title": "Show HN: Mcpward – contract and security testing for MCP servers in CI",
-      "link": "https://github.com/TsvetanG2/mcpward",
-      "pubDate": "Tue, 06 Oct 2026 09:12:59 +0000",
-      "date": "Tue, 06 Oct 2026 09:12:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/TsvetanG2/mcpward\nComments URL: https://news.ycombinator.com/item?id=49976078\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49976078"
-    },
-    {
-      "title": "Show HN: Use your own Amazon SES account for email workflows",
-      "link": "https://news.ycombinator.com/item?id=49975987",
-      "pubDate": "Tue, 06 Oct 2026 08:59:11 +0000",
-      "date": "Tue, 06 Oct 2026 08:59:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN!\nWe built SendOps because we think email can be a good medium to help users through their journey with your product. Onboarding a new user and helping them in their journey in your product can be specific to the actions they take, their goals and it allows them to read or explore in their own time and not based on your timeline.\nAfter a while of running a service for a few years, we all end up with a few thousand if not hundreds of thousands of emails who signed up for our service. Some b",
-      "guid": "https://news.ycombinator.com/item?id=49975987"
-    },
-    {
-      "title": "Show HN: Speck – Cognitive architecture for small local LLMs",
-      "link": "https://github.com/doctarock/Speck",
-      "pubDate": "Tue, 06 Oct 2026 08:50:01 +0000",
-      "date": "Tue, 06 Oct 2026 08:50:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/doctarock/Speck\nComments URL: https://news.ycombinator.com/item?id=49975933\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49975933"
     }
   ]
 }
