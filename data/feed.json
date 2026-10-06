@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T03:00:38.307Z",
+  "generatedAt": "2026-10-06T03:59:50.390Z",
   "lookbackHours": 24,
   "totalItems": 26,
   "items": [
     {
       "title": "pbakaus/impeccable",
       "link": "https://github.com/pbakaus/impeccable",
-      "pubDate": "2026-10-06T03:00:28.100Z",
-      "date": "2026-10-06T03:00:28.100Z",
+      "pubDate": "2026-10-06T03:59:48.807Z",
+      "date": "2026-10-06T03:59:48.807Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,35 @@
     {
       "title": "coreyhaines31/marketingskills",
       "link": "https://github.com/coreyhaines31/marketingskills",
-      "pubDate": "2026-10-06T03:00:28.100Z",
-      "date": "2026-10-06T03:00:28.100Z",
+      "pubDate": "2026-10-06T03:59:48.807Z",
+      "date": "2026-10-06T03:59:48.807Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.\nhttps://marketing-skills.com\n\nMarketing Skills for AI Agents\n \nA collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Codex, Cursor, Windsurf, and any agent that supports the Agent Skills spec.\n \nBu",
       "guid": "https://github.com/coreyhaines31/marketingskills"
+    },
+    {
+      "title": "Show HN: Launch Your N8n Integration",
+      "link": "https://www.nativeship.io",
+      "pubDate": "Tue, 06 Oct 2026 03:03:11 +0000",
+      "date": "Tue, 06 Oct 2026 03:03:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.nativeship.io\nComments URL: https://news.ycombinator.com/item?id=49973659\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49973659"
+    },
+    {
+      "title": "Show HN: I built an application to work with multiple coding agents",
+      "link": "https://crowsnest.app/",
+      "pubDate": "Tue, 06 Oct 2026 03:01:33 +0000",
+      "date": "Tue, 06 Oct 2026 03:01:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://crowsnest.app/\nComments URL: https://news.ycombinator.com/item?id=49973649\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49973649"
     },
     {
       "title": "Show HN: Figxit, IDE-style autocomplete for the macOS terminal",
@@ -33,7 +55,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Figxit is a Fig/Inshellisense alternative that completes subcommands, options, npm scripts, and Makefile targets as you type. I also added some conventions, such as production decorations, so you don't connect to the wrong SSH server and nuke it by mystake :P\nComments URL: https://news.ycombinator.com/item?id=49973353\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Figxit is a Fig/Inshellisense alternative that completes subcommands, options, npm scripts, and Makefile targets as you type. I also added some conventions, such as production decorations, so you don't connect to the wrong SSH server and nuke it by mystake :P\nComments URL: https://news.ycombinator.com/item?id=49973353\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=49973353"
     },
     {
@@ -55,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/moching-ai-dev/moching\nComments URL: https://news.ycombinator.com/item?id=49973289\nPoints: 2\n# Comments: 1",
+      "contentSnippet": "Article URL: https://github.com/moching-ai-dev/moching\nComments URL: https://news.ycombinator.com/item?id=49973289\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49973289"
     },
     {
@@ -77,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/tradertanmay/ai-agents-zero-to-hero\nComments URL: https://news.ycombinator.com/item?id=49973196\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://github.com/tradertanmay/ai-agents-zero-to-hero\nComments URL: https://news.ycombinator.com/item?id=49973196\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=49973196"
     },
     {
@@ -222,28 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "After I finished my job as a designer on Audacity 4, I dabbled around in making some web tools/WASM things, until I eventually had the thought: But what if I made a web port of Audacity? How hard could that be? Turns out: Browsers actually are reasonably capable at handling media, and the word robots are lying bastards which can be tamed somewhat by having enough tests.\nAnd thus, Soundscaper exists now, featuring Audacity 4's UI, a bunch of extra features that Audacity doesn't have, and, going f",
       "guid": "https://news.ycombinator.com/item?id=49970788"
-    },
-    {
-      "title": "Show HN: Wisp Gallery – filterable WordPress galleries with 3 KB of JavaScript",
-      "link": "https://wispgallery.com/",
-      "pubDate": "Mon, 05 Oct 2026 21:04:34 +0000",
-      "date": "Mon, 05 Oct 2026 21:04:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wispgallery.com/\nComments URL: https://news.ycombinator.com/item?id=49970711\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49970711"
-    },
-    {
-      "title": "Show HN: Free Public API Lab",
-      "link": "https://sondahub.com/",
-      "pubDate": "Mon, 05 Oct 2026 20:58:21 +0000",
-      "date": "Mon, 05 Oct 2026 20:58:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We built a free public API lab (REST, OData, MCP, FHIR, SOAP, Socket.IO etc) with no account and no setup required. To be honest, its a playground for a free product we launch soon, that will go to GIT too; but  works perfectly fine with Postman, Insomnia, Bruno and your own code. Theres a curated GIT version to install and run locally at https://github.com/lockflare/sondahub-core. Hope you all enjoy it.\nComments URL: https://news.ycombinator.com/item?id=49970630\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49970630"
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
