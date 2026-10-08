@@ -1,18 +1,106 @@
 {
-  "generatedAt": "2026-10-07T22:27:47.529Z",
+  "generatedAt": "2026-10-08T03:42:16.656Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 24,
   "items": [
     {
       "title": "pbakaus/impeccable",
       "link": "https://github.com/pbakaus/impeccable",
-      "pubDate": "2026-10-07T22:27:45.537Z",
-      "date": "2026-10-07T22:27:45.537Z",
+      "pubDate": "2026-10-08T03:42:15.656Z",
+      "date": "2026-10-08T03:42:15.656Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The design language that makes your AI harness better at design.\nhttps://impeccable.style\n\nImpeccable\n \nDesign guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 60 deterministic detector rules for AI-generated frontend design.\n \n \n \nQuick start: From your project root, run npx impeccable install, then run /impeccable init inside your AI coding tool. Full docs: impeccable.style.\n \n \nWhy Impeccable?\n \nAnthropic's frontend-design was the first widely-used design skill",
       "guid": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "title": "Show HN: A satirical yet useful employee survey app for tolerable workplaces",
+      "link": "https://tolerableworkplace.com/",
+      "pubDate": "Thu, 08 Oct 2026 02:51:51 +0000",
+      "date": "Thu, 08 Oct 2026 02:51:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "For smaller startups who don't take themselves too seriously but would want to actually survey their employees in a non-corporate way to get a pulse of their company. Can display a \"Tolerable Workplace\" badge.\nComments URL: https://news.ycombinator.com/item?id=50001425\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50001425"
+    },
+    {
+      "title": "Show HN: Rhyven – A marketplace for agents",
+      "link": "https://rhyvenai.com",
+      "pubDate": "Thu, 08 Oct 2026 02:44:14 +0000",
+      "date": "Thu, 08 Oct 2026 02:44:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "My name is Caleb and I am the creator of rhyven marketplace.\nWhy did I make it:\nI create and use a lot of mcps for my daily job. I noticed that most mcps did not have much uniformity and a lot of them were to connect to platforms with large UIs for humans even though agents are the only one using them now.\nSo I thought why not make apps for agents to improve the end human user's experience, in both using and trying new apps.\nFrom this rhyven became two things.\n1. A marketplace for primarily head",
+      "guid": "https://news.ycombinator.com/item?id=50001374"
+    },
+    {
+      "title": "Show HN: agentc: <1mb static/no-libc, minimal, embeddable agent with Rust/C API",
+      "link": "https://github.com/abird-ai/agentc",
+      "pubDate": "Thu, 08 Oct 2026 01:53:34 +0000",
+      "date": "Thu, 08 Oct 2026 01:53:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Sharing an agent that I built since most of the agents that's nice to work with, take hefty deps like node or is provider dependent.\nIt's heavily inspired by the wonderful pi agent - and builds on it as something that you can run on tiny hardware or embed easily in your own binaries without needing it's hefty dependency chain.\nAn agent doesn't really need much - a minimal networking stack, a TUI and an agent loop. Then comes tools, mcp, skills and prompts.\nagentc does exactly that - a minimal, s",
+      "guid": "https://news.ycombinator.com/item?id=50001109"
+    },
+    {
+      "title": "Show HN: Chromatics, a classics reader that colors every character's dialogue",
+      "link": "https://chromatics.mobile/",
+      "pubDate": "Thu, 08 Oct 2026 01:30:42 +0000",
+      "date": "Thu, 08 Oct 2026 01:30:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I have been working on a classics reading app for iPhone & iPad called Chromatics. The app colors character dialogue and it helps you stay immersed in the story. If you are interested, please try it!\nComments URL: https://news.ycombinator.com/item?id=50000965\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50000965"
+    },
+    {
+      "title": "Show HN: StayLeet – keeping skills sharp in AI coding era",
+      "link": "https://stayleet.com/",
+      "pubDate": "Wed, 07 Oct 2026 23:19:20 +0000",
+      "date": "Wed, 07 Oct 2026 23:19:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "As AI writes more and more of the code, it's quite important to maintain sufficient skill and knowledge to even review or judge AI's output.\nHere is a little project I whipped up - I personally found deliberate practice quite useful.  It focusses on non-coding skills (as I think LOC production is basically solved by AI, IMO).  Rather I start with two tracks: general technical fluency (CS / systems / practical fundamentals), and system design.\nAnd yes it was built primarily with help of AI toolin",
+      "guid": "https://news.ycombinator.com/item?id=50000084"
+    },
+    {
+      "title": "Show HN: Festival: A Vibe Engineering Framework",
+      "link": "https://github.com/Obedience-Corp/festival",
+      "pubDate": "Wed, 07 Oct 2026 22:12:07 +0000",
+      "date": "Wed, 07 Oct 2026 22:12:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Obedience-Corp/festival\nComments URL: https://news.ycombinator.com/item?id=49999479\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=49999479"
+    },
+    {
+      "title": "Show HN: Reflex – a cold-start GGUF engine that runs Aleph Alpha's Kolibri-1",
+      "link": "https://github.com/lateos-ai/reflex",
+      "pubDate": "Wed, 07 Oct 2026 22:09:25 +0000",
+      "date": "Wed, 07 Oct 2026 22:09:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/lateos-ai/reflex\nComments URL: https://news.ycombinator.com/item?id=49999451\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=49999451"
+    },
+    {
+      "title": "Show HN: Railcode – Secure cloud for internal software",
+      "link": "https://railcode.dev/",
+      "pubDate": "Wed, 07 Oct 2026 21:55:52 +0000",
+      "date": "Wed, 07 Oct 2026 21:55:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, Yakko here from Railcode.\nRailcode is like an internal Vercel for your company.\nWe built it after speaking to dozens of engineering leaders at various companies where employees were given access to Claude Code or Codex and started to build little tools (apps, agents) locally, but then struggled to share it with coworkers securely.\nTypical scenarios are:\n1. Employees can't share what they've built because of internal policies\n2. Agents find the path of least resistance and deploy things o",
+      "guid": "https://news.ycombinator.com/item?id=49999322"
     },
     {
       "title": "Show HN: Imaging Science Visualizations",
@@ -154,7 +242,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://gtlds.fyi/\nComments URL: https://news.ycombinator.com/item?id=49997971\nPoints: 32\n# Comments: 36",
+      "contentSnippet": "Article URL: https://gtlds.fyi/\nComments URL: https://news.ycombinator.com/item?id=49997971\nPoints: 38\n# Comments: 54",
       "guid": "https://news.ycombinator.com/item?id=49997971"
     },
     {
@@ -169,105 +257,6 @@
       "guid": "https://news.ycombinator.com/item?id=49997954"
     },
     {
-      "title": "Show HN: Smart Blur – Auto-Blur PII in the Browser, with a OpenAI Local Model",
-      "link": "https://smartbuildlabs.com/apps/smart-blur/",
-      "pubDate": "Wed, 07 Oct 2026 18:55:21 +0000",
-      "date": "Wed, 07 Oct 2026 18:55:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi folks, I'm Vicky. I build privacy tools that use local AI, on late nights and weekends.\nSmart Blur is a Chrome extension that blurs sensitive info on any web page before anyone else sees it. There are already a few tools like this, so why another one? Two reasons:\nLocal AI for unstructured PII. Most existing tools use regex, which handles emails, phones and card numbers but can't find names or addresses in plain text. Smart Blur runs OpenAI's Privacy Filter (Apache-2.0) locally on WebGPU. The",
-      "guid": "https://news.ycombinator.com/item?id=49997240"
-    },
-    {
-      "title": "Show HN: TraceUX – Self-hosted session replay in one Go binary",
-      "link": "https://github.com/fjosue4/trace-ux",
-      "pubDate": "Wed, 07 Oct 2026 18:41:03 +0000",
-      "date": "Wed, 07 Oct 2026 18:41:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/fjosue4/trace-ux\nComments URL: https://news.ycombinator.com/item?id=49997043\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49997043"
-    },
-    {
-      "title": "Show HN: Wrapper for Free Open Router Models",
-      "link": "https://wfform.com/",
-      "pubDate": "Wed, 07 Oct 2026 18:33:23 +0000",
-      "date": "Wed, 07 Oct 2026 18:33:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wfform.com/\nComments URL: https://news.ycombinator.com/item?id=49996945\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49996945"
-    },
-    {
-      "title": "Show HN: Am Buffer – an iPhone alarm that blocks your apps when you wake up",
-      "link": "https://testflight.apple.com/join/wpw36PnW",
-      "pubDate": "Wed, 07 Oct 2026 18:32:22 +0000",
-      "date": "Wed, 07 Oct 2026 18:32:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "For quite some time, this was my routine. I'd wake up and grab my phone before I was even properly awake, scrolling Slack, YouTube, LinkedIn and X. Then I'd sit on the toilet scrolling through half-open eyes. My brain would scream to get rid of it, but somehow I couldn't. By the end, I felt groggy, my legs hurt, my eyes were burning, and I felt tired & like shit. I tried to avoid using my phone right after waking up, but there was always some reason to pick up the phone, and then the whole thing",
-      "guid": "https://news.ycombinator.com/item?id=49996924"
-    },
-    {
-      "title": "Show HN: POSIX-UEFI",
-      "link": "https://gitlab.com/bztsrc/posix-uefi",
-      "pubDate": "Wed, 07 Oct 2026 18:06:18 +0000",
-      "date": "Wed, 07 Oct 2026 18:06:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Dependency-free POSIX compatibility layer and build environment for UEFI.\nhttps://gitlab.com/bztsrc/posix-uefi\nIts goal is twofold: provides the usual libc API for EFI applications and an SDK on POSIX systems to create such EFI applications with a build system that works with CLang and gcc as well.\nIts API is nowhere near complete as GNU-EFI's or EDKII's, so it provides seamless integration with those headers to make the API expandable. It is also not a fully POSIX standard compatible libc, it's",
-      "guid": "https://news.ycombinator.com/item?id=49996507"
-    },
-    {
-      "title": "Show HN: Karotte, a framework for building robust RL envs",
-      "link": "https://github.com/preferencemodel/karotte",
-      "pubDate": "Wed, 07 Oct 2026 18:05:38 +0000",
-      "date": "Wed, 07 Oct 2026 18:05:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/preferencemodel/karotte\nComments URL: https://news.ycombinator.com/item?id=49996497\nPoints: 8\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=49996497"
-    },
-    {
-      "title": "Show HN: Pointless but mostly-exact clone of Hacker News",
-      "link": "https://news.ycombinator.lol",
-      "pubDate": "Wed, 07 Oct 2026 18:05:35 +0000",
-      "date": "Wed, 07 Oct 2026 18:05:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Source code: http://github.com/shawwn/sharc\nI had more things I wanted to do with this, but I should probably admit to myself I probably won't be.\nThe original idea was for https://news.ycombinator.lol to be \"Hacker News, but all the comments are AI.\" Right now it's \"Hacker News, but all the comments are the same as the real HN.\" Hence, it's completely pointless.\nSpecial thanks to dang for collaborating -- he even suggested the name for the codebase, \"sharc\".\nDevelopment time was about four mont",
-      "guid": "https://news.ycombinator.com/item?id=49996495"
-    },
-    {
-      "title": "Show HN: getrequest – Never lose an API request",
-      "link": "https://www.getrequest.io/",
-      "pubDate": "Wed, 07 Oct 2026 18:01:11 +0000",
-      "date": "Wed, 07 Oct 2026 18:01:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.getrequest.io/\nComments URL: https://news.ycombinator.com/item?id=49996431\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=49996431"
-    },
-    {
-      "title": "Grief in the Classroom When Teachers Are Grieving Too",
-      "link": "https://www.coolcatteacher.com/e1003/",
-      "pubDate": "Wed, 07 Oct 2026 11:00:00 +0000",
-      "date": "Wed, 07 Oct 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nSometimes we need to talk about hard things, like grief in the classroom. First-grade teacher Haleigh Bresnan and school psychologist Rebecca Brigner share how to help grieving kids and yourself.\nThe post Grief in the Classroom When Teachers Are Grieving Too appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be e",
-      "guid": "https://www.coolcatteacher.com/?p=35468"
-    },
-    {
       "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
       "link": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
       "pubDate": "Wed, 07 Oct 2026 10:01:39 +0000",
@@ -277,28 +266,6 @@
       "icon": "📊",
       "contentSnippet": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
       "guid": "https://stratechery.com/?p=20245"
-    },
-    {
-      "title": "How Coding Can Cultivate Deep Civic Engagement",
-      "link": "https://edsurge.com/news/how-coding-can-cultivate-deep-civic-engagement",
-      "pubDate": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "Incorporating learning from historic social movements into tech education ignites student interest in shaping the future.",
-      "guid": "post-guid-5C7814fE"
-    },
-    {
-      "title": "How Some Small, Rural Districts Are Winning the Attendance Struggle",
-      "link": "https://edsurge.com/news/how-some-small-rural-districts-are-winning-the-attendance-struggle",
-      "pubDate": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "date": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "New study finds that small and rural districts lead the fight against absenteeism.",
-      "guid": "post-guid-6E087f95"
     }
   ]
 }
