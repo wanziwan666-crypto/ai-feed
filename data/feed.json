@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-10-09T03:00:46.021Z",
+  "generatedAt": "2026-10-09T03:47:45.437Z",
   "lookbackHours": 24,
-  "totalItems": 22,
+  "totalItems": 21,
   "items": [
+    {
+      "title": "Show HN: Sibuna an open source web application firewall with proof of work",
+      "link": "https://github.com/insanai/sibuna",
+      "pubDate": "Fri, 09 Oct 2026 03:08:43 +0000",
+      "date": "Fri, 09 Oct 2026 03:08:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nWe are building an open source web application firewall Sibuna to have more control over automated traffic from AI bots and crawlers.\nSibuna runs as a reverse proxy or alongside an existing ingress through forward-auth. It includes application inspection, OWASP CRS support and a wasm based management console.\nPlease try it, and give us feedback for improvements.\nGithub Project: https://github.com/insanai/sibuna\nComments URL: https://news.ycombinator.com/item?id=50015520\nPoints: 1\n# Commen",
+      "guid": "https://news.ycombinator.com/item?id=50015520"
+    },
+    {
+      "title": "Show HN: Rename Super Intelligence Back to Artificial Intelligence",
+      "link": "https://chromewebstore.google.com/detail/si-→-ai/cfpagmhjlhnbjabgaoeobkciklolaekn",
+      "pubDate": "Fri, 09 Oct 2026 03:05:00 +0000",
+      "date": "Fri, 09 Oct 2026 03:05:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Automatically renames all occurrences of \"Super Intelligence \" to \"Artificial Intelligence\".\n100% vibe-coded in two prompts.\nComments URL: https://news.ycombinator.com/item?id=50015492\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50015492"
+    },
     {
       "title": "Show HN: Veil – Zero-knowledge messenger with post-quantum encryption",
       "link": "https://tryveil.app/architecture",
@@ -11,7 +33,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tryveil.app/architecture\nComments URL: https://news.ycombinator.com/item?id=50015160\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://tryveil.app/architecture\nComments URL: https://news.ycombinator.com/item?id=50015160\nPoints: 5\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50015160"
     },
     {
@@ -22,7 +44,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/moching-ai-dev/moching\nComments URL: https://news.ycombinator.com/item?id=50015061\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/moching-ai-dev/moching\nComments URL: https://news.ycombinator.com/item?id=50015061\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50015061"
     },
     {
@@ -110,7 +132,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/edrisranjbar/lifeos\nComments URL: https://news.ycombinator.com/item?id=50014150\nPoints: 22\n# Comments: 3",
+      "contentSnippet": "Article URL: https://github.com/edrisranjbar/lifeos\nComments URL: https://news.ycombinator.com/item?id=50014150\nPoints: 23\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=50014150"
     },
     {
@@ -132,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://svg-spark.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50013931\nPoints: 29\n# Comments: 4",
+      "contentSnippet": "Article URL: https://svg-spark.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50013931\nPoints: 33\n# Comments: 4",
       "guid": "https://news.ycombinator.com/item?id=50013931"
     },
     {
@@ -200,39 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "TL;DR, I made an app that sorts the repos on awesome lists by trending stars, and it updates daily.\nI'm not using AI to write this.\nkldjfklgjdcsjklxfhgjkshdfjkghsjkldfgyis8df7g897123hjkl23\nSee?\nI use awesome lists to discover the best open source projects, but in most cases, the lists are not even sorted alphabetically, let alone by trending. However, the popular lists, like awesome-selfhosted, are updated pretty regularly.\n11:00 UTC daily, I run a local worker to update all the repos, and redep",
       "guid": "https://news.ycombinator.com/item?id=50012938"
-    },
-    {
-      "title": "Show HN: I built a fast spreadsheet engine for the web in Rust/WASM",
-      "link": "https://github.com/podraven/titan-engine",
-      "pubDate": "Thu, 08 Oct 2026 21:51:03 +0000",
-      "date": "Thu, 08 Oct 2026 21:51:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/podraven/titan-engine\nComments URL: https://news.ycombinator.com/item?id=50012880\nPoints: 5\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50012880"
-    },
-    {
-      "title": "Show HN: Weather Ribbon, an open source full-year weather visualization website",
-      "link": "https://weatherribbon.com/",
-      "pubDate": "Thu, 08 Oct 2026 21:46:44 +0000",
-      "date": "Thu, 08 Oct 2026 21:46:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I really love full-year weather visualization sites, but the ones I frequent are so jammed full of display ads, I thought I'd build my own and make it open source.\nHere is San Francisco: https://weatherribbon.com/city/san-francisco\nRepo is here https://github.com/micjm/WeatherRibbon, I welcome contributions.\nFully vibe coded using Agent Duel (a local coding agent arena). https://github.com/bottomless/agent-duel\nComments URL: https://news.ycombinator.com/item?id=50012818\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50012818"
-    },
-    {
-      "title": "Screen Value, Not Screen Time: Leading Schools in the AI Age",
-      "link": "https://www.coolcatteacher.com/e1004/",
-      "pubDate": "Thu, 08 Oct 2026 11:00:00 +0000",
-      "date": "Thu, 08 Oct 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nScreen time isn't the only question. ISTE+ASCD board president Dr. Jeremy Owoh explains screen value, AI policy that isn't a list of don'ts, and why teachers matter more than ever.\nThe post Screen Value, Not Screen Time: Leading Schools in the AI Age appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent",
-      "guid": "https://www.coolcatteacher.com/?p=35471"
     },
     {
       "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
