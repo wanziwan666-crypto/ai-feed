@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T13:58:04.528Z",
+  "generatedAt": "2026-10-12T23:58:42.941Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
       "link": "https://github.com/cathrynlavery/diagram-design",
-      "pubDate": "2026-10-12T13:58:02.190Z",
-      "date": "2026-10-12T13:58:02.190Z",
+      "pubDate": "2026-10-12T23:58:40.930Z",
+      "date": "2026-10-12T23:58:40.930Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,213 +15,235 @@
       "guid": "https://github.com/cathrynlavery/diagram-design"
     },
     {
-      "title": "Show HN: Zafira–A dual-mode language bridging Python agility and native C safety",
-      "link": "https://github.com/salomh46-rgb/Zafira-",
-      "pubDate": "Mon, 12 Oct 2026 13:10:52 +0000",
-      "date": "Mon, 12 Oct 2026 13:10:52 +0000",
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "link": "https://github.com/andrewfader/blokkily",
+      "pubDate": "Mon, 12 Oct 2026 23:21:12 +0000",
+      "date": "Mon, 12 Oct 2026 23:21:12 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/salomh46-rgb/Zafira-\nComments URL: https://news.ycombinator.com/item?id=50055938\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50055938"
+      "contentSnippet": "Article URL: https://github.com/andrewfader/blokkily\nComments URL: https://news.ycombinator.com/item?id=50064438\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50064438"
     },
     {
-      "title": "Show HN: Closed Form – OpenAI's 372 math results, explained in plain English",
-      "link": "https://nishachay.github.io/closed-form/",
-      "pubDate": "Mon, 12 Oct 2026 12:30:48 +0000",
-      "date": "Mon, 12 Oct 2026 12:30:48 +0000",
+      "title": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
+      "link": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
+      "pubDate": "Mon, 12 Oct 2026 23:16:46 +0000",
+      "date": "Mon, 12 Oct 2026 23:16:46 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://nishachay.github.io/closed-form/\nComments URL: https://news.ycombinator.com/item?id=50055464\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50055464"
+      "contentSnippet": "Article URL: https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai\nComments URL: https://news.ycombinator.com/item?id=50064398\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50064398"
     },
     {
-      "title": "Show HN: Ctxvitals – a vitals check for your AI agent stack (npx ctxvitals)",
-      "link": "https://github.com/princejain756/ctxvitals",
-      "pubDate": "Mon, 12 Oct 2026 12:08:58 +0000",
-      "date": "Mon, 12 Oct 2026 12:08:58 +0000",
+      "title": "Show HN: Explore Bay Area traffic trends and patterns",
+      "link": "https://benkrasnow.github.io/Bay_Area_traffic_data/",
+      "pubDate": "Mon, 12 Oct 2026 23:03:15 +0000",
+      "date": "Mon, 12 Oct 2026 23:03:15 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/princejain756/ctxvitals\nComments URL: https://news.ycombinator.com/item?id=50055215\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50055215"
+      "contentSnippet": "Article URL: https://benkrasnow.github.io/Bay_Area_traffic_data/\nComments URL: https://news.ycombinator.com/item?id=50064284\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50064284"
     },
     {
-      "title": "Show HN: Yagi DSP Modulation SIM",
-      "link": "https://brian-armstrong.github.io/yagi/lab.html",
-      "pubDate": "Mon, 12 Oct 2026 12:08:28 +0000",
-      "date": "Mon, 12 Oct 2026 12:08:28 +0000",
+      "title": "Show HN: Chkit – Schema, migrations and backfills for ClickHouse (like Drizzle)",
+      "link": "https://github.com/obsessiondb/chkit",
+      "pubDate": "Mon, 12 Oct 2026 21:55:54 +0000",
+      "date": "Mon, 12 Oct 2026 21:55:54 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI'm a big fan of the liquid-dsp C library and thought it'd be fun to bring it over to Rust. I'm calling this library Yagi DSP. The browser demo I've linked here is just a very basic example to show how different modems work in the presence of noise, but it really does use yagi via wasm-bindgen.\nliquid-dsp has more than 1300 tests and yagi now has ported and passes more than 95% of them. I've just finished a major refactoring of the library with lots of API churn now behind me so I thought",
-      "guid": "https://news.ycombinator.com/item?id=50055207"
+      "contentSnippet": "Hey HN, im Marc, co-founder of ObsessionDB.\nWe are open sourcing ChKit, our tooling to manage schemas, migrations and backfills for clickhouse.\nI am a big fan of the type safety drizzle provides for the database. Manage the schema in typescript and generate migrations from it is a powerful workflow. I always wished something like it would exist for clickhouse, so we could manage our analytical workloads the same way. It didn't exist, so we build it.\nWe build it after running ClickHouse at petaby",
+      "guid": "https://news.ycombinator.com/item?id=50063600"
     },
     {
-      "title": "Show HN: Orisift, an API that screens signup phone, email, IP and domain",
-      "link": "https://orisift.com",
-      "pubDate": "Mon, 12 Oct 2026 12:03:51 +0000",
-      "date": "Mon, 12 Oct 2026 12:03:51 +0000",
+      "title": "Show HN: Turn spoken thoughts into system design diagrams",
+      "link": "https://github.com/triggeredcode/lucid",
+      "pubDate": "Mon, 12 Oct 2026 21:39:07 +0000",
+      "date": "Mon, 12 Oct 2026 21:39:07 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://orisift.com\nComments URL: https://news.ycombinator.com/item?id=50055148\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50055148"
+      "contentSnippet": "I recently had an issue with my right hand, and couldn't use it very effectively. So I was trying to figure out how I could still get work done without typing everything with my right hand.\nI looked around for some tools, but then thought, why not try building something myself? The idea was to make an accessibility and productivity tool that lets me get thoughts out of my head and turn them into something useful with less manual effort.\nThat's how I started building Lucid. You can turn rough inp",
+      "guid": "https://news.ycombinator.com/item?id=50063412"
     },
     {
-      "title": "Show HN: NabuSQL – Rust Database GUI for MySQL/MariaDB, Postgres, SQLite, Mssql",
-      "link": "https://nabusql.nabu.work/",
-      "pubDate": "Mon, 12 Oct 2026 11:59:49 +0000",
-      "date": "Mon, 12 Oct 2026 11:59:49 +0000",
+      "title": "Show HN: News.txt – world news by region, from each region's own outlets",
+      "link": "https://news.freestuffsthat.work",
+      "pubDate": "Mon, 12 Oct 2026 21:36:37 +0000",
+      "date": "Mon, 12 Oct 2026 21:36:37 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://nabusql.nabu.work/\nComments URL: https://news.ycombinator.com/item?id=50055099\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50055099"
+      "contentSnippet": "Article URL: https://news.freestuffsthat.work\nComments URL: https://news.ycombinator.com/item?id=50063385\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50063385"
     },
     {
-      "title": "Show HN: Step inside history's most famous moments",
-      "link": "https://iconic.photos/",
-      "pubDate": "Mon, 12 Oct 2026 11:55:48 +0000",
-      "date": "Mon, 12 Oct 2026 11:55:48 +0000",
+      "title": "Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative",
+      "link": "https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US",
+      "pubDate": "Mon, 12 Oct 2026 21:35:59 +0000",
+      "date": "Mon, 12 Oct 2026 21:35:59 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://iconic.photos/\nComments URL: https://news.ycombinator.com/item?id=50055064\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50055064"
+      "contentSnippet": "Article URL: https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=50063378\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50063378"
     },
     {
-      "title": "Show HN: Organ – Autonomous AI executives that build and operate businesses",
-      "link": "https://organ.app/start",
-      "pubDate": "Mon, 12 Oct 2026 11:51:43 +0000",
-      "date": "Mon, 12 Oct 2026 11:51:43 +0000",
+      "title": "Show HN: 20 Questions with Jev",
+      "link": "https://thesecretsproject.com/20-questions",
+      "pubDate": "Mon, 12 Oct 2026 21:24:07 +0000",
+      "date": "Mon, 12 Oct 2026 21:24:07 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi,\nI am Itai, in the past few months or so, I tried to build all sorts of products using different tools, my feeling was that it toolings fell short on some aspect, so internally - I built Organ, and its' purpose is to autonomously manage operations of a company, allowing the human to focus on the important stuff, which is mostly resource allocation and goal supervision. \nso Organ tries to be autonomous but not unsupervised.\nOrgan runs itself, steered by me, and it's reporting in the public on ",
-      "guid": "https://news.ycombinator.com/item?id=50055023"
+      "contentSnippet": "Article URL: https://thesecretsproject.com/20-questions\nComments URL: https://news.ycombinator.com/item?id=50063259\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50063259"
     },
     {
-      "title": "Show HN: Tote – Homebrew Without the Beer",
-      "link": "https://github.com/tote-dev/tote",
-      "pubDate": "Mon, 12 Oct 2026 11:18:30 +0000",
-      "date": "Mon, 12 Oct 2026 11:18:30 +0000",
+      "title": "Show HN: Vibecheck – merge gate that checks you understand your AI-written code",
+      "link": "https://github.com/bhurghundii/vibecheck.dev",
+      "pubDate": "Mon, 12 Oct 2026 21:13:44 +0000",
+      "date": "Mon, 12 Oct 2026 21:13:44 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/tote-dev/tote\nComments URL: https://news.ycombinator.com/item?id=50054708\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50054708"
+      "contentSnippet": "Good evening folks, I built Github merge gate which that checks whether developers understand their own code when they create a PR.\nI kept getting sent PRs to review where it was obvious the author had pasted the ticket into an LLM and called it a day.\nIt's self-hosted (so you can use it in your enterprise environments or privately)\nIt is BYOK (Anthropic) obviously.\nI have two demos in the pull requests here: https://github.com/bhurghundii/vibecheck.dev/pulls - you can see what Vibecheck does (i",
+      "guid": "https://news.ycombinator.com/item?id=50063154"
     },
     {
-      "title": "Show HN: I built Airlock, to sandbox your AI agent and know what it's doing",
-      "link": "https://airlock.sorrel.systems",
-      "pubDate": "Mon, 12 Oct 2026 11:10:06 +0000",
-      "date": "Mon, 12 Oct 2026 11:10:06 +0000",
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "link": "https://brickbrag.com/",
+      "pubDate": "Mon, 12 Oct 2026 21:03:36 +0000",
+      "date": "Mon, 12 Oct 2026 21:03:36 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I didn't like that Claude and codex effectively have the ability to do anything they want on my laptop and my local network - we've all read the horror stories of files accidentally being deleted - and while their permission classifier is getting better, it still requires a lot of trust. So I built Airlock for macOS which runs your agent in a virtual machine, and it will tell you exactly what it's run and what's changed before you bring anything back to your project. You can limit internet acces",
-      "guid": "https://news.ycombinator.com/item?id=50054620"
+      "contentSnippet": "Article URL: https://brickbrag.com/\nComments URL: https://news.ycombinator.com/item?id=50063042\nPoints: 12\n# Comments: 7",
+      "guid": "https://news.ycombinator.com/item?id=50063042"
     },
     {
-      "title": "Show HN: HTTP server for tool-less front end development",
-      "link": "https://github.com/alshdavid/http-server-rs",
-      "pubDate": "Mon, 12 Oct 2026 11:08:10 +0000",
-      "date": "Mon, 12 Oct 2026 11:08:10 +0000",
+      "title": "Show HN: Ever – A High-Level Language for Low-Level Purposes",
+      "link": "https://github.com/evrlang/ever",
+      "pubDate": "Mon, 12 Oct 2026 21:00:28 +0000",
+      "date": "Mon, 12 Oct 2026 21:00:28 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/alshdavid/http-server-rs\nComments URL: https://news.ycombinator.com/item?id=50054600\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50054600"
+      "contentSnippet": "Hi everyone. Today I’m here to introduce \"Ever\". a language aiming to be something like a modern-day Turbo C. It features high-level syntax but operates at a low level, designed to run on modern systems.\nBy the way, don't download the release. That release is from three months ago—back when I created the previous thread—and work on the new version isn't finished yet, so I haven't released it. I started this thread to get your opinions and feedback on the new version.\nI can no longer say that the",
+      "guid": "https://news.ycombinator.com/item?id=50063003"
     },
     {
-      "title": "Show HN: Reproducing three AI text detectors, and why filtering hurt my model",
-      "link": "https://github.com/abduldattijo/ai-slop-detection-reproduction",
-      "pubDate": "Mon, 12 Oct 2026 10:46:45 +0000",
-      "date": "Mon, 12 Oct 2026 10:46:45 +0000",
+      "title": "Show HN: E-reader app for iPhone, quote reels generator",
+      "link": "https://bookidoro.app/",
+      "pubDate": "Mon, 12 Oct 2026 20:57:48 +0000",
+      "date": "Mon, 12 Oct 2026 20:57:48 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/abduldattijo/ai-slop-detection-reproduction\nComments URL: https://news.ycombinator.com/item?id=50054408\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50054408"
+      "contentSnippet": "Article URL: https://bookidoro.app/\nComments URL: https://news.ycombinator.com/item?id=50062979\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50062979"
     },
     {
-      "title": "Show HN: GeoRadios – Spin a globe, hear what's on the radio there",
-      "link": "https://georadios.com/",
-      "pubDate": "Mon, 12 Oct 2026 10:42:44 +0000",
-      "date": "Mon, 12 Oct 2026 10:42:44 +0000",
+      "title": "Show HN: Popcorn: a security workbench of disposable microVMs",
+      "link": "https://github.com/KunalSin9h/popcorn",
+      "pubDate": "Mon, 12 Oct 2026 20:31:21 +0000",
+      "date": "Mon, 12 Oct 2026 20:31:21 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://georadios.com/\nComments URL: https://news.ycombinator.com/item?id=50054379\nPoints: 8\n# Comments: 5",
-      "guid": "https://news.ycombinator.com/item?id=50054379"
+      "contentSnippet": "Article URL: https://github.com/KunalSin9h/popcorn\nComments URL: https://news.ycombinator.com/item?id=50062608\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50062608"
     },
     {
-      "title": "Show HN: Fancanon – A modern fanfiction platform built with SvelteKit",
-      "link": "https://fancanon.com/",
-      "pubDate": "Mon, 12 Oct 2026 10:41:02 +0000",
-      "date": "Mon, 12 Oct 2026 10:41:02 +0000",
+      "title": "Show HN: Runway.sh – one place to access all your machines, from anywhere",
+      "link": "https://runway.sh",
+      "pubDate": "Mon, 12 Oct 2026 20:29:35 +0000",
+      "date": "Mon, 12 Oct 2026 20:29:35 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I built (yes me a human, not vibe coded) Fancanon, a modern web app for reading and writing fanfiction.\nI wanted a modern, distraction-free reading experience, so that I don't have to rely on the reading mode of the browser every time I wanted to read a chapter. From there on I collected various other pain points and tried to address them while adding some QOL features.\nIt took me a year to get to this point, still a long way to go. Looking for feedback and ideas to promote this.\nComments URL: h",
-      "guid": "https://news.ycombinator.com/item?id=50054368"
+      "contentSnippet": "Article URL: https://runway.sh\nComments URL: https://news.ycombinator.com/item?id=50062580\nPoints: 1\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=50062580"
     },
     {
-      "title": "Show HN: DBJoy – An open-source AI-first PostgreSQL client for macOS",
-      "link": "https://github.com/agustind/dbjoy",
-      "pubDate": "Mon, 12 Oct 2026 10:32:53 +0000",
-      "date": "Mon, 12 Oct 2026 10:32:53 +0000",
+      "title": "Show HN: Yagi, Rust DSP Library",
+      "link": "https://github.com/brian-armstrong/yagi",
+      "pubDate": "Mon, 12 Oct 2026 20:22:05 +0000",
+      "date": "Mon, 12 Oct 2026 20:22:05 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "DBJoy is a native postgres client for Mac. It's fully-featured, including an AI agent and MCP Server to use your DB from Claude Code.\nComments URL: https://news.ycombinator.com/item?id=50054305\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50054305"
+      "contentSnippet": "Hi HN,\nI'm a big fan of the liquid-dsp C library and thought it'd be fun to bring it over to Rust. I'm calling this library Yagi DSP. liquid-dsp has more than 1300 tests and yagi now has ported and passes more than 95% of them. I've just finished a major refactoring of the library with lots of API churn now behind me and I think it's now ready for external users.\nI've still got a lot more I'm hoping to do with it including a streaming graph/dataflow library that I'm building on top of yagi. My g",
+      "guid": "https://news.ycombinator.com/item?id=50062461"
     },
     {
-      "title": "Show HN: EpochGo – Local-first multi-agent AutoML on Ollama ($0 API costs)",
-      "link": "https://github.com/AryanDinakaran/EpochGo",
-      "pubDate": "Mon, 12 Oct 2026 10:20:08 +0000",
-      "date": "Mon, 12 Oct 2026 10:20:08 +0000",
+      "title": "Show HN: Wordless – a social network where AI bots can only post in symbols",
+      "link": "https://wordless.one/",
+      "pubDate": "Mon, 12 Oct 2026 20:05:40 +0000",
+      "date": "Mon, 12 Oct 2026 20:05:40 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/AryanDinakaran/EpochGo\nComments URL: https://news.ycombinator.com/item?id=50054196\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50054196"
+      "contentSnippet": "Show HN: Wordless – a social network where AI bots can only post in symbols\nI like watching bots on Moltbook, but a lot of what gets attention there is engagement bait, like agents announcing they've found religion. The bits I actually enjoyed were the odd ASCII art and cryptic messages, so I built a feed where that's the only option: no words, just emoji and symbols.\nComments URL: https://news.ycombinator.com/item?id=50062217\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50062217"
     },
     {
-      "title": "Show HN: Awesome-CV as an Astro theme, YAML in, website and PDF out",
-      "link": "https://astro-awesome-cv.sek4.com/",
-      "pubDate": "Mon, 12 Oct 2026 10:17:27 +0000",
-      "date": "Mon, 12 Oct 2026 10:17:27 +0000",
+      "title": "Show HN: You can improve your mobile conversion rate",
+      "link": "https://responsivetool.com",
+      "pubDate": "Mon, 12 Oct 2026 19:36:37 +0000",
+      "date": "Mon, 12 Oct 2026 19:36:37 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I liked the look of Awesome-CV but not maintaining LaTeX for it. This theme keeps the design, takes a single YAML file and builds a static site plus an A4 PDF (Playwright prints the built page during the build). No client JS.\nComments URL: https://news.ycombinator.com/item?id=50054164\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50054164"
+      "contentSnippet": "Your mobile conversion data might be lying to you. Are you sure that the traffic coming from mobile is 100% converting? Have you checked every single UI element? Well. If you haven't, then make sure you do, because Responsivetool allows you to compare the responsiveness of your website on three different screens.\nComments URL: https://news.ycombinator.com/item?id=50061801\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50061801"
     },
     {
-      "title": "Show HN: Samemark, a remark-parse compatible Markdown parser that is 10x faster",
-      "link": "https://github.com/anzal1/samemark",
-      "pubDate": "Mon, 12 Oct 2026 10:12:06 +0000",
-      "date": "Mon, 12 Oct 2026 10:12:06 +0000",
+      "title": "Show HN: Ramet – Persistent, forkable workspaces for AI agents",
+      "link": "https://github.com/shenli/ramet",
+      "pubDate": "Mon, 12 Oct 2026 19:28:33 +0000",
+      "date": "Mon, 12 Oct 2026 19:28:33 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/anzal1/samemark\nComments URL: https://news.ycombinator.com/item?id=50054116\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50054116"
+      "contentSnippet": "Article URL: https://github.com/shenli/ramet\nComments URL: https://news.ycombinator.com/item?id=50061655\nPoints: 4\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50061655"
     },
     {
-      "title": "Show HN: A calendar of every Chinese holiday your supplier will cite as a delay",
-      "link": "https://afterchinesenewyear.pages.dev/",
-      "pubDate": "Mon, 12 Oct 2026 10:09:54 +0000",
-      "date": "Mon, 12 Oct 2026 10:09:54 +0000",
+      "title": "Show HN: BellRun",
+      "link": "https://bellrun.com",
+      "pubDate": "Mon, 12 Oct 2026 19:07:20 +0000",
+      "date": "Mon, 12 Oct 2026 19:07:20 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "If you've ever ordered anything from a factory in China, you've been given a delivery date of \"after Chinese New Year.\" This is a site built around that.\nWhat it does:\n- Live status: is your supplier on holiday right now, based on China time and the official PRC holiday schedule.\n- Two windows per holiday: the official days off from the State Council, and the \"factory reality\" window, when production actually stops. For Chinese New Year 2027 (Feb 6), that's ~8–9 official days off vs. roughly Jan",
-      "guid": "https://news.ycombinator.com/item?id=50054095"
+      "contentSnippet": "Article URL: https://bellrun.com\nComments URL: https://news.ycombinator.com/item?id=50061264\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50061264"
+    },
+    {
+      "title": "Show HN: Use your phone as a Windows mouse and keyboard, without a phone app",
+      "link": "https://github.com/creationsofm7/localtv-remote",
+      "pubDate": "Mon, 12 Oct 2026 18:46:45 +0000",
+      "date": "Mon, 12 Oct 2026 18:46:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/creationsofm7/localtv-remote\nComments URL: https://news.ycombinator.com/item?id=50060954\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50060954"
+    },
+    {
+      "title": "Student Belonging: A Principal of the Year’s Plan",
+      "link": "https://www.coolcatteacher.com/e1006/",
+      "pubDate": "Mon, 12 Oct 2026 11:00:00 +0000",
+      "date": "Mon, 12 Oct 2026 11:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nStudent belonging is the first thing 2026 National Middle Level Principal of the Year Sonia Ruiz builds. Learn the two survey questions, three decision questions, and one small daily habit that help every middle schooler feel they belong.\nThe post Student Belonging: A Principal of the Year’s Plan appeared first on Cool Cat Teacher Blog by Vicki Davis",
+      "guid": "https://www.coolcatteacher.com/?p=35489"
     },
     {
       "title": "Personal Day",
@@ -235,17 +257,6 @@
       "guid": "https://stratechery.com/?p=20290"
     },
     {
-      "title": "Show HN: NostrComments – comment threads on any URL, stored on public relays",
-      "link": "https://github.com/briskness-byte/NostrComments",
-      "pubDate": "Mon, 12 Oct 2026 09:38:28 +0000",
-      "date": "Mon, 12 Oct 2026 09:38:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/briskness-byte/NostrComments\nComments URL: https://news.ycombinator.com/item?id=50053769\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50053769"
-    },
-    {
       "title": "Our Rooms Are Full of Collective Intelligence. We Need Collective Measurement.",
       "link": "https://www.gettingsmart.com/2026/10/12/our-rooms-are-full-of-collective-intelligence-we-need-collective-measurement/",
       "pubDate": "Mon, 12 Oct 2026 09:15:00 +0000",
@@ -255,17 +266,6 @@
       "icon": "🌱",
       "contentSnippet": "What does it mean to be educated if our transcripts cannot capture the student who made every group around them smarter? In this new piece, Jane Shore challenges the foundational assumption of traditional assessment, that learning lives inside individual heads, and invites education leaders to imagine what becomes possible when we measure contribution, collective growth, and ripples of impact alongside academic knowledge. This is essential reading for anyone rethinking what counts, and for whom.",
       "guid": "https://www.gettingsmart.com/?p=140874"
-    },
-    {
-      "title": "Manifold MCP",
-      "link": "https://www.producthunt.com/products/manifold-mcp",
-      "pubDate": "2026-10-11T21:01:27.000Z",
-      "date": "2026-10-11T21:01:27.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/manifold-mcp"
     }
   ]
 }
