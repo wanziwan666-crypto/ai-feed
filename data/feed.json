@@ -1,18 +1,150 @@
 {
-  "generatedAt": "2026-10-13T03:06:10.347Z",
+  "generatedAt": "2026-10-13T05:47:40.315Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
       "link": "https://github.com/cathrynlavery/diagram-design",
-      "pubDate": "2026-10-13T03:05:58.086Z",
-      "date": "2026-10-13T03:05:58.086Z",
+      "pubDate": "2026-10-13T05:47:35.028Z",
+      "date": "2026-10-13T05:47:35.028Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nhttps://diagramdesign.dev\n\n \n \n \n  \n \n    \n    \n  \n  \n \nAn agent skill that draws diagrams as one self-contained HTML + SVG file, in your brand.\n44 diagram types. No shadows. No Mermaid slop.\n \n \n    \n \n \n\n \n \nWebsite · Gallery · Changelog\n \n \nInstall · What it makes · Quickstart · Match your brand · Import · Export · Contributi",
       "guid": "https://github.com/cathrynlavery/diagram-design"
+    },
+    {
+      "title": "Show HN: A 3D sky city where my Claude Code agents work and take coffee breaks",
+      "link": "https://github.com/ishraq21/skyborne",
+      "pubDate": "Tue, 13 Oct 2026 04:47:45 +0000",
+      "date": "Tue, 13 Oct 2026 04:47:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Open source, local and no telemetry.\nComments URL: https://news.ycombinator.com/item?id=50066852\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50066852"
+    },
+    {
+      "title": "Show HN: GPT-3.5 answered, GPT-4 voided; I built an EOS gate for AGI",
+      "link": "https://getswiftapi.com",
+      "pubDate": "Tue, 13 Oct 2026 04:45:00 +0000",
+      "date": "Tue, 13 Oct 2026 04:45:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://getswiftapi.com\nComments URL: https://news.ycombinator.com/item?id=50066837\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50066837"
+    },
+    {
+      "title": "Show HN: Open Health Sync – Self-hosted API for wearable and health data",
+      "link": "https://github.com/soma-intelligence/open-health-sync",
+      "pubDate": "Tue, 13 Oct 2026 04:34:07 +0000",
+      "date": "Tue, 13 Oct 2026 04:34:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/soma-intelligence/open-health-sync\nComments URL: https://news.ycombinator.com/item?id=50066765\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50066765"
+    },
+    {
+      "title": "Show HN: Search for AI agents with usefulness score built in",
+      "link": "https://github.com/Ayobamiu/usefulness-search",
+      "pubDate": "Tue, 13 Oct 2026 04:07:07 +0000",
+      "date": "Tue, 13 Oct 2026 04:07:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN. I partnered with Simon Kley to build this project at innovation intelligence hackathon (Berkeley).\nSimply, we’re building a usefulness score on top of search for ai-agents.\nInstead of agents reading 10 ranked relevant pages, we run a usefulness score first and give it only those that pass. \nWe’re able to save token and cost with this and slightly better answers.\nDuring our research, we found out that the current search results already do justice when it comes to simple queries. The rankin",
+      "guid": "https://news.ycombinator.com/item?id=50066559"
+    },
+    {
+      "title": "Show HN: Malleable video editor that adapts to your workflow",
+      "link": "https://github.com/iterative-computer/powermove",
+      "pubDate": "Tue, 13 Oct 2026 03:54:54 +0000",
+      "date": "Tue, 13 Oct 2026 03:54:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Both me and my cofounder are in high school, and we're currently building Powermove, a video-editing tool that connects to an AI agent, letting users modify the app featureset, and generate effects and extensions.\nWe think this is the next step when it comes to software. We're already starting to see it, especially since a similar feature was just added recently in Claude Code. We believe that it will prove most useful in creative software though, and allow creatives to make essentially anything",
+      "guid": "https://news.ycombinator.com/item?id=50066460"
+    },
+    {
+      "title": "Show HN: vne – .env util for agents",
+      "link": "https://github.com/pro-vi/vne",
+      "pubDate": "Tue, 13 Oct 2026 03:54:45 +0000",
+      "date": "Tue, 13 Oct 2026 03:54:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/pro-vi/vne\nComments URL: https://news.ycombinator.com/item?id=50066457\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50066457"
+    },
+    {
+      "title": "Show HN: ClaudeGuard – fixes the MSIX bug that nukes your Claude Code history",
+      "link": "https://sidheart.gumroad.com/l/claudeguard",
+      "pubDate": "Tue, 13 Oct 2026 03:52:33 +0000",
+      "date": "Tue, 13 Oct 2026 03:52:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sidheart.gumroad.com/l/claudeguard\nComments URL: https://news.ycombinator.com/item?id=50066436\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50066436"
+    },
+    {
+      "title": "Show HN: RL environment for complex ML Development",
+      "link": "https://blazerops.ai",
+      "pubDate": "Tue, 13 Oct 2026 03:46:58 +0000",
+      "date": "Tue, 13 Oct 2026 03:46:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://blazerops.ai\nComments URL: https://news.ycombinator.com/item?id=50066393\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50066393"
+    },
+    {
+      "title": "Show HN: Askdown – A plain-text format for forms",
+      "link": "https://askdown.dev/",
+      "pubDate": "Tue, 13 Oct 2026 03:43:53 +0000",
+      "date": "Tue, 13 Oct 2026 03:43:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://askdown.dev/\nComments URL: https://news.ycombinator.com/item?id=50066372\nPoints: 5\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=50066372"
+    },
+    {
+      "title": "Show HN: Planning software for startup teams",
+      "link": "https://weeklywe.com",
+      "pubDate": "Tue, 13 Oct 2026 03:29:17 +0000",
+      "date": "Tue, 13 Oct 2026 03:29:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello founders and co-founders. Startup mentors recommend setting short-term goals, or planning weekly... Do you do it?\nI made a tool for this purpose with a focus on startups.\nHope you like it, your feedback would be a huge help\nComments URL: https://news.ycombinator.com/item?id=50066266\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50066266"
+    },
+    {
+      "title": "Show HN: BellRun. Gamified Stock Trading",
+      "link": "https://bellrun.com/office",
+      "pubDate": "Tue, 13 Oct 2026 02:31:51 +0000",
+      "date": "Tue, 13 Oct 2026 02:31:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bellrun.com/office\nComments URL: https://news.ycombinator.com/item?id=50065853\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50065853"
+    },
+    {
+      "title": "Show HN: MEF LLM Studio – Learn how LLMs generate text, token by token",
+      "link": "https://www.mef-llm-studio.com/en/",
+      "pubDate": "Tue, 13 Oct 2026 02:24:46 +0000",
+      "date": "Tue, 13 Oct 2026 02:24:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.mef-llm-studio.com/en/\nComments URL: https://news.ycombinator.com/item?id=50065804\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50065804"
     },
     {
       "title": "Show HN: Multi-FPGA Usable Newbie Chips",
@@ -33,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.npmjs.com/package/@boxsh/sandbox\nComments URL: https://news.ycombinator.com/item?id=50065620\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://www.npmjs.com/package/@boxsh/sandbox\nComments URL: https://news.ycombinator.com/item?id=50065620\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50065620"
     },
     {
@@ -66,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/bherbruck/solidcraft\nComments URL: https://news.ycombinator.com/item?id=50064840\nPoints: 9\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/bherbruck/solidcraft\nComments URL: https://news.ycombinator.com/item?id=50064840\nPoints: 18\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50064840"
     },
     {
@@ -77,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/onlyilkr/claude-migrate\nComments URL: https://news.ycombinator.com/item?id=50064832\nPoints: 4\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/onlyilkr/claude-migrate\nComments URL: https://news.ycombinator.com/item?id=50064832\nPoints: 5\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50064832"
     },
     {
@@ -101,138 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Every (personal) agent (like Muse, Instinct, Grokbot, Poke) asks you to connect your email, calendar, and tools again. Permissions are intransparent and every provider ends up building the same integrations.\nWe think there needs to be an independent tool that holds all connections to third party companies.\nThat way you can keep auth separate, audit what an agent does, set fine-grained permissions and easily switch between the agent apps.\nI built this over the last few days with my friend Konsti.",
       "guid": "https://news.ycombinator.com/item?id=50064514"
-    },
-    {
-      "title": "Show HN: PickyCal – Filter upcoming and future events into your calendar",
-      "link": "https://pickycal.com/",
-      "pubDate": "Mon, 12 Oct 2026 23:30:53 +0000",
-      "date": "Mon, 12 Oct 2026 23:30:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I wanted upcoming events in my calendar, but not entire schedules full of things I don’t follow. So I built PickyCal.\nPick an event source, filter it, and subscribe through CalDAV or an ICS link. For example: Starship launches, the next James Bond cinema release, Classic Tetris World Championship finals. Filters support &, |, !, and parentheses.\nPickyCal regularly checks for new events and schedule changes, your calendar picks them up when it syncs. You can try the filters on the website without",
-      "guid": "https://news.ycombinator.com/item?id=50064513"
-    },
-    {
-      "title": "Show HN: Indigene – native plants for where you stand",
-      "link": "https://indigene.app/",
-      "pubDate": "Mon, 12 Oct 2026 23:25:20 +0000",
-      "date": "Mon, 12 Oct 2026 23:25:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to drought. After moving to Seattle a few years ago, I had to start all of that from scratch. LLMs made the process a bit easier but I still had to routinely ask the same kinds of questions over and over, despite being far more familiar with native plants these days and leaning more on native plant societ",
-      "guid": "https://news.ycombinator.com/item?id=50064470"
-    },
-    {
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "link": "https://github.com/andrewfader/blokkily",
-      "pubDate": "Mon, 12 Oct 2026 23:21:12 +0000",
-      "date": "Mon, 12 Oct 2026 23:21:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/andrewfader/blokkily\nComments URL: https://news.ycombinator.com/item?id=50064438\nPoints: 13\n# Comments: 6",
-      "guid": "https://news.ycombinator.com/item?id=50064438"
-    },
-    {
-      "title": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
-      "link": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
-      "pubDate": "Mon, 12 Oct 2026 23:16:46 +0000",
-      "date": "Mon, 12 Oct 2026 23:16:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai\nComments URL: https://news.ycombinator.com/item?id=50064398\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50064398"
-    },
-    {
-      "title": "Show HN: Explore Bay Area traffic trends and patterns",
-      "link": "https://benkrasnow.github.io/Bay_Area_traffic_data/",
-      "pubDate": "Mon, 12 Oct 2026 23:03:15 +0000",
-      "date": "Mon, 12 Oct 2026 23:03:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://benkrasnow.github.io/Bay_Area_traffic_data/\nComments URL: https://news.ycombinator.com/item?id=50064284\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50064284"
-    },
-    {
-      "title": "Show HN: Chkit – Schema, migrations and backfills for ClickHouse (like Drizzle)",
-      "link": "https://github.com/obsessiondb/chkit",
-      "pubDate": "Mon, 12 Oct 2026 21:55:54 +0000",
-      "date": "Mon, 12 Oct 2026 21:55:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN, im Marc, co-founder of ObsessionDB.\nWe are open sourcing ChKit, our tooling to manage schemas, migrations and backfills for clickhouse.\nI am a big fan of the type safety drizzle provides for the database. Manage the schema in typescript and generate migrations from it is a powerful workflow. I always wished something like it would exist for clickhouse, so we could manage our analytical workloads the same way. It didn't exist, so we build it.\nWe build it after running ClickHouse at petaby",
-      "guid": "https://news.ycombinator.com/item?id=50063600"
-    },
-    {
-      "title": "Show HN: Turn spoken thoughts into system design diagrams",
-      "link": "https://github.com/triggeredcode/lucid",
-      "pubDate": "Mon, 12 Oct 2026 21:39:07 +0000",
-      "date": "Mon, 12 Oct 2026 21:39:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I recently had an issue with my right hand, and couldn't use it very effectively. So I was trying to figure out how I could still get work done without typing everything with my right hand.\nI looked around for some tools, but then thought, why not try building something myself? The idea was to make an accessibility and productivity tool that lets me get thoughts out of my head and turn them into something useful with less manual effort.\nThat's how I started building Lucid. You can turn rough inp",
-      "guid": "https://news.ycombinator.com/item?id=50063412"
-    },
-    {
-      "title": "Show HN: News.txt – world news by region, from each region's own outlets",
-      "link": "https://news.freestuffsthat.work",
-      "pubDate": "Mon, 12 Oct 2026 21:36:37 +0000",
-      "date": "Mon, 12 Oct 2026 21:36:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://news.freestuffsthat.work\nComments URL: https://news.ycombinator.com/item?id=50063385\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50063385"
-    },
-    {
-      "title": "Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative",
-      "link": "https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US",
-      "pubDate": "Mon, 12 Oct 2026 21:35:59 +0000",
-      "date": "Mon, 12 Oct 2026 21:35:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=50063378\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50063378"
-    },
-    {
-      "title": "Show HN: 20 Questions with Jev",
-      "link": "https://thesecretsproject.com/20-questions",
-      "pubDate": "Mon, 12 Oct 2026 21:24:07 +0000",
-      "date": "Mon, 12 Oct 2026 21:24:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://thesecretsproject.com/20-questions\nComments URL: https://news.ycombinator.com/item?id=50063259\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50063259"
-    },
-    {
-      "title": "Show HN: Vibecheck – merge gate that checks you understand your AI-written code",
-      "link": "https://github.com/bhurghundii/vibecheck.dev",
-      "pubDate": "Mon, 12 Oct 2026 21:13:44 +0000",
-      "date": "Mon, 12 Oct 2026 21:13:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Good evening folks, I built Github merge gate which that checks whether developers understand their own code when they create a PR.\nI kept getting sent PRs to review where it was obvious the author had pasted the ticket into an LLM and called it a day.\nIt's self-hosted (so you can use it in your enterprise environments or privately)\nIt is BYOK (Anthropic) obviously.\nI have two demos in the pull requests here: https://github.com/bhurghundii/vibecheck.dev/pulls - you can see what Vibecheck does (i",
-      "guid": "https://news.ycombinator.com/item?id=50063154"
-    },
-    {
-      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
-      "link": "https://brickbrag.com/",
-      "pubDate": "Mon, 12 Oct 2026 21:03:36 +0000",
-      "date": "Mon, 12 Oct 2026 21:03:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://brickbrag.com/\nComments URL: https://news.ycombinator.com/item?id=50063042\nPoints: 32\n# Comments: 10",
-      "guid": "https://news.ycombinator.com/item?id=50063042"
     },
     {
       "title": "Student Belonging: A Principal of the Year’s Plan",
