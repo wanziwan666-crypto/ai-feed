@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T02:29:33.846Z",
+  "generatedAt": "2026-10-15T03:00:36.827Z",
   "lookbackHours": 24,
   "totalItems": 23,
   "items": [
     {
       "title": "cathrynlavery/diagram-design",
       "link": "https://github.com/cathrynlavery/diagram-design",
-      "pubDate": "2026-10-15T02:29:31.971Z",
-      "date": "2026-10-15T02:29:31.971Z",
+      "pubDate": "2026-10-15T03:00:28.544Z",
+      "date": "2026-10-15T03:00:28.544Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -235,15 +235,15 @@
       "guid": "https://news.ycombinator.com/item?id=50095134"
     },
     {
-      "title": "Molecule Builder: How a Teen Coded a Free Chemistry App",
-      "link": "https://www.coolcatteacher.com/e1008/",
-      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "date": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nA high school student needed chemistry tools his class didn't have, so he coded a free molecule builder and chemistry simulations. Hear how Ky'lin Spears built Atomency and how teachers can use it this week.\nThe post Molecule Builder: How a Teen Coded a Free Chemistry App appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping ",
-      "guid": "https://www.coolcatteacher.com/?p=35501"
+      "title": "Steering AI Beyond Automation",
+      "link": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+      "pubDate": "Wed, 14 Oct 2026 19:56:44 GMT",
+      "date": "Wed, 14 Oct 2026 19:56:44 GMT",
+      "source": "AI Snake Oil",
+      "category": "voices",
+      "icon": "🐍",
+      "contentSnippet": "A Research Agenda and Plan for Action",
+      "guid": "https://www.normaltech.ai/p/steering-ai-beyond-automation"
     },
     {
       "title": "Apple HomeView, The New Apple TV, The App Story",
