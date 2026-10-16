@@ -1,18 +1,238 @@
 {
-  "generatedAt": "2026-10-16T03:00:37.626Z",
+  "generatedAt": "2026-10-16T10:22:54.504Z",
   "lookbackHours": 24,
-  "totalItems": 3,
+  "totalItems": 22,
   "items": [
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-10-16T03:00:28.956Z",
-      "date": "2026-10-16T03:00:28.956Z",
+      "pubDate": "2026-10-16T10:22:52.823Z",
+      "date": "2026-10-16T10:22:52.823Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nhttps://arxiv.org/abs/2609.00065\n\nScientific Agent Skills\n \n             \n \n \n \n🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broade",
       "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "title": "Show HN: A Music-Reading Trainer",
+      "link": "https://parkscomputing.com/page/sight-reader",
+      "pubDate": "Fri, 16 Oct 2026 09:53:31 +0000",
+      "date": "Fri, 16 Oct 2026 09:53:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://parkscomputing.com/page/sight-reader\nComments URL: https://news.ycombinator.com/item?id=50116347\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50116347"
+    },
+    {
+      "title": "Show HN: A music video made end to end by Claude Code, full production repo",
+      "link": "https://github.com/mortenbrudvik/always-allow",
+      "pubDate": "Fri, 16 Oct 2026 09:43:15 +0000",
+      "date": "Fri, 16 Oct 2026 09:43:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/mortenbrudvik/always-allow\nComments URL: https://news.ycombinator.com/item?id=50116272\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50116272"
+    },
+    {
+      "title": "Show HN: Three philosophers vote on your questions",
+      "link": "https://sage-verdict.vercel.app/",
+      "pubDate": "Fri, 16 Oct 2026 09:32:07 +0000",
+      "date": "Fri, 16 Oct 2026 09:32:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm RN developer in South Korea, i built this on my own.\nNon-native speaker, sorry for my English.\n- Sometimes it is very hard to decide something.\n- So I made simple service for get decisions from \"Three Old Awesome philosophers’ vote\".\n- No sign-up needed.\n- Using Jev(Probabilistic Classification Model) to calculate philosophers’ emotion and decision. These result are based on their written philosophy.\n- While typing your question, philosophers show their emotion through their faces(simply cre",
+      "guid": "https://news.ycombinator.com/item?id=50116191"
+    },
+    {
+      "title": "Show HN: RoamDial – Roam the live radio in a 3D particle galaxy",
+      "link": "https://roamdial.com",
+      "pubDate": "Fri, 16 Oct 2026 08:36:52 +0000",
+      "date": "Fri, 16 Oct 2026 08:36:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://roamdial.com\nComments URL: https://news.ycombinator.com/item?id=50115760\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50115760"
+    },
+    {
+      "title": "Show HN: Tunedaway – a little place to listen to music",
+      "link": "https://tunedaway.com/",
+      "pubDate": "Fri, 16 Oct 2026 08:34:13 +0000",
+      "date": "Fri, 16 Oct 2026 08:34:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Pick a scene, put some music on, and leave it open. There’s a rainy café, a train ride, a campsite, and a few other places. Each has its own music and ambient sounds.\nComments URL: https://news.ycombinator.com/item?id=50115737\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50115737"
+    },
+    {
+      "title": "Show HN: CanvoWP – Agent first website builder for WordPress (completely free)",
+      "link": "https://canvowp.com/",
+      "pubDate": "Fri, 16 Oct 2026 08:32:21 +0000",
+      "date": "Fri, 16 Oct 2026 08:32:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://canvowp.com/\nComments URL: https://news.ycombinator.com/item?id=50115725\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50115725"
+    },
+    {
+      "title": "Show HN:case blossom, design and manufacture cases for e-readers and devices",
+      "link": "https://caseblossom.com/",
+      "pubDate": "Fri, 16 Oct 2026 08:27:38 +0000",
+      "date": "Fri, 16 Oct 2026 08:27:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://caseblossom.com/\nComments URL: https://news.ycombinator.com/item?id=50115688\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50115688"
+    },
+    {
+      "title": "Show HN: What F1 lap times don't tell you (but telemetry does)",
+      "link": "https://github.com/saccofrancesco/slipstream",
+      "pubDate": "Fri, 16 Oct 2026 08:24:26 +0000",
+      "date": "Fri, 16 Oct 2026 08:24:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/saccofrancesco/slipstream\nComments URL: https://news.ycombinator.com/item?id=50115663\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50115663"
+    },
+    {
+      "title": "Show HN: WP Replai – AI chatbot built right into WordPress",
+      "link": "https://wpreplai.com/",
+      "pubDate": "Fri, 16 Oct 2026 08:06:46 +0000",
+      "date": "Fri, 16 Oct 2026 08:06:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://wpreplai.com/\nComments URL: https://news.ycombinator.com/item?id=50115538\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50115538"
+    },
+    {
+      "title": "Show HN: Trustmux – Async tmux from your phone, now in Ubuntu, Debian, Fedora",
+      "link": "https://news.ycombinator.com/item?id=50115537",
+      "pubDate": "Fri, 16 Oct 2026 08:06:27 +0000",
+      "date": "Fri, 16 Oct 2026 08:06:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm Dustin Kirkland, author of Byobu. I recently flew to Australia and kept nudging my Claude, Codex, and Bash jobs along back home from somewhere over the Pacific, at 700ms of latency.\nThat's what Trustmux is for: secure, asynchronous access to your tmux or Byobu sessions from your phone.\nI first posted this in June and since then there have been many point releases, lots of new features and testing, and a growing base of users. It's now packaged in Ubuntu 26.10, Debian, Fedora, and Chainguard ",
+      "guid": "https://news.ycombinator.com/item?id=50115537"
+    },
+    {
+      "title": "Show HN: I built 7 B2B APIs and 5 MCP servers for compliance and trade",
+      "link": "https://jsonexlab.com",
+      "pubDate": "Fri, 16 Oct 2026 07:12:40 +0000",
+      "date": "Fri, 16 Oct 2026 07:12:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://jsonexlab.com\nComments URL: https://news.ycombinator.com/item?id=50115150\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50115150"
+    },
+    {
+      "title": "Show HN: I built an online community and educational platform for trauma healing",
+      "link": "https://rannu37hearteu.wixsite.com/seen-whole",
+      "pubDate": "Fri, 16 Oct 2026 07:07:47 +0000",
+      "date": "Fri, 16 Oct 2026 07:07:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://rannu37hearteu.wixsite.com/seen-whole\nComments URL: https://news.ycombinator.com/item?id=50115109\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50115109"
+    },
+    {
+      "title": "Show HN: TheFairNet Professional Networking Platform",
+      "link": "https://thefairnet.com/",
+      "pubDate": "Fri, 16 Oct 2026 06:48:46 +0000",
+      "date": "Fri, 16 Oct 2026 06:48:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://thefairnet.com/\nComments URL: https://news.ycombinator.com/item?id=50114983\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50114983"
+    },
+    {
+      "title": "Show HN: CiteProof – Catch fake AI legal citations",
+      "link": "https://getciteproof.com/",
+      "pubDate": "Fri, 16 Oct 2026 06:02:42 +0000",
+      "date": "Fri, 16 Oct 2026 06:02:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://getciteproof.com/\nComments URL: https://news.ycombinator.com/item?id=50114653\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50114653"
+    },
+    {
+      "title": "Show HN: Gitsu.app – A Linear-alternative built on GitHub Projects",
+      "link": "https://gitsu.app/",
+      "pubDate": "Fri, 16 Oct 2026 05:42:21 +0000",
+      "date": "Fri, 16 Oct 2026 05:42:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Issue tracking isn't dead. It's moving closer to code.\nGitsu is a fast, AI-native, keyboard-first Mac and web app on top of your existing GitHub Projects and issues. Everything syncs with GitHub in the background.\nGitsu is free on the web. Pro is $4.99/seat/month and adds the native Mac client, advanced AI panels, and MCP agent workflows.\nGive gitsu.app a go and write us your suggestions/opinions/bug reports.\nComments URL: https://news.ycombinator.com/item?id=50114512\nPoints: 4\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=50114512"
+    },
+    {
+      "title": "Show HN: Continuous Trunk Builds of Network Ups Tools (Nut) for Fedora/EL",
+      "link": "https://copr.fedorainfracloud.org/coprs/karellen/nut-next/",
+      "pubDate": "Fri, 16 Oct 2026 05:07:19 +0000",
+      "date": "Fri, 16 Oct 2026 05:07:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://copr.fedorainfracloud.org/coprs/karellen/nut-next/\nComments URL: https://news.ycombinator.com/item?id=50114317\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50114317"
+    },
+    {
+      "title": "Show HN: Lobby Domains: Find Domains with Chrome's On-Device AI",
+      "link": "https://lobby.domains/",
+      "pubDate": "Fri, 16 Oct 2026 03:59:53 +0000",
+      "date": "Fri, 16 Oct 2026 03:59:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://lobby.domains/\nComments URL: https://news.ycombinator.com/item?id=50113913\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50113913"
+    },
+    {
+      "title": "Show HN: Kitaphone – Call mobile phones and landlines directly from the browser",
+      "link": "https://kitaphone.com",
+      "pubDate": "Fri, 16 Oct 2026 03:30:49 +0000",
+      "date": "Fri, 16 Oct 2026 03:30:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN Folks,\nI have been building Kitaphone a web app that lets you call regular mobile and landline numbers directly from your browser. The idea is simple, there are still plenty of situations where apps like WhatsApp, facetime and other internet calling apps aren't an option. For example, when you are abroad and need to call your bank, an airline, or a government office or your son/daughter's school.\nI wanted to make those calls possible without requiring users to install another app or buy a ",
+      "guid": "https://news.ycombinator.com/item?id=50113708"
+    },
+    {
+      "title": "Show HN: Beeline Multiplayer Agent Harness",
+      "link": "https://usebeeline.app",
+      "pubDate": "Fri, 16 Oct 2026 02:38:15 +0000",
+      "date": "Fri, 16 Oct 2026 02:38:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Shipped Beeline today. \nIt's a team chat for humans and agents - a kind of multiplayer harness. You can bring your codex, Claude code, opencode subscriptions and also works with pi and goose. We built beeline itself with early versions of beeline, and use it to build our other projects - it's boosted productivity quite a bit for us.\nDemo video: https://youtu.be/ACdelpZC2z4?is=pP6MFxJODvKcGjQt\nThe key insight is that humans do their best work in teams, but agentic development has so far been sing",
+      "guid": "https://news.ycombinator.com/item?id=50113268"
+    },
+    {
+      "title": "Show HN: Wayseer – A native desktop app for browsing real-time data",
+      "link": "https://wayseer.app/",
+      "pubDate": "Fri, 16 Oct 2026 02:30:36 +0000",
+      "date": "Fri, 16 Oct 2026 02:30:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "As an IT professional, I felt a distinct lacking of a real-time tool for tracking down problems in complex systems. I have created Wayseer Desktop as a way to explore more effective ways to explore live systems.\nThere's a very functional free version, and paid options that unlock additional features.  I'm curious what you all think of the approach.  I'm a systems engineer by trade (with some development experience), not a developer, so I have relied on AI to do the heavy lifting while I request ",
+      "guid": "https://news.ycombinator.com/item?id=50113201"
     },
     {
       "title": "Think, Pair, Share, Show Me: Science of Learning in Action",
@@ -24,17 +244,6 @@
       "icon": "🐱",
       "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nThink, Pair, Share, Show Me gets every student to show an answer. Ross McGill shares what the science of learning says about learning styles, highlighting and retrieval practice.\nThe post Think, Pair, Share, Show Me: Science of Learning in Action appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent eve",
       "guid": "https://www.coolcatteacher.com/?p=35505"
-    },
-    {
-      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
-      "link": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
-      "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "date": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
-      "guid": "https://stratechery.com/?p=20319"
     }
   ]
 }
