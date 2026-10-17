@@ -1,18 +1,172 @@
 {
-  "generatedAt": "2026-10-16T20:17:47.122Z",
+  "generatedAt": "2026-10-17T02:16:29.187Z",
   "lookbackHours": 24,
-  "totalItems": 23,
+  "totalItems": 24,
   "items": [
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-10-16T20:17:45.184Z",
-      "date": "2026-10-16T20:17:45.184Z",
+      "pubDate": "2026-10-17T02:16:27.628Z",
+      "date": "2026-10-17T02:16:27.628Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nhttps://arxiv.org/abs/2609.00065\n\nScientific Agent Skills\n \n             \n \n \n \n🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broade",
       "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "title": "Side Jobs for Teachers or a Calling? Build an Education Business",
+      "link": "https://www.coolcatteacher.com/e1010/",
+      "pubDate": "Sat, 17 Oct 2026 02:05:06 +0000",
+      "date": "Sat, 17 Oct 2026 02:05:06 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nSide jobs for teachers can start with one request to train another school. Dr. Will Deyamport shares how to set up an education business the right way: structure, taxes, disclosure, and owning your IP.\nThe post Side Jobs for Teachers or a Calling? Build an Education Business appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helpi",
+      "guid": "https://www.coolcatteacher.com/?p=35515"
+    },
+    {
+      "title": "Show HN: Netsat, a shared internet virtual satellite you can use to learn DSP",
+      "link": "https://netsat.space",
+      "pubDate": "Sat, 17 Oct 2026 00:44:29 +0000",
+      "date": "Sat, 17 Oct 2026 00:44:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Receiving and decoding satellites is (in my opinion) one of the coolest things you can do with a radio. The problem is that it has a steep learning curve. Protocols are complicated, signals are hard to catch and track, and requires an investment in equipment just to get started.\nNetsat is an internet stream that simulates the experience of receiving a satellite signal with an SDR. I simplified the physics quite a bit to make it easier to get started. In the future I'm looking to add more simulat",
+      "guid": "https://news.ycombinator.com/item?id=50126663"
+    },
+    {
+      "title": "Show HN: Things to Do API",
+      "link": "https://thingstodoapi.com/",
+      "pubDate": "Fri, 16 Oct 2026 23:58:34 +0000",
+      "date": "Fri, 16 Oct 2026 23:58:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built an api/mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.\nI've been building a bunch of consumer apps lately around personalization and recommendation and have had a hard time finding this data in one spot. agents can find useful stuff through tool calls / web search, but slow.\nyou can scrape on demand too, but i wanted a faster data set and couldn't find an existing provider for the mix of event types I was searching for.\nthe methodology fo",
+      "guid": "https://news.ycombinator.com/item?id=50126384"
+    },
+    {
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "link": "https://fakeipedia.org",
+      "pubDate": "Fri, 16 Oct 2026 23:52:04 +0000",
+      "date": "Fri, 16 Oct 2026 23:52:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN!\nFakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.\nI came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writi",
+      "guid": "https://news.ycombinator.com/item?id=50126334"
+    },
+    {
+      "title": "Show HN: I built a virtual pianist with his own performance style",
+      "link": "https://ivokeys.com/listen/cannonball-adderley-barefoot-sunday-blues/",
+      "pubDate": "Fri, 16 Oct 2026 23:22:04 +0000",
+      "date": "Fri, 16 Oct 2026 23:22:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ivokeys.com/listen/cannonball-adderley-barefoot-sunday-blues/\nComments URL: https://news.ycombinator.com/item?id=50126097\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50126097"
+    },
+    {
+      "title": "Show HN: CtxWise – MCP schema tree-shaker and firewall for Claude and Codex",
+      "link": "https://github.com/FramY2/ctxwise",
+      "pubDate": "Fri, 16 Oct 2026 23:08:42 +0000",
+      "date": "Fri, 16 Oct 2026 23:08:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/FramY2/ctxwise\nComments URL: https://news.ycombinator.com/item?id=50125990\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50125990"
+    },
+    {
+      "title": "Show HN: Ozil AI – Turn one photo into the viral Ozil goal video",
+      "link": "https://ozilai.net/",
+      "pubDate": "Fri, 16 Oct 2026 22:46:28 +0000",
+      "date": "Fri, 16 Oct 2026 22:46:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ozilai.net/\nComments URL: https://news.ycombinator.com/item?id=50125797\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50125797"
+    },
+    {
+      "title": "Show HN: Fly a Tesla Roadster over parked Teslas before the air runs out",
+      "link": "https://roadster.pavlin.dev",
+      "pubDate": "Fri, 16 Oct 2026 22:40:23 +0000",
+      "date": "Fri, 16 Oct 2026 22:40:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "(credits to Fable 5.1)\nComments URL: https://news.ycombinator.com/item?id=50125746\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50125746"
+    },
+    {
+      "title": "Show HN: Pomoflow – a 1-bit Pomodoro with a todo list that syncs without sign-up",
+      "link": "https://pomoflow.pages.dev/",
+      "pubDate": "Fri, 16 Oct 2026 21:36:28 +0000",
+      "date": "Fri, 16 Oct 2026 21:36:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Pomoflow is (yet another) Pomodoro app in a 1-bit style inspired by the early Macintosh GUI. It also has a todo list you can sync between your devices without having to login to an account. A jukebox loads and plays your favourite YouTube playlists. And there are bonus weekly focus stats for the numberphiles among us.\nI built this because I wanted three things in one place: a pomodoro timer that looks good, a task list that syncs across my devices without an account (the apps I tried kept puttin",
+      "guid": "https://news.ycombinator.com/item?id=50125084"
+    },
+    {
+      "title": "Show HN: Play a 5 minutes match of CS 1.6 1v1 while you wait for your agent",
+      "link": "https://csfor.fun/",
+      "pubDate": "Fri, 16 Oct 2026 21:18:50 +0000",
+      "date": "Fri, 16 Oct 2026 21:18:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I just made it and I think it's fun to play while I wait for claude, but I need more users to play with\nComments URL: https://news.ycombinator.com/item?id=50124893\nPoints: 5\n# Comments: 8",
+      "guid": "https://news.ycombinator.com/item?id=50124893"
+    },
+    {
+      "title": "Show HN: TV Explorer. Improving UI for a Solid IPTV App",
+      "link": "https://tvexplorer.live/channel",
+      "pubDate": "Fri, 16 Oct 2026 21:08:10 +0000",
+      "date": "Fri, 16 Oct 2026 21:08:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tvexplorer.live/channel\nComments URL: https://news.ycombinator.com/item?id=50124741\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50124741"
+    },
+    {
+      "title": "Show HN: I benchmarked 6 MCP proxies in Claude Code, then built my own",
+      "link": "https://rabin-a.github.io/mcp-router/#benchmark",
+      "pubDate": "Fri, 16 Oct 2026 20:45:52 +0000",
+      "date": "Fri, 16 Oct 2026 20:45:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I compared 6 MCP proxies inside Claude Code. Most advertise 85–99% token savings, but those numbers assume every tool schema is loaded upfront, and Claude Code already avoids that. On real tasks, 4 of them used more tokens than no proxy at all, and 2 couldn't finish the tasks. So I built my own router, which cut tokens by 13–44% and completed every task.\nComments URL: https://news.ycombinator.com/item?id=50124411\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50124411"
+    },
+    {
+      "title": "Show HN: Pogi – AWS, Google Cloud and Azure on your machine, in one binary",
+      "link": "https://github.com/nrndev/pogi",
+      "pubDate": "Fri, 16 Oct 2026 20:44:38 +0000",
+      "date": "Fri, 16 Oct 2026 20:44:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built pogi to test cloud code locally without an emulator per service or a test account. It's one Go binary that serves 181 services across AWS, Google Cloud and Azure on one port.\nThe official SDKs, CLIs, Terraform and the CDK work unchanged, and there's a web console, IAM checks, chaos rules, snapshots built in and much more...\nSome services are deep, others cover the common calls; the coverage page is honest about which. MIT licensed, no account. It's v0.1.0, so I'd love to hear what breaks",
+      "guid": "https://news.ycombinator.com/item?id=50124392"
+    },
+    {
+      "title": "Show HN: CoastMath: (Open Source) Personal Finance and Retirement Planner",
+      "link": "https://github.com/blank-slate-labs/coastmath",
+      "pubDate": "Fri, 16 Oct 2026 20:17:33 +0000",
+      "date": "Fri, 16 Oct 2026 20:17:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Self-hosting instructions in the README.\nHosted version: https://coastmath.com/\niOS app: https://apps.apple.com/app/id6809539979\nThis post is partially inspired by this thread: https://news.ycombinator.com/item?id=50048344\n```\n> Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt.\n>> No, they can't, at least not any semblance of quality. The cases we're seeing where this does kinda work is",
+      "guid": "https://news.ycombinator.com/item?id=50123996"
     },
     {
       "title": "Show HN: Gondwana, a code-first C#/.NET game engine with WebGL",
@@ -33,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tensorpix.ai/usecases/real-estate-video-maker\nComments URL: https://news.ycombinator.com/item?id=50123249\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://tensorpix.ai/usecases/real-estate-video-maker\nComments URL: https://news.ycombinator.com/item?id=50123249\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50123249"
     },
     {
@@ -77,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Moshik21/weatherdeck\nComments URL: https://news.ycombinator.com/item?id=50122767\nPoints: 4\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/Moshik21/weatherdeck\nComments URL: https://news.ycombinator.com/item?id=50122767\nPoints: 8\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50122767"
     },
     {
@@ -92,72 +246,6 @@
       "guid": "https://news.ycombinator.com/item?id=50122669"
     },
     {
-      "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
-      "link": "https://www.kapwing.com/ai/prompt-generator/camera",
-      "pubDate": "Fri, 16 Oct 2026 18:25:51 +0000",
-      "date": "Fri, 16 Oct 2026 18:25:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.kapwing.com/ai/prompt-generator/camera\nComments URL: https://news.ycombinator.com/item?id=50122324\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50122324"
-    },
-    {
-      "title": "Show HN: Tinywm – a scrolling window manager for macOS, inspired by Niri",
-      "link": "https://github.com/bbodi/tinywm",
-      "pubDate": "Fri, 16 Oct 2026 18:22:27 +0000",
-      "date": "Fri, 16 Oct 2026 18:22:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/bbodi/tinywm\nComments URL: https://news.ycombinator.com/item?id=50122281\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50122281"
-    },
-    {
-      "title": "Show HN: 2026 Midterms Tracker blends polls and Kalshi/Poymarket odds",
-      "link": "https://pressaudit.org/midterms-2026",
-      "pubDate": "Fri, 16 Oct 2026 18:19:28 +0000",
-      "date": "Fri, 16 Oct 2026 18:19:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://pressaudit.org/midterms-2026\nComments URL: https://news.ycombinator.com/item?id=50122231\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50122231"
-    },
-    {
-      "title": "Show HN: Webhix – Self-hosted webhook inspector in a single binary",
-      "link": "https://github.com/GaIsBAX/Webhix",
-      "pubDate": "Fri, 16 Oct 2026 18:10:25 +0000",
-      "date": "Fri, 16 Oct 2026 18:10:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/GaIsBAX/Webhix\nComments URL: https://news.ycombinator.com/item?id=50122099\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50122099"
-    },
-    {
-      "title": "Show HN: What will you say to 1M people?",
-      "link": "https://thesoapbox.email",
-      "pubDate": "Fri, 16 Oct 2026 17:52:40 +0000",
-      "date": "Fri, 16 Oct 2026 17:52:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://thesoapbox.email\nComments URL: https://news.ycombinator.com/item?id=50121830\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50121830"
-    },
-    {
-      "title": "Show HN: A \"falling block puzzle game\"",
-      "link": "https://tetracube.fun/",
-      "pubDate": "Fri, 16 Oct 2026 17:49:23 +0000",
-      "date": "Fri, 16 Oct 2026 17:49:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Four games of Tetris played simultaneously. The corners overlap.\nHidden Easter egg if you've got the chops (I certainly don't haha)\nglhf\nComments URL: https://news.ycombinator.com/item?id=50121782\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50121782"
-    },
-    {
       "title": "2026.42: Home At Last",
       "link": "https://stratechery.com/2026/home-at-last/",
       "pubDate": "Fri, 16 Oct 2026 17:42:42 +0000",
@@ -167,83 +255,6 @@
       "icon": "📊",
       "contentSnippet": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
       "guid": "https://stratechery.com/?p=20315"
-    },
-    {
-      "title": "Show HN:MockForge – Zero-dependency Python API mocking server",
-      "link": "https://github.com/alessio1999xx-debug/pyforge-task-Mockforge",
-      "pubDate": "Fri, 16 Oct 2026 17:25:01 +0000",
-      "date": "Fri, 16 Oct 2026 17:25:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/alessio1999xx-debug/pyforge-task-Mockforge\nComments URL: https://news.ycombinator.com/item?id=50121448\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50121448"
-    },
-    {
-      "title": "Show HN: Terra – Restore Wasteland – Looking for Feedbacks – Soon Open Source",
-      "link": "https://testflight.apple.com/join/RurMGWw6",
-      "pubDate": "Fri, 16 Oct 2026 17:19:33 +0000",
-      "date": "Fri, 16 Oct 2026 17:19:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi, i love the game TerraNil and i decided to make my own version of the game adapted to my vision fully native experience on iOS - Looking for feedback -  this version is a very early phase with basic core mechanics, looking for feedbacks for improvements\nComments URL: https://news.ycombinator.com/item?id=50121365\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50121365"
-    },
-    {
-      "title": "Show HN: Reelbird, an open-source Loom and Screen Studio alternative for macOS",
-      "link": "https://github.com/btahir/reelbird",
-      "pubDate": "Fri, 16 Oct 2026 17:06:59 +0000",
-      "date": "Fri, 16 Oct 2026 17:06:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/btahir/reelbird\nComments URL: https://news.ycombinator.com/item?id=50121148\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50121148"
-    },
-    {
-      "title": "Show HN: Family Internet Speed Game",
-      "link": "https://guessthespeed.com/",
-      "pubDate": "Fri, 16 Oct 2026 17:03:19 +0000",
-      "date": "Fri, 16 Oct 2026 17:03:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://guessthespeed.com/\nComments URL: https://news.ycombinator.com/item?id=50121096\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50121096"
-    },
-    {
-      "title": "Show HN: Toolbit – 43 local-first developer utilities in one place",
-      "link": "https://toolbit.app/",
-      "pubDate": "Fri, 16 Oct 2026 16:55:12 +0000",
-      "date": "Fri, 16 Oct 2026 16:55:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://toolbit.app/\nComments URL: https://news.ycombinator.com/item?id=50120964\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50120964"
-    },
-    {
-      "title": "Show HN: Brian2 Atlas, a Rust engine for distributed neural simulation",
-      "link": "https://next-brain.ai/brian2-atlas/",
-      "pubDate": "Fri, 16 Oct 2026 16:42:53 +0000",
-      "date": "Fri, 16 Oct 2026 16:42:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://next-brain.ai/brian2-atlas/\nComments URL: https://news.ycombinator.com/item?id=50120752\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50120752"
-    },
-    {
-      "title": "Show HN: Downcheck, a free \"is it down\" page for 45 dev tools, no signup",
-      "link": "https://downcheck.dev/",
-      "pubDate": "Fri, 16 Oct 2026 16:40:37 +0000",
-      "date": "Fri, 16 Oct 2026 16:40:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://downcheck.dev/\nComments URL: https://news.ycombinator.com/item?id=50120705\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50120705"
     },
     {
       "title": "Weekly Dose of Optimism #215",
