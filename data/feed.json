@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-10-17T02:16:29.187Z",
+  "generatedAt": "2026-10-17T03:00:39.747Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-10-17T02:16:27.628Z",
-      "date": "2026-10-17T02:16:27.628Z",
+      "pubDate": "2026-10-17T03:00:31.304Z",
+      "date": "2026-10-17T03:00:31.304Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.\nhttps://arxiv.org/abs/2609.00065\n\nScientific Agent Skills\n \n             \n \n \n \n🔔 Claude Scientific Skills is now Scientific Agent Skills. Same skills, broade",
       "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "title": "Show HN: Tensor Golf – Practise PyTorch Through Short Drills",
+      "link": "https://tensor.golf",
+      "pubDate": "Sat, 17 Oct 2026 02:35:14 +0000",
+      "date": "Sat, 17 Oct 2026 02:35:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello HN!\nExcited to share Tensor Golf!\nI'm excited to share this with everyone here, I've been seeing a lot of requests for tensor manipulation exercises and so I thought I'd create a place to build confidence and fluency in working with PyTorch tensors!\nI've found that understanding ML concepts and mathematics is one thing, but implementing them in PyTorch is a totally seperate beast.\nTensor Golf lets you practise working with tensors in a puzzle format, with the least number of operations giv",
+      "guid": "https://news.ycombinator.com/item?id=50127334"
+    },
+    {
+      "title": "Show HN: Let AI order DoorDash for me – under my watch – no playwright",
+      "link": "https://www.wysebee.com",
+      "pubDate": "Sat, 17 Oct 2026 02:18:56 +0000",
+      "date": "Sat, 17 Oct 2026 02:18:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.wysebee.com\nComments URL: https://news.ycombinator.com/item?id=50127256\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50127256"
     },
     {
       "title": "Side Jobs for Teachers or a Calling? Build an Education Business",
@@ -24,6 +46,28 @@
       "icon": "🐱",
       "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nSide jobs for teachers can start with one request to train another school. Dr. Will Deyamport shares how to set up an education business the right way: structure, taxes, disclosure, and owning your IP.\nThe post Side Jobs for Teachers or a Calling? Build an Education Business appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helpi",
       "guid": "https://www.coolcatteacher.com/?p=35515"
+    },
+    {
+      "title": "Show HN: Twain, a diff viewer like Meld, but for the age of AI",
+      "link": "https://github.com/andunieee/twain",
+      "pubDate": "Sat, 17 Oct 2026 02:03:40 +0000",
+      "date": "Sat, 17 Oct 2026 02:03:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I love Meld, I've been using it for a while now, it's amazing how many diff viewers exist these days and how they are all awful compared to Meld.\nBut Meld was missing some features that I thought were worth having:\n- all files from a Git diff shown in the same view, sequentially + a file tree on the side.\n- show either the full files or only the parts that changed.\n- tree-sitter-based syntax highlighting.\n- the ability to comment on sets of changes and lines, and AIs can read these comments.\n- t",
+      "guid": "https://news.ycombinator.com/item?id=50127157"
+    },
+    {
+      "title": "Show HN: FeedTamer – Filter YouTube by word, channel, topic, or allowlist",
+      "link": "https://thefeedtamer.com/",
+      "pubDate": "Sat, 17 Oct 2026 01:49:22 +0000",
+      "date": "Sat, 17 Oct 2026 01:49:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://thefeedtamer.com/\nComments URL: https://news.ycombinator.com/item?id=50127077\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50127077"
     },
     {
       "title": "Show HN: Netsat, a shared internet virtual satellite you can use to learn DSP",
@@ -99,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "(credits to Fable 5.1)\nComments URL: https://news.ycombinator.com/item?id=50125746\nPoints: 4\n# Comments: 0",
+      "contentSnippet": "(credits to Fable 5.1)\nComments URL: https://news.ycombinator.com/item?id=50125746\nPoints: 5\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50125746"
     },
     {
@@ -200,50 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "Hi everyone!\nAbout 2 years ago, I began to work on Donut Browser as a tool to manage browser profiles, which over time has evolved into a proper anti-detect browser.\nAnti-detect browsers let you create browser profiles that look like as if you have a completely different computer. I believe Donut is the most private anti-detect browser because:\n- It has no telemetry and doesn't track your browsing activity\n- It spoofs your browser identity in a way that looks like a real device for every profile",
       "guid": "https://news.ycombinator.com/item?id=50123223"
-    },
-    {
-      "title": "Show HN: Sill for Android – control your Mac's windows from an Android phone",
-      "link": "https://github.com/rahimnathwani/sill-android",
-      "pubDate": "Fri, 16 Oct 2026 19:13:22 +0000",
-      "date": "Fri, 16 Oct 2026 19:13:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Sill (discussed here: https://news.ycombinator.com/item?id=50112739) streams one Mac window, or the whole Desktop, to an iPhone or iPad and lets you control it by touch. It's open source, so I made an Android client for it. It's unofficial and not affiliated with Sill's author: it speaks Sill's existing protocol, so the Mac side is the stock Sill app, unchanged.\nInstall Sill on the Mac, sideload the APK from Releases onto an Android 11+ phone on the same Wi-Fi, tap your Mac in the list that show",
-      "guid": "https://news.ycombinator.com/item?id=50123065"
-    },
-    {
-      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
-      "link": "https://stoke.money",
-      "pubDate": "Fri, 16 Oct 2026 18:54:47 +0000",
-      "date": "Fri, 16 Oct 2026 18:54:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs.\nAll of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges are reported immediately, they are typically deducted from checking (cash) accounts the following month when the bill is due. As a result, I've always had to maintain a separate spreadsheet to track ",
-      "guid": "https://news.ycombinator.com/item?id=50122776"
-    },
-    {
-      "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
-      "link": "https://github.com/Moshik21/weatherdeck",
-      "pubDate": "Fri, 16 Oct 2026 18:54:22 +0000",
-      "date": "Fri, 16 Oct 2026 18:54:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Moshik21/weatherdeck\nComments URL: https://news.ycombinator.com/item?id=50122767\nPoints: 8\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50122767"
-    },
-    {
-      "title": "Show HN: Putaway – sorts your Mac's Downloads into the folders you have",
-      "link": "https://github.com/devYRPauli/putaway",
-      "pubDate": "Fri, 16 Oct 2026 18:48:37 +0000",
-      "date": "Fri, 16 Oct 2026 18:48:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "My Downloads folder is full of files like download (3).pdf, IMG_4821.jpg, and Untitled.docx. I already have folders for them in Documents. I never move them because I have to open each file to know what it is. Putaway does that part.\nIt reads the start of each file on your Mac: PDF text, OCR for scans and photos, Word, Excel, CSV, and HTML. Then it picks one of the folders you already have. It never makes new folders. It shows you the plan first. Nothing moves until you click Move, and Undo puts",
-      "guid": "https://news.ycombinator.com/item?id=50122669"
     },
     {
       "title": "2026.42: Home At Last",
