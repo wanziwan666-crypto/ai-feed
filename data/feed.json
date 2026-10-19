@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-19T11:38:38.074Z",
+  "generatedAt": "2026-10-19T18:00:27.193Z",
   "lookbackHours": 24,
-  "totalItems": 24,
+  "totalItems": 25,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-10-19T11:38:36.922Z",
-      "date": "2026-10-19T11:38:36.922Z",
+      "pubDate": "2026-10-19T18:00:25.277Z",
+      "date": "2026-10-19T18:00:25.277Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,70 +15,235 @@
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
     },
     {
-      "title": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
-      "link": "https://clipjury.com/guides/ai-tool-terms-changed-2026/",
-      "pubDate": "Mon, 19 Oct 2026 11:07:21 +0000",
-      "date": "Mon, 19 Oct 2026 11:07:21 +0000",
+      "title": "Show HN: Stillplay – The Windows XP games, rebuilt in C and WASM for the browser",
+      "link": "https://github.com/btahir/stillplay",
+      "pubDate": "Mon, 19 Oct 2026 17:40:13 +0000",
+      "date": "Mon, 19 Oct 2026 17:40:13 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://clipjury.com/guides/ai-tool-terms-changed-2026/\nComments URL: https://news.ycombinator.com/item?id=50150908\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150908"
+      "contentSnippet": "Article URL: https://github.com/btahir/stillplay\nComments URL: https://news.ycombinator.com/item?id=50155392\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50155392"
     },
     {
-      "title": "Show HN: Twenty1 – Would You Rather and 21 Questions with Friends",
-      "link": "https://twenty1.online/",
-      "pubDate": "Mon, 19 Oct 2026 10:54:41 +0000",
-      "date": "Mon, 19 Oct 2026 10:54:41 +0000",
+      "title": "Show HN: Remakecraft – Claude Code plugin that rewrites apps from behaviour",
+      "link": "https://github.com/remakecraft/remakecraft",
+      "pubDate": "Mon, 19 Oct 2026 17:33:16 +0000",
+      "date": "Mon, 19 Oct 2026 17:33:16 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://twenty1.online/\nComments URL: https://news.ycombinator.com/item?id=50150814\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50150814"
+      "contentSnippet": "Article URL: https://github.com/remakecraft/remakecraft\nComments URL: https://news.ycombinator.com/item?id=50155320\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50155320"
     },
     {
-      "title": "Show HN: CanaryGuard – A <0.1ms deterministic AI prompt firewall with $5 bounty",
-      "link": "https://canaryguard-402.onrender.com/bounty.html",
-      "pubDate": "Mon, 19 Oct 2026 10:46:14 +0000",
-      "date": "Mon, 19 Oct 2026 10:46:14 +0000",
+      "title": "Show HN: Vlmhub – Simple Unified Python interface for vision-language models",
+      "link": "https://github.com/dbiswas55/vlmhub",
+      "pubDate": "Mon, 19 Oct 2026 17:33:03 +0000",
+      "date": "Mon, 19 Oct 2026 17:33:03 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://canaryguard-402.onrender.com/bounty.html\nComments URL: https://news.ycombinator.com/item?id=50150758\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150758"
+      "contentSnippet": "Article URL: https://github.com/dbiswas55/vlmhub\nComments URL: https://news.ycombinator.com/item?id=50155314\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50155314"
     },
     {
-      "title": "Show HN: Tailgate – easy self hosted Tailscale",
-      "link": "https://tailgate.latchlabs.dev/",
-      "pubDate": "Mon, 19 Oct 2026 10:30:41 +0000",
-      "date": "Mon, 19 Oct 2026 10:30:41 +0000",
+      "title": "Show HN: Senseplane open-source eyes and ears for AI agents, on your own cameras",
+      "link": "https://github.com/senseplane-ai/senseplane",
+      "pubDate": "Mon, 19 Oct 2026 17:25:01 +0000",
+      "date": "Mon, 19 Oct 2026 17:25:01 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tailgate.latchlabs.dev/\nComments URL: https://news.ycombinator.com/item?id=50150655\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150655"
+      "contentSnippet": "Article URL: https://github.com/senseplane-ai/senseplane\nComments URL: https://news.ycombinator.com/item?id=50155220\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50155220"
     },
     {
-      "title": "Show HN: Instant MS Access data on the Web [video]",
-      "link": "https://www.youtube.com/watch?v=wR-50zZNG6s",
-      "pubDate": "Mon, 19 Oct 2026 10:24:10 +0000",
-      "date": "Mon, 19 Oct 2026 10:24:10 +0000",
+      "title": "Show HN: CueCut Teleprompter for videos, podcasts and Zoom calls",
+      "link": "https://getcuecut.com/",
+      "pubDate": "Mon, 19 Oct 2026 17:15:16 +0000",
+      "date": "Mon, 19 Oct 2026 17:15:16 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "\"Turn Your Access database Into Web Pages Instantly, no coding, nothing. No conversion, no time spent, simply plug-and-play.\"\nWhat do you think? Easy to understand? Use? Or complete rubbish?\nComments URL: https://news.ycombinator.com/item?id=50150602\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150602"
+      "contentSnippet": "I built this browser-based teleprompter app called CueCut. If you record promotional videos from your laptop, then give it a try. It also works when you are giving prepared speech over Zoom, Teams or Meet. Podcast mode lets up to four people record a conversation with a shared script playing over the teleprompter.\nComments URL: https://news.ycombinator.com/item?id=50155073\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50155073"
     },
     {
-      "title": "Show HN: Gsearch – Real Google Search for AI Agents, via a Real Firefox (MCP)",
-      "link": "https://github.com/RayenMlayeh/gsearch",
-      "pubDate": "Mon, 19 Oct 2026 10:17:12 +0000",
-      "date": "Mon, 19 Oct 2026 10:17:12 +0000",
+      "title": "Show HN: ProvLedger – stops coding agents repeating mistakes",
+      "link": "https://github.com/yizhao95/prov_ledger",
+      "pubDate": "Mon, 19 Oct 2026 17:09:06 +0000",
+      "date": "Mon, 19 Oct 2026 17:09:06 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/RayenMlayeh/gsearch\nComments URL: https://news.ycombinator.com/item?id=50150561\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150561"
+      "contentSnippet": "Article URL: https://github.com/yizhao95/prov_ledger\nComments URL: https://news.ycombinator.com/item?id=50154969\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50154969"
+    },
+    {
+      "title": "Show HN: Earshot – talk to Claude Code with AirPods, nod to send",
+      "link": "https://github.com/epavanello/earshot",
+      "pubDate": "Mon, 19 Oct 2026 16:53:33 +0000",
+      "date": "Mon, 19 Oct 2026 16:53:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/epavanello/earshot\nComments URL: https://news.ycombinator.com/item?id=50154750\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50154750"
+    },
+    {
+      "title": "Show HN: Daymark – private iPhone habit tracker ($14.99 once)",
+      "link": "https://daymark.one/",
+      "pubDate": "Mon, 19 Oct 2026 16:51:30 +0000",
+      "date": "Mon, 19 Oct 2026 16:51:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://daymark.one/\nComments URL: https://news.ycombinator.com/item?id=50154722\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50154722"
+    },
+    {
+      "title": "Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector",
+      "link": "https://claude.ai/directory/bulletlist",
+      "pubDate": "Mon, 19 Oct 2026 16:49:06 +0000",
+      "date": "Mon, 19 Oct 2026 16:49:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A free outliner with Workflowy's shortcuts and Obsidian's markdown, no backend, and a Claude connector built in. Say \"add that to my notes\" in any conversation and it lands in your outline; ask what you wrote last month and Claude answers from it. No account to try: bulletlist.org/demo\nComments URL: https://news.ycombinator.com/item?id=50154682\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50154682"
+    },
+    {
+      "title": "Show HN: Driftwatch – breaking-change alerts for the third-party APIs you call",
+      "link": "https://driftwatch.et",
+      "pubDate": "Mon, 19 Oct 2026 16:27:12 +0000",
+      "date": "Mon, 19 Oct 2026 16:27:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://driftwatch.et\nComments URL: https://news.ycombinator.com/item?id=50154371\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50154371"
+    },
+    {
+      "title": "Show HN: Destruction Therapy – a bottle-smashing physics sandbox in the browser",
+      "link": "https://drypage.app/game/",
+      "pubDate": "Mon, 19 Oct 2026 16:20:32 +0000",
+      "date": "Mon, 19 Oct 2026 16:20:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://drypage.app/game/\nComments URL: https://news.ycombinator.com/item?id=50154292\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50154292"
+    },
+    {
+      "title": "Show HN: Celorga – A portable re-implementation of Org for you and your agents",
+      "link": "https://github.com/aviaviavi/celorga",
+      "pubDate": "Mon, 19 Oct 2026 16:18:39 +0000",
+      "date": "Mon, 19 Oct 2026 16:18:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been a heavy user of Emacs Org mode for a decade and a half. As AI has reduced how often I'm using a text-editor, I was finding myself tied to spacemacs just for Org, and I was searching for a way to keep those workflows and notes, but be fully decoupled from Emacs. (I blogged about that here: https://avi.press/posts/2024-01-15-standalone-org.html, the original idea for this project).\nToday I'm excited to launch Celorga: a portable re-implementation of Org, with no dependency on Emacs or el",
+      "guid": "https://news.ycombinator.com/item?id=50154269"
+    },
+    {
+      "title": "Show HN: Reversing Wing Commander to find the entity table in 64k to add co-op",
+      "link": "https://fireflyk64.github.io/wcmulti/",
+      "pubDate": "Mon, 19 Oct 2026 15:47:43 +0000",
+      "date": "Mon, 19 Oct 2026 15:47:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've always wanted to play Wing Commander with friends, so we could\nfly the story missions together. In 2015, I hypothesized that the full\ngame state fit in the data segment (only 64k), and I could do small\nposition and orientation experiments with vbindiff to discover how the\nmemory was organized. Some fun findings: the camera was in entity index\n0x3D (a \"3D\" joke?). My brother, Patrick, figured out Borland's overlay\nloader crashed the game until we made our stub look like a real stack\nframe. T",
+      "guid": "https://news.ycombinator.com/item?id=50153873"
+    },
+    {
+      "title": "Show HN: Forgot – see who's out before you promise a release data",
+      "link": "https://forgot.dev",
+      "pubDate": "Mon, 19 Oct 2026 15:47:24 +0000",
+      "date": "Mon, 19 Oct 2026 15:47:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://forgot.dev\nComments URL: https://news.ycombinator.com/item?id=50153867\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50153867"
+    },
+    {
+      "title": "Show HN: Kompressor – deterministic prompt compression for coding agents",
+      "link": "https://github.com/hystax/optscale-kompressor",
+      "pubDate": "Mon, 19 Oct 2026 15:45:51 +0000",
+      "date": "Mon, 19 Oct 2026 15:45:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/hystax/optscale-kompressor\nComments URL: https://news.ycombinator.com/item?id=50153848\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50153848"
+    },
+    {
+      "title": "Show HN: OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)",
+      "link": "https://opentokenmini.org/",
+      "pubDate": "Mon, 19 Oct 2026 15:44:01 +0000",
+      "date": "Mon, 19 Oct 2026 15:44:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://opentokenmini.org/\nComments URL: https://news.ycombinator.com/item?id=50153820\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50153820"
+    },
+    {
+      "title": "Show HN: BudgetFlow – Plan your budget as an interactive Sankey diagram",
+      "link": "https://budgetflow.cc/",
+      "pubDate": "Mon, 19 Oct 2026 15:37:36 +0000",
+      "date": "Mon, 19 Oct 2026 15:37:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://budgetflow.cc/\nComments URL: https://news.ycombinator.com/item?id=50153741\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50153741"
+    },
+    {
+      "title": "Show HN: Golden Axe Stree Fighter",
+      "link": "https://golden-axe-sf.atomic14.com/",
+      "pubDate": "Mon, 19 Oct 2026 15:33:10 +0000",
+      "date": "Mon, 19 Oct 2026 15:33:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've been messing around porting arcade game using Claude. It's surprisingly each to point Claude at an arcade ROM and get a reasonable result.\nThis is more of a mashup. Code is here: https://github.com/atomic14/golden-axe-streetfighter\nComments URL: https://news.ycombinator.com/item?id=50153686\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50153686"
+    },
+    {
+      "title": "Show HN: OpenJobs tailors applications from your experience bank",
+      "link": "https://openjobs.thecompound.tech",
+      "pubDate": "Mon, 19 Oct 2026 15:26:56 +0000",
+      "date": "Mon, 19 Oct 2026 15:26:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://openjobs.thecompound.tech\nComments URL: https://news.ycombinator.com/item?id=50153617\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50153617"
+    },
+    {
+      "title": "Show HN: YouLangTube – YouTube subtitles that fade out as your level improves",
+      "link": "https://www.youlangtube.com",
+      "pubDate": "Mon, 19 Oct 2026 15:15:48 +0000",
+      "date": "Mon, 19 Oct 2026 15:15:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.youlangtube.com\nComments URL: https://news.ycombinator.com/item?id=50153495\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50153495"
+    },
+    {
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "pubDate": "Mon, 19 Oct 2026 12:10:00 +0000",
+      "date": "Mon, 19 Oct 2026 12:10:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the University of Alaska, Fairbanks campus,…",
+      "guid": "https://www.technologyreview.com/?p=1147103"
     },
     {
       "title": "Do You Trust Apple?",
@@ -92,28 +257,6 @@
       "guid": "https://stratechery.com/?p=20364"
     },
     {
-      "title": "Show HN: Selise Blocks – Scaffold an app, define schemas, deploy through one CLI",
-      "link": "https://seliseblocks.com",
-      "pubDate": "Mon, 19 Oct 2026 09:29:28 +0000",
-      "date": "Mon, 19 Oct 2026 09:29:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://seliseblocks.com\nComments URL: https://news.ycombinator.com/item?id=50150256\nPoints: 4\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50150256"
-    },
-    {
-      "title": "Show HN: Free design canvas for your AI (open source)",
-      "link": "https://uidesigneditor.com/",
-      "pubDate": "Mon, 19 Oct 2026 09:23:12 +0000",
-      "date": "Mon, 19 Oct 2026 09:23:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey, sometimes it's easier to just move around some buttons in an editor instead of waiting a minute for the AI result.\nE.g. take a screenshot of your UI, cut out a button, move it around to see what it looks like.\nYour AI can send HTML into the editor, or screenshots.\nThen you can edit it, move things around, and your AI takes it from there.\nI've made it free and open source. You can build on top of it or improve it.\nComments URL: https://news.ycombinator.com/item?id=50150221\nPoints: 4\n# Commen",
-      "guid": "https://news.ycombinator.com/item?id=50150221"
-    },
-    {
       "title": "The School Choice Debate Looks Different From My Kitchen Table ",
       "link": "https://www.gettingsmart.com/2026/10/19/the-school-choice-debate-looks-different-from-my-kitchen-table/",
       "pubDate": "Mon, 19 Oct 2026 09:15:00 +0000",
@@ -125,17 +268,6 @@
       "guid": "https://www.gettingsmart.com/?p=140901"
     },
     {
-      "title": "Show HN: Built an ADK graph to auto-ship new levels and promos to live games",
-      "link": "https://stagenator-mission.web.app",
-      "pubDate": "Mon, 19 Oct 2026 09:12:55 +0000",
-      "date": "Mon, 19 Oct 2026 09:12:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://stagenator-mission.web.app\nComments URL: https://news.ycombinator.com/item?id=50150162\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150162"
-    },
-    {
       "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
       "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "pubDate": "Mon, 19 Oct 2026 09:08:05 +0000",
@@ -145,127 +277,6 @@
       "icon": "🔬",
       "contentSnippet": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
       "guid": "https://www.technologyreview.com/?p=1147095"
-    },
-    {
-      "title": "Show HN: Panel Font-AI Manga Translator",
-      "link": "https://www.panelfont.com/",
-      "pubDate": "Mon, 19 Oct 2026 09:03:58 +0000",
-      "date": "Mon, 19 Oct 2026 09:03:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Text removal happens in browsers through Panel Font, an all-in-one manga tool for text removal, coloring, translation, and manga generation. Access is free and requires neither account registration nor software installation.\nComments URL: https://news.ycombinator.com/item?id=50150083\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150083"
-    },
-    {
-      "title": "Show HN: Truth Firewall – Check whether Codex finished a task",
-      "link": "https://github.com/aldi949/truth-firewall",
-      "pubDate": "Mon, 19 Oct 2026 08:52:52 +0000",
-      "date": "Mon, 19 Oct 2026 08:52:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/aldi949/truth-firewall\nComments URL: https://news.ycombinator.com/item?id=50150001\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50150001"
-    },
-    {
-      "title": "Show HN: AI decision model plays Mortal Kombat II",
-      "link": "https://github.com/aipdv/fightbench",
-      "pubDate": "Mon, 19 Oct 2026 08:45:03 +0000",
-      "date": "Mon, 19 Oct 2026 08:45:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "i created a benchmark which evaluates the ai decision models.\ni thought the idea, by watching jev playing doom\ni thought, games are the right place to evaluate these things :\n- real-life network latency\n- decision probability\nfeedbacks welcome :)\nComments URL: https://news.ycombinator.com/item?id=50149942\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50149942"
-    },
-    {
-      "title": "Show HN: Cirqmon – quantum circuits that don't feel like a research paper",
-      "link": "https://www.cirqmon.dev/",
-      "pubDate": "Mon, 19 Oct 2026 08:40:54 +0000",
-      "date": "Mon, 19 Oct 2026 08:40:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.cirqmon.dev/\nComments URL: https://news.ycombinator.com/item?id=50149911\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50149911"
-    },
-    {
-      "title": "Show HN: A Mojo Script Language Container for the Exasol Database",
-      "link": "https://github.com/exasol-labs/language-container-mojo",
-      "pubDate": "Mon, 19 Oct 2026 08:38:11 +0000",
-      "date": "Mon, 19 Oct 2026 08:38:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Mojo is a relatively new language, and its Python\naffinity makes it an ideal candidate for in-database\nexecution to process data where it is stored. Fast \nand reliable.\nComments URL: https://news.ycombinator.com/item?id=50149883\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50149883"
-    },
-    {
-      "title": "Show HN: Droplis – A new kind of 1 click Logic Game",
-      "link": "https://droplis.lalo.li/",
-      "pubDate": "Mon, 19 Oct 2026 07:19:45 +0000",
-      "date": "Mon, 19 Oct 2026 07:19:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://droplis.lalo.li/\nComments URL: https://news.ycombinator.com/item?id=50149353\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50149353"
-    },
-    {
-      "title": "Show HN: Sauva – Terminal Unicode Explorer",
-      "link": "https://github.com/lusingander/sauva",
-      "pubDate": "Mon, 19 Oct 2026 07:03:42 +0000",
-      "date": "Mon, 19 Oct 2026 07:03:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made a tool to search and inspect Unicode characters in the terminal.\n- Browse Unicode blocks or search by character, code point, or name\n- View Unicode properties, encodings, and their descriptions\n- Decompose strings into code points or grapheme clusters, and compare different normalization forms\n- Preview glyphs using image display protocols (kitty, iTerm2)\nComments URL: https://news.ycombinator.com/item?id=50149255\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50149255"
-    },
-    {
-      "title": "Show HN: SleekNav – A hand-reviewed web directory, free to submit",
-      "link": "https://sleeknav.com/",
-      "pubDate": "Mon, 19 Oct 2026 06:48:00 +0000",
-      "date": "Mon, 19 Oct 2026 06:48:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sleeknav.com/\nComments URL: https://news.ycombinator.com/item?id=50149146\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50149146"
-    },
-    {
-      "title": "Show HN: Open Mailto Links in Gmail",
-      "link": "https://sindresorhus.com/mailway",
-      "pubDate": "Mon, 19 Oct 2026 05:36:58 +0000",
-      "date": "Mon, 19 Oct 2026 05:36:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sindresorhus.com/mailway\nComments URL: https://news.ycombinator.com/item?id=50148746\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50148746"
-    },
-    {
-      "title": "Show HN: The Lion King (SNES, 1994), running as a native PC program",
-      "link": "https://github.com/kinduff/TLKRecomp",
-      "pubDate": "Mon, 19 Oct 2026 05:20:55 +0000",
-      "date": "Mon, 19 Oct 2026 05:20:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/kinduff/TLKRecomp\nComments URL: https://news.ycombinator.com/item?id=50148662\nPoints: 5\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50148662"
-    },
-    {
-      "title": "Show HN: Roadkill – a zombie car game inspired by the original GTA's driving",
-      "link": "https://games.zabaca.com/games/roadkill/",
-      "pubDate": "Mon, 19 Oct 2026 05:08:53 +0000",
-      "date": "Mon, 19 Oct 2026 05:08:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://games.zabaca.com/games/roadkill/\nComments URL: https://news.ycombinator.com/item?id=50148589\nPoints: 6\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50148589"
     }
   ]
 }
