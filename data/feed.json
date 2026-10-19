@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T03:15:34.000Z",
+  "generatedAt": "2026-10-19T03:06:40.214Z",
   "lookbackHours": 24,
   "totalItems": 22,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-10-19T02:31:55.969Z",
-      "date": "2026-10-19T02:31:55.969Z",
+      "pubDate": "2026-10-19T03:06:32.467Z",
+      "date": "2026-10-19T03:06:32.467Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "K-Dense-AI/scientific-agent-skills",
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "pubDate": "2026-10-18T03:15:25.098Z",
-      "date": "2026-10-18T03:15:25.098Z",
+      "pubDate": "2026-10-19T03:06:32.467Z",
+      "date": "2026-10-19T03:06:32.467Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -26,32 +26,32 @@
       "guid": "https://github.com/K-Dense-AI/scientific-agent-skills"
     },
     {
-      "title": "Show HN: Moonrain – a free, offline sleep-sound mixer for iOS with no tracking",
-      "link": "https://apps.apple.com/us/app/moonrain-sleep-sounds/id6789770084",
-      "pubDate": "Sun, 18 Oct 2026 02:02:07 +0000",
-      "date": "Sun, 18 Oct 2026 02:02:07 +0000",
+      "title": "Show HN: Neuron, agents that set themselves up from your GitHub repo",
+      "link": "https://www.neuronbot.in",
+      "pubDate": "Mon, 19 Oct 2026 02:43:50 +0000",
+      "date": "Mon, 19 Oct 2026 02:43:50 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/moonrain-sleep-sounds/id6789770084\nComments URL: https://news.ycombinator.com/item?id=50137125\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50137125"
+      "contentSnippet": "Article URL: https://www.neuronbot.in\nComments URL: https://news.ycombinator.com/item?id=50147781\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50147781"
     },
     {
-      "title": "Show HN: Cosplay as a tech lead, using gVisor to sandbox agents",
-      "link": "https://github.com/SoftwareRenderer/MIKE",
-      "pubDate": "Sun, 18 Oct 2026 01:49:34 +0000",
-      "date": "Sun, 18 Oct 2026 01:49:34 +0000",
+      "title": "Show HN: My Personal Weather Station",
+      "link": "https://johnzanussi.com/weather",
+      "pubDate": "Mon, 19 Oct 2026 02:25:35 +0000",
+      "date": "Mon, 19 Oct 2026 02:25:35 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi everyone,\nThis started as an exploration into harnesses and locally hostable LLMs (the kind that uses less power than a small electric heater), and I used it as an opportunity to retool. I've tried popular ones like Cline, Claude Code, and Pi, but wanted a different UX and integrated sandboxes.\nThe solution that I've landed on is a responsive web interface where I can quickly drive progress. It feels like a microcosm of my day job: define and delegate tasks, organize using kanban, then review",
-      "guid": "https://news.ycombinator.com/item?id=50137043"
+      "contentSnippet": "Article URL: https://johnzanussi.com/weather\nComments URL: https://news.ycombinator.com/item?id=50147671\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50147671"
     },
     {
-      "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
-      "link": "https://github.com/ahmtsahin/claude-env-tabs",
-      "pubDate": "Sun, 18 Oct 2026 01:44:24 +0000",
-      "date": "Sun, 18 Oct 2026 01:44:24 +0000",
+      "title": "Show HN: Local-first macOS video recorder and editor with MCP support",
+      "link": "https://github.com/TriHerm/cutmark",
+      "pubDate": "Mon, 19 Oct 2026 00:52:54 +0000",
+      "date": "Mon, 19 Oct 2026 00:52:54 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
@@ -143,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tiberava.pages.dev\nComments URL: https://news.ycombinator.com/item?id=50146075\nPoints: 10\n# Comments: 14",
+      "contentSnippet": "Article URL: https://tiberava.pages.dev\nComments URL: https://news.ycombinator.com/item?id=50146075\nPoints: 10\n# Comments: 15",
       "guid": "https://news.ycombinator.com/item?id=50146075"
     },
     {
@@ -242,8 +242,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "An open-source, local-first MCP server designed to sanitize email HTML and protect local AI agents from hidden CSS/Unicode prompt injections before the LLM processes the data.\nComments URL: https://news.ycombinator.com/item?id=50134132\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50134132"
+      "contentSnippet": "Article URL: https://github.com/omerfeyzioglu/glider\nComments URL: https://news.ycombinator.com/item?id=50144906\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50144906"
     }
   ]
 }
