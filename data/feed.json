@@ -1,18 +1,73 @@
 {
-  "generatedAt": "2026-10-20T02:44:30.455Z",
+  "generatedAt": "2026-10-20T03:08:43.916Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 28,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-10-20T02:44:28.299Z",
-      "date": "2026-10-20T02:44:28.299Z",
+      "pubDate": "2026-10-20T03:08:32.082Z",
+      "date": "2026-10-20T03:08:32.082Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: Search for AI-agents and usefulness score",
+      "link": "https://xtract-production-2efc.up.railway.app/",
+      "pubDate": "Tue, 20 Oct 2026 02:57:52 +0000",
+      "date": "Tue, 20 Oct 2026 02:57:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built se",
+      "guid": "https://news.ycombinator.com/item?id=50160830"
+    },
+    {
+      "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+      "link": "https://appmaker.io/",
+      "pubDate": "Tue, 20 Oct 2026 02:55:31 +0000",
+      "date": "Tue, 20 Oct 2026 02:55:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code.\nhttps://appmaker.io\nApps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications.\nIt's still in beta, and I'd love to hear your feedback.\nComments URL: https://news.ycombinator.com/item?id=50160813\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50160813"
+    },
+    {
+      "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
+      "link": "https://github.com/yanacuti1121/yana-ai",
+      "pubDate": "Tue, 20 Oct 2026 02:48:40 +0000",
+      "date": "Tue, 20 Oct 2026 02:48:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/yanacuti1121/yana-ai\nComments URL: https://news.ycombinator.com/item?id=50160774\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50160774"
+    },
+    {
+      "title": "Show HN: Approve Sudo with Android Biometrics",
+      "link": "https://github.com/hparadiz/kdesu-android-biometric-auth",
+      "pubDate": "Tue, 20 Oct 2026 02:39:08 +0000",
+      "date": "Tue, 20 Oct 2026 02:39:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "This is a patched kdesu and an original Android application which makes use of Android biometrics to sign and approve a kdesu elevation request.\nComments URL: https://news.ycombinator.com/item?id=50160722\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50160722"
+    },
+    {
+      "title": "Show HN: Free text classification piece for Activepieces",
+      "link": "https://jeffyclassify.com/blog/activepieces-jeffy/",
+      "pubDate": "Tue, 20 Oct 2026 02:26:41 +0000",
+      "date": "Tue, 20 Oct 2026 02:26:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://jeffyclassify.com/blog/activepieces-jeffy/\nComments URL: https://news.ycombinator.com/item?id=50160637\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50160637"
     },
     {
       "title": "Show HN: URL Shortener – open-source Bitly Alternative",
@@ -55,7 +110,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://ailegal.legal/\nComments URL: https://news.ycombinator.com/item?id=50160110\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://ailegal.legal/\nComments URL: https://news.ycombinator.com/item?id=50160110\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50160110"
     },
     {
@@ -66,7 +121,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://demo.costura.ai/overview\nComments URL: https://news.ycombinator.com/item?id=50160102\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://demo.costura.ai/overview\nComments URL: https://news.ycombinator.com/item?id=50160102\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50160102"
     },
     {
@@ -88,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "To get started, tell your agents to build an app with https://github.com/luisrudge/omasharp and they'll do the rest!\nApps use QmL, so they look and feel like Omarchy apps (usually built with C++ + QmL). They are also AOT-compiled, so you don't pay the startup price.\nI started my career as a .NET developer, so this was a fun project to hack on!\nComments URL: https://news.ycombinator.com/item?id=50159774\nPoints: 3\n# Comments: 1",
+      "contentSnippet": "To get started, tell your agents to build an app with https://github.com/luisrudge/omasharp and they'll do the rest!\nApps use QmL, so they look and feel like Omarchy apps (usually built with C++ + QmL). They are also AOT-compiled, so you don't pay the startup price.\nI started my career as a .NET developer, so this was a fun project to hack on!\nComments URL: https://news.ycombinator.com/item?id=50159774\nPoints: 4\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=50159774"
     },
     {
@@ -176,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Road Rash was one of my favourite PC games growing up. I wanted to play it again, but the browser emulators I tried felt sluggish, so I decided to build a browser version using Three.js.\nThis started mostly out of nostalgia. I wanted to be able to open a link and get back to racing and knocking people off their bikes.\nComments URL: https://news.ycombinator.com/item?id=50158684\nPoints: 11\n# Comments: 3",
+      "contentSnippet": "Road Rash was one of my favourite PC games growing up. I wanted to play it again, but the browser emulators I tried felt sluggish, so I decided to build a browser version using Three.js.\nThis started mostly out of nostalgia. I wanted to be able to open a link and get back to racing and knocking people off their bikes.\nComments URL: https://news.ycombinator.com/item?id=50158684\nPoints: 13\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=50158684"
     },
     {
@@ -191,59 +246,15 @@
       "guid": "https://news.ycombinator.com/item?id=50158566"
     },
     {
-      "title": "Show HN: Accessibility Context for UI with AI",
-      "link": "https://www.typeui.sh/ui-foundations/configurator",
-      "pubDate": "Mon, 19 Oct 2026 21:46:15 +0000",
-      "date": "Mon, 19 Oct 2026 21:46:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.typeui.sh/ui-foundations/configurator\nComments URL: https://news.ycombinator.com/item?id=50158513\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50158513"
-    },
-    {
-      "title": "Show HN: Claude Code skills and hooks that prove a fix's test fails without it",
-      "link": "https://github.com/ehnruiz/claude-skills",
-      "pubDate": "Mon, 19 Oct 2026 21:20:23 +0000",
-      "date": "Mon, 19 Oct 2026 21:20:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ehnruiz/claude-skills\nComments URL: https://news.ycombinator.com/item?id=50158230\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50158230"
-    },
-    {
-      "title": "Show HN: SiteSolide – Open-source cloud for small software",
-      "link": "https://sitesolide.fr/",
-      "pubDate": "Mon, 19 Oct 2026 21:17:37 +0000",
-      "date": "Mon, 19 Oct 2026 21:17:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://sitesolide.fr/\nComments URL: https://news.ycombinator.com/item?id=50158205\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50158205"
-    },
-    {
-      "title": "Show HN: Craig – A TUI for running parallel coding agents",
-      "link": "https://craig-cli.com/",
-      "pubDate": "Mon, 19 Oct 2026 20:57:14 +0000",
-      "date": "Mon, 19 Oct 2026 20:57:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello HN!\nMy name is Sam and this is Craig. Craig is a local-first TUI for managing AI coding agents. It’s agent-agnostic, creates isolated worktrees by default, and has a rich CLI for the agent to interact with to manipulate state and perform actions in the TUI.\nI started building Craig when I got a job offer at a shop that was using Cursor. I was previously using Claude Code with Conductor and really enjoyed this type of experience. However Conductor didn’t support Cursor at the time and I was",
-      "guid": "https://news.ycombinator.com/item?id=50157942"
-    },
-    {
-      "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
-      "link": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
-      "pubDate": "Mon, 19 Oct 2026 20:55:51 +0000",
-      "date": "Mon, 19 Oct 2026 20:55:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons\nComments URL: https://news.ycombinator.com/item?id=50157926\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50157926"
+      "title": "New paper: Emerging trends in AI agent evaluation",
+      "link": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+      "pubDate": "Mon, 19 Oct 2026 20:11:55 GMT",
+      "date": "Mon, 19 Oct 2026 20:11:55 GMT",
+      "source": "AI Snake Oil",
+      "category": "voices",
+      "icon": "🐍",
+      "contentSnippet": "Understanding the methods, questions, and ecosystem for evaluation",
+      "guid": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent"
     },
     {
       "title": "Making the internet better for AI agents might make it worse for everyone else",
