@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-10-21T02:38:21.983Z",
+  "generatedAt": "2026-10-21T03:48:15.140Z",
   "lookbackHours": 24,
   "totalItems": 29,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-10-21T02:38:20.203Z",
-      "date": "2026-10-21T02:38:20.203Z",
+      "pubDate": "2026-10-21T03:48:06.979Z",
+      "date": "2026-10-21T03:48:06.979Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
+      "link": "https://github.com/anesthetised/acplause",
+      "pubDate": "Wed, 21 Oct 2026 02:16:49 +0000",
+      "date": "Wed, 21 Oct 2026 02:16:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/anesthetised/acplause\nComments URL: https://news.ycombinator.com/item?id=50175258\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50175258"
     },
     {
       "title": "AI for Teachers and Gemini Notebook (Formerly NotebookLM)",
@@ -59,7 +70,7 @@
       "guid": "https://news.ycombinator.com/item?id=50175026"
     },
     {
-      "title": "Show HN: Gemma 4 26B at 100 tok/s on a Mac, using the Neural Engine and 2GB RAM",
+      "title": "Show HN: Reverse engineering the ANE to run Gemma 4 26B at 100 Tok/s",
       "link": "https://github.com/zw5/ane-fieldfare",
       "pubDate": "Wed, 21 Oct 2026 01:34:57 +0000",
       "date": "Wed, 21 Oct 2026 01:34:57 +0000",
@@ -233,17 +244,6 @@
       "icon": "🔨",
       "contentSnippet": "I got tired of public data being silo'd or difficult to search or aggregate. LLM's could only handle so much and slowly. So I built a free site and loaded lots in. Know of any other data to pour in, LMK.\nComments URL: https://news.ycombinator.com/item?id=50173235\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50173235"
-    },
-    {
-      "title": "Show HN: Flyte devbox now runs GPU workloads on Apple Silicon",
-      "link": "https://www.union.ai/blog-post/your-code-on-the-apple-silicon-gpu-apple-silicon-flyte-devbox",
-      "pubDate": "Tue, 20 Oct 2026 21:51:32 +0000",
-      "date": "Tue, 20 Oct 2026 21:51:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.union.ai/blog-post/your-code-on-the-apple-silicon-gpu-apple-silicon-flyte-devbox\nComments URL: https://news.ycombinator.com/item?id=50173195\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50173195"
     },
     {
       "title": "Melt it, spin it, use it again",
