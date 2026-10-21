@@ -1,18 +1,227 @@
 {
-  "generatedAt": "2026-10-21T03:48:15.140Z",
+  "generatedAt": "2026-10-21T10:52:46.494Z",
   "lookbackHours": 24,
-  "totalItems": 29,
+  "totalItems": 28,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-10-21T03:48:06.979Z",
-      "date": "2026-10-21T03:48:06.979Z",
+      "pubDate": "2026-10-21T10:52:44.685Z",
+      "date": "2026-10-21T10:52:44.685Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: We built an AI-powered search engine for e-commerce catalogs",
+      "link": "https://visidea.ai/",
+      "pubDate": "Wed, 21 Oct 2026 10:25:11 +0000",
+      "date": "Wed, 21 Oct 2026 10:25:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://visidea.ai/\nComments URL: https://news.ycombinator.com/item?id=50178568\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50178568"
+    },
+    {
+      "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+      "link": "https://squidbrake.com/benchmark",
+      "pubDate": "Wed, 21 Oct 2026 10:23:05 +0000",
+      "date": "Wed, 21 Oct 2026 10:23:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://squidbrake.com/benchmark\nComments URL: https://news.ycombinator.com/item?id=50178546\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50178546"
+    },
+    {
+      "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
+      "link": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+      "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+      "date": "Wed, 21 Oct 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
+      "guid": "https://stratechery.com/?p=20405"
+    },
+    {
+      "title": "Show HN: EPUfix – Invoicing software for the self-employed in Austria",
+      "link": "https://epufix.at",
+      "pubDate": "Wed, 21 Oct 2026 09:59:42 +0000",
+      "date": "Wed, 21 Oct 2026 09:59:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Offers invoices, income, and expenses for Austrian self-employed people. The numbers are finished on any day, and the handoff to the tax advisor takes minutes.\nComments URL: https://news.ycombinator.com/item?id=50178323\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50178323"
+    },
+    {
+      "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
+      "link": "https://github.com/blue-idea/linkit",
+      "pubDate": "Wed, 21 Oct 2026 09:51:41 +0000",
+      "date": "Wed, 21 Oct 2026 09:51:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/blue-idea/linkit\nComments URL: https://news.ycombinator.com/item?id=50178218\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50178218"
+    },
+    {
+      "title": "Show HN: Non-call, an on-call simulator mini-game",
+      "link": "https://serum.sh/non-call/",
+      "pubDate": "Wed, 21 Oct 2026 09:48:08 +0000",
+      "date": "Wed, 21 Oct 2026 09:48:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "It's a goofy weekend side-project trying to show how it feels being on-call and highlight some absurdities.\nI hope you enjoy.\nComments URL: https://news.ycombinator.com/item?id=50178183\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50178183"
+    },
+    {
+      "title": "We can do impossible things",
+      "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "pubDate": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”  I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…",
+      "guid": "https://www.technologyreview.com/?p=1146053"
+    },
+    {
+      "title": "Exercise in a pill",
+      "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "pubDate": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to bring its upsides to people who…",
+      "guid": "https://www.technologyreview.com/?p=1146121"
+    },
+    {
+      "title": "Solid-state batteries",
+      "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+      "pubDate": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "date": "Wed, 21 Oct 2026 09:00:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged lithium ions through a liquid electrolyte soup has…",
+      "guid": "https://www.technologyreview.com/?p=1146137"
+    },
+    {
+      "title": "Show HN: Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust",
+      "link": "https://github.com/kobaltgit/photocraft-companion",
+      "pubDate": "Wed, 21 Oct 2026 07:46:11 +0000",
+      "date": "Wed, 21 Oct 2026 07:46:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kobaltgit/photocraft-companion\nComments URL: https://news.ycombinator.com/item?id=50177345\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50177345"
+    },
+    {
+      "title": "Show HN: A retro arcade style tower climber where your only weapon is a shield",
+      "link": "https://the-last-word.ca/return-to-sender/",
+      "pubDate": "Wed, 21 Oct 2026 07:21:28 +0000",
+      "date": "Wed, 21 Oct 2026 07:21:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Your only weapon is a shield. Return to Sender is a free retro arcade game with a devilishly hard difficulty progression. You can play in your browser: send arrows back, knock enemies into pits, and climb nine floors to beat Ironhide.\nComments URL: https://news.ycombinator.com/item?id=50177177\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50177177"
+    },
+    {
+      "title": "Show HN: See AI trends heat up in real time",
+      "link": "https://ai-news.jagular.io",
+      "pubDate": "Wed, 21 Oct 2026 06:49:14 +0000",
+      "date": "Wed, 21 Oct 2026 06:49:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ai-news.jagular.io\nComments URL: https://news.ycombinator.com/item?id=50176960\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50176960"
+    },
+    {
+      "title": "Show HN: I spent two days building this online multiplayer game with Claude Code",
+      "link": "https://pawnrush.xiaohan.dev/",
+      "pubDate": "Wed, 21 Oct 2026 06:46:14 +0000",
+      "date": "Wed, 21 Oct 2026 06:46:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "You can create a room and send the link to friends to battle against each other — but you have to finish the tutorial first!\nComments URL: https://news.ycombinator.com/item?id=50176936\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50176936"
+    },
+    {
+      "title": "Show HN: Grafista – AI graphic designer built to fight slop",
+      "link": "https://grafista.io/",
+      "pubDate": "Wed, 21 Oct 2026 06:43:17 +0000",
+      "date": "Wed, 21 Oct 2026 06:43:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "You don't need advanced prompt or design skills to create a professional designs using Grafista. Just add your content and your brand.\nFully editable designs in any language. Plans from €10/month, no per seat charge. Startups get 50% for the first 3 months.\nComments URL: https://news.ycombinator.com/item?id=50176914\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50176914"
+    },
+    {
+      "title": "Show HN: Inca – a free, open-source 3D app that works like Maya 2020",
+      "link": "https://incacad.com/",
+      "pubDate": "Wed, 21 Oct 2026 04:46:10 +0000",
+      "date": "Wed, 21 Oct 2026 04:46:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://incacad.com/\nComments URL: https://news.ycombinator.com/item?id=50176178\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50176178"
+    },
+    {
+      "title": "Show HN: What if Instinct and GrokBot had a baby?",
+      "link": "https://studio.sharenow.today/",
+      "pubDate": "Wed, 21 Oct 2026 04:05:10 +0000",
+      "date": "Wed, 21 Oct 2026 04:05:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "introducing studio by sharenow\na team of lil helpers that keeps working after you close the laptop\neach helper gets its own computer, awake 24/7\n its own email, plus sites and apps live on http://sharenow.today\n (Ctrl⌃) x 2 and talk, it sees what's on your screen\n voice mode: just talk and it routes to your best helper\n press the  Action button to call your helpers\n they make phone calls for you\n they find customers, write emails, build pages\n nightly routines, wake up to it done\n runs on the pl",
+      "guid": "https://news.ycombinator.com/item?id=50175963"
+    },
+    {
+      "title": "Show HN: Vortex Code",
+      "link": "https://spinozalabs.ai/software",
+      "pubDate": "Wed, 21 Oct 2026 03:46:56 +0000",
+      "date": "Wed, 21 Oct 2026 03:46:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://spinozalabs.ai/software\nComments URL: https://news.ycombinator.com/item?id=50175849\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50175849"
+    },
+    {
+      "title": "Show HN: Pope Pendle Pro",
+      "link": "https://github.com/knitprong/Faith-cloud",
+      "pubDate": "Wed, 21 Oct 2026 03:31:27 +0000",
+      "date": "Wed, 21 Oct 2026 03:31:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Pope Pendle Pro resolves 10 contradictions per lunar cycle. It detects inversions, navigates the Veytar, and restores censored invariance. All for $13.27/month.\"\nComments URL: https://news.ycombinator.com/item?id=50175741\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50175741"
+    },
+    {
+      "title": "Show HN: Mile Pace Calculator, free pace and split tools for runners",
+      "link": "https://milepacecalculator.com/",
+      "pubDate": "Wed, 21 Oct 2026 03:11:15 +0000",
+      "date": "Wed, 21 Oct 2026 03:11:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://milepacecalculator.com/\nComments URL: https://news.ycombinator.com/item?id=50175619\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50175619"
     },
     {
       "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
@@ -81,171 +290,6 @@
       "guid": "https://news.ycombinator.com/item?id=50174998"
     },
     {
-      "title": "Show HN: Spotnote – click an element, hand your coding agent its file:line",
-      "link": "https://github.com/harukikuri/spotnote",
-      "pubDate": "Wed, 21 Oct 2026 01:11:26 +0000",
-      "date": "Wed, 21 Oct 2026 01:11:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/harukikuri/spotnote\nComments URL: https://news.ycombinator.com/item?id=50174861\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50174861"
-    },
-    {
-      "title": "Show HN: Hibi – an open source obsidian alternative",
-      "link": "https://github.com/schmayterling/hibi",
-      "pubDate": "Wed, 21 Oct 2026 01:06:10 +0000",
-      "date": "Wed, 21 Oct 2026 01:06:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "i shared hibi here in september as an open-source obsidian alternative but i wasn't able to attend to it much: https://news.ycombinator.com/item?id=49782528\nfor context, hibi is a free, open-source markdown/latex/typst/and more editor that keeps files in your own folders and it is my beloved hobby project that i use everyday\nin the previous post, i was asked how mature the addon architecture was and while that was very early, we've gotten it to a point where we are having a somewhat mature ecosy",
-      "guid": "https://news.ycombinator.com/item?id=50174826"
-    },
-    {
-      "title": "Show HN: An unofficial guide to Roblox's The Hollow event",
-      "link": "https://robloxthehollow.com/",
-      "pubDate": "Wed, 21 Oct 2026 01:04:59 +0000",
-      "date": "Wed, 21 Oct 2026 01:04:59 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://robloxthehollow.com/\nComments URL: https://news.ycombinator.com/item?id=50174821\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50174821"
-    },
-    {
-      "title": "Show HN: SchemaWright, learning database design in a gamified way",
-      "link": "https://schemawright.com",
-      "pubDate": "Wed, 21 Oct 2026 00:50:43 +0000",
-      "date": "Wed, 21 Oct 2026 00:50:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Let me begin by explaining what it is: SchemaWright is a platform for learning database table design in a gamified way, with a real Postgres database running on your browser via WASM. It was heavily inspired by Duolingo and LeetCode, because I love the way how those platforms teach their users.\nI built and launched this a couple months ago, weeks after my first SaaS failed (that one was called NoteRaven, and the idea was for it to be a Notion + Medium + Udemy all in one platform; but after looki",
-      "guid": "https://news.ycombinator.com/item?id=50174722"
-    },
-    {
-      "title": "Show HN: Wellbody [Body Health Tamagotchi]",
-      "link": "https://wellbody.me",
-      "pubDate": "Tue, 20 Oct 2026 23:46:46 +0000",
-      "date": "Tue, 20 Oct 2026 23:46:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi everyone, I have been working on wellbody health pal for the past 1-2 years. We recently uplifted the app to the current body health tamagotchi version and it's been a blast not just using and developing the app, but also developing our social media presence.\nI invite you to check out our app or follow us on social media as we have created a little world for our tamagotchi buddies (@wellbodyapp)\nComments URL: https://news.ycombinator.com/item?id=50174260\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50174260"
-    },
-    {
-      "title": "Show HN: Drop in a folder of HTML and get back a private URL",
-      "link": "https://eze.page/",
-      "pubDate": "Tue, 20 Oct 2026 23:45:03 +0000",
-      "date": "Tue, 20 Oct 2026 23:45:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://eze.page/\nComments URL: https://news.ycombinator.com/item?id=50174244\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50174244"
-    },
-    {
-      "title": "Show HN: One click flight booking in Claude",
-      "link": "https://mcp.bonbook.co/claude-setup",
-      "pubDate": "Tue, 20 Oct 2026 23:36:17 +0000",
-      "date": "Tue, 20 Oct 2026 23:36:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "tldr; Travelers wanted to find and book flights super fast in Claude, so we built this.\n--\nBonBook started as flights via email because I was flying once a week in '24 and the UX got to me.\nSince then we've handled tens of thousands of requests for hundreds of travelers.\nThe new MCP lets you search live flights with as little/much detail as you like, get options and then book without filling any forms. Points and status intact. All in ~35 seconds.\nComments URL: https://news.ycombinator.com/item?",
-      "guid": "https://news.ycombinator.com/item?id=50174185"
-    },
-    {
-      "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
-      "link": "https://paceorpause.com/",
-      "pubDate": "Tue, 20 Oct 2026 23:18:49 +0000",
-      "date": "Tue, 20 Oct 2026 23:18:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://paceorpause.com/\nComments URL: https://news.ycombinator.com/item?id=50174020\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50174020"
-    },
-    {
-      "title": "Show HN: MultiTrack v1.3 for Mac – insanely easy music making software",
-      "link": "https://aquariuscomputer.co/multitrack/",
-      "pubDate": "Tue, 20 Oct 2026 23:05:51 +0000",
-      "date": "Tue, 20 Oct 2026 23:05:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Just released this. Synths play without bugs now. It might be the best release for songwriting yet.\nComments URL: https://news.ycombinator.com/item?id=50173909\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50173909"
-    },
-    {
-      "title": "Show HN: Lox Language Visualizer Based on Crafting Interpreters",
-      "link": "https://www.shivfitzpatrick.com/visualizers/",
-      "pubDate": "Tue, 20 Oct 2026 22:54:54 +0000",
-      "date": "Tue, 20 Oct 2026 22:54:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "While reading the book Crafting Interpreters I found myself trying to imagine the material from the book visually. After finishing the book I built this tool to do just that! It shows various phases of the interpreter from lexing to parsing to vm instructions with some UI to show you how each step leads to the next. Enjoy!\nComments URL: https://news.ycombinator.com/item?id=50173814\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50173814"
-    },
-    {
-      "title": "Show HN: Visual cdecl – edit a C declaration as English, code, or a graph",
-      "link": "https://github.avestura.dev/visual-cdecl/",
-      "pubDate": "Tue, 20 Oct 2026 22:47:02 +0000",
-      "date": "Tue, 20 Oct 2026 22:47:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.avestura.dev/visual-cdecl/\nComments URL: https://news.ycombinator.com/item?id=50173734\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50173734"
-    },
-    {
-      "title": "Show HN: Melra – pause ambiguous MCP writes instead of blindly retrying",
-      "link": "https://github.com/XAGI-Lab/melra",
-      "pubDate": "Tue, 20 Oct 2026 22:43:02 +0000",
-      "date": "Tue, 20 Oct 2026 22:43:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/XAGI-Lab/melra\nComments URL: https://news.ycombinator.com/item?id=50173690\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50173690"
-    },
-    {
-      "title": "Show HN: AHP Matrix, local, open-source Analytic Hierarchy Process decision tool",
-      "link": "https://github.com/Xafloc/ahp-matrix",
-      "pubDate": "Tue, 20 Oct 2026 22:19:38 +0000",
-      "date": "Tue, 20 Oct 2026 22:19:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Xafloc/ahp-matrix\nComments URL: https://news.ycombinator.com/item?id=50173472\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50173472"
-    },
-    {
-      "title": "Show HN: Axon – Obsidian plugin that finds the todos buried in your notes",
-      "link": "https://github.com/AbdullahAlhariri/axon",
-      "pubDate": "Tue, 20 Oct 2026 22:14:25 +0000",
-      "date": "Tue, 20 Oct 2026 22:14:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/AbdullahAlhariri/axon\nComments URL: https://news.ycombinator.com/item?id=50173431\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50173431"
-    },
-    {
-      "title": "Show HN: Better search of public data, strategystudio.org",
-      "link": "https://strategystudio.org/",
-      "pubDate": "Tue, 20 Oct 2026 21:56:06 +0000",
-      "date": "Tue, 20 Oct 2026 21:56:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I got tired of public data being silo'd or difficult to search or aggregate. LLM's could only handle so much and slowly. So I built a free site and loaded lots in. Know of any other data to pour in, LMK.\nComments URL: https://news.ycombinator.com/item?id=50173235\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50173235"
-    },
-    {
       "title": "Melt it, spin it, use it again",
       "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
       "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
@@ -257,39 +301,6 @@
       "guid": "https://www.technologyreview.com/?p=1145276"
     },
     {
-      "title": "Robotic therapy for stroke patients",
-      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
-      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.  Johannes Lachner, a former MIT postdoc who is now an assistant professor…",
-      "guid": "https://www.technologyreview.com/?p=1145282"
-    },
-    {
-      "title": "Taking a swing at a pickleball startup",
-      "link": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
-      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don’t leave, I will die,” says Anderson, who was…",
-      "guid": "https://www.technologyreview.com/?p=1145287"
-    },
-    {
-      "title": "Nebraska native explores galaxies far, far away",
-      "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
-      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
-      "date": "Tue, 20 Oct 2026 21:00:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her path into astronomy thanks…",
-      "guid": "https://www.technologyreview.com/?p=1145294"
-    },
-    {
       "title": "30 Months on the Exponential (in Charts)",
       "link": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
       "pubDate": "Tue, 20 Oct 2026 15:57:59 GMT",
@@ -299,28 +310,6 @@
       "icon": "💡",
       "contentSnippet": "My new book is out today... what happened since the last one",
       "guid": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts"
-    },
-    {
-      "title": "We’re Teaching Kids to Read. Are We Teaching Them to Think?",
-      "link": "https://www.gettingsmart.com/2026/10/20/were-teaching-kids-to-read-are-we-teaching-them-to-think/",
-      "pubDate": "Tue, 20 Oct 2026 10:45:00 +0000",
-      "date": "Tue, 20 Oct 2026 10:45:00 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "When an 11-year-old gets a polished ChatGPT answer faster than his parent can form a thoughtful one, something important comes into focus: access to information was never going to be the hard part. In her latest piece for Getting Smart, Dr. Barrie Olson makes a compelling case that critical thinking, the habit of questioning, connecting ideas, and weighing evidence, cannot wait until high school. It must begin in the earliest grades, woven into literacy instruction from the start. This is a time",
-      "guid": "https://www.gettingsmart.com/?p=140948"
-    },
-    {
-      "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
-      "link": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
-      "pubDate": "Tue, 20 Oct 2026 10:00:00 +0000",
-      "date": "Tue, 20 Oct 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
-      "guid": "https://stratechery.com/?p=20396"
     }
   ]
 }
