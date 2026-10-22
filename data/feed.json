@@ -1,18 +1,205 @@
 {
-  "generatedAt": "2026-10-21T21:03:29.052Z",
+  "generatedAt": "2026-10-22T02:43:04.398Z",
   "lookbackHours": 24,
   "totalItems": 27,
   "items": [
     {
       "title": "MadsLorentzen/ai-job-search",
       "link": "https://github.com/MadsLorentzen/ai-job-search",
-      "pubDate": "2026-10-21T21:03:26.502Z",
-      "date": "2026-10-21T21:03:26.502Z",
+      "pubDate": "2026-10-22T02:43:02.654Z",
+      "date": "2026-10-22T02:43:02.654Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.\n\n  \n \nAI Job Search\n \nThe job search that runs on your machine.\n \n  \n \n\n \nAn AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews.\n \n \n \nNote: This is an independent open-sour",
       "guid": "https://github.com/MadsLorentzen/ai-job-search"
+    },
+    {
+      "title": "Show HN: HN Sieve – every Show HN scored and summarized by AI",
+      "link": "https://hnsieve.com",
+      "pubDate": "Thu, 22 Oct 2026 02:24:10 +0000",
+      "date": "Thu, 22 Oct 2026 02:24:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hnsieve.com\nComments URL: https://news.ycombinator.com/item?id=50190403\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50190403"
+    },
+    {
+      "title": "Show HN: Find duplicates in 5 lines of Python (offline, lightweight, fast, Rust)",
+      "link": "https://github.com/leopoldch/univo",
+      "pubDate": "Thu, 22 Oct 2026 02:04:55 +0000",
+      "date": "Thu, 22 Oct 2026 02:04:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/leopoldch/univo\nComments URL: https://news.ycombinator.com/item?id=50190272\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50190272"
+    },
+    {
+      "title": "Show HN: HarnessHive – collaborative wiring harness design platform in browser",
+      "link": "https://harnesshive.com",
+      "pubDate": "Thu, 22 Oct 2026 01:32:41 +0000",
+      "date": "Thu, 22 Oct 2026 01:32:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN! We built https://harnesshive.com, a browser based tool to help you design wiring harnesses together.\nHarnessHive has three key features 1) multiple engineers editing the same harness in real time 2) BOM and drawings that stay in sync automatically and 3) AI-native agent + MCP to assist designing.\nWe hope HarnessHive can make harness design less painful than Excel and Visio for some of you :). Let me know if you have any questions/comments/feature requests!\nComments URL: https://news.ycom",
+      "guid": "https://news.ycombinator.com/item?id=50190012"
+    },
+    {
+      "title": "Show HN: GitPushups, block your code if you don't do pushups during your workday",
+      "link": "https://gitpushups.com",
+      "pubDate": "Thu, 22 Oct 2026 01:28:28 +0000",
+      "date": "Thu, 22 Oct 2026 01:28:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN!\nI made this tool for a hackathon last year and since then me and other developers have done ~40K pushups during our workday.\nI've made all the features free (originally was freemium to compete in RevenueCat's Shipaton 2025) and also added an apple watch app.\nMore on those changes in the first \"monthly press\" update:\nhttps://gitpushups.com/monthly-press/october-2026\nWhat do you think?\nComments URL: https://news.ycombinator.com/item?id=50189982\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50189982"
+    },
+    {
+      "title": "Show HN: Claude driving a powerful music notation editor [video]",
+      "link": "https://www.youtube.com/watch?v=lJOV3wvAOb4",
+      "pubDate": "Thu, 22 Oct 2026 01:23:16 +0000",
+      "date": "Thu, 22 Oct 2026 01:23:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Engine written in swift. Support for Mac and iPad and Apple pencil\nI think about 40k loc with a significant amount more in test code.\nA free 28 day trial no subscription.\nFor more info visit autographmusic.com\nComments URL: https://news.ycombinator.com/item?id=50189938\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50189938"
+    },
+    {
+      "title": "Show HN: Twine is a meta-harness with workflows, cross-agent memories and traces",
+      "link": "https://github.com/standing-desks/twine",
+      "pubDate": "Thu, 22 Oct 2026 00:33:36 +0000",
+      "date": "Thu, 22 Oct 2026 00:33:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Built this out because I wasn’t happy with conductor, orca, or the other vscode derivative platforms. Please let me know if you guys have any feedback for me\nComments URL: https://news.ycombinator.com/item?id=50189550\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50189550"
+    },
+    {
+      "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+      "link": "https://bloffy.co/en",
+      "pubDate": "Wed, 21 Oct 2026 23:41:35 +0000",
+      "date": "Wed, 21 Oct 2026 23:41:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello. I built a blogging platform on my own over two years.\nI like running my blog, but I couldn't find a blogging platform I really liked.\nFirst. I thought a blog had to be really lightweight.\nFortunately, after a lot of effort, I was able to achieve satisfactory results. (99 to 100 score)\nHere is a sample blog: https://bloffy.bloffy.blog/en\nYou can check it with PageSpeed Insights: https://pagespeed.web.dev/analysis?url=https://bloffy.bloffy...\nSEO score of the sample blog is low because I bl",
+      "guid": "https://news.ycombinator.com/item?id=50189175"
+    },
+    {
+      "title": "Show HN: CertAvert – Free SSL/TLS tools and certificate expiry alerts",
+      "link": "https://certavert.com",
+      "pubDate": "Wed, 21 Oct 2026 23:32:39 +0000",
+      "date": "Wed, 21 Oct 2026 23:32:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://certavert.com\nComments URL: https://news.ycombinator.com/item?id=50189110\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50189110"
+    },
+    {
+      "title": "Show HN: ZeGrapher v4: modern math plotter",
+      "link": "https://zegrapher.com/en/",
+      "pubDate": "Wed, 21 Oct 2026 23:22:21 +0000",
+      "date": "Wed, 21 Oct 2026 23:22:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "ZeGrapher is a free an open-source math plotter, first release in 2011 (I thought there were no such app on Linux at the time), that I kept sporadically updating ever since. Last version was 6 years ago but a lot of work went into it.\nv4 is a near complete rewrite to a modern interface and approach, inspired by desmos.\nInteresting differenciating features:\n- Computing and plotting recursive sequences\n- svg and pdf export at the physical \nsize you see or set on your screen, in centimeters\n- \"schr",
+      "guid": "https://news.ycombinator.com/item?id=50189022"
+    },
+    {
+      "title": "Show HN: Embodsi – Embodied Super Intelligence",
+      "link": "https://embodsi.com/",
+      "pubDate": "Wed, 21 Oct 2026 23:15:40 +0000",
+      "date": "Wed, 21 Oct 2026 23:15:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "embodsi is a generative AI MMO experience that runs in the browser. It allows people to communicate (text, audio, video, avatar emotes and movement) and collaboratively build 3D spaces and games via LLMs connected to harnesses and sandboxes for object modeling, space layout, game logic, and driving persistent avatars with shared context and memory.\nIt’s different from existing 3D social apps (AFAIK) because it enables people to build multiplayer virtual worlds, games, and characters with generat",
+      "guid": "https://news.ycombinator.com/item?id=50188964"
+    },
+    {
+      "title": "Show HN: ReviewerAgent and StopContinue, for CC and Codex with Pi",
+      "link": "https://github.com/rladr-org/reviewer-agent",
+      "pubDate": "Wed, 21 Oct 2026 22:22:59 +0000",
+      "date": "Wed, 21 Oct 2026 22:22:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "This package is designed to solve two problems:\n1. Frontier models like Fable 5.1, Opus 5.5, Astra 6.0 and Sol 6.1 all make errors and bugs that can be found by another model (even a much smaller model like Luna).\n2. In what is supposed to be a long development run, for example against a plan, models will decide to stop before they are finished, when there is obviously more work to do, or to ask a question they already should know the answer to.\nReviewerAgent blocks git commits and sends them to",
+      "guid": "https://news.ycombinator.com/item?id=50188494"
+    },
+    {
+      "title": "Show HN: Professionally maintained Tree-sitter compatible WASM grammars",
+      "link": "https://powderworks.dev/",
+      "pubDate": "Wed, 21 Oct 2026 21:26:25 +0000",
+      "date": "Wed, 21 Oct 2026 21:26:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I got tired of patching Tree-sitter grammars while I was building linting tools, so much so that I ended up writing a custom parsing framework and a bunch of custom grammars for popular languages. I figured I wasn't alone and that others would be hitting the same problem, especially with all the slop code being produced out there these days. So, I'm happy to now offer commercial support for an ever-expanding library of Tree-sitter compatible Wasm grammars that are continuously updated and well-t",
+      "guid": "https://news.ycombinator.com/item?id=50187882"
+    },
+    {
+      "title": "Show HN: The Steam Frame's wireless adapter isn't what you think",
+      "link": "https://github.com/Sharktheone/steamframe-dongle",
+      "pubDate": "Wed, 21 Oct 2026 21:22:54 +0000",
+      "date": "Wed, 21 Oct 2026 21:22:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've built a tool which can setup the SteamFrame's own hidden wireless AP ride on your Linux x86 PC. It works, read the story about it in the README.md\nHappy to discuss. I accept patches for platform support, but I don't own a Windows or Linux arm device to test it properly myself.\nComments URL: https://news.ycombinator.com/item?id=50187838\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50187838"
+    },
+    {
+      "title": "Show HN: Repository of the Day - Flisk – run a full local service stack ASAP",
+      "link": "https://github.com/flisk-sh/flisk",
+      "pubDate": "Wed, 21 Oct 2026 21:16:18 +0000",
+      "date": "Wed, 21 Oct 2026 21:16:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/flisk-sh/flisk\nComments URL: https://news.ycombinator.com/item?id=50187746\nPoints: 1\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=50187746"
+    },
+    {
+      "title": "Show HN: I made anagrams slightly challenging",
+      "link": "https://www.quizingo.app/anagrams",
+      "pubDate": "Wed, 21 Oct 2026 21:09:22 +0000",
+      "date": "Wed, 21 Oct 2026 21:09:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I know that the UX is still not upto the point. Check it out and let me know what you think.\nComments URL: https://news.ycombinator.com/item?id=50187664\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50187664"
+    },
+    {
+      "title": "Show HN: A shared 3D Zoo in the browser where everyone sees the same animals",
+      "link": "https://zooki.world",
+      "pubDate": "Wed, 21 Oct 2026 20:58:42 +0000",
+      "date": "Wed, 21 Oct 2026 20:58:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://zooki.world\nComments URL: https://news.ycombinator.com/item?id=50187531\nPoints: 5\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=50187531"
+    },
+    {
+      "title": "Show HN: I built an app to stop doomscrolling while waiting for Codex to finish",
+      "link": "https://www.lightscroll.app/",
+      "pubDate": "Wed, 21 Oct 2026 20:52:31 +0000",
+      "date": "Wed, 21 Oct 2026 20:52:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN,\nI usually have a couple of threads running on Codex, but some time ago I realized I was opening X or Instagram and doomscrolling while the agents did the work. I went from regularly getting into a flow state  while coding manually to almost the complete opposite. Basically speedrunning a shorter attention span.\nA friend and I built LightScroll partly to help with this. It's a screen time app for iOS and macOS that lets you choose your limits and how strict they should be.\nI'm aware there ",
+      "guid": "https://news.ycombinator.com/item?id=50187455"
     },
     {
       "title": "Show HN: Overdesigned Simple Solitaire",
@@ -33,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://chatgpt.com/plugins/kapwing\nComments URL: https://news.ycombinator.com/item?id=50187327\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://chatgpt.com/plugins/kapwing\nComments URL: https://news.ycombinator.com/item?id=50187327\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50187327"
     },
     {
@@ -48,182 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=50186988"
     },
     {
-      "title": "Show HN: I made a free Mac app to annotate screen for AI agents",
-      "link": "https://www.trylasso.online",
-      "pubDate": "Wed, 21 Oct 2026 20:07:52 +0000",
-      "date": "Wed, 21 Oct 2026 20:07:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN, I'm Nika. I've built a tool for myself that lets user draw on the screen to annotate important parts and use it as simpler pointers for AI agents screenshot inputs.\nComments URL: https://news.ycombinator.com/item?id=50186893\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50186893"
-    },
-    {
-      "title": "Show HN: Twigg Links – go/ links defined in a file in your repo",
-      "link": "https://twigg.vc/docs/v/2/blog/twigg-links",
-      "pubDate": "Wed, 21 Oct 2026 20:03:08 +0000",
-      "date": "Wed, 21 Oct 2026 20:03:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://twigg.vc/docs/v/2/blog/twigg-links\nComments URL: https://news.ycombinator.com/item?id=50186822\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50186822"
-    },
-    {
-      "title": "Show HN: Yantra – Interactive step-by-step diagrams as one offline HTML file",
-      "link": "https://github.com/niyankhadka/yantra",
-      "pubDate": "Wed, 21 Oct 2026 19:49:14 +0000",
-      "date": "Wed, 21 Oct 2026 19:49:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/niyankhadka/yantra\nComments URL: https://news.ycombinator.com/item?id=50186599\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50186599"
-    },
-    {
-      "title": "Show HN: Is there a YC advantage for sales?",
-      "link": "https://elegant-chebakia-7aee64.netlify.app/",
-      "pubDate": "Wed, 21 Oct 2026 19:31:14 +0000",
-      "date": "Wed, 21 Oct 2026 19:31:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi all,\nI had a hypothesis that YC companies sell to other YC companies. Many times to their own batch, other times to older YC companies. One of my YC friends told me that when they approached a big, well-known company for a potential pilot, the director of engineering there was a YC alum. He said \"yeah, I understand\" and gave them a pilot or LOI.\nMy theory is that most of the logos YC startups show on their landing pages will be other YC companies. They'll use that momentum at Demo Day to rais",
-      "guid": "https://news.ycombinator.com/item?id=50186301"
-    },
-    {
-      "title": "Show HN: Renor – private memory for coding agents, shared across tools over MCP",
-      "link": "https://github.com/patrickpassosb/renor-engine",
-      "pubDate": "Wed, 21 Oct 2026 19:22:31 +0000",
-      "date": "Wed, 21 Oct 2026 19:22:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/patrickpassosb/renor-engine\nComments URL: https://news.ycombinator.com/item?id=50186146\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50186146"
-    },
-    {
-      "title": "Show HN: AI Agent Security Audit Console – offline audit in 15 min",
-      "link": "https://theaioperatorstore.gumroad.com/l/uszyx",
-      "pubDate": "Wed, 21 Oct 2026 19:06:31 +0000",
-      "date": "Wed, 21 Oct 2026 19:06:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://theaioperatorstore.gumroad.com/l/uszyx\nComments URL: https://news.ycombinator.com/item?id=50185936\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185936"
-    },
-    {
-      "title": "Show HN: Whospair – a serverless Android messenger over Tor, with voice calls",
-      "link": "https://github.com/Whospr/Whospair",
-      "pubDate": "Wed, 21 Oct 2026 19:02:38 +0000",
-      "date": "Wed, 21 Oct 2026 19:02:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Whospr/Whospair\nComments URL: https://news.ycombinator.com/item?id=50185893\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185893"
-    },
-    {
-      "title": "Show HN: I built a PHP2Shell tracker with hourly global updates",
-      "link": "https://php2shell.uk/",
-      "pubDate": "Wed, 21 Oct 2026 19:01:56 +0000",
-      "date": "Wed, 21 Oct 2026 19:01:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://php2shell.uk/\nComments URL: https://news.ycombinator.com/item?id=50185878\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185878"
-    },
-    {
-      "title": "Show HN: I built ESP32-S3 LED tubes for live coding",
-      "link": "https://github.com/genbs/reactive-leds",
-      "pubDate": "Wed, 21 Oct 2026 18:55:02 +0000",
-      "date": "Wed, 21 Oct 2026 18:55:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/genbs/reactive-leds\nComments URL: https://news.ycombinator.com/item?id=50185772\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185772"
-    },
-    {
-      "title": "Show HN: Word Press Function Trivia",
-      "link": "https://wordpress.greg.technology/",
-      "pubDate": "Wed, 21 Oct 2026 18:54:01 +0000",
-      "date": "Wed, 21 Oct 2026 18:54:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wordpress.greg.technology/\nComments URL: https://news.ycombinator.com/item?id=50185769\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185769"
-    },
-    {
-      "title": "Show HN: Slidum – play AI-generated HTML slide decks from a link, sandboxed",
-      "link": "https://slidum.com/p/jIKOH_XgqwpjumtD-3dEWRAog_hB5Pq-TBnaIJpK8bQ",
-      "pubDate": "Wed, 21 Oct 2026 18:35:47 +0000",
-      "date": "Wed, 21 Oct 2026 18:35:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://slidum.com/p/jIKOH_XgqwpjumtD-3dEWRAog_hB5Pq-TBnaIJpK8bQ\nComments URL: https://news.ycombinator.com/item?id=50185516\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50185516"
-    },
-    {
-      "title": "Show HN: Moodly – A free mood tracker that keeps entries in the browser",
-      "link": "https://mood-tracker.org/",
-      "pubDate": "Wed, 21 Oct 2026 18:17:58 +0000",
-      "date": "Wed, 21 Oct 2026 18:17:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mood-tracker.org/\nComments URL: https://news.ycombinator.com/item?id=50185268\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185268"
-    },
-    {
-      "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
-      "link": "https://github.com/MvikManners/aw1-circuit-breaker",
-      "pubDate": "Wed, 21 Oct 2026 18:08:36 +0000",
-      "date": "Wed, 21 Oct 2026 18:08:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/MvikManners/aw1-circuit-breaker\nComments URL: https://news.ycombinator.com/item?id=50185134\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185134"
-    },
-    {
-      "title": "Show HN: A drivable 3D city where every billboard is a real website",
-      "link": "https://billboardoftheinternet.com/",
-      "pubDate": "Wed, 21 Oct 2026 17:58:47 +0000",
-      "date": "Wed, 21 Oct 2026 17:58:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://billboardoftheinternet.com/\nComments URL: https://news.ycombinator.com/item?id=50185018\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50185018"
-    },
-    {
-      "title": "Show HN: RMBG – remove backgrounds from images in the browser (no uploads)",
-      "link": "https://velmet44.github.io/rmbg/",
-      "pubDate": "Wed, 21 Oct 2026 17:58:20 +0000",
-      "date": "Wed, 21 Oct 2026 17:58:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I am a person who does editing and digital designing. I used to use this tool, remove.bg, for getting transparent PNGs from either stock images or my own images. It was good, fast, free, and convenient. The only caveats for me were the export resolution limits and a privacy factor, that is, my images got uploaded to their servers.\nRecently, remove.bg announced that they are shutting down the standalone website and moving to inside Canva only. This really made me sad. I have been using this tool ",
-      "guid": "https://news.ycombinator.com/item?id=50185013"
-    },
-    {
-      "title": "Show HN: Synteq hackathon is giving out a flamethrower, 1/2 a cow, a DGX Spark",
-      "link": "https://hack.synteq.app",
-      "pubDate": "Wed, 21 Oct 2026 17:38:00 +0000",
-      "date": "Wed, 21 Oct 2026 17:38:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I'm Ben from Synteq. We're a cloud provider who has - until now - mostly sold GPU clusters, VMs, and block storage. Yesterday we launched Apps and Functions, our first move into PaaS.\nIn the spirit of having fun, we’re running a hackathon. Build anything with a UI on Apps (can use other providers, Synteq vps’, etc in the product)\nPrizes:\n- 1st: NVIDIA DGX Spark\n- 2nd: A flamethrower and half a cow (butchered, packed, delivered)\n- 3rd: AirPods Max, $250 in Chipotle, and a tin of Zyns\nWe de",
-      "guid": "https://news.ycombinator.com/item?id=50184697"
-    },
-    {
       "title": "Presented by Stripe",
       "link": "https://stratechery.com/2026/presented-by-stripe/",
       "pubDate": "Wed, 21 Oct 2026 17:35:31 +0000",
@@ -233,17 +244,6 @@
       "icon": "📊",
       "contentSnippet": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
       "guid": "https://stratechery.com/?p=20422"
-    },
-    {
-      "title": "Show HN: VoxScribe, offline Whisper voice typing for Android and Windows",
-      "link": "https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation",
-      "pubDate": "Wed, 21 Oct 2026 17:31:56 +0000",
-      "date": "Wed, 21 Oct 2026 17:31:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation\nComments URL: https://news.ycombinator.com/item?id=50184624\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50184624"
     },
     {
       "title": "What Will It Look Like If Investment in Learner Wallets Pays Off?",
