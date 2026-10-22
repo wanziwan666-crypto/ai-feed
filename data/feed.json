@@ -1,227 +1,29 @@
 {
-  "generatedAt": "2026-10-22T16:20:34.801Z",
+  "generatedAt": "2026-10-22T21:00:27.545Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 5,
   "items": [
     {
-      "title": "Show HN: What happened to 239 companies in my recruiter inbox?",
-      "link": "https://www.jasonwillems.com/sites/what-if-i-joined/",
-      "pubDate": "Thu, 22 Oct 2026 16:14:34 +0000",
-      "date": "Thu, 22 Oct 2026 16:14:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.jasonwillems.com/sites/what-if-i-joined/\nComments URL: https://news.ycombinator.com/item?id=50197405\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50197405"
+      "title": "AI in Schools, the Law, and Student Data Privacy",
+      "link": "https://www.coolcatteacher.com/e1014/",
+      "pubDate": "Thu, 22 Oct 2026 20:54:31 +0000",
+      "date": "Thu, 22 Oct 2026 20:54:31 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAn AI site says it won't share your data. An attorney who teaches explains why that promise isn't enough, and who's liable when student information slips out.\nThe post AI in Schools, the Law, and Student Data Privacy appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing",
+      "guid": "https://www.coolcatteacher.com/?p=35550"
     },
     {
-      "title": "Show HN: XTrace – productivity observability tool for coding agents",
-      "link": "https://github.com/XTraceAI/xtrace-desktop",
-      "pubDate": "Thu, 22 Oct 2026 16:05:48 +0000",
-      "date": "Thu, 22 Oct 2026 16:05:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/XTraceAI/xtrace-desktop\nComments URL: https://news.ycombinator.com/item?id=50197281\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50197281"
-    },
-    {
-      "title": "Show HN: Dedoomify – AI news, minus the doom",
-      "link": "https://dedoomify.com/",
-      "pubDate": "Thu, 22 Oct 2026 16:05:28 +0000",
-      "date": "Thu, 22 Oct 2026 16:05:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "What if AI failures were described like ordinary software issues? Paste a link to an AI article and dedoomify turns down the apocalypse: \"the model is misaligned\" becomes \"the model has a bug\".\nLess Skynet. More software. And every change is highlighted with the original text one hover or tap away. You can try an example without signing up or installing anything!\nThe default engine runs on quick phrase rules or you can run a local AI model in your browser via WebGPU; there's also a Chrome extens",
-      "guid": "https://news.ycombinator.com/item?id=50197276"
-    },
-    {
-      "title": "Show HN: Fire hazard zone, power line risk and fire history for any CA address",
-      "link": "https://www.firezones.info",
-      "pubDate": "Thu, 22 Oct 2026 15:52:11 +0000",
-      "date": "Thu, 22 Oct 2026 15:52:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.firezones.info\nComments URL: https://news.ycombinator.com/item?id=50197105\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50197105"
-    },
-    {
-      "title": "Show HN: My design portfolio runs on a fake PS1 renderer",
-      "link": "https://kireev.us/",
-      "pubDate": "Thu, 22 Oct 2026 15:49:38 +0000",
-      "date": "Thu, 22 Oct 2026 15:49:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://kireev.us/\nComments URL: https://news.ycombinator.com/item?id=50197063\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50197063"
-    },
-    {
-      "title": "Show HN: Stackdome – An open source self-hostable Railway alternative on K8s",
-      "link": "https://github.com/axernel-labs/stackdome",
-      "pubDate": "Thu, 22 Oct 2026 15:43:08 +0000",
-      "date": "Thu, 22 Oct 2026 15:43:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Since Railway getting pwned is getting all the attention right now, I thought now is a good time to showcase what we've been building. Stackdome is a self hosted platform as a service. The idea is to have simplicity of platforms like Railway and Render, but with the ability to run everything on infrastructure you control.\nWith Stackdome, you can deploy an application from GitHub, connect multiple services visually, add a managed database, create preview environments, and roll back the entire app",
-      "guid": "https://news.ycombinator.com/item?id=50196969"
-    },
-    {
-      "title": "Show HN: Monolog – a terminal backlog where every task is a JSON file in Git",
-      "link": "https://github.com/maksmas/monolog",
-      "pubDate": "Thu, 22 Oct 2026 15:39:17 +0000",
-      "date": "Thu, 22 Oct 2026 15:39:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/maksmas/monolog\nComments URL: https://news.ycombinator.com/item?id=50196923\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50196923"
-    },
-    {
-      "title": "Show HN: 4096x – Merge puzzle games where you build 4096",
-      "link": "https://4096x.com/",
-      "pubDate": "Thu, 22 Oct 2026 15:37:06 +0000",
-      "date": "Thu, 22 Oct 2026 15:37:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://4096x.com/\nComments URL: https://news.ycombinator.com/item?id=50196899\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196899"
-    },
-    {
-      "title": "Show HN: I made a cute game for learning loop invariants",
-      "link": "https://jammy.fun/invariant/",
-      "pubDate": "Thu, 22 Oct 2026 15:32:51 +0000",
-      "date": "Thu, 22 Oct 2026 15:32:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jammy.fun/invariant/\nComments URL: https://news.ycombinator.com/item?id=50196838\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196838"
-    },
-    {
-      "title": "Show HN: pdf editor - I rebuild PDFs into editable HTML objects, in the browser",
-      "link": "https://blueberry-shake.pages.dev/",
-      "pubDate": "Thu, 22 Oct 2026 15:31:41 +0000",
-      "date": "Thu, 22 Oct 2026 15:31:41 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://blueberry-shake.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50196811\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196811"
-    },
-    {
-      "title": "Show HN: Aven-stops AI coding tools from breaking yours project's rules",
-      "link": "https://getaven.pages.dev",
-      "pubDate": "Thu, 22 Oct 2026 15:30:36 +0000",
-      "date": "Thu, 22 Oct 2026 15:30:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://getaven.pages.dev\nComments URL: https://news.ycombinator.com/item?id=50196795\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196795"
-    },
-    {
-      "title": "Show HN: IAMSentry – Paste an IAM policy, see privesc attack paths and fixes",
-      "link": "https://iamsentry.vercel.app",
-      "pubDate": "Thu, 22 Oct 2026 15:28:42 +0000",
-      "date": "Thu, 22 Oct 2026 15:28:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://iamsentry.vercel.app\nComments URL: https://news.ycombinator.com/item?id=50196756\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196756"
-    },
-    {
-      "title": "Show HN: Airlock, which sandboxes AI agents, is available on the Mac App Store",
-      "link": "https://airlock.sorrel.systems",
-      "pubDate": "Thu, 22 Oct 2026 15:28:26 +0000",
-      "date": "Thu, 22 Oct 2026 15:28:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Now that Airlock is available on the Mac App Store, I thought it was worth a resubmission. Quickly run your AI agents (Claude, Codex) in a disposable VM. Block the agent from making requests to unknown or untrusted hosts, and get a log of everything that it does - then only bring back the changes you actually want.\nIt's free, and has no tracking or analytics. It requires a Mac with Apple silicon running macOS 26+\nComments URL: https://news.ycombinator.com/item?id=50196751\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196751"
-    },
-    {
-      "title": "Show HN: PDT – Open-source deployment of scheduled jobs on your own cloud",
-      "link": "https://github.com/AutoIDM/pdt",
-      "pubDate": "Thu, 22 Oct 2026 15:27:52 +0000",
-      "date": "Thu, 22 Oct 2026 15:27:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi, I'm Derek. I've been doing data integrations / ETL work since 2014, first for K-12, now for commercial companies think ADP/BambooHR to AzureAD, etc. I've written so many deployment systems for integrations, each slightly different. Instead, we took the best parts of all the systems we've built and put them into one tool. PDT takes your job and deploys it to AWS, Azure, GCP, or even Task Scheduler. It's a convention-over-configuration deployment tool specifically made for Scheduled Jobs. Thin",
-      "guid": "https://news.ycombinator.com/item?id=50196741"
-    },
-    {
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "pubDate": "Thu, 22 Oct 2026 15:26:22 +0000",
-      "date": "Thu, 22 Oct 2026 15:26:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/oosexgang/hackios-xnu-kernel\nComments URL: https://news.ycombinator.com/item?id=50196718\nPoints: 24\n# Comments: 5",
-      "guid": "https://news.ycombinator.com/item?id=50196718"
-    },
-    {
-      "title": "Show HN: Transit – subway maps of your data",
-      "link": "https://github.com/israelvicars/transit",
-      "pubDate": "Thu, 22 Oct 2026 15:26:16 +0000",
-      "date": "Thu, 22 Oct 2026 15:26:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/israelvicars/transit\nComments URL: https://news.ycombinator.com/item?id=50196716\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196716"
-    },
-    {
-      "title": "Show HN: Klara – We built Rewind alternative that indexes text instead of video",
-      "link": "https://klaraapps.com/",
-      "pubDate": "Thu, 22 Oct 2026 15:24:53 +0000",
-      "date": "Thu, 22 Oct 2026 15:24:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://klaraapps.com/\nComments URL: https://news.ycombinator.com/item?id=50196697\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196697"
-    },
-    {
-      "title": "Show HN: TypeSQL – Postgres SQL parsed in TypeScript's type system, no codegen",
-      "link": "https://github.com/ismailkarsli/typesql",
-      "pubDate": "Thu, 22 Oct 2026 15:20:05 +0000",
-      "date": "Thu, 22 Oct 2026 15:20:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ismailkarsli/typesql\nComments URL: https://news.ycombinator.com/item?id=50196626\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50196626"
-    },
-    {
-      "title": "Show HN: Public Domain Pulp – Books converted into visual novels, unabridged",
-      "link": "https://publicdomainpulp.com/",
-      "pubDate": "Thu, 22 Oct 2026 15:19:39 +0000",
-      "date": "Thu, 22 Oct 2026 15:19:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://publicdomainpulp.com/\nComments URL: https://news.ycombinator.com/item?id=50196621\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196621"
-    },
-    {
-      "title": "Show HN: Linden – a rule based verification layer for AI agents",
-      "link": "https://app.trustlinden.com/",
-      "pubDate": "Thu, 22 Oct 2026 15:18:45 +0000",
-      "date": "Thu, 22 Oct 2026 15:18:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://app.trustlinden.com/\nComments URL: https://news.ycombinator.com/item?id=50196610\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50196610"
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "pubDate": "2026-10-22T18:09:56.000Z",
+      "date": "2026-10-22T18:09:56.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
     },
     {
       "title": "An Interview with Craig Moffett About SpaceX and Bubbles",
@@ -255,39 +57,6 @@
       "icon": "🐱",
       "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAI for teachers doesn't have to be one more fish to fry. Maurie Beasley shares efficiency AI vs. opportunity AI, a snake on a teacher's desk, and who stays in control when the laptop lid goes up.\nThe post AI for Teachers Who Have Bigger Fish to Fry appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent e",
       "guid": "https://www.coolcatteacher.com/?p=35538"
-    },
-    {
-      "title": "Claude Duet",
-      "link": "https://www.producthunt.com/products/claude",
-      "pubDate": "2026-10-21T19:40:23.000Z",
-      "date": "2026-10-21T19:40:23.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/claude"
-    },
-    {
-      "title": "Presented by Stripe",
-      "link": "https://stratechery.com/2026/presented-by-stripe/",
-      "pubDate": "Wed, 21 Oct 2026 17:35:31 +0000",
-      "date": "Wed, 21 Oct 2026 17:35:31 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content.",
-      "guid": "https://stratechery.com/?p=20422"
-    },
-    {
-      "title": "What Will It Look Like If Investment in Learner Wallets Pays Off?",
-      "link": "https://www.gettingsmart.com/2026/10/21/what-will-it-look-like-if-investment-in-learner-wallets-pays-off/",
-      "pubDate": "Wed, 21 Oct 2026 16:45:46 +0000",
-      "date": "Wed, 21 Oct 2026 16:45:46 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "What if a 12-year-old's sketching habit, a 19-year-old's gap year travels, and a 45-year-old's volunteer coordination all counted as verifiable learning? In a new piece for Getting Smart, Mason Pashia explores three fictional case studies — Leo, Jamie, and Elena — that bring the Gates Foundation's LearnKit framework to life, showing what learner-owned digital records could actually look like in practice. For education leaders thinking about the future of credentialing, data sovereignty, and life",
-      "guid": "https://www.gettingsmart.com/?p=140914"
     }
   ]
 }
