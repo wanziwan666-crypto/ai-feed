@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T20:49:34.537Z",
+  "generatedAt": "2026-10-24T02:38:02.338Z",
   "lookbackHours": 24,
-  "totalItems": 27,
+  "totalItems": 25,
   "items": [
     {
       "title": "anthropics/knowledge-work-plugins",
       "link": "https://github.com/anthropics/knowledge-work-plugins",
-      "pubDate": "2026-10-23T20:49:31.061Z",
-      "date": "2026-10-23T20:49:31.061Z",
+      "pubDate": "2026-10-24T02:38:00.144Z",
+      "date": "2026-10-24T02:38:00.144Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,92 +15,224 @@
       "guid": "https://github.com/anthropics/knowledge-work-plugins"
     },
     {
-      "title": "Show HN: Audio Splitter – Split long MP3 files at silence in the browser",
-      "link": "https://audio-splitter.org/",
-      "pubDate": "Fri, 23 Oct 2026 20:12:20 +0000",
-      "date": "Fri, 23 Oct 2026 20:12:20 +0000",
+      "title": "Show HN: 27B open model to grade robot data 48x cheaper/27x faster vs. 6 Astra",
+      "link": "https://twitter.com/josefchen/status/2113687649131336039",
+      "pubDate": "Sat, 24 Oct 2026 01:32:24 +0000",
+      "date": "Sat, 24 Oct 2026 01:32:24 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://audio-splitter.org/\nComments URL: https://news.ycombinator.com/item?id=50214648\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214648"
+      "contentSnippet": "Article URL: https://twitter.com/josefchen/status/2113687649131336039\nComments URL: https://news.ycombinator.com/item?id=50217573\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50217573"
     },
     {
-      "title": "Show HN: Translate Human Speech into Birdsong",
-      "link": "https://birdspeech.mitpit.com/",
-      "pubDate": "Fri, 23 Oct 2026 20:11:56 +0000",
-      "date": "Fri, 23 Oct 2026 20:11:56 +0000",
+      "title": "Show HN: MotorHangar: Car specs, safety ratings, and recalls in one place",
+      "link": "https://motorhangar.com/",
+      "pubDate": "Sat, 24 Oct 2026 01:09:36 +0000",
+      "date": "Sat, 24 Oct 2026 01:09:36 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://birdspeech.mitpit.com/\nComments URL: https://news.ycombinator.com/item?id=50214641\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214641"
+      "contentSnippet": "Article URL: https://motorhangar.com/\nComments URL: https://news.ycombinator.com/item?id=50217464\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50217464"
     },
     {
-      "title": "Show HN: Fine-tune an embedding model on your own search logs",
-      "link": "https://reopenly.com/blog/embedding-projects/",
-      "pubDate": "Fri, 23 Oct 2026 19:58:02 +0000",
-      "date": "Fri, 23 Oct 2026 19:58:02 +0000",
+      "title": "Show HN: Privacy Meridian, navigate global privacy laws",
+      "link": "https://privacymeridian.org/",
+      "pubDate": "Sat, 24 Oct 2026 00:56:18 +0000",
+      "date": "Sat, 24 Oct 2026 00:56:18 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://reopenly.com/blog/embedding-projects/\nComments URL: https://news.ycombinator.com/item?id=50214487\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214487"
+      "contentSnippet": "Hi, I'm a Privacy PM who has worked at Fortune 5 companies for most of my career. One of the gaps I always faced was a quick way to look up in-effect privacy laws and their various nuances jurisdiction by jurisdiction. So with some help from attorney and engineer friends/colleagues, and Claude Code, I put this resource together.\nThis resource is free and will remain that way.\nPlease peruse the About page to see what this resource is all... about, but I hope the UI/UX is straightforward and usefu",
+      "guid": "https://news.ycombinator.com/item?id=50217369"
     },
     {
-      "title": "Show HN: Sillage, a small contemplative game drawn after Haeckel's plates",
-      "link": "https://sillage.denzen.online",
-      "pubDate": "Fri, 23 Oct 2026 19:55:58 +0000",
-      "date": "Fri, 23 Oct 2026 19:55:58 +0000",
+      "title": "Show HN: Task-view – review a coding agent’s change as a map instead of a diff",
+      "link": "https://github.com/gtindo/task-view",
+      "pubDate": "Sat, 24 Oct 2026 00:11:40 +0000",
+      "date": "Sat, 24 Oct 2026 00:11:40 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN. Sillage (French for the wake a boat leaves behind) is a small browser game with no goal.\nYou're a blob: hold the mouse or a finger down to swim toward it, and fast currents carry you into the next world. Creatures and backgrounds inspiration come from Ernst Haeckel's Kunstformen der Natur.\nOn the creative process:\nI've wanted to make something like this for years, since reading Jenova Chen's thesis on flow in games (https://www.jenovachen.com/flowingames/missionstatement.htm) - whose stud",
-      "guid": "https://news.ycombinator.com/item?id=50214466"
+      "contentSnippet": "Article URL: https://github.com/gtindo/task-view\nComments URL: https://news.ycombinator.com/item?id=50217069\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50217069"
     },
     {
-      "title": "Show HN: Build a wonky machine, a pixel-art physics puzzle",
-      "link": "https://wonkygo.com",
-      "pubDate": "Fri, 23 Oct 2026 19:53:29 +0000",
-      "date": "Fri, 23 Oct 2026 19:53:29 +0000",
+      "title": "Show HN: Hold My Docs – a self-hosted wiki that stores pages in Git",
+      "link": "https://github.com/soollabs/holdmydocs",
+      "pubDate": "Sat, 24 Oct 2026 00:06:45 +0000",
+      "date": "Sat, 24 Oct 2026 00:06:45 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://wonkygo.com\nComments URL: https://news.ycombinator.com/item?id=50214439\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214439"
+      "contentSnippet": "Article URL: https://github.com/soollabs/holdmydocs\nComments URL: https://news.ycombinator.com/item?id=50217032\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50217032"
     },
     {
-      "title": "Show HN: Apple-design-hig agent skill, DocC updater CLI, and MCP server",
-      "link": "https://github.com/mr8lu/apple-design-hig",
-      "pubDate": "Fri, 23 Oct 2026 19:51:52 +0000",
-      "date": "Fri, 23 Oct 2026 19:51:52 +0000",
+      "title": "Show HN: OpenZPL. Render Zebra ZPL Labels to PNG/PDF, Drop-In for Labelary",
+      "link": "https://openzpl.com/",
+      "pubDate": "Fri, 23 Oct 2026 23:38:45 +0000",
+      "date": "Fri, 23 Oct 2026 23:38:45 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/mr8lu/apple-design-hig\nComments URL: https://news.ycombinator.com/item?id=50214427\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214427"
+      "contentSnippet": "Article URL: https://openzpl.com/\nComments URL: https://news.ycombinator.com/item?id=50216858\nPoints: 1\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=50216858"
     },
     {
-      "title": "Show HN: ObsidianYouTubeSync – Sync YouTube History into Obsidian",
-      "link": "https://github.com/mr8lu/ObsidianYouTubeSync",
-      "pubDate": "Fri, 23 Oct 2026 19:48:14 +0000",
-      "date": "Fri, 23 Oct 2026 19:48:14 +0000",
+      "title": "Show HN: Gasfree.app a Rack of Synthetizers in the Browser",
+      "link": "https://gasfree.app/",
+      "pubDate": "Fri, 23 Oct 2026 23:28:31 +0000",
+      "date": "Fri, 23 Oct 2026 23:28:31 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/mr8lu/ObsidianYouTubeSync\nComments URL: https://news.ycombinator.com/item?id=50214385\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214385"
+      "contentSnippet": "Some years ago Moog released the Subharmonicon. I wanted so badly to try it but I didnt have the money to buy it, so I decided to code one myself. using Web Audio API. The end product wasnt great (there were lots of features missing) but it helped me pass the GAS (Gear Adquisition Syndrome).\nFast forward to now. The other day I asked Claude to finish the project adding the missing features, and it did an amazing job, not only nailed the synth, but also improved the design so it looks closer to t",
+      "guid": "https://news.ycombinator.com/item?id=50216770"
     },
     {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "link": "https://corgi.computer/",
-      "pubDate": "Fri, 23 Oct 2026 19:46:38 +0000",
-      "date": "Fri, 23 Oct 2026 19:46:38 +0000",
+      "title": "Show HN: AI Crash Debugging Gauntlet",
+      "link": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+      "pubDate": "Fri, 23 Oct 2026 23:11:06 +0000",
+      "date": "Fri, 23 Oct 2026 23:11:06 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey everyone,\nInspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.\nI think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:\nI show you what the agents are up to, along with a running feed of their activity.\nThere's also a simple shortcut (F1) to go to the next unread agent.\nI use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi.\nTheres some careful ergonomics there: fast",
-      "guid": "https://news.ycombinator.com/item?id=50214373"
+      "contentSnippet": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow.\nOur testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI debugging workflows?\nWith a crash dump evaluation gauntlet, of course!\nIf you just want the results, or even grab a pdf with the raw testing results, that is all at the bottom.\nComments URL: https://news",
+      "guid": "https://news.ycombinator.com/item?id=50216641"
+    },
+    {
+      "title": "Show HN: I gamified my daily GitHub commits with a growing garden",
+      "link": "https://commitgarden.app",
+      "pubDate": "Fri, 23 Oct 2026 22:44:53 +0000",
+      "date": "Fri, 23 Oct 2026 22:44:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I often forgot to commit code, so I made Commitgarden. If you make at least one commit a day, your plant grows one stage. If you skip a day, it withers.\nYou log in with GitHub (read-only). It has a free plan to try it for a week. \nPlease tell me what you think!\nComments URL: https://news.ycombinator.com/item?id=50216407\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50216407"
+    },
+    {
+      "title": "Show HN: Codex quota tracker Garmin watch face",
+      "link": "https://github.com/greg76/token-quota/tree/main",
+      "pubDate": "Fri, 23 Oct 2026 22:23:07 +0000",
+      "date": "Fri, 23 Oct 2026 22:23:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I think I'm not alone with that quota-based AI subscriptions have given me a new hobby: checking how many tokens I have left.   How’s my 5-hour and 7-day limits? When’s the next reset? Can this task wait, or should I use a smaller model? I used to check my Garmin for steps and heart rate. Now I’ve built a watch face to track my AI usage limits and reset countdowns too. The idea was to make it very easy to add usage data from other vendors as well.\nComments URL: https://news.ycombinator.com/item?",
+      "guid": "https://news.ycombinator.com/item?id=50216187"
+    },
+    {
+      "title": "Show HN: You Can Just Filter YouTube Playlists in the 'Save to Playlist' Dialog",
+      "link": "https://news.ycombinator.com/item?id=50216053",
+      "pubDate": "Fri, 23 Oct 2026 22:10:54 +0000",
+      "date": "Fri, 23 Oct 2026 22:10:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I'm Cody, I have 847 YouTube playlists, and always hated that YouTube failed to provide basic playlist management tools. Ctrl+F was never convenient and breaks past 200 playlists. So I built & shipped my first Chrome extension. It replaces the Save dialog with a native-feeling searchable one that fetches all your playlists (and whether the current video is saved there) directly from YouTube's InnerTube API. It works robustly across every current save surface (watch page, home feed, search",
+      "guid": "https://news.ycombinator.com/item?id=50216053"
+    },
+    {
+      "title": "Show HN: Token Beggar, route coding agent subtasks to cheaper models",
+      "link": "https://github.com/Arthur031221/Token-Beggar",
+      "pubDate": "Fri, 23 Oct 2026 21:37:12 +0000",
+      "date": "Fri, 23 Oct 2026 21:37:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Arthur031221/Token-Beggar\nComments URL: https://news.ycombinator.com/item?id=50215718\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215718"
+    },
+    {
+      "title": "Show HN: AiSniff, underline the phrases in a text that read like AI wrote them",
+      "link": "https://github.com/Arthur031221/AiSniff",
+      "pubDate": "Fri, 23 Oct 2026 21:36:29 +0000",
+      "date": "Fri, 23 Oct 2026 21:36:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Arthur031221/AiSniff\nComments URL: https://news.ycombinator.com/item?id=50215712\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215712"
+    },
+    {
+      "title": "Show HN: I trained a 160M code model on one GPU and got 22.56% on HumanEval",
+      "link": "https://jakubcwirlej.com/ai-dev/",
+      "pubDate": "Fri, 23 Oct 2026 21:36:26 +0000",
+      "date": "Fri, 23 Oct 2026 21:36:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://jakubcwirlej.com/ai-dev/\nComments URL: https://news.ycombinator.com/item?id=50215711\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215711"
+    },
+    {
+      "title": "Show HN: CAS-X – An input-dominant recursive filter (8.5x recovery acceleration)",
+      "link": "https://news.ycombinator.com/item?id=50215667",
+      "pubDate": "Fri, 23 Oct 2026 21:31:43 +0000",
+      "date": "Fri, 23 Oct 2026 21:31:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=50215667\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215667"
+    },
+    {
+      "title": "Show HN: CAS-X – An input-dominant recursive filter (8.5x recovery acceleration)",
+      "link": "https://news.ycombinator.com/item?id=50215652",
+      "pubDate": "Fri, 23 Oct 2026 21:30:49 +0000",
+      "date": "Fri, 23 Oct 2026 21:30:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=50215652\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215652"
+    },
+    {
+      "title": "Show HN: I gave Claude control of Photoshop",
+      "link": "https://github.com/kathan3009/photoshop-mcp",
+      "pubDate": "Fri, 23 Oct 2026 21:30:07 +0000",
+      "date": "Fri, 23 Oct 2026 21:30:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kathan3009/photoshop-mcp\nComments URL: https://news.ycombinator.com/item?id=50215641\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215641"
+    },
+    {
+      "title": "Show HN: Automated newsletter built with Grok bot",
+      "link": "https://news.devs.dev",
+      "pubDate": "Fri, 23 Oct 2026 21:27:54 +0000",
+      "date": "Fri, 23 Oct 2026 21:27:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "powered by sendfox mcp / api\nComments URL: https://news.ycombinator.com/item?id=50215612\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215612"
+    },
+    {
+      "title": "Show HN: libfpv - Modding FPV Drone into Any Game",
+      "link": "https://hammerill.com/en/blog/libfpv",
+      "pubDate": "Fri, 23 Oct 2026 21:26:58 +0000",
+      "date": "Fri, 23 Oct 2026 21:26:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://hammerill.com/en/blog/libfpv\nComments URL: https://news.ycombinator.com/item?id=50215599\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50215599"
+    },
+    {
+      "title": "Show HN: Distributed, deterministically secure agentic swarm runtime. Enclawed",
+      "link": "https://zenodo.org/records/23602948",
+      "pubDate": "Fri, 23 Oct 2026 21:23:33 +0000",
+      "date": "Fri, 23 Oct 2026 21:23:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A Deterministic Security Runtime for LLM Agents on MPI and Batch-Scheduled HPC Systems: Consensus-Governed, Hardware-Rooted Supervision of Every Rank\nComments URL: https://news.ycombinator.com/item?id=50215552\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50215552"
     },
     {
       "title": "Classroom Engagement Strategies for Short Attention Spans",
@@ -112,138 +244,6 @@
       "icon": "🐱",
       "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAre the kids with you? Former superintendent Dr. Michael McDowell explains why long lessons drain students' attention and how short intervals bring them back.\nThe post Classroom Engagement Strategies for Short Attention Spans appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you'",
       "guid": "https://www.coolcatteacher.com/?p=35591"
-    },
-    {
-      "title": "Show HN: Mdt – save tokens reading changes to Markdown",
-      "link": "https://github.com/markdowntool/mdt",
-      "pubDate": "Fri, 23 Oct 2026 19:39:45 +0000",
-      "date": "Fri, 23 Oct 2026 19:39:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I use shared markdown files to collaborate with agents. Their biggest complaint was that, when content changed, they needed to either re-read the full file or write code to find the difference.\nSo I made mdt. It's light - one binary, one sqlite file - and lets your agent track the changes to a shared file, so that it only reads the diff.\nPing me if I can make it better.\nComments URL: https://news.ycombinator.com/item?id=50214296\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214296"
-    },
-    {
-      "title": "Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web &amp; Tlgrm",
-      "link": "https://github.com/rla-labs/argus",
-      "pubDate": "Fri, 23 Oct 2026 19:33:30 +0000",
-      "date": "Fri, 23 Oct 2026 19:33:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/rla-labs/argus\nComments URL: https://news.ycombinator.com/item?id=50214205\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50214205"
-    },
-    {
-      "title": "Show HN: Robin – Non-algorithmic Twitter client",
-      "link": "https://news.ycombinator.com/item?id=50214199",
-      "pubDate": "Fri, 23 Oct 2026 19:32:54 +0000",
-      "date": "Fri, 23 Oct 2026 19:32:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Information pollution affects all of us. When we are served a random mix of important news, half-truths and “For You” posts from strangers in the same feed, our ability to make sense of the world are diminished.\nOver time, it wears us down.\nRobin is an open source Twitter/X client for iOS and Android. It restores a clean, chronological set of posts (only from people you follow.) You can hide posts using keywords (e.g. noisy politicians' names.) It also lets you fact-check claims quickly by long-",
-      "guid": "https://news.ycombinator.com/item?id=50214199"
-    },
-    {
-      "title": "Show HN: MXValidation – Send an email and get an authentication and DNS report",
-      "link": "https://mxvalidation.com/",
-      "pubDate": "Fri, 23 Oct 2026 19:27:02 +0000",
-      "date": "Fri, 23 Oct 2026 19:27:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mxvalidation.com/\nComments URL: https://news.ycombinator.com/item?id=50214140\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214140"
-    },
-    {
-      "title": "Show HN: I made a professional audio time-stretcher in Go",
-      "link": "https://github.com/neputevshina/nanowarp",
-      "pubDate": "Fri, 23 Oct 2026 19:18:40 +0000",
-      "date": "Fri, 23 Oct 2026 19:18:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/neputevshina/nanowarp\nComments URL: https://news.ycombinator.com/item?id=50214022\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50214022"
-    },
-    {
-      "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
-      "link": "https://useinstantsearch.com/",
-      "pubDate": "Fri, 23 Oct 2026 18:52:34 +0000",
-      "date": "Fri, 23 Oct 2026 18:52:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nInstant Search is the first accurate local AI file search that uses the latest embedding models from Perplexity to find the exact file (and page) with the content you’re looking for with a 95% hit rate.\nSearch never worked properly, especially with local files. Now, you can find the right image, document, or Obsidian file in seconds. Looking for your driver’s license? Just type “driver’s license”. Looking for a particular note? Just explain the context.\nWhy not Finder/Spotlight?\nSpotlight",
-      "guid": "https://news.ycombinator.com/item?id=50213691"
-    },
-    {
-      "title": "Show HN: Frametide, a Gaming optimizer that measures instead of promising FPS",
-      "link": "https://frametide.de/",
-      "pubDate": "Fri, 23 Oct 2026 18:46:43 +0000",
-      "date": "Fri, 23 Oct 2026 18:46:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://frametide.de/\nComments URL: https://news.ycombinator.com/item?id=50213619\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50213619"
-    },
-    {
-      "title": "Show HN: The cost of slop. Subscription-adjusted",
-      "link": "https://slopsidy.com/",
-      "pubDate": "Fri, 23 Oct 2026 18:45:00 +0000",
-      "date": "Fri, 23 Oct 2026 18:45:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "All the AI model analytics website show how much the models cost at API pricing.\nI adjusted the cost based on what value the subscriptions actually offer (e.g. Codex got nerfed hard recently).\nOfc this is based on incomplete data, but it's the best we have right now I believe!\nComments URL: https://news.ycombinator.com/item?id=50213599\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50213599"
-    },
-    {
-      "title": "Show HN: Lcc – compact Claude Code sessions without summarizing them",
-      "link": "https://github.com/lucasmartins-ai/lcc",
-      "pubDate": "Fri, 23 Oct 2026 18:44:04 +0000",
-      "date": "Fri, 23 Oct 2026 18:44:04 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/lucasmartins-ai/lcc\nComments URL: https://news.ycombinator.com/item?id=50213585\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50213585"
-    },
-    {
-      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
-      "link": "https://theaioperatorstore.gumroad.com/l/womuyx",
-      "pubDate": "Fri, 23 Oct 2026 18:40:46 +0000",
-      "date": "Fri, 23 Oct 2026 18:40:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://theaioperatorstore.gumroad.com/l/womuyx\nComments URL: https://news.ycombinator.com/item?id=50213538\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50213538"
-    },
-    {
-      "title": "Show HN: Cascache – A Go cache where slow reads can't undo invalidation",
-      "link": "https://github.com/unkn0wn-root/cascache/",
-      "pubDate": "Fri, 23 Oct 2026 18:40:34 +0000",
-      "date": "Fri, 23 Oct 2026 18:40:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/unkn0wn-root/cascache/\nComments URL: https://news.ycombinator.com/item?id=50213536\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50213536"
-    },
-    {
-      "title": "Show HN: WhatsApp MCP – An MCP server for interacting with WhatsApp",
-      "link": "https://github.com/sahilPadmani/whatsapp-mcp",
-      "pubDate": "Fri, 23 Oct 2026 18:40:14 +0000",
-      "date": "Fri, 23 Oct 2026 18:40:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sahilPadmani/whatsapp-mcp\nComments URL: https://news.ycombinator.com/item?id=50213531\nPoints: 3\n# Comments: 6",
-      "guid": "https://news.ycombinator.com/item?id=50213531"
     },
     {
       "title": "2026.43: A New Era",
@@ -277,28 +277,6 @@
       "icon": "📊",
       "contentSnippet": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
       "guid": "https://stratechery.com/?p=20499"
-    },
-    {
-      "title": "We Can’t Mess This One Up: AI, Schools, and What Comes Next",
-      "link": "https://www.coolcatteacher.com/nextai/",
-      "pubDate": "Thu, 22 Oct 2026 22:21:35 +0000",
-      "date": "Thu, 22 Oct 2026 22:21:35 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nShould schools ban AI or teach it? Christie Cloud and Dave Hinrichs explain why talking to AI beats prompt formulas, how agentic AI and tokens work, how to fact-check AI, and why they avoid AI detectors.\nThe post We Can’t Mess This One Up: AI, Schools, and What Comes Next appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping ",
-      "guid": "https://www.coolcatteacher.com/?p=35413"
-    },
-    {
-      "title": "AI in Schools, the Law, and Student Data Privacy",
-      "link": "https://www.coolcatteacher.com/e1014/",
-      "pubDate": "Thu, 22 Oct 2026 20:54:31 +0000",
-      "date": "Thu, 22 Oct 2026 20:54:31 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nAn AI site says it won't share your data. An attorney who teaches explains why that promise isn't enough, and who's liable when student information slips out.\nThe post AI in Schools, the Law, and Student Data Privacy appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing",
-      "guid": "https://www.coolcatteacher.com/?p=35550"
     }
   ]
 }
