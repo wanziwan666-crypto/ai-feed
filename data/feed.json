@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-24T02:38:02.338Z",
+  "generatedAt": "2026-10-24T03:03:44.622Z",
   "lookbackHours": 24,
   "totalItems": 25,
   "items": [
     {
       "title": "anthropics/knowledge-work-plugins",
       "link": "https://github.com/anthropics/knowledge-work-plugins",
-      "pubDate": "2026-10-24T02:38:00.144Z",
-      "date": "2026-10-24T02:38:00.144Z",
+      "pubDate": "2026-10-24T03:03:35.705Z",
+      "date": "2026-10-24T03:03:35.705Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -77,7 +77,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://openzpl.com/\nComments URL: https://news.ycombinator.com/item?id=50216858\nPoints: 1\n# Comments: 3",
+      "contentSnippet": "Article URL: https://openzpl.com/\nComments URL: https://news.ycombinator.com/item?id=50216858\nPoints: 2\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=50216858"
     },
     {
