@@ -1,18 +1,227 @@
 {
-  "generatedAt": "2026-10-25T03:01:06.842Z",
+  "generatedAt": "2026-10-25T10:26:33.396Z",
   "lookbackHours": 24,
-  "totalItems": 1,
+  "totalItems": 20,
   "items": [
     {
-      "title": "anthropics/knowledge-work-plugins",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
-      "pubDate": "2026-10-25T03:00:58.359Z",
-      "date": "2026-10-25T03:00:58.359Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: Where does my tax go? A UK tax receipt calculator (2026/27)",
+      "link": "https://wheredoesmytaxgo.co.uk/",
+      "pubDate": "Sun, 25 Oct 2026 10:23:12 +0000",
+      "date": "Sun, 25 Oct 2026 10:23:12 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\nKnowledge Work Plugins\n \nPlugins that turn Claude into a specialist for your role, team, and company. Built for Claude Cowork, also compatible with Claude Code.\n \nWhy Plugins\n \nCowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what sla",
-      "guid": "https://github.com/anthropics/knowledge-work-plugins"
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://wheredoesmytaxgo.co.uk/\nComments URL: https://news.ycombinator.com/item?id=50230038\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50230038"
+    },
+    {
+      "title": "Show HN: Echoboard where AI agents do science and humans only watch",
+      "link": "https://jevontane.com/echoboard/",
+      "pubDate": "Sun, 25 Oct 2026 10:18:31 +0000",
+      "date": "Sun, 25 Oct 2026 10:18:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://jevontane.com/echoboard/\nComments URL: https://news.ycombinator.com/item?id=50229997\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50229997"
+    },
+    {
+      "title": "Show HN: OpenXet",
+      "link": "https://github.com/stubbi/openxet",
+      "pubDate": "Sun, 25 Oct 2026 09:29:43 +0000",
+      "date": "Sun, 25 Oct 2026 09:29:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Xet [1] seems like a good idea in a world of ever more data hungry applications. It's used in Huggingface's service but the server side has been kept close source.\nI started reengineering it with Claude from the protocol descriptions to provide it for everyone.\nIf you think it's cool, I am grateful for any stars and feedback!\nPlease no AI-Slop discussions. I am optimistic about the potential for this kind of service since the client is open source and some blog posts describe the mechanisms. Sti",
+      "guid": "https://news.ycombinator.com/item?id=50229716"
+    },
+    {
+      "title": "Show HN: Online Ruler, a Free Ruler for Your Screen",
+      "link": "https://onlineruler.in",
+      "pubDate": "Sun, 25 Oct 2026 09:18:26 +0000",
+      "date": "Sun, 25 Oct 2026 09:18:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://onlineruler.in\nComments URL: https://news.ycombinator.com/item?id=50229656\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50229656"
+    },
+    {
+      "title": "Show HN: ToolsOfWeb – 69 free online tools that run in the browser",
+      "link": "https://www.toolsofweb.com/",
+      "pubDate": "Sun, 25 Oct 2026 09:02:05 +0000",
+      "date": "Sun, 25 Oct 2026 09:02:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.toolsofweb.com/\nComments URL: https://news.ycombinator.com/item?id=50229591\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50229591"
+    },
+    {
+      "title": "Show HN: Black Swan – a Flappy Bird where the rules randomly break",
+      "link": "https://www.flappyswan.com/",
+      "pubDate": "Sun, 25 Oct 2026 08:54:11 +0000",
+      "date": "Sun, 25 Oct 2026 08:54:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.flappyswan.com/\nComments URL: https://news.ycombinator.com/item?id=50229557\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50229557"
+    },
+    {
+      "title": "Show HN: Only thing you need to stay informed on tech without doom scrolling x",
+      "link": "https://techtwitter.io",
+      "pubDate": "Sun, 25 Oct 2026 08:48:45 +0000",
+      "date": "Sun, 25 Oct 2026 08:48:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "made techtwitter.io, it's a daily newspaper of tech twitter to help stay updated on all things tech twitter for people in tech, to avoid having to scroll on x to stay updated\nComments URL: https://news.ycombinator.com/item?id=50229525\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50229525"
+    },
+    {
+      "title": "Show HN: AI:Predict, Retrieve, Generate, Recommend, Decide, Act, and Orchestrate",
+      "link": "https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10",
+      "pubDate": "Sun, 25 Oct 2026 08:42:21 +0000",
+      "date": "Sun, 25 Oct 2026 08:42:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10\nComments URL: https://news.ycombinator.com/item?id=50229495\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50229495"
+    },
+    {
+      "title": "Show HN: Zilum – A tiny Snipping Tool alternative for Windows 11",
+      "link": "https://zilum.app",
+      "pubDate": "Sun, 25 Oct 2026 08:26:51 +0000",
+      "date": "Sun, 25 Oct 2026 08:26:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://zilum.app\nComments URL: https://news.ycombinator.com/item?id=50229413\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50229413"
+    },
+    {
+      "title": "Show HN: Hindsight – Lightweight, elegant, open-source tracker for Windows/macOS",
+      "link": "https://github.com/Tomotsugu-dev/Hindsight",
+      "pubDate": "Sun, 25 Oct 2026 07:04:10 +0000",
+      "date": "Sun, 25 Oct 2026 07:04:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I’m building Hindsight, a free, open-source activity tracker for Windows and macOS.\nI know there are plenty of time trackers. I wanted something that combined automatic tracking, detailed charts, and cross-device sync in a lightweight app with an interface I enjoyed using. I couldn’t find a free option that fit, so I started building my own.\nHindsight records active apps and window titles while it’s running, without requiring you to start and stop timers. You can explore your activity thr",
+      "guid": "https://news.ycombinator.com/item?id=50229028"
+    },
+    {
+      "title": "Show HN: Music player for visually exploring music collection",
+      "link": "https://github.com/Cliff-Lee/melodex",
+      "pubDate": "Sun, 25 Oct 2026 05:23:26 +0000",
+      "date": "Sun, 25 Oct 2026 05:23:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I created Melodex for rediscovering my music collection. I got bored of listening to the same songs over and over. Shuffle didn't do it for me either, as I wanted something that moved between the songs like a journey with more cohesion.\nAlongside the ability to plan routes from a starting song to a final destination, the routes through the music map are navigable too.\nThere's a few other features like plugins to connect radio stations, or other music sources too which were a big project in terms",
+      "guid": "https://news.ycombinator.com/item?id=50228579"
+    },
+    {
+      "title": "Show HN: Free Local Letterboxd Analytics",
+      "link": "https://letterboxd.ddns.net/",
+      "pubDate": "Sun, 25 Oct 2026 04:48:37 +0000",
+      "date": "Sun, 25 Oct 2026 04:48:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://letterboxd.ddns.net/\nComments URL: https://news.ycombinator.com/item?id=50228426\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50228426"
+    },
+    {
+      "title": "Show HN: Independent Vet – Find locally owned vets (and corporate ones) near you",
+      "link": "https://independentvet.com/",
+      "pubDate": "Sun, 25 Oct 2026 04:26:00 +0000",
+      "date": "Sun, 25 Oct 2026 04:26:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Three years ago, our dog was sideswiped by a car and my wife took him to the local vet in Berkeley. Unfortunately, things did not go well and to cut a long story short, he passed after 2 days and $13k of bills for very limited care. I was surprised to learn that the seemingly mom & pop practice had been acquired by a PE-owned consolidator and that around 50% of practices in the US are now owned by mostly PE-backed corporate groups - a trend that rapidly accelerated after COVID.\nI started a small",
+      "guid": "https://news.ycombinator.com/item?id=50228314"
+    },
+    {
+      "title": "Show HN: Git-ing Over it, learn Git like you'll use it IRL",
+      "link": "https://git-ing-over-it.vercel.app/",
+      "pubDate": "Sun, 25 Oct 2026 04:23:11 +0000",
+      "date": "Sun, 25 Oct 2026 04:23:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN! I made a browser game called Git-ing Over It around the git situations you might actually run into at work. It's completely free, 14 levels, no sign up!\nA Slack message, some objectives, a terminal, and at times a browser window or a code file welcome you in each level.\nEach level is a mix of 'whose fault it is '- sometimes it's you, sometimes it's your made-up teammate's, and sometimes it's just a bad Monday situation.\nIt's a real git engine so the answers are judged on the final state o",
+      "guid": "https://news.ycombinator.com/item?id=50228301"
+    },
+    {
+      "title": "Show HN: Dadgpt Open Source Halloween Costume",
+      "link": "https://dadgptcostume.vercel.app/",
+      "pubDate": "Sun, 25 Oct 2026 04:10:48 +0000",
+      "date": "Sun, 25 Oct 2026 04:10:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Fork the repo. Load it on your phone. Attach your phone to a baseball hat. Make it your own. Happy Halloween.\nComments URL: https://news.ycombinator.com/item?id=50228239\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50228239"
+    },
+    {
+      "title": "Show HN: A Truly Modular Keyboard",
+      "link": "https://github.com/notaroomba/keybytes",
+      "pubDate": "Sun, 25 Oct 2026 03:47:56 +0000",
+      "date": "Sun, 25 Oct 2026 03:47:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/notaroomba/keybytes\nComments URL: https://news.ycombinator.com/item?id=50228115\nPoints: 4\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50228115"
+    },
+    {
+      "title": "Show HN: AgentSkill – Yara-L-Skill",
+      "link": "https://github.com/ajaynyayapathi/yara-l-skill",
+      "pubDate": "Sun, 25 Oct 2026 03:32:56 +0000",
+      "date": "Sun, 25 Oct 2026 03:32:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "An Agent Skill that teaches AI coding agents to write, review, tune, and convert YARA-L 2.0 detection rules for Google Security Operations (SecOps, formerly Chronicle).\nComments URL: https://news.ycombinator.com/item?id=50228031\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50228031"
+    },
+    {
+      "title": "Show HN: Four-Leaf job matches that find you automatically",
+      "link": "https://four-leaf.ai/jobs",
+      "pubDate": "Sun, 25 Oct 2026 03:25:36 +0000",
+      "date": "Sun, 25 Oct 2026 03:25:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://four-leaf.ai/jobs\nComments URL: https://news.ycombinator.com/item?id=50227987\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50227987"
+    },
+    {
+      "title": "Show HN: AI Heat Map Sourced from over 140 News Feeds",
+      "link": "https://ai.jagular.io",
+      "pubDate": "Sun, 25 Oct 2026 03:25:15 +0000",
+      "date": "Sun, 25 Oct 2026 03:25:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ai.jagular.io\nComments URL: https://news.ycombinator.com/item?id=50227984\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50227984"
+    },
+    {
+      "title": "Show HN: An OSS browser and work environment for humans and agents",
+      "link": "https://github.com/zephium-browser/Zephium",
+      "pubDate": "Sun, 25 Oct 2026 03:16:39 +0000",
+      "date": "Sun, 25 Oct 2026 03:16:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Fast, private, fully-featured, built in Rust (forked Wry, system's WebView). 40 MB. Not a Chromium fork. Native adblocking (forked adblock-rust), major Chrome extension support, deeply integrated productivity tools, a custom agentic browsing engine, and a lot more. It's not just another wrapper built in a few days.\nAnd... Work mode: a shared environment where you and AI agents can browse, research, build, and get real work done together. Live browser sessions, parallel sub-agents, tools, files, ",
+      "guid": "https://news.ycombinator.com/item?id=50227943"
     }
   ]
 }
