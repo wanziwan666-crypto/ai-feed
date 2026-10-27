@@ -1,18 +1,62 @@
 {
-  "generatedAt": "2026-10-27T03:01:24.288Z",
+  "generatedAt": "2026-10-27T04:07:11.023Z",
   "lookbackHours": 24,
   "totalItems": 25,
   "items": [
     {
       "title": "pbakaus/impeccable",
       "link": "https://github.com/pbakaus/impeccable",
-      "pubDate": "2026-10-27T03:01:23.230Z",
-      "date": "2026-10-27T03:01:23.230Z",
+      "pubDate": "2026-10-27T04:07:03.583Z",
+      "date": "2026-10-27T04:07:03.583Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The design language that makes your AI harness better at design.\nhttps://impeccable.style\n\nImpeccable\n \nDesign guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design.\n \n \n \nQuick start: From your project root, run npx impeccable install, then run /impeccable init inside your AI coding tool. Full docs: impeccable.style.\n \n \nWhy Impeccable?\n \nAnthropic's frontend-design was the first widely-used design skill",
       "guid": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "title": "Show HN: Handcrafted HTML-first framework that outperforms React",
+      "link": "https://codeberg.org/createthirdplaces/places-js",
+      "pubDate": "Tue, 27 Oct 2026 03:13:04 +0000",
+      "date": "Tue, 27 Oct 2026 03:13:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi, I built an hancrafted HTML-first JavaScript framework called Places.js that outperforms React, Svelte, Lit, and Vue.\n- Components are created with HTML-first templating, which allows for flexibility in how HTML is generated.\n- No build step. Places.js can be downloaded from a CDN and directly added to a project.\n- JavaScript enhanced web components that can be dynamically rendered with API endpoint data.\n- Rendering agnostic stores that can be integrated with other frameworks.\nTo test Places",
+      "guid": "https://news.ycombinator.com/item?id=50254335"
+    },
+    {
+      "title": "Show HN: Limma – MCP for total recall and precision in data retrieval for agents",
+      "link": "https://limma.ai",
+      "pubDate": "Tue, 27 Oct 2026 02:50:43 +0000",
+      "date": "Tue, 27 Oct 2026 02:50:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello, my name is Berend Graham. My cofounder Shiv Oberai and I have been working on Limma for a year now with the goal of building a proactive solution to the reliability issues that plague practical AI and agentic use in companies with RAG.\nLimma is a single MCP that exists for the sole purpose of ensuring that the right information is retrieved with every query and no information is skipped and or missed. This means total precision and recall. We've found that this approach leads to the lowes",
+      "guid": "https://news.ycombinator.com/item?id=50254187"
+    },
+    {
+      "title": "Show HN: Agent outputs slop texts, so I make a superfast HTML skill visualize it",
+      "link": "https://github.com/QingYunA/answer-me-with-html",
+      "pubDate": "Tue, 27 Oct 2026 02:19:30 +0000",
+      "date": "Tue, 27 Oct 2026 02:19:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/QingYunA/answer-me-with-html\nComments URL: https://news.ycombinator.com/item?id=50253981\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50253981"
+    },
+    {
+      "title": "Show HN: ESP-Watchtower – $3 ESP8266 Home Network Sentinel and Canary Honeypot",
+      "link": "https://github.com/prasadabhishek/esp-watchtower",
+      "pubDate": "Tue, 27 Oct 2026 02:15:37 +0000",
+      "date": "Tue, 27 Oct 2026 02:15:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/prasadabhishek/esp-watchtower\nComments URL: https://news.ycombinator.com/item?id=50253944\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50253944"
     },
     {
       "title": "Show HN: An MCP server that writes and sings songs in 76 languages",
@@ -44,7 +88,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://marathon.sh/sparta\nComments URL: https://news.ycombinator.com/item?id=50253455\nPoints: 1\n# Comments: 1",
+      "contentSnippet": "Article URL: https://marathon.sh/sparta\nComments URL: https://news.ycombinator.com/item?id=50253455\nPoints: 1\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=50253455"
     },
     {
@@ -121,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/BoumedineBillal/esp32-pie-asr\nComments URL: https://news.ycombinator.com/item?id=50253150\nPoints: 2\n# Comments: 1",
+      "contentSnippet": "Article URL: https://github.com/BoumedineBillal/esp32-pie-asr\nComments URL: https://news.ycombinator.com/item?id=50253150\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50253150"
     },
     {
@@ -143,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://shittyscreenshare.com/\nComments URL: https://news.ycombinator.com/item?id=50252963\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://shittyscreenshare.com/\nComments URL: https://news.ycombinator.com/item?id=50252963\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50252963"
     },
     {
@@ -211,50 +255,6 @@
       "icon": "🐱",
       "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nA youth speaker who sat in our classrooms not long ago shares what helped him when he was struggling, and what made him pull away.\nThe post Words of Encouragement for Struggling Students appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing this on another site, they ar",
       "guid": "https://www.coolcatteacher.com/?p=35607"
-    },
-    {
-      "title": "Show HN: Lightcms a gitbacked CMS for static site generators",
-      "link": "https://news.ycombinator.com/item?id=50251926",
-      "pubDate": "Mon, 26 Oct 2026 22:19:18 +0000",
-      "date": "Mon, 26 Oct 2026 22:19:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A cms that wants to make one love their inner writer.\nFall back in love with writing again.\nGiving everyone a voice to speak. A lightweight, Git backed content workspace for sharing and publishing experiences with zero friction.\ntry now: https://lightcms.me/\nrepo: https://github.com/light-cms/lightcms\nComments URL: https://news.ycombinator.com/item?id=50251926\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50251926"
-    },
-    {
-      "title": "Show HN: Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust",
-      "link": "https://github.com/sam-mfb/kashkeshet",
-      "pubDate": "Mon, 26 Oct 2026 21:48:22 +0000",
-      "date": "Mon, 26 Oct 2026 21:48:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This is hardly a greenfield area. There are tons of agent-to-agent communication apps. But, at least to my taste, a lot of them are too complicated or too opinionated. If we learned anything from the HuggingFace incident, it's that modern AI agents don't need a lot of help communicating. They are smart and creative and figure it out.\nSo...with that in mind, I (meaning I + claude and friends) built kashkeshet, or kkt. It's a small, Rust-based MCP server that gives agents a few simple chat primiti",
-      "guid": "https://news.ycombinator.com/item?id=50251519"
-    },
-    {
-      "title": "Show HN: GradientDeck – a design skill for coding agents",
-      "link": "https://github.com/VenoM9078/gradientdeck-skill",
-      "pubDate": "Mon, 26 Oct 2026 21:35:27 +0000",
-      "date": "Mon, 26 Oct 2026 21:35:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/VenoM9078/gradientdeck-skill\nComments URL: https://news.ycombinator.com/item?id=50251342\nPoints: 4\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50251342"
-    },
-    {
-      "title": "Show HN: Manage BOMs for multi-board PCB projects",
-      "link": "https://www.bomanager.app",
-      "pubDate": "Mon, 26 Oct 2026 21:30:33 +0000",
-      "date": "Mon, 26 Oct 2026 21:30:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.bomanager.app\nComments URL: https://news.ycombinator.com/item?id=50251288\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50251288"
     },
     {
       "title": "The End of the Internet",
