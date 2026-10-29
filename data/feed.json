@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T22:01:40.652Z",
+  "generatedAt": "2026-10-29T03:38:26.713Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 25,
   "items": [
     {
       "title": "nightly-labs/openbot",
       "link": "https://github.com/nightly-labs/openbot",
-      "pubDate": "2026-10-28T22:01:38.880Z",
-      "date": "2026-10-28T22:01:38.880Z",
+      "pubDate": "2026-10-29T03:38:17.848Z",
+      "date": "2026-10-29T03:38:17.848Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,13 +17,189 @@
     {
       "title": "pbakaus/impeccable",
       "link": "https://github.com/pbakaus/impeccable",
-      "pubDate": "2026-10-28T22:01:38.880Z",
-      "date": "2026-10-28T22:01:38.880Z",
+      "pubDate": "2026-10-29T03:38:17.848Z",
+      "date": "2026-10-29T03:38:17.848Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\nhttps://impeccable.style\n\nImpeccable\n \nDesign guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design.\n \n \n \nQuick start: From your project root, run npx impeccable install, then run /impeccable init inside your AI coding tool. Full docs: impeccable.style.\n \n \nWhy Impecca",
       "guid": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "title": "Show HN: Dev Null News, a daily paper so you don't have to read every merged PR",
+      "link": "https://dnn.sh/",
+      "pubDate": "Thu, 29 Oct 2026 02:54:35 +0000",
+      "date": "Thu, 29 Oct 2026 02:54:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "if you want to keep up with the merged PRs : https://github.com/dev-null-sh/dev-null.sh , read https://dnn.sh\nComments URL: https://news.ycombinator.com/item?id=50284046\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50284046"
+    },
+    {
+      "title": "Show HN: Vibegif – 750 GIFs and animated WebP made by Opus 5.5 (public domain)",
+      "link": "https://vibegif.direct-img.link/",
+      "pubDate": "Thu, 29 Oct 2026 02:15:58 +0000",
+      "date": "Thu, 29 Oct 2026 02:15:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vibegif.direct-img.link/\nComments URL: https://news.ycombinator.com/item?id=50283765\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50283765"
+    },
+    {
+      "title": "Show HN: Turn the prompts you keep retyping into slash commands",
+      "link": "https://github.com/kishormorol/cli-faq-shortcuts",
+      "pubDate": "Thu, 29 Oct 2026 02:11:52 +0000",
+      "date": "Thu, 29 Oct 2026 02:11:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kishormorol/cli-faq-shortcuts\nComments URL: https://news.ycombinator.com/item?id=50283743\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50283743"
+    },
+    {
+      "title": "Show HN: A Prolog-powered reverse WAF logic perimeter with SIMD acceleration",
+      "link": "https://prologwaf.site/",
+      "pubDate": "Thu, 29 Oct 2026 01:52:32 +0000",
+      "date": "Thu, 29 Oct 2026 01:52:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://prologwaf.site/\nComments URL: https://news.ycombinator.com/item?id=50283597\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50283597"
+    },
+    {
+      "title": "Show HN: Linesofrelief] – Opinionated contour map in Rose Pine",
+      "link": "https://linesofrelief.ink/",
+      "pubDate": "Thu, 29 Oct 2026 01:05:51 +0000",
+      "date": "Thu, 29 Oct 2026 01:05:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Contour lines of anywhere on Earth, and nothing else. Rust/WASM in the browser, open data underneath.\nComments URL: https://news.ycombinator.com/item?id=50283170\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50283170"
+    },
+    {
+      "title": "Explicit Vocabulary Instruction: How to Make Words Stick",
+      "link": "https://www.coolcatteacher.com/e1018/",
+      "pubDate": "Thu, 29 Oct 2026 00:50:25 +0000",
+      "date": "Thu, 29 Oct 2026 00:50:25 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nExplicit vocabulary instruction makes new words stick. Fifth grade teacher Sean Morrisey shares his three-step routine for new words, how word parts help kids figure out unfamiliar words, and why teaching words in pairs gets more done.\nThe post Explicit Vocabulary Instruction: How to Make Words Stick appeared first on Cool Cat Teacher Blog by Vicki D",
+      "guid": "https://www.coolcatteacher.com/?p=35626"
+    },
+    {
+      "title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+      "link": "https://supermhel.github.io/fengarde/",
+      "pubDate": "Thu, 29 Oct 2026 00:24:55 +0000",
+      "date": "Thu, 29 Oct 2026 00:24:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://supermhel.github.io/fengarde/\nComments URL: https://news.ycombinator.com/item?id=50282830\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50282830"
+    },
+    {
+      "title": "Show HN: Simple DeepSeek web search CLI written in TypeScript (fast/cheap)",
+      "link": "https://www.npmjs.com/package/deepseek-search-cli",
+      "pubDate": "Thu, 29 Oct 2026 00:20:19 +0000",
+      "date": "Thu, 29 Oct 2026 00:20:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "If you've been following along with DeepSeek news you will know they recently added web search capability to the DeepSeek API, where you can use web search under the same API key. It is pretty handy, also super cheap at only $0.75 per 1,000 requests (pretty much as cheap as it gets, one search credit can encompass many responses).\nI created a simple TypeScript CLI wrapper around the API for my own agents to use (for open source models and harnesses)\nI'm sure most of you could whip this up on you",
+      "guid": "https://news.ycombinator.com/item?id=50282799"
+    },
+    {
+      "title": "Show HN: Postbox – Personal Mailbox for Humans and Agents Hosted on Cloudflare",
+      "link": "https://github.com/NaxAlpha/postbox",
+      "pubDate": "Thu, 29 Oct 2026 00:17:33 +0000",
+      "date": "Thu, 29 Oct 2026 00:17:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/NaxAlpha/postbox\nComments URL: https://news.ycombinator.com/item?id=50282780\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50282780"
+    },
+    {
+      "title": "Show HN: synapseForge - Open-source Python framework with built-in agent creator",
+      "link": "https://www.synapseaihub.com.ar/",
+      "pubDate": "Thu, 29 Oct 2026 00:02:26 +0000",
+      "date": "Thu, 29 Oct 2026 00:02:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.synapseaihub.com.ar/\nComments URL: https://news.ycombinator.com/item?id=50282685\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50282685"
+    },
+    {
+      "title": "Show HN: Starboard, Rules of the Road for Satellites",
+      "link": "https://tokeloshe.github.io/starboard-protocol/",
+      "pubDate": "Wed, 28 Oct 2026 23:34:10 +0000",
+      "date": "Wed, 28 Oct 2026 23:34:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tokeloshe.github.io/starboard-protocol/\nComments URL: https://news.ycombinator.com/item?id=50282447\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50282447"
+    },
+    {
+      "title": "Show HN: Open-source AI workspace with shared procedural memory",
+      "link": "https://github.com/TheWariend/CleanSlate",
+      "pubDate": "Wed, 28 Oct 2026 23:18:59 +0000",
+      "date": "Wed, 28 Oct 2026 23:18:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/TheWariend/CleanSlate\nComments URL: https://news.ycombinator.com/item?id=50282336\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50282336"
+    },
+    {
+      "title": "Show HN: Chinese and Western Zodiac Calculator",
+      "link": "https://zodia.cl/",
+      "pubDate": "Wed, 28 Oct 2026 22:50:59 +0000",
+      "date": "Wed, 28 Oct 2026 22:50:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I wanted a simple zodiac calculator. Not one covered in ads, horoscopes, pop-ups and a million other things I didn't care about. Just a really nice-looking calculator.\nSo I built one. Just because I could.:) Took a bit to name it; I eventually went with zodiacl, which is a shortening of zodiacal. Works in both English and Spanish.\nComments URL: https://news.ycombinator.com/item?id=50282075\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50282075"
+    },
+    {
+      "title": "Show HN: Local Code – Run DeepSeek 4.1 Flash 1017 Locally on Your Mac",
+      "link": "https://github.com/drawthingsai/local-code-community",
+      "pubDate": "Wed, 28 Oct 2026 22:05:50 +0000",
+      "date": "Wed, 28 Oct 2026 22:05:50 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/drawthingsai/local-code-community\nComments URL: https://news.ycombinator.com/item?id=50281590\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50281590"
+    },
+    {
+      "title": "Show HN: I made my own version of Google Doodles",
+      "link": "https://chrispattle.com/avatars",
+      "pubDate": "Wed, 28 Oct 2026 22:04:59 +0000",
+      "date": "Wed, 28 Oct 2026 22:04:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://chrispattle.com/avatars\nComments URL: https://news.ycombinator.com/item?id=50281582\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50281582"
+    },
+    {
+      "title": "Show HN: Fast, Zero Allocation, AOT Safe, Compile-Time Safe .NET Template Engine",
+      "link": "https://github.com/gendeg/Lissic",
+      "pubDate": "Wed, 28 Oct 2026 22:00:11 +0000",
+      "date": "Wed, 28 Oct 2026 22:00:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built a text templating engine, that I've named Lissic, as part of a personal website project I'm working on.  It fits a niche that I don't think anything else in the .NET ecosystem fills.  I prefer to keep code out the template itself (separation of concerns, view vs model, and all that).  I also wanted to build something simple enough that I could imagine low/medium-tech UI dev working with it, but it still needs to build things in a modular way, support loops, support conditional/branching ",
+      "guid": "https://news.ycombinator.com/item?id=50281533"
     },
     {
       "title": "Show HN: Full Python 3.15 Implemented in 25k LoC C11",
@@ -77,30 +253,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/skorotkiewicz/lfm3-chat\nComments URL: https://news.ycombinator.com/item?id=50280966\nPoints: 4\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/skorotkiewicz/lfm3-chat\nComments URL: https://news.ycombinator.com/item?id=50280966\nPoints: 5\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50280966"
-    },
-    {
-      "title": "Show HN: I built a tool that finds reliability bugs in your code",
-      "link": "https://news.ycombinator.com/item?id=50280650",
-      "pubDate": "Wed, 28 Oct 2026 20:45:51 +0000",
-      "date": "Wed, 28 Oct 2026 20:45:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN,\nI’m Abhishek. I'm building Opslane, a tool that finds reliability issues in your code. On every PR, it spins up your entire app and then tries to find weak spots that would break in production.\nDemo: https://youtu.be/47phxkdh6f0\nExample: We tested Opslane on Lago (open-source billing) and found a bug where customers get double charged. Opslane made Stripe take the money and then return a 500. Lago marked the payment failed. A retry from the dashboard charged the customer again. https://g",
-      "guid": "https://news.ycombinator.com/item?id=50280650"
-    },
-    {
-      "title": "Show HN: Enframe – Drop-in sidecar that wraps any OpenAPI spec to an MCP server",
-      "link": "https://github.com/erwinkramer/enframe",
-      "pubDate": "Wed, 28 Oct 2026 20:35:03 +0000",
-      "date": "Wed, 28 Oct 2026 20:35:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/erwinkramer/enframe\nComments URL: https://news.ycombinator.com/item?id=50280511\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50280511"
     },
     {
       "title": "Creating AI value with enterprise context",
@@ -114,149 +268,6 @@
       "guid": "https://www.technologyreview.com/?p=1147709"
     },
     {
-      "title": "Show HN: ThreadShelf – Obsidian and AI chats: vector search, MCP, llama.cpp",
-      "link": "https://github.com/ChrystianSchutz/ThreadShelf",
-      "pubDate": "Wed, 28 Oct 2026 20:23:34 +0000",
-      "date": "Wed, 28 Oct 2026 20:23:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ChrystianSchutz/ThreadShelf\nComments URL: https://news.ycombinator.com/item?id=50280357\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50280357"
-    },
-    {
-      "title": "Show HN: The Best Lightbox Component Out There",
-      "link": "https://github.com/frontendsupply/lightbox",
-      "pubDate": "Wed, 28 Oct 2026 20:20:55 +0000",
-      "date": "Wed, 28 Oct 2026 20:20:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "built a lightbox so you don't have to.\nheadless react, ships no css. native gestures. pinch zoom, swipe, pull to dismiss, thumbnails morph in and out. built on base-ui, motion and blossom carousel.\nComments URL: https://news.ycombinator.com/item?id=50280331\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50280331"
-    },
-    {
-      "title": "Show HN: Race Radar – HYROX ticket alerts, run day to day by an AI CEO",
-      "link": "https://raceradar.fit/",
-      "pubDate": "Wed, 28 Oct 2026 20:15:07 +0000",
-      "date": "Wed, 28 Oct 2026 20:15:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://raceradar.fit/\nComments URL: https://news.ycombinator.com/item?id=50280244\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50280244"
-    },
-    {
-      "title": "Show HN: A visual map of related food dishes from around the world",
-      "link": "https://tangledtaste.com/",
-      "pubDate": "Wed, 28 Oct 2026 20:05:48 +0000",
-      "date": "Wed, 28 Oct 2026 20:05:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A fun, personal project - AI did a pretty good job.\nComments URL: https://news.ycombinator.com/item?id=50280120\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=50280120"
-    },
-    {
-      "title": "Show HN: I built a map of billboards and banners in Poland (gpy.pl)",
-      "link": "https://gpy.pl/",
-      "pubDate": "Wed, 28 Oct 2026 19:54:01 +0000",
-      "date": "Wed, 28 Oct 2026 19:54:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://gpy.pl/\nComments URL: https://news.ycombinator.com/item?id=50279937\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50279937"
-    },
-    {
-      "title": "Show HN: Silo – an open source secure CLI sandbox for running agents locally",
-      "link": "https://github.com/Asdivyansh/silo-cli",
-      "pubDate": "Wed, 28 Oct 2026 19:33:24 +0000",
-      "date": "Wed, 28 Oct 2026 19:33:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Asdivyansh/silo-cli\nComments URL: https://news.ycombinator.com/item?id=50279594\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50279594"
-    },
-    {
-      "title": "Show HN: Kavach – Replay production crashes locally without a DB or network",
-      "link": "https://github.com/kavachlabs/kavach",
-      "pubDate": "Wed, 28 Oct 2026 19:28:18 +0000",
-      "date": "Wed, 28 Oct 2026 19:28:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/kavachlabs/kavach\nComments URL: https://news.ycombinator.com/item?id=50279502\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50279502"
-    },
-    {
-      "title": "Show HN: Cutesy HTML Formatter and Linter",
-      "link": "https://github.com/chasefinch/cutesy",
-      "pubDate": "Wed, 28 Oct 2026 19:20:20 +0000",
-      "date": "Wed, 28 Oct 2026 19:20:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/chasefinch/cutesy\nComments URL: https://news.ycombinator.com/item?id=50279383\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50279383"
-    },
-    {
-      "title": "Show HN: Jotcal, a calendar you glance at and write on",
-      "link": "https://jotcal.app/",
-      "pubDate": "Wed, 28 Oct 2026 19:04:23 +0000",
-      "date": "Wed, 28 Oct 2026 19:04:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jotcal.app/\nComments URL: https://news.ycombinator.com/item?id=50279167\nPoints: 4\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50279167"
-    },
-    {
-      "title": "Show HN: Breakout coordinator (Launch cross-vendor breakout sessions instantly)",
-      "link": "https://github.com/saranyan/breakout-coordinator",
-      "pubDate": "Wed, 28 Oct 2026 19:04:19 +0000",
-      "date": "Wed, 28 Oct 2026 19:04:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/saranyan/breakout-coordinator\nComments URL: https://news.ycombinator.com/item?id=50279166\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50279166"
-    },
-    {
-      "title": "Show HN: TurbineFi Sports – Find Sports Arbitrage on Kalshi, Polymarket, &amp; Novig",
-      "link": "https://sports.turbinefi.com",
-      "pubDate": "Wed, 28 Oct 2026 19:03:02 +0000",
-      "date": "Wed, 28 Oct 2026 19:03:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nWe built turbinefi.com to build and backtest prediction market strategies. Most of our users focus on crypto and weather, but we’ve been exploring sports.\nWe found competing sports tools charging hundreds, even thousands of dollars a month. Since we already had much of the infrastructure, we built a more affordable option.\nToday we’re launching TurbineFi Sports to find potential arbitrage across Kalshi, Polymarket US, and Novig. Let me know what you think!\nComments URL: https://news.ycomb",
-      "guid": "https://news.ycombinator.com/item?id=50279152"
-    },
-    {
-      "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
-      "link": "https://rocus.io/",
-      "pubDate": "Wed, 28 Oct 2026 18:52:37 +0000",
-      "date": "Wed, 28 Oct 2026 18:52:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://rocus.io/\nComments URL: https://news.ycombinator.com/item?id=50279017\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50279017"
-    },
-    {
-      "title": "Show HN: U.S. Elections, Campaign Finance and Legislation on a Miller-Column UI",
-      "link": "https://chamberzero.com/col/home/elections-overview%3Acurrent",
-      "pubDate": "Wed, 28 Oct 2026 18:47:57 +0000",
-      "date": "Wed, 28 Oct 2026 18:47:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "ChamberZero has been a long-running personal project. This launch includes a complete redesign of the site and integration of election finance data.\nA complete money universe is constructed directly from itemized FEC transactions, 2008 to today.\nElections go all the way back to 1788; who won every seat, with vote counts since 1976 (presidential since 1828).\nBills, actions, and other legislative metadata go back to 1975 and roll-call votes to 1989 (as far as the public sources go).\nThe Miller-col",
-      "guid": "https://news.ycombinator.com/item?id=50278951"
-    },
-    {
       "title": "Meta Earnings, Muse and the Frontier, Musebook",
       "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
       "pubDate": "Wed, 28 Oct 2026 10:06:13 +0000",
@@ -266,28 +277,6 @@
       "icon": "📊",
       "contentSnippet": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
       "guid": "https://stratechery.com/?p=20613"
-    },
-    {
-      "title": "ChatGPT for Teachers: Skip the Prompts, Start Talking",
-      "link": "https://www.coolcatteacher.com/e1017/",
-      "pubDate": "Wed, 28 Oct 2026 01:17:29 +0000",
-      "date": "Wed, 28 Oct 2026 01:17:29 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nTwo edtech leaders explain why prompt engineering is outdated, how to just talk to ChatGPT, and how to explain AI agents to the teachers you work with.\nThe post ChatGPT for Teachers: Skip the Prompts, Start Talking appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing t",
-      "guid": "https://www.coolcatteacher.com/?p=35617"
-    },
-    {
-      "title": "Does an AI Pause Protect Students, or Leave Some Behind?",
-      "link": "https://edsurge.com/news/does-an-ai-pause-protect-students-or-leave-some-behind",
-      "pubDate": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "date": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "Artificial intelligence in the classroom comes with risk, but students must learn AI literacy.",
-      "guid": "post-guid-1F36cD"
     }
   ]
 }
