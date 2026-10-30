@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T03:41:06.748Z",
+  "generatedAt": "2026-10-30T11:53:55.998Z",
   "lookbackHours": 24,
   "totalItems": 27,
   "items": [
     {
       "title": "HKUDS/DeepTutor",
       "link": "https://github.com/HKUDS/DeepTutor",
-      "pubDate": "2026-10-30T03:41:05.442Z",
-      "date": "2026-10-30T03:41:05.442Z",
+      "pubDate": "2026-10-30T11:53:54.071Z",
+      "date": "2026-10-30T11:53:54.071Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,59 +15,257 @@
       "guid": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "title": "Show HN: 100% automated tech deal site (built with Grok bot)",
-      "link": "https://gadgetsteal.com/",
-      "pubDate": "Fri, 30 Oct 2026 02:45:54 +0000",
-      "date": "Fri, 30 Oct 2026 02:45:54 +0000",
-      "source": "Hacker News · Show HN",
+      "title": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "pubDate": "2026-10-30T11:53:54.071Z",
+      "date": "2026-10-30T11:53:54.071Z",
+      "source": "GitHub Trending · Daily",
       "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://gadgetsteal.com/\nComments URL: https://news.ycombinator.com/item?id=50299276\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50299276"
+      "icon": "⭐",
+      "contentSnippet": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\nhttps://impeccable.style\n\nImpeccable\n \nThe design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, and catch AI slop before it ships.\n \nFrom your project root:\n \nnpx impeccable install\n\n \nReload your coding tool, then run /impeccable init in your agent ($impeccable init on Codex).\n \nWorks with Claude Code, Cursor,",
+      "guid": "https://github.com/pbakaus/impeccable"
     },
     {
-      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "link": "https://github.com/Millillion/lasm",
-      "pubDate": "Fri, 30 Oct 2026 02:05:41 +0000",
-      "date": "Fri, 30 Oct 2026 02:05:41 +0000",
-      "source": "Hacker News · Show HN",
+      "title": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "pubDate": "2026-10-30T11:53:54.071Z",
+      "date": "2026-10-30T11:53:54.071Z",
+      "source": "GitHub Trending · Daily",
       "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages.\nLean is one of the most popular languages that allow for formal verification, and to me is incredibly powerful because it is a general purpose programming language with formal verification built d",
-      "guid": "https://news.ycombinator.com/item?id=50299004"
+      "icon": "⭐",
+      "contentSnippet": "Open-source Grok Bot alternative with a virtual machine that bots can use\nhttps://www.openmausbot.com/\n\n \n \nOpenMausBot\n \n \nThe open-source Grok Bot alternative: your own team of AI bots, in a chat app.\n \n \nopenmausbot.com  ·  Download  ·  Open source Grok Bot alternative, compared\n \n \nOpenMausBot is an open-source Grok Bot alternative: an independent project inspired by Grok Bot, and the open-source alternative to Meta Muse, OpenAI dots and Cue by Manus — bring-your-own-agent, local-first, on t",
+      "guid": "https://github.com/milind-soni/OpenMausBot"
     },
     {
-      "title": "Show HN: Tiberava – My Game is growing",
-      "link": "https://tiberava.online",
-      "pubDate": "Fri, 30 Oct 2026 02:03:19 +0000",
-      "date": "Fri, 30 Oct 2026 02:03:19 +0000",
+      "title": "Show HN: Entry-level jobs that are entry-level",
+      "link": "https://twitter.com/bigsmilecartoon/status/2115808284129235182",
+      "pubDate": "Fri, 30 Oct 2026 11:33:47 +0000",
+      "date": "Fri, 30 Oct 2026 11:33:47 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://tiberava.online\nComments URL: https://news.ycombinator.com/item?id=50298988\nPoints: 8\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50298988"
+      "contentSnippet": "Article URL: https://twitter.com/bigsmilecartoon/status/2115808284129235182\nComments URL: https://news.ycombinator.com/item?id=50302563\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50302563"
     },
     {
-      "title": "Show HN: MadTracker – Scoring software for track cycling races",
-      "link": "https://news.ycombinator.com/item?id=50298982",
-      "pubDate": "Fri, 30 Oct 2026 02:01:44 +0000",
-      "date": "Fri, 30 Oct 2026 02:01:44 +0000",
+      "title": "Show HN: Tyrtulia, a headless forum with no passwords, made for the terminal",
+      "link": "https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
+      "pubDate": "Fri, 30 Oct 2026 11:31:55 +0000",
+      "date": "Fri, 30 Oct 2026 11:31:55 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Sharing a project I've been working on for the last while, MadTracker, a scoring system for track cycling races:\nAnnouncement: https://nuxx.net/blog/2026/10/29/madtracker/\nGitHub w/ Binary Releases: https://github.com/c0nsumer/madtracker\nThis was built to replace an Excel-based manual scoring system that worked, but was clunky and required specialized knowledge making it hard to hand off to other volunteers at the local velodrome.\nMadTracker was developed by formalizing scoring rules from the US",
-      "guid": "https://news.ycombinator.com/item?id=50298982"
+      "contentSnippet": "Article URL: https://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/\nComments URL: https://news.ycombinator.com/item?id=50302546\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50302546"
     },
     {
-      "title": "Show HN: NovelHiveAI – A tool to turn novels into a multi-Voice audiobook",
-      "link": "https://novelhive.ai/",
-      "pubDate": "Fri, 30 Oct 2026 01:48:46 +0000",
-      "date": "Fri, 30 Oct 2026 01:48:46 +0000",
+      "title": "Show HN: JoinJSON – Merge, diff and convert JSON files in the browser",
+      "link": "https://www.joinjson.com/",
+      "pubDate": "Fri, 30 Oct 2026 11:29:57 +0000",
+      "date": "Fri, 30 Oct 2026 11:29:57 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "It can also generate an entire novel from a single prompt, but I suspect most people will still prefer the audiobook feature :)\nComments URL: https://news.ycombinator.com/item?id=50298905\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50298905"
+      "contentSnippet": "Article URL: https://www.joinjson.com/\nComments URL: https://news.ycombinator.com/item?id=50302533\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50302533"
+    },
+    {
+      "title": "Show HN: AppDoesIt – 155 free browser tools, no sign-up, all client-side",
+      "link": "https://appdoesit.com/category/programmer",
+      "pubDate": "Fri, 30 Oct 2026 11:07:13 +0000",
+      "date": "Fri, 30 Oct 2026 11:07:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://appdoesit.com/category/programmer\nComments URL: https://news.ycombinator.com/item?id=50302347\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50302347"
+    },
+    {
+      "title": "Show HN: Zwitch macOS App Switcher (free)",
+      "link": "https://apps.apple.com/app/id6801471231",
+      "pubDate": "Fri, 30 Oct 2026 10:42:56 +0000",
+      "date": "Fri, 30 Oct 2026 10:42:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I wrote an app switcher for myself, its free and now on the App Store.\nhttps://zwitch.net/\nCheers Frank\nComments URL: https://news.ycombinator.com/item?id=50302153\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50302153"
+    },
+    {
+      "title": "Show HN: LeanCIL – Prove properties of compiled .NET code in Lean 4",
+      "link": "https://github.com/NethermindEth/LeanCIL",
+      "pubDate": "Fri, 30 Oct 2026 10:29:37 +0000",
+      "date": "Fri, 30 Oct 2026 10:29:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/NethermindEth/LeanCIL\nComments URL: https://news.ycombinator.com/item?id=50302042\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50302042"
+    },
+    {
+      "title": "Show HN: Prolog-WAF – A reverse WAF logic perimeter powered by Prolog",
+      "link": "https://prologwaf.site/",
+      "pubDate": "Fri, 30 Oct 2026 10:27:58 +0000",
+      "date": "Fri, 30 Oct 2026 10:27:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://prologwaf.site/\nComments URL: https://news.ycombinator.com/item?id=50302029\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50302029"
+    },
+    {
+      "title": "Show HN: Anime Text Datasets for LLMs Training",
+      "link": "https://github.com/muqeet-1138/anime-text-dataset",
+      "pubDate": "Fri, 30 Oct 2026 10:19:29 +0000",
+      "date": "Fri, 30 Oct 2026 10:19:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/muqeet-1138/anime-text-dataset\nComments URL: https://news.ycombinator.com/item?id=50301961\nPoints: 4\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50301961"
+    },
+    {
+      "title": "Show HN: Stackapella, an open source web app for learning vocal harmony",
+      "link": "https://stackapella.com/",
+      "pubDate": "Fri, 30 Oct 2026 10:17:09 +0000",
+      "date": "Fri, 30 Oct 2026 10:17:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://stackapella.com/\nComments URL: https://news.ycombinator.com/item?id=50301941\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50301941"
+    },
+    {
+      "title": "Show HN: Reduce: A Daily Puzzle",
+      "link": "https://reduce.games",
+      "pubDate": "Fri, 30 Oct 2026 10:16:14 +0000",
+      "date": "Fri, 30 Oct 2026 10:16:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A daily word game that I built for fun for my wife and I, and we've gotten a lot of positive feedback from friends an family, so sharing it here in case anyone else derives a little bit of joy from daily word puzzles!\nComments URL: https://news.ycombinator.com/item?id=50301934\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50301934"
+    },
+    {
+      "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+      "link": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "date": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+      "guid": "https://stratechery.com/?p=20681"
+    },
+    {
+      "title": "Show HN: Post-quantum signatureless authorization with recursive verification",
+      "link": "https://zenodo.org/records/23778742",
+      "pubDate": "Fri, 30 Oct 2026 09:18:03 +0000",
+      "date": "Fri, 30 Oct 2026 09:18:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Paper + code\nComments URL: https://news.ycombinator.com/item?id=50301484\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50301484"
+    },
+    {
+      "title": "Show HN: Wayther – iOS weather app for road trips",
+      "link": "https://wayther.alpennec.com/",
+      "pubDate": "Fri, 30 Oct 2026 08:55:48 +0000",
+      "date": "Fri, 30 Oct 2026 08:55:48 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN,\nI’ve been working on Wayther for a few years now. It's an iOS app that shows the forecast at each point of your journey, timed to when you are expected to get there. It allows you to compare alternative routes, adjust your departure time and see how rain, wind, visibility and temperature may affect your drive.\nI know this is a pretty niche topic that might not resonate with the average HN audience, but if you happen to drive from time to time (casual driver, trucker, motorbike driver, RV",
+      "guid": "https://news.ycombinator.com/item?id=50301351"
+    },
+    {
+      "title": "Show HN: Send21 – Crypto pay links an AI agent can create but can't spend",
+      "link": "https://send21.io/demo",
+      "pubDate": "Fri, 30 Oct 2026 08:26:44 +0000",
+      "date": "Fri, 30 Oct 2026 08:26:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://send21.io/demo\nComments URL: https://news.ycombinator.com/item?id=50301153\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50301153"
+    },
+    {
+      "title": "Show HN: Cursedy",
+      "link": "https://ricobeck.de/cursedy.html",
+      "pubDate": "Fri, 30 Oct 2026 08:12:01 +0000",
+      "date": "Fri, 30 Oct 2026 08:12:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "t's Halloween, and I made something really funny/silly for the Mac. I hope you have some fun with it.\nComments URL: https://news.ycombinator.com/item?id=50301062\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50301062"
+    },
+    {
+      "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+      "link": "https://github.com/ZKStamp/AgentWallet",
+      "pubDate": "Fri, 30 Oct 2026 08:05:56 +0000",
+      "date": "Fri, 30 Oct 2026 08:05:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ZKStamp/AgentWallet\nComments URL: https://news.ycombinator.com/item?id=50301018\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50301018"
+    },
+    {
+      "title": "Show HN: zpq 0.5.0 – A zero-dependency Parquet engine in Zig",
+      "link": "https://github.com/chicagobuss/zpq",
+      "pubDate": "Fri, 30 Oct 2026 08:05:36 +0000",
+      "date": "Fri, 30 Oct 2026 08:05:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey all, I've been working on this for about 11 months now and am really proud of how far the performance and utility of zpq has come.\nIf you ever work with parquet files, locally or in s3-compatible object stores, I highly recommend giving it a try; I think you'll be impressed!\nThere's a site for the project at https://zpq.chicagobuss.dev with my benchmark results and optimizations discussed in detail, as well as some material for the darker corners of Parquet like NaN and how you can write out",
+      "guid": "https://news.ycombinator.com/item?id=50301013"
+    },
+    {
+      "title": "Show HN: I don't understand why invoicing apps cost $10/month",
+      "link": "https://invoicingpro.org/",
+      "pubDate": "Fri, 30 Oct 2026 08:02:33 +0000",
+      "date": "Fri, 30 Oct 2026 08:02:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A freelancer needs to send an invoice. That's basically it.\nSo I built InvoicingPro with invoices, estimates, expenses, clients and payments, without a monthly subscription.\nMaybe I'm missing something. What am I supposed to be paying for every month?\nComments URL: https://news.ycombinator.com/item?id=50300992\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50300992"
+    },
+    {
+      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+      "link": "https://github.com/4yk5/Ghostman",
+      "pubDate": "Fri, 30 Oct 2026 07:48:40 +0000",
+      "date": "Fri, 30 Oct 2026 07:48:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/4yk5/Ghostman\nComments URL: https://news.ycombinator.com/item?id=50300902\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50300902"
+    },
+    {
+      "title": "Show HN: I rebuilt my about page with stats from GitHub, WakaTime and Goodreads",
+      "link": "https://yedhu.me/about/",
+      "pubDate": "Fri, 30 Oct 2026 07:45:09 +0000",
+      "date": "Fri, 30 Oct 2026 07:45:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://yedhu.me/about/\nComments URL: https://news.ycombinator.com/item?id=50300882\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50300882"
+    },
+    {
+      "title": "Show HN: Stochastic Lagrangian Control and Proportional Bias Routing for Moe",
+      "link": "https://github.com/lambda-z-lab/lz-moe-slc",
+      "pubDate": "Fri, 30 Oct 2026 07:43:28 +0000",
+      "date": "Fri, 30 Oct 2026 07:43:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/lambda-z-lab/lz-moe-slc\nComments URL: https://news.ycombinator.com/item?id=50300864\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50300864"
     },
     {
       "title": "National Principals Month: A Message for Every Principal",
@@ -81,138 +279,6 @@
       "guid": "https://www.coolcatteacher.com/?p=35633"
     },
     {
-      "title": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
-      "link": "https://github.com/zacharybenson/arken-protocol",
-      "pubDate": "Fri, 30 Oct 2026 01:22:38 +0000",
-      "date": "Fri, 30 Oct 2026 01:22:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/zacharybenson/arken-protocol\nComments URL: https://news.ycombinator.com/item?id=50298738\nPoints: 6\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50298738"
-    },
-    {
-      "title": "Show HN: JSON to printable invoice CLI, zero deps, no sign-up",
-      "link": "https://github.com/kleogeos/freelance-invoice-cli",
-      "pubDate": "Fri, 30 Oct 2026 00:36:06 +0000",
-      "date": "Fri, 30 Oct 2026 00:36:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/kleogeos/freelance-invoice-cli\nComments URL: https://news.ycombinator.com/item?id=50298373\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50298373"
-    },
-    {
-      "title": "Show HN: Cubic Doggo 07B Wouf: A low-cost open-source quadruped with ST3215",
-      "link": "https://github.com/SphericalCowww/CubicDoggo_07B",
-      "pubDate": "Fri, 30 Oct 2026 00:28:52 +0000",
-      "date": "Fri, 30 Oct 2026 00:28:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Cubic Doggo 07B Wouf is a ROS2-controlled 12-DOF untethered quadruped, built with ST3215 smart servos fully with off-the-shelf components and 3D-printed parts\nFeaturing:\n* 12 ST-3215-C018 servos, usually on a bundled sale because of SO-ARM101\n* Walking forward with a payload of 1 kg\n* Smart servos as required for closed-loop reinforcement learning capability \n* FreeCAD models fully available for editing\n* M3 screws and locknuts are used extensively (instead of glue or heat set inserts) to streng",
-      "guid": "https://news.ycombinator.com/item?id=50298302"
-    },
-    {
-      "title": "Show HN: I'm seriously concerned about this commenter's mental health",
-      "link": "https://news.ycombinator.com/threads?id=aaron695",
-      "pubDate": "Fri, 30 Oct 2026 00:17:10 +0000",
-      "date": "Fri, 30 Oct 2026 00:17:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Just look at how many of his comments are flagged in a row.\nDoes anybody know this person in real life?\nShould we just ban him?\n- Concerned HNer.\nComments URL: https://news.ycombinator.com/item?id=50298192\nPoints: 4\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=50298192"
-    },
-    {
-      "title": "Show HN: I created a spreadsheet in a plain text file",
-      "link": "https://app.ordinate.dev",
-      "pubDate": "Fri, 30 Oct 2026 00:01:36 +0000",
-      "date": "Fri, 30 Oct 2026 00:01:36 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built a plain-text spreadsheet format and an app for working with it.\nIt began with small tasks like tracking my dog's health records and organizing records for tax season. Full spreadsheet apps always felt excessive, while Markdown tables don't support formulas.\nAlso, its compact and readable syntax lets AI read and edit a workbook directly, without spreadsheet-specific tools. You can try the in-app agent on the desktop version with ChatGPT sign-in.\nOrdinate is now open source and available t",
-      "guid": "https://news.ycombinator.com/item?id=50298001"
-    },
-    {
-      "title": "Show HN: Coding agents need a tap from your watch, not API keys",
-      "link": "https://permaura.com",
-      "pubDate": "Thu, 29 Oct 2026 23:58:18 +0000",
-      "date": "Thu, 29 Oct 2026 23:58:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://permaura.com\nComments URL: https://news.ycombinator.com/item?id=50297971\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50297971"
-    },
-    {
-      "title": "Show HN: Free CVE feed for agents to lookup vulnerabilities",
-      "link": "https://casco.com/cve/agents",
-      "pubDate": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "date": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Founder of Casco here. I built a CVE feed for agents to query the latest CVEs. Ask your agents to point your codebase dependencies to https://casco.com/cve/agents to flag any ongoing issues.\nAbout to build a \"how to test for exploitability\" prompt for each of the CVEs as well.\nComments URL: https://news.ycombinator.com/item?id=50297846\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50297846"
-    },
-    {
-      "title": "Show HN: Free check of how ready your PHP app is for the EU Cyber Resilience Act",
-      "link": "https://patchclock.com/",
-      "pubDate": "Thu, 29 Oct 2026 23:26:12 +0000",
-      "date": "Thu, 29 Oct 2026 23:26:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://patchclock.com/\nComments URL: https://news.ycombinator.com/item?id=50297701\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50297701"
-    },
-    {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "link": "https://github.com/mottopanikeiku/doomformer",
-      "pubDate": "Thu, 29 Oct 2026 23:25:46 +0000",
-      "date": "Thu, 29 Oct 2026 23:25:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to present DOOMFORMER. Here are a list of things DOOMFORMER can do :\nIt can classify MNIST digits, even if",
-      "guid": "https://news.ycombinator.com/item?id=50297697"
-    },
-    {
-      "title": "Show HN: Built an astrology website with a unique/differentiating feature",
-      "link": "https://nakshatra.chakrapani.net/",
-      "pubDate": "Thu, 29 Oct 2026 23:17:25 +0000",
-      "date": "Thu, 29 Oct 2026 23:17:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nakshatra.chakrapani.net/\nComments URL: https://news.ycombinator.com/item?id=50297618\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50297618"
-    },
-    {
-      "title": "Show HN: Sigflint - AWS SigV4 signing - Node/Bun/Deno/Cloudflare/Browser, 0 deps",
-      "link": "https://github.com/bompus/sigflint",
-      "pubDate": "Thu, 29 Oct 2026 22:58:13 +0000",
-      "date": "Thu, 29 Oct 2026 22:58:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I wrote sigflint because I wanted to sign AWS requests from Node, Bun, Deno, Cloudflare Workers and browsers without pulling in an SDK or any dependencies. It is a single package with no dependencies that signs requests as an Authorization header or a presigned URL, for S3 and any other AWS service. It also does SigV4a (multi-region), chunked uploads and event streams.\nWhat I checked, and how:\n* Signatures match botocore for all 3,360 S3 requests in the test corpus, plus 1,622 requests to other ",
-      "guid": "https://news.ycombinator.com/item?id=50297425"
-    },
-    {
-      "title": "Show HN: Resumux – TCP over WebSockets that survives the WebSocket dying",
-      "link": "https://github.com/k4lleanka/resumux",
-      "pubDate": "Thu, 29 Oct 2026 22:55:02 +0000",
-      "date": "Thu, 29 Oct 2026 22:55:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/k4lleanka/resumux\nComments URL: https://news.ycombinator.com/item?id=50297391\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50297391"
-    },
-    {
       "title": "API credits benefit for eligible ChatGPT subscriptions",
       "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
       "pubDate": "2026-10-29T22:48:29.000Z",
@@ -224,39 +290,6 @@
       "guid": "https://simonwillison.net/2026/Oct/29/api-credits/"
     },
     {
-      "title": "Show HN: Charter, field-level control over agents' calls into customer accounts",
-      "link": "https://github.com/r28ai/charter",
-      "pubDate": "Thu, 29 Oct 2026 22:23:25 +0000",
-      "date": "Thu, 29 Oct 2026 22:23:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/r28ai/charter\nComments URL: https://news.ycombinator.com/item?id=50297053\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50297053"
-    },
-    {
-      "title": "Show HN: InputConfig, a free open-source app to run your Mac with any controller",
-      "link": "https://github.com/ryleighnewman/InputConfig",
-      "pubDate": "Thu, 29 Oct 2026 22:02:49 +0000",
-      "date": "Thu, 29 Oct 2026 22:02:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ryleighnewman/InputConfig\nComments URL: https://news.ycombinator.com/item?id=50296793\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50296793"
-    },
-    {
-      "title": "Show HN: KernelCash – Privacy First Budgeting",
-      "link": "https://news.ycombinator.com/item?id=50296473",
-      "pubDate": "Thu, 29 Oct 2026 21:39:14 +0000",
-      "date": "Thu, 29 Oct 2026 21:39:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi everyone! I typically do not put my projects out for others to see, so this is new to me, but I have created a privacy first budgeting app called KernelCash Budgets ( https://kernelcash.com ), and wanted to share it here in the event someone was interested in a product like this. This app has really helped my wife and I, as well as some family, friends, and colleagues, so I wanted to put this out to see if it could help anyone else.\nI created this app as a replacement to some of the other bud",
-      "guid": "https://news.ycombinator.com/item?id=50296473"
-    },
-    {
       "title": "The Download: AI agent tracking and climate feedback loops",
       "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "pubDate": "Thu, 29 Oct 2026 12:10:00 +0000",
@@ -266,39 +299,6 @@
       "icon": "🔬",
       "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI…",
       "guid": "https://www.technologyreview.com/?p=1147830"
-    },
-    {
-      "title": "Making Career Connections",
-      "link": "https://www.gettingsmart.com/2026/10/29/making-career-connections/",
-      "pubDate": "Thu, 29 Oct 2026 10:45:00 +0000",
-      "date": "Thu, 29 Oct 2026 10:45:00 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "What does it actually look like to make learning real for students — not just as a slogan, but as a daily classroom practice? In this piece, educator and technology broker Norton Gusky spotlights four organizations — Connect the Work, the Consortium for Public Education, the Neighborhood Learning Alliance, and the Pittsburgh Technology Council — that are building meaningful career connections for K-12 learners across Pennsylvania and beyond. From RIASEC-based career conversations in kindergarten",
-      "guid": "https://www.gettingsmart.com/?p=141119"
-    },
-    {
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "pubDate": "Thu, 29 Oct 2026 10:11:12 +0000",
-      "date": "Thu, 29 Oct 2026 10:11:12 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "guid": "https://www.technologyreview.com/?p=1147824"
-    },
-    {
-      "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
-      "link": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
-      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "date": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
-      "guid": "https://stratechery.com/?p=20633"
     }
   ]
 }
