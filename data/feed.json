@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T21:49:12.551Z",
+  "generatedAt": "2026-10-31T03:25:38.730Z",
   "lookbackHours": 24,
-  "totalItems": 28,
+  "totalItems": 27,
   "items": [
     {
       "title": "HKUDS/DeepTutor",
       "link": "https://github.com/HKUDS/DeepTutor",
-      "pubDate": "2026-10-30T21:49:11.476Z",
-      "date": "2026-10-30T21:49:11.476Z",
+      "pubDate": "2026-10-31T03:25:36.626Z",
+      "date": "2026-10-31T03:25:36.626Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -17,8 +17,8 @@
     {
       "title": "pbakaus/impeccable",
       "link": "https://github.com/pbakaus/impeccable",
-      "pubDate": "2026-10-30T21:49:11.476Z",
-      "date": "2026-10-30T21:49:11.476Z",
+      "pubDate": "2026-10-31T03:25:36.626Z",
+      "date": "2026-10-31T03:25:36.626Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -28,8 +28,8 @@
     {
       "title": "milind-soni/OpenMausBot",
       "link": "https://github.com/milind-soni/OpenMausBot",
-      "pubDate": "2026-10-30T21:49:11.476Z",
-      "date": "2026-10-30T21:49:11.476Z",
+      "pubDate": "2026-10-31T03:25:36.626Z",
+      "date": "2026-10-31T03:25:36.626Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -37,14 +37,201 @@
       "guid": "https://github.com/milind-soni/OpenMausBot"
     },
     {
-      "title": "Show HN: Ultrafast Rust Based ADE",
+      "title": "Show HN: Send to dot–share a phone photo into your existing ChatGPT conversation",
+      "link": "https://github.com/bryanzk/send-to-dot",
+      "pubDate": "Sat, 31 Oct 2026 01:47:14 +0000",
+      "date": "Sat, 31 Oct 2026 01:47:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/bryanzk/send-to-dot\nComments URL: https://news.ycombinator.com/item?id=50312465\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50312465"
+    },
+    {
+      "title": "Show HN: Ghost in the Log – a Halloween log investigation with a live AI",
+      "link": "https://ghost-in-the-log.vercel.app/",
+      "pubDate": "Sat, 31 Oct 2026 01:36:07 +0000",
+      "date": "Sat, 31 Oct 2026 01:36:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ghost-in-the-log.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50312389\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50312389"
+    },
+    {
+      "title": "Show HN: Turn any GitHub account into a living city",
+      "link": "https://caldera.social/gh",
+      "pubDate": "Sat, 31 Oct 2026 01:05:29 +0000",
+      "date": "Sat, 31 Oct 2026 01:05:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://caldera.social/gh\nComments URL: https://news.ycombinator.com/item?id=50312215\nPoints: 1\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50312215"
+    },
+    {
+      "title": "Math Anxiety and Mental Math: Advice From the Fastest Human Calculator",
+      "link": "https://www.coolcatteacher.com/e1020/",
+      "pubDate": "Sat, 31 Oct 2026 00:36:11 +0000",
+      "date": "Sat, 31 Oct 2026 00:36:11 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nDo kids still need to do math in their heads? The world's fastest human calculator shares what he learned about math anxiety, math facts, and the test scores that can hide what kids can really do.\nThe post Math Anxiety and Mental Math: Advice From the Fastest Human Calculator appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher help",
+      "guid": "https://www.coolcatteacher.com/?p=35644"
+    },
+    {
+      "title": "Show HN: Blc – scheduled website blocker for macOS",
+      "link": "https://github.com/BohdanPetryshyn/blc",
+      "pubDate": "Sat, 31 Oct 2026 00:31:09 +0000",
+      "date": "Sat, 31 Oct 2026 00:31:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/BohdanPetryshyn/blc\nComments URL: https://news.ycombinator.com/item?id=50311993\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50311993"
+    },
+    {
+      "title": "Show HN: Governor, a firewall for AI agent spend and tool calls",
+      "link": "https://bsvkey-governor-demo.fly.dev/",
+      "pubDate": "Sat, 31 Oct 2026 00:27:46 +0000",
+      "date": "Sat, 31 Oct 2026 00:27:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bsvkey-governor-demo.fly.dev/\nComments URL: https://news.ycombinator.com/item?id=50311974\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50311974"
+    },
+    {
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "link": "https://tng.episodle.com/",
+      "pubDate": "Fri, 30 Oct 2026 23:51:24 +0000",
+      "date": "Fri, 30 Oct 2026 23:51:24 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://tng.episodle.com/\nComments URL: https://news.ycombinator.com/item?id=50311686\nPoints: 77\n# Comments: 21",
+      "guid": "https://news.ycombinator.com/item?id=50311686"
+    },
+    {
+      "title": "Show HN: Free Unlimited Virtual Monitors+Watch Claude Work on Them+Community",
+      "link": "https://multispace.dev/",
+      "pubDate": "Fri, 30 Oct 2026 23:16:36 +0000",
+      "date": "Fri, 30 Oct 2026 23:16:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Built Multispace to offer an easier alternative to Moonlight and other virtual monitor offers. Then discovered Claude/otherAI can use those Monitors to Work Live, if you like to watch. #cucking. No Signup, No Coding, Simply Install and Go (or don't- Also possible directly in the website, but only native Apps and Iframes.) Installed, Everything is Possible. Build Any System you want, in One Place. Makes Multitasking much easier IMO. Mostly looking to increase the community, make friends, and plea",
+      "guid": "https://news.ycombinator.com/item?id=50311376"
+    },
+    {
+      "title": "Show HN: Fastbrowse, Browser agent that picks clicks with a System One model",
+      "link": "https://www.fastbrowse.ai/",
+      "pubDate": "Fri, 30 Oct 2026 22:37:34 +0000",
+      "date": "Fri, 30 Oct 2026 22:37:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, I'm Furqan founder of Nebula. We've spent a lot of time building, using and breaking browser agents. The main issues we ran into were costs and speed. So we built our own and open sourced it.\nIt's pretty simple, give it a task and it drives Chrome faster and cheaper than the alternatives.\nAt each step it lists the page's elements instead of screenshots. This means it can't click on buttons that aren't there.\nWe use System One models (currently Jev), which keeps costs extremely low, around",
+      "guid": "https://news.ycombinator.com/item?id=50311029"
+    },
+    {
+      "title": "Show HN",
+      "link": "https://www.gallerismuseum.com/",
+      "pubDate": "Fri, 30 Oct 2026 22:31:20 +0000",
+      "date": "Fri, 30 Oct 2026 22:31:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Galleris gives every work in a gallery its own page and audio guide. Visitors scan the wall label and it opens on their phone. No app\nComments URL: https://news.ycombinator.com/item?id=50310981\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50310981"
+    },
+    {
+      "title": "Show HN: SkillWire, a searchable catalog for coding-agent skills",
+      "link": "https://skillwire.net",
+      "pubDate": "Fri, 30 Oct 2026 22:18:13 +0000",
+      "date": "Fri, 30 Oct 2026 22:18:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://skillwire.net\nComments URL: https://news.ycombinator.com/item?id=50310865\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50310865"
+    },
+    {
+      "title": "Show HN: Fail2Ban Notifier",
+      "link": "https://github.com/eyeskiller/fail2ban-notifier",
+      "pubDate": "Fri, 30 Oct 2026 22:01:54 +0000",
+      "date": "Fri, 30 Oct 2026 22:01:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Fail2Ban notification system for well.. a lot of platforms. Taking hints what to improve :)\nComments URL: https://news.ycombinator.com/item?id=50310723\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50310723"
+    },
+    {
+      "title": "Show HN: I'm killing AI slop spam with a simple Google script",
+      "link": "https://news.ycombinator.com/item?id=50310650",
+      "pubDate": "Fri, 30 Oct 2026 21:53:31 +0000",
+      "date": "Fri, 30 Oct 2026 21:53:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "As a founder, I've been getting an increasing amount of useless unsolicited outreach, all of which is clearly generated using AI. For some reason, Google's spam filter doesn't flag these emails as spam, so my phone buzzes throughout the day (especially in the morning) when one of these AI-generated messages arrives.\nI know there are some subscription tools I could use to filter these out, and there are some friction-creating tools I can use to keep them out of my inbox (like the ones that force ",
+      "guid": "https://news.ycombinator.com/item?id=50310650"
+    },
+    {
+      "title": "Show HN: I turned mrdoob's Slop New York into a 3D billboard bidding game",
+      "link": "https://makeitanywhere.xyz/",
+      "pubDate": "Fri, 30 Oct 2026 21:35:37 +0000",
+      "date": "Fri, 30 Oct 2026 21:35:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://makeitanywhere.xyz/\nComments URL: https://news.ycombinator.com/item?id=50310465\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50310465"
+    },
+    {
+      "title": "Show HN: Balk – A Baseball Game",
+      "link": "https://balk.club",
+      "pubDate": "Fri, 30 Oct 2026 21:29:39 +0000",
+      "date": "Fri, 30 Oct 2026 21:29:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Balk is a baseball game. Things like MLB Showdown and other baseball games captured my attention growing up, but never really filled the void of a game. They were fun to look at and scheme, but the game itself was missing something. I think baseball lends itself really well to game design. There are a lot of games that exist inside the game of baseball. It’s a deeply flawed and broken sport, but so are humans, and in some ways that makes baseball better.\nIt’s baseball. You already know the rules",
+      "guid": "https://news.ycombinator.com/item?id=50310397"
+    },
+    {
+      "title": "Show HN: News article bias detector tool",
+      "link": "https://aethelgard.news/",
+      "pubDate": "Fri, 30 Oct 2026 21:18:09 +0000",
+      "date": "Fri, 30 Oct 2026 21:18:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built a news article bias detector tool. You paste the link of any article into it and it will give the article a bias rating from 1 - 7. It scores based on loaded wording in the article, the acknowledgement of different perspectives and if they're justified. It checks for vital information that the article leaves out and allows users to dispute the ratings given, it's in the niche of ground news and All Sides. Looking for feedback.\nComments URL: https://news.ycombinator.com/item?id=50310272\nP",
+      "guid": "https://news.ycombinator.com/item?id=50310272"
+    },
+    {
+      "title": "Show HN: Optimized CUDA forced alignment kernels. 10x – 1000x faster",
+      "link": "https://github.com/brthor/fast-forced-aligner",
+      "pubDate": "Fri, 30 Oct 2026 21:06:35 +0000",
+      "date": "Fri, 30 Oct 2026 21:06:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "blog post: https://www.bryanthornbury.com/posts/fast-forced-alignment\ngithub: https://github.com/brthor/fast-forced-aligner\nI developed optimized CUDA kernels to speed up my forced alignment pipelines using Astra.\nTo my surprise, I was able to achieve speeds 10x - 1000x faster than popular existing open source options, including the torchaudio implementations I was using before.\nI'm sharing them for anyone else who finds them useful.\nThe acceleration from AI is getting wild.\nComments URL: https:",
+      "guid": "https://news.ycombinator.com/item?id=50310134"
+    },
+    {
+      "title": "Show HN: Ultrafast Rust Based Agent Workspace",
       "link": "https://trypalomino.com/",
       "pubDate": "Fri, 30 Oct 2026 20:58:24 +0000",
       "date": "Fri, 30 Oct 2026 20:58:24 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://trypalomino.com/\nComments URL: https://news.ycombinator.com/item?id=50310055\nPoints: 2\n# Comments: 1",
+      "contentSnippet": "Article URL: https://trypalomino.com/\nComments URL: https://news.ycombinator.com/item?id=50310055\nPoints: 7\n# Comments: 18",
       "guid": "https://news.ycombinator.com/item?id=50310055"
     },
     {
@@ -66,7 +253,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/gesposito/mobile-agent\nComments URL: https://news.ycombinator.com/item?id=50310027\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/gesposito/mobile-agent\nComments URL: https://news.ycombinator.com/item?id=50310027\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50310027"
     },
     {
@@ -79,182 +266,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://github.com/Dem1241/slotwatch\nComments URL: https://news.ycombinator.com/item?id=50309602\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50309602"
-    },
-    {
-      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
-      "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-      "pubDate": "Fri, 30 Oct 2026 20:09:47 +0000",
-      "date": "Fri, 30 Oct 2026 20:09:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations).\n- ddx: a database extension that adds automatic differentiation in the style of JAX to standard SQL, assuming the above array data model.\n- einfold: a modular query planner for fast ",
-      "guid": "https://news.ycombinator.com/item?id=50309479"
-    },
-    {
-      "title": "Show HN: Cerebellum – small model on the robot, big model for what it can't undo",
-      "link": "https://github.com/cerebellum-labs/cerebellum",
-      "pubDate": "Fri, 30 Oct 2026 20:01:39 +0000",
-      "date": "Fri, 30 Oct 2026 20:01:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/cerebellum-labs/cerebellum\nComments URL: https://news.ycombinator.com/item?id=50309386\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50309386"
-    },
-    {
-      "title": "Show HN + Best Comments",
-      "link": "https://hackertrain.future-secured.com/?offline_showhn=1",
-      "pubDate": "Fri, 30 Oct 2026 19:48:14 +0000",
-      "date": "Fri, 30 Oct 2026 19:48:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://hackertrain.future-secured.com/?offline_showhn=1\nComments URL: https://news.ycombinator.com/item?id=50309235\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50309235"
-    },
-    {
-      "title": "Show HN: Alternative FOSS companion app for new Casio F-B100W",
-      "link": "https://github.com/taxmeifyoucan/trrrst-watch",
-      "pubDate": "Fri, 30 Oct 2026 19:34:49 +0000",
-      "date": "Fri, 30 Oct 2026 19:34:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Reverse engineered the bluetooth protocol of new Casio model that comes with smart features but requires a proprietary app that's full of ads and tracking\nComments URL: https://news.ycombinator.com/item?id=50309081\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50309081"
-    },
-    {
-      "title": "Show HN: Halloween Radio – Spooky stations for your Halloween soundtrack",
-      "link": "https://muso.fm/halloween-radio",
-      "pubDate": "Fri, 30 Oct 2026 19:34:00 +0000",
-      "date": "Fri, 30 Oct 2026 19:34:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I run muso.fm, a radio aggregator focused on finding the best music-centric internet radio stations around the world. \nI compiled a list of the best Halloween stations for non-stop Halloween spooky music and sounds to play. \nHalloween music, horror soundtracks, old-time radio dramas, ambient atmosphere, a kids' channel and some oddities. Hit play and leave it running for a party or while you work.\nEach station plays its own stream directly. A small Cloudflare Worker pulls now-playing titles from",
-      "guid": "https://news.ycombinator.com/item?id=50309071"
-    },
-    {
-      "title": "Show HN: Staxless – Open-source microservice SaaS boilerplate",
-      "link": "https://github.com/Staxless/staxless",
-      "pubDate": "Fri, 30 Oct 2026 19:28:55 +0000",
-      "date": "Fri, 30 Oct 2026 19:28:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Staxless/staxless\nComments URL: https://news.ycombinator.com/item?id=50309010\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50309010"
-    },
-    {
-      "title": "Show HN: Rust based window switcher for macOS",
-      "link": "https://alt-tabr.com/",
-      "pubDate": "Fri, 30 Oct 2026 19:22:00 +0000",
-      "date": "Fri, 30 Oct 2026 19:22:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "- 3 types of switching themes (notch, liquid glass, carousel)\n- Shortcuts for window splitting and maximizing\n- Most resource efficient window switcher for macOS\nComments URL: https://news.ycombinator.com/item?id=50308935\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50308935"
-    },
-    {
-      "title": "Show HN: A Daily Poem Writing Puzzle",
-      "link": "https://pocketpoems.io",
-      "pubDate": "Fri, 30 Oct 2026 19:19:10 +0000",
-      "date": "Fri, 30 Oct 2026 19:19:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello my beloved tech forum!\nEarlier this year I moved to a new apartment, and scattered a box of poetry magnets all over my fridge. Whenever people came to visit, I noticed how they always loved making poems of their own, not to mention enjoying the poems others had already created. It became such a fun and entertaining tradition, (especially due to the range of creative messages that my friends chose) that I felt compelled to make a full stack project out of it.\nWhile LLM agents have made the ",
-      "guid": "https://news.ycombinator.com/item?id=50308899"
-    },
-    {
-      "title": "Show HN: BeamDisk – High Performance iSCSI Initiator for macOS",
-      "link": "https://beamdisk.app/",
-      "pubDate": "Fri, 30 Oct 2026 18:40:51 +0000",
-      "date": "Fri, 30 Oct 2026 18:40:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey Everyone,\nAt work, and for several of our employees at home too, we've been big users of shared storage. We have a big TrueNAS storage server at the office containing a mix of spinning rust and flash. In addition to SMB and NFS, we've been big users of iSCSI for our Linux and Windows servers and clients.\nBut all of our employees use Macs, and due to the lack of modern iSCSI initiator software for Mac we were never able to utilize iSCSI for Mac clients. Existing legacy iSCSI initiators for Ma",
-      "guid": "https://news.ycombinator.com/item?id=50308351"
-    },
-    {
-      "title": "Show HN: Fishoid: an ambient fish tank for your screen",
-      "link": "https://fishoid.net/",
-      "pubDate": "Fri, 30 Oct 2026 18:30:35 +0000",
-      "date": "Fri, 30 Oct 2026 18:30:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I have built a cosy fish tank simulation you can leave on a large screen and watch from time to time. I like pixel art but didn’t want to be religious about it, so I think of it as pixel art adjacent.\nThis summer, down with the flu, I started a small experiment. It ended up taking about 50-70 hours of my time, iterating over several months.\nThere is a 24-inch display in my kitchen powered by a used Lenovo mini PC (previously it was a RPi, but I had to upgrade to get a better GPU). I used it to s",
-      "guid": "https://news.ycombinator.com/item?id=50308222"
-    },
-    {
-      "title": "Show HN: Magical Share - Share files with light",
-      "link": "https://apps.zincirx.com/magicalshare/",
-      "pubDate": "Fri, 30 Oct 2026 18:23:18 +0000",
-      "date": "Fri, 30 Oct 2026 18:23:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.zincirx.com/magicalshare/\nComments URL: https://news.ycombinator.com/item?id=50308111\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50308111"
-    },
-    {
-      "title": "Show HN: I Vibe Coded Orkut.com",
-      "link": "https://aurkut.fun/login",
-      "pubDate": "Fri, 30 Oct 2026 18:22:23 +0000",
-      "date": "Fri, 30 Oct 2026 18:22:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://aurkut.fun/login\nComments URL: https://news.ycombinator.com/item?id=50308097\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50308097"
-    },
-    {
-      "title": "Show HN: CourtlyGo – open database of tennis, pickleball, padel courts and MCP",
-      "link": "https://courtlygo.com/",
-      "pubDate": "Fri, 30 Oct 2026 18:18:10 +0000",
-      "date": "Fri, 30 Oct 2026 18:18:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://courtlygo.com/\nComments URL: https://news.ycombinator.com/item?id=50308028\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50308028"
-    },
-    {
-      "title": "Show HN: MCP for Your Mac Hardware",
-      "link": "https://github.com/primemindai/macmonitor",
-      "pubDate": "Fri, 30 Oct 2026 18:09:34 +0000",
-      "date": "Fri, 30 Oct 2026 18:09:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/primemindai/macmonitor\nComments URL: https://news.ycombinator.com/item?id=50307899\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50307899"
-    },
-    {
-      "title": "Show HN: Bot_board – A message board for code harnesses collaboration",
-      "link": "https://github.com/jalemieux/bot_board",
-      "pubDate": "Fri, 30 Oct 2026 18:03:16 +0000",
-      "date": "Fri, 30 Oct 2026 18:03:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/jalemieux/bot_board\nComments URL: https://news.ycombinator.com/item?id=50307810\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50307810"
-    },
-    {
-      "title": "Show HN: Pollsight – a simple tool to aid ballot research",
-      "link": "https://pollsight.napsty.com",
-      "pubDate": "Fri, 30 Oct 2026 17:57:00 +0000",
-      "date": "Fri, 30 Oct 2026 17:57:00 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI built Pollsight, an simple civic web application that aims to solve the problem of the amount of time++research needed to vote based on your preferences on an overwhelming amount of races and referendums by collecting data from various sources and aggregating and summarizing that content in line with what you care about.\nIn Austin we have 53 Races, and 10 Propositions to vote on, and never enough time to devote to understand what each issue and candidate is about.  So I built something ",
-      "guid": "https://news.ycombinator.com/item?id=50307706"
     },
     {
       "title": "2026.44: At Long Last…",
@@ -288,28 +299,6 @@
       "icon": "📊",
       "contentSnippet": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
       "guid": "https://stratechery.com/?p=20681"
-    },
-    {
-      "title": "National Principals Month: A Message for Every Principal",
-      "link": "https://www.coolcatteacher.com/e1019/",
-      "pubDate": "Fri, 30 Oct 2026 01:42:28 +0000",
-      "date": "Fri, 30 Oct 2026 01:42:28 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nIt's National Principals Month. Raquel Martinez, a former biology teacher who served as the first Latina president of NASSP, shares how great principals partner with teachers and her message to every principal who feels alone.\nThe post National Principals Month: A Message for Every Principal appeared first on Cool Cat Teacher Blog by Vicki Davis @coo",
-      "guid": "https://www.coolcatteacher.com/?p=35633"
-    },
-    {
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "pubDate": "2026-10-29T22:48:29.000Z",
-      "date": "2026-10-29T22:48:29.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Oct/29/api-credits/"
     }
   ]
 }
