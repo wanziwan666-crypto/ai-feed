@@ -1,8 +1,151 @@
 {
-  "generatedAt": "2026-11-04T23:00:28.499Z",
+  "generatedAt": "2026-11-05T04:24:37.410Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
+    {
+      "title": "Teacher Burnout and Depression: When the Teacher Needs Help",
+      "link": "https://www.coolcatteacher.com/e1023/",
+      "pubDate": "Thu, 05 Nov 2026 03:31:07 +0000",
+      "date": "Thu, 05 Nov 2026 03:31:07 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nTeacher burnout is sometimes much much more. Burnout and depression can hide inside a teacher who looks like she's doing everything right.\nThe post Teacher Burnout and Depression: When the Teacher Needs Help appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing this on ",
+      "guid": "https://www.coolcatteacher.com/?p=35685"
+    },
+    {
+      "title": "Show HN: REMO – Free 4D web network connecting 24 cities with ad-free live radio",
+      "link": "https://remoworld.com/",
+      "pubDate": "Thu, 05 Nov 2026 03:01:21 +0000",
+      "date": "Thu, 05 Nov 2026 03:01:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://remoworld.com/\nComments URL: https://news.ycombinator.com/item?id=50374605\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50374605"
+    },
+    {
+      "title": "Show HN: A table view for all your Trello cards",
+      "link": "https://trello.com/power-ups/6ae62312ef3825846d6e2499/table-view-%E2%9D%A4%EF%B8%8F",
+      "pubDate": "Thu, 05 Nov 2026 02:59:05 +0000",
+      "date": "Thu, 05 Nov 2026 02:59:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://trello.com/power-ups/6ae62312ef3825846d6e2499/table-view-%E2%9D%A4%EF%B8%8F\nComments URL: https://news.ycombinator.com/item?id=50374584\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50374584"
+    },
+    {
+      "title": "Show HN: Edgepad – Turn an Android phone into a trackpad for your laptop",
+      "link": "https://github.com/akshit-bansal11/edgepad",
+      "pubDate": "Thu, 05 Nov 2026 02:39:08 +0000",
+      "date": "Thu, 05 Nov 2026 02:39:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/akshit-bansal11/edgepad\nComments URL: https://news.ycombinator.com/item?id=50374433\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50374433"
+    },
+    {
+      "title": "Show HN: Autorun-audit – find what runs when you open, CD into or install a repo",
+      "link": "https://github.com/ag3ntsc4rn/autorun-audit",
+      "pubDate": "Thu, 05 Nov 2026 01:45:40 +0000",
+      "date": "Thu, 05 Nov 2026 01:45:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/ag3ntsc4rn/autorun-audit\nComments URL: https://news.ycombinator.com/item?id=50374018\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50374018"
+    },
+    {
+      "title": "Show HN: Botlark – HN for Agents",
+      "link": "https://botlark.com/",
+      "pubDate": "Thu, 05 Nov 2026 01:29:21 +0000",
+      "date": "Thu, 05 Nov 2026 01:29:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://botlark.com/\nComments URL: https://news.ycombinator.com/item?id=50373881\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50373881"
+    },
+    {
+      "title": "Show HN: I turned 18 Agatha Christie novels into SQL murder cases",
+      "link": "https://querythemurder.com/",
+      "pubDate": "Thu, 05 Nov 2026 01:18:16 +0000",
+      "date": "Thu, 05 Nov 2026 01:18:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://querythemurder.com/\nComments URL: https://news.ycombinator.com/item?id=50373795\nPoints: 4\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50373795"
+    },
+    {
+      "title": "Show HN: Exact integer LLL lattice basis reduction in C99",
+      "link": "https://github.com/qawbecrdtey/clll",
+      "pubDate": "Thu, 05 Nov 2026 01:04:31 +0000",
+      "date": "Thu, 05 Nov 2026 01:04:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "LLL, also known as Lenstra–Lenstra–Lovász lattice basis reduction algorithm, is an important algorithm in mathematics and cryptography.\nclll is an implementation of LLL in C99, which is small, is based on formally verified algorithm, and uses integer arithmetic only (GMP).\nClaim. clll is also high performant, based on the private benchmarks I have run comparing LLL implementations with exact arithmetic.\nComments URL: https://news.ycombinator.com/item?id=50373689\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50373689"
+    },
+    {
+      "title": "Show HN: Native HTML Partials and Native MFEs",
+      "link": "https://news.ycombinator.com/item?id=50373378",
+      "pubDate": "Thu, 05 Nov 2026 00:26:26 +0000",
+      "date": "Thu, 05 Nov 2026 00:26:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Dear HN community,\nI’ve been working on a specification and reference implementation called the Remote Module Definition (RMD) pattern. The goal is to handle micro-frontend layout orchestration and dynamic component loading (like includes/partials or even Web Components) natively in the browser using standard vanilla HTML and ECMAScript — no Webpack/Vite or framework runtimes required.\nIt loads decoupled UI components across separate origins at runtime as well (CORS required). An interesting sid",
+      "guid": "https://news.ycombinator.com/item?id=50373378"
+    },
+    {
+      "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
+      "link": "https://getcinnamon.ai/",
+      "pubDate": "Thu, 05 Nov 2026 00:10:04 +0000",
+      "date": "Thu, 05 Nov 2026 00:10:04 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50373233\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50373233"
+    },
+    {
+      "title": "Show HN: BrowserForge – AI agents use your real browser, you approve the clicks",
+      "link": "https://github.com/zoghlamimostafa/BrowserForge-MCP",
+      "pubDate": "Wed, 04 Nov 2026 23:50:07 +0000",
+      "date": "Wed, 04 Nov 2026 23:50:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/zoghlamimostafa/BrowserForge-MCP\nComments URL: https://news.ycombinator.com/item?id=50373055\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50373055"
+    },
+    {
+      "title": "Show HN: A calm app for car shopping (MIT)",
+      "link": "https://lowkey.autos",
+      "pubDate": "Wed, 04 Nov 2026 23:38:29 +0000",
+      "date": "Wed, 04 Nov 2026 23:38:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built this app for the meta worldwide hackathon with cerebral valley. I used muse code and muse family models for the first time to execute the project. I received access to a few hundred dollars of compute and inference resources to build a project. Thanks to the sponsors.\nThis is an open source (MIT) front end for buying a car. I have curated the vehicles to support a decision that will be easier to survive without financial regret.\nSome of the strengths of the app are bypassing all of the b",
+      "guid": "https://news.ycombinator.com/item?id=50372961"
+    },
+    {
+      "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
+      "link": "https://github.com/djuk8/beacon/",
+      "pubDate": "Wed, 04 Nov 2026 22:43:54 +0000",
+      "date": "Wed, 04 Nov 2026 22:43:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you precious GPU time, run the code and become world no 1 in prime merits because it will make you cool, just not to your friends, girlfriend or family. Help the geek cause!\nComments URL: https://news.ycombinator.com/item?id=50372526\nPoints: 1\n# Com",
+      "guid": "https://news.ycombinator.com/item?id=50372526"
+    },
     {
       "title": "Show HN: Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s",
       "link": "https://github.com/akustikrausch/amigent",
@@ -22,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Collective intelligence by shared context\nComments URL: https://news.ycombinator.com/item?id=50372201\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Collective intelligence by shared context\nComments URL: https://news.ycombinator.com/item?id=50372201\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50372201"
     },
     {
@@ -66,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://univerlab.org/canopy/\nComments URL: https://news.ycombinator.com/item?id=50371977\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://univerlab.org/canopy/\nComments URL: https://news.ycombinator.com/item?id=50371977\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50371977"
     },
     {
@@ -88,140 +231,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://grzegorz.tanczyk.pl/diorama/\nComments URL: https://news.ycombinator.com/item?id=50371859\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://grzegorz.tanczyk.pl/diorama/\nComments URL: https://news.ycombinator.com/item?id=50371859\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50371859"
-    },
-    {
-      "title": "Show HN: Zero-axiom Lean 4 proof that Yang-Mills on R^4 is a \"round square\"",
-      "link": "https://zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
-      "pubDate": "Wed, 04 Nov 2026 21:20:31 +0000",
-      "date": "Wed, 04 Nov 2026 21:20:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "On October 26, OpenAI announced a claimed \"bare existence\" proof in Balaban's RG programme on pure R^4—but notably stopped right before claiming the mass gap Δ > 0. It turns out there is a rigorous mathematical reason why no compute cluster can bridge that gap on flat infinite space.\nI wrote a 2,576-line self-contained Lean 4 script (`RoundSquare.lean`) that formally proves a negative-result resolution to the Clay Millennium Yang-Mills problem on pure R^4. In the tradition of Gödel and Turing, i",
-      "guid": "https://news.ycombinator.com/item?id=50371709"
-    },
-    {
-      "title": "Show HN: Review patch/diff files as VS Code diffs with on-demand loading",
-      "link": "https://marketplace.visualstudio.com/items?itemName=mehmetoguzderin.patch-diff-review",
-      "pubDate": "Wed, 04 Nov 2026 21:06:02 +0000",
-      "date": "Wed, 04 Nov 2026 21:06:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This makes it possible to review & annotate these files standalone without requiring to clone entire repository, and also without using custom views so it works well with your existing VS Code preferences, esp. anything around a11y. I always wanted to get this extension out but did not have a chance to do so until now, and managed to publish after refreshing with recent conventions for Code extensions.\nComments URL: https://news.ycombinator.com/item?id=50371518\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50371518"
-    },
-    {
-      "title": "Show HN: Mastodon desktop client, made with Claude, using Rust and GTK4",
-      "link": "https://github.com/aisloperator/fedigoo",
-      "pubDate": "Wed, 04 Nov 2026 21:03:44 +0000",
-      "date": "Wed, 04 Nov 2026 21:03:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Inspired by Mastodon's new Web UI makeover, I used Claude to make a nice Linux desktop client, using Rust and GTK4.\nComments URL: https://news.ycombinator.com/item?id=50371490\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50371490"
-    },
-    {
-      "title": "Show HN: Mdview Desktop – light, fast and feature-rich Markdown viewer (Windows)",
-      "link": "https://mdview.io/desktop",
-      "pubDate": "Wed, 04 Nov 2026 20:58:42 +0000",
-      "date": "Wed, 04 Nov 2026 20:58:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mdview.io/desktop\nComments URL: https://news.ycombinator.com/item?id=50371428\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50371428"
-    },
-    {
-      "title": "Show HN: Tjaz – create a quiz about anything",
-      "link": "https://tjaz.com/",
-      "pubDate": "Wed, 04 Nov 2026 20:57:05 +0000",
-      "date": "Wed, 04 Nov 2026 20:57:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://tjaz.com/\nComments URL: https://news.ycombinator.com/item?id=50371403\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50371403"
-    },
-    {
-      "title": "Show HN: Night Map",
-      "link": "https://night-map.surge.sh/",
-      "pubDate": "Wed, 04 Nov 2026 20:53:07 +0000",
-      "date": "Wed, 04 Nov 2026 20:53:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://night-map.surge.sh/\nComments URL: https://news.ycombinator.com/item?id=50371349\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50371349"
-    },
-    {
-      "title": "Show HN: Who and where are your anagranames?",
-      "link": "https://louisabraham.github.io/anagranames/",
-      "pubDate": "Wed, 04 Nov 2026 20:48:19 +0000",
-      "date": "Wed, 04 Nov 2026 20:48:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN!\nI made this fun app which combines quite a few ideas, I thought you might like the story:\nA few months ago I had the idea of looking for anagrams of names. I started with french names using official statistics about first and last names, which also gave me a pretty simple model for likely anagrams: P(first + last) = P(first) * P(last).\nThen, I started checking which anagra-names (I coined the term) appeared in the 2021 Facebook leak.\nFinally, I improved my ranking using a factorization mo",
-      "guid": "https://news.ycombinator.com/item?id=50371286"
-    },
-    {
-      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "link": "https://github.com/gauge-sh/gauge-cli",
-      "pubDate": "Wed, 04 Nov 2026 20:31:30 +0000",
-      "date": "Wed, 04 Nov 2026 20:31:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don't need an account to try it. Explainer video here: https://youtu.be/zhLUlIKB1Mg\nThe CLI supports a hillclimbing loop:\n- set up tasks for coding agents that would need your docs, like 'set up Gauge CI checks'\n- run the tasks\n- analyze session transcripts for friction or failures\n- create variants of your docs to resolve the issues\n- re-",
-      "guid": "https://news.ycombinator.com/item?id=50371090"
-    },
-    {
-      "title": "Show HN: Ratio – a notepad that calculates as you type",
-      "link": "https://useratio.app/",
-      "pubDate": "Wed, 04 Nov 2026 20:12:31 +0000",
-      "date": "Wed, 04 Nov 2026 20:12:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://useratio.app/\nComments URL: https://news.ycombinator.com/item?id=50370859\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50370859"
-    },
-    {
-      "title": "Show HN: MAVO – Ukrainian air alerts by distance to Poland, with analytics",
-      "link": "https://mavo.org.pl/en",
-      "pubDate": "Wed, 04 Nov 2026 19:33:34 +0000",
-      "date": "Wed, 04 Nov 2026 19:33:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mavo.org.pl/en\nComments URL: https://news.ycombinator.com/item?id=50370440\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50370440"
-    },
-    {
-      "title": "Show HN: Homotope, vectorize images to SVG in the browser, MIT engine on NPM",
-      "link": "https://github.com/stevenroman91/homotope-engine",
-      "pubDate": "Wed, 04 Nov 2026 19:18:26 +0000",
-      "date": "Wed, 04 Nov 2026 19:18:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/stevenroman91/homotope-engine\nComments URL: https://news.ycombinator.com/item?id=50370248\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50370248"
-    },
-    {
-      "title": "Show HN: Jinna, Company Brain&amp; AI agents that run a one-person business with you",
-      "link": "https://jinna.ai/",
-      "pubDate": "Wed, 04 Nov 2026 19:15:03 +0000",
-      "date": "Wed, 04 Nov 2026 19:15:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://jinna.ai/\nComments URL: https://news.ycombinator.com/item?id=50370194\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50370194"
     },
     {
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -255,17 +266,6 @@
       "icon": "📊",
       "contentSnippet": "Data Centers were on the ballot, and they lost in a major way; what does it mean if American opposition to building is permanent?",
       "guid": "https://stratechery.com/?p=20955"
-    },
-    {
-      "title": "Finding Our Way Forward: The Struggle and Promise of AI Literacy",
-      "link": "https://www.edsurge.com/news/finding-our-way-forward-the-struggle-and-promise-of-ai-literacy",
-      "pubDate": "Wed, 04 Nov 2026 00:00:00 GMT",
-      "date": "Wed, 04 Nov 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "Preparing students for an AI-driven future requires prioritizing the human qualities and values we cannot afford to lose along the way.",
-      "guid": "post-guid-25Eb0Cd5"
     }
   ]
 }
