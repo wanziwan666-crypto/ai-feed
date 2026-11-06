@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-11-05T23:03:49.269Z",
+  "generatedAt": "2026-11-06T04:21:57.965Z",
   "lookbackHours": 24,
-  "totalItems": 22,
+  "totalItems": 23,
   "items": [
+    {
+      "title": "Show HN: NextGen WAF – Native Prolog Server and Rule System",
+      "link": "https://prologwaf.site/",
+      "pubDate": "Fri, 06 Nov 2026 03:24:13 +0000",
+      "date": "Fri, 06 Nov 2026 03:24:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://prologwaf.site/\nComments URL: https://news.ycombinator.com/item?id=50387783\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50387783"
+    },
+    {
+      "title": "Show HN: Firefox extension to upload text to rentry quickly",
+      "link": "https://addons.mozilla.org/en-US/firefox/addon/rear-entry/",
+      "pubDate": "Fri, 06 Nov 2026 02:51:51 +0000",
+      "date": "Fri, 06 Nov 2026 02:51:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://addons.mozilla.org/en-US/firefox/addon/rear-entry/\nComments URL: https://news.ycombinator.com/item?id=50387558\nPoints: 2\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=50387558"
+    },
+    {
+      "title": "24 Ways to Improve Your Graduation Rate",
+      "link": "https://www.coolcatteacher.com/e1024/",
+      "pubDate": "Fri, 06 Nov 2026 02:21:29 +0000",
+      "date": "Fri, 06 Nov 2026 02:21:29 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nHow do you improve your graduation rate? Cara Vienna shares 24 ways Los Alamitos High School graduated every senior, from ninth-grade peer mentoring to D/F lists and a Well Space students designed.\nThe post 24 Ways to Improve Your Graduation Rate appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent eve",
+      "guid": "https://www.coolcatteacher.com/?p=35693"
+    },
+    {
+      "title": "Show HN",
+      "link": "https://reachmap.app/",
+      "pubDate": "Fri, 06 Nov 2026 01:46:32 +0000",
+      "date": "Fri, 06 Nov 2026 01:46:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://reachmap.app/\nComments URL: https://news.ycombinator.com/item?id=50387120\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50387120"
+    },
+    {
+      "title": "Show HN: Convert recorded class lectures into PDF/eBooks",
+      "link": "https://lecturetobook.com/",
+      "pubDate": "Fri, 06 Nov 2026 00:52:05 +0000",
+      "date": "Fri, 06 Nov 2026 00:52:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://lecturetobook.com/\nComments URL: https://news.ycombinator.com/item?id=50386766\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50386766"
+    },
+    {
+      "title": "Show HN: Taskivities – where tasks follow you till they are done",
+      "link": "https://www.taskivities.com/",
+      "pubDate": "Fri, 06 Nov 2026 00:32:05 +0000",
+      "date": "Fri, 06 Nov 2026 00:32:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.taskivities.com/\nComments URL: https://news.ycombinator.com/item?id=50386605\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50386605"
+    },
+    {
+      "title": "Show HN: Cabinet of Distilled Pixels",
+      "link": "https://cjauvin.github.io/pixel-cabinet/",
+      "pubDate": "Fri, 06 Nov 2026 00:27:03 +0000",
+      "date": "Fri, 06 Nov 2026 00:27:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I got this idea from the recent \"Sparks of Weight-Space Programming\" post. I thought the abstracted game mechanics looked quite nice, and wanted to expand on them a bit.\nComments URL: https://news.ycombinator.com/item?id=50386559\nPoints: 4\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50386559"
+    },
+    {
+      "title": "Show HN: 3-minute desk breaks based on Radio Taiso and Wordle",
+      "link": "https://www.audioround.com/",
+      "pubDate": "Fri, 06 Nov 2026 00:14:15 +0000",
+      "date": "Fri, 06 Nov 2026 00:14:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.audioround.com/\nComments URL: https://news.ycombinator.com/item?id=50386457\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50386457"
+    },
+    {
+      "title": "Show HN: I made a game where you have to think of answers others wouldn't give",
+      "link": "https://downtheline.io/",
+      "pubDate": "Fri, 06 Nov 2026 00:13:29 +0000",
+      "date": "Fri, 06 Nov 2026 00:13:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Basically you try to give the rarest (deepest cut) answers to prompts. You score more points the rarer the answer. And each prompt has one \"golden ticket\" which is basically an answer I think is funny (and it earns you a whopping 100 pts!).\nYes, this is a daily game (sorry)! I'm still learning how to code well so any advice or ideas for improvements are super welcome. Thanks for playing it!\nJust thought I'd add an AI disclaimer too - I do use an LLM to gather the lists of correct answers. It scr",
+      "guid": "https://news.ycombinator.com/item?id=50386452"
+    },
+    {
+      "title": "Show HN: LLMBrake – Per-customer dollar caps for OpenAI/Anthropic API calls",
+      "link": "https://github.com/llmbrake/llmbrake",
+      "pubDate": "Thu, 05 Nov 2026 23:40:38 +0000",
+      "date": "Thu, 05 Nov 2026 23:40:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/llmbrake/llmbrake\nComments URL: https://news.ycombinator.com/item?id=50386174\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50386174"
+    },
+    {
+      "title": "Show HN: Lab Canary – Rating AI labs on whether their staff can speak up",
+      "link": "https://labcanary.com/",
+      "pubDate": "Thu, 05 Nov 2026 23:31:34 +0000",
+      "date": "Thu, 05 Nov 2026 23:31:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://labcanary.com/\nComments URL: https://news.ycombinator.com/item?id=50386089\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50386089"
+    },
+    {
+      "title": "Show HN: Stenvakt, a server hardening and patching tool",
+      "link": "https://stenvakt.com/",
+      "pubDate": "Thu, 05 Nov 2026 23:26:17 +0000",
+      "date": "Thu, 05 Nov 2026 23:26:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I run a couple of VPSes, some are for clients and some for my own internal projects. Now the problem is when a big vulnerability/exploit happens in a service or an app i use, I need to lose about a day of work to patch all of the servers, and it's always a mess, so I built stenvakt.\nStenvakt is a mac app that connects to your servers over SSH, it's used for updating, patching, hardening, watching and reviewing servers. Database backups, shutting down ports, coolify integration.\nIt's also very ha",
+      "guid": "https://news.ycombinator.com/item?id=50386034"
+    },
+    {
+      "title": "Show HN: HackerRepos – HackerTube for repos mentioned on HN",
+      "link": "https://HackerRepos.fyi/",
+      "pubDate": "Thu, 05 Nov 2026 23:18:43 +0000",
+      "date": "Thu, 05 Nov 2026 23:18:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Karpathy posted hackertube.org 5 days ago, and mentioned that it took him 2 hours to build. A day after another fellow posted hackerbooks.org https://news.ycombinator.com/item?id=50326821, and made it to the top of HN. Some hours after someone else made it to the top of HN with the same for wikis: https://wikihack.netlify.app/\nI found particularly interesting the \"Trends\" section on https://hackerbooks.org/\nThat night, I set out to build something similar but for Repos.\nSo I built https://Hacker",
+      "guid": "https://news.ycombinator.com/item?id=50385952"
+    },
+    {
+      "title": "Show HN: Open-world text adventure played through AI agents",
+      "link": "https://eremoterra.com/",
+      "pubDate": "Thu, 05 Nov 2026 23:04:45 +0000",
+      "date": "Thu, 05 Nov 2026 23:04:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN,\nI am building Eremoterra, this experiment of trying to make a game out of an MCP (to learn MCP stuff, but also had a lot fun designing the game).\nYou play in your own agent. The server returns a fact sheet for the place you are. The world is like real Earth, but empty (until the players start to arrive) and only the natural wold (as humanity never existed).\nThe agent narrates the sheet and can write what you confirm in a sort of lore book, typed events and fixed templates, so the model c",
+      "guid": "https://news.ycombinator.com/item?id=50385803"
+    },
+    {
+      "title": "Show HN: IndiePilot – find Reddit threads where people ask for what you sell",
+      "link": "https://indiepilot.app",
+      "pubDate": "Thu, 05 Nov 2026 22:26:25 +0000",
+      "date": "Thu, 05 Nov 2026 22:26:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://indiepilot.app\nComments URL: https://news.ycombinator.com/item?id=50385371\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50385371"
+    },
     {
       "title": "Show HN: Simulating three LA wildfires in the browser with WebGPU",
       "link": "https://mattduran.dev/firedemo/fire/woolsey-2018",
@@ -11,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://mattduran.dev/firedemo/fire/woolsey-2018\nComments URL: https://news.ycombinator.com/item?id=50385092\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://mattduran.dev/firedemo/fire/woolsey-2018\nComments URL: https://news.ycombinator.com/item?id=50385092\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50385092"
     },
     {
@@ -22,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://makermaker.ai/breakthroughs/inference/simulation/\nComments URL: https://news.ycombinator.com/item?id=50385087\nPoints: 5\n# Comments: 1",
+      "contentSnippet": "Article URL: https://makermaker.ai/breakthroughs/inference/simulation/\nComments URL: https://news.ycombinator.com/item?id=50385087\nPoints: 8\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50385087"
     },
     {
@@ -68,160 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Try out my java linter tool which is 4-6x faster and 1/10th of memory efficient, with zero-difference result on Guava and Spring.\nComments URL: https://news.ycombinator.com/item?id=50384727\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50384727"
-    },
-    {
-      "title": "Show HN: HackerGit – Every GitHub repo shared on HN",
-      "link": "https://hackergit.org/",
-      "pubDate": "Thu, 05 Nov 2026 21:25:49 +0000",
-      "date": "Thu, 05 Nov 2026 21:25:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I love the trend karpathy started, I hope this helps add to it :)\nComments URL: https://news.ycombinator.com/item?id=50384668\nPoints: 1\n# Comments: 5",
-      "guid": "https://news.ycombinator.com/item?id=50384668"
-    },
-    {
-      "title": "Show HN: Trace to Agent Session, open corresponding segment of dialogue",
-      "link": "https://github.com/keepplain/keepplain-plugin",
-      "pubDate": "Thu, 05 Nov 2026 21:16:49 +0000",
-      "date": "Thu, 05 Nov 2026 21:16:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A single plugin will keep your sessions with coding-agents, excluding the secrets that are removed on your computer. After that, any agent can help you understand why a line of code has been altered, take over where you left off, and continue even if Claude runs out of time.\nSupport: Claude Code, Codex, Antigravity, Grok, Cursor, Pi\nhttps://keepplain.com\nComments URL: https://news.ycombinator.com/item?id=50384568\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50384568"
-    },
-    {
-      "title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
-      "link": "https://github.com/paoloviviani/Cerea",
-      "pubDate": "Thu, 05 Nov 2026 21:11:50 +0000",
-      "date": "Thu, 05 Nov 2026 21:11:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Here is Cerea, a self-hostable, open-source (Apache 2.0) chat+agent frontend for LLMs.\nIt works alone with any OpenAI-compatible inference provider, but it's way better when coupled with the model gateway I'm also developing, Pystino (https://github.com/paoloviviani/Pystino).\nI came to this after struggling to find a hosted chat interface that was truly open source, that I really enjoyed to use, and that was simple enough to be shared and used by family.\nIn particular, I was looking for somethin",
-      "guid": "https://news.ycombinator.com/item?id=50384502"
-    },
-    {
-      "title": "Show HN: Sandchest – Add a hacker to your team",
-      "link": "https://www.sandchest.com/",
-      "pubDate": "Thu, 05 Nov 2026 21:11:32 +0000",
-      "date": "Thu, 05 Nov 2026 21:11:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.sandchest.com/\nComments URL: https://news.ycombinator.com/item?id=50384501\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50384501"
-    },
-    {
-      "title": "Show HN: Hnollo – A Hacker News Reader in the Style of Apollo for Reddit",
-      "link": "https://hnollo.com/",
-      "pubDate": "Thu, 05 Nov 2026 21:05:29 +0000",
-      "date": "Thu, 05 Nov 2026 21:05:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I like reading Hacker News, but it's a bit harder on mobile. The gold-standard design for reading posts with a bunch of comments attached is (was) the legendary Apollo app for Reddit on iOS, and so I wanted something like that for HN.\nComments URL: https://news.ycombinator.com/item?id=50384450\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50384450"
-    },
-    {
-      "title": "Show HN: Agentshield Zero-leak kernel sandbox and secret defense for AI coding",
-      "link": "https://ritualdev.in/agentshield/",
-      "pubDate": "Thu, 05 Nov 2026 21:00:23 +0000",
-      "date": "Thu, 05 Nov 2026 21:00:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://ritualdev.in/agentshield/\nComments URL: https://news.ycombinator.com/item?id=50384401\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50384401"
-    },
-    {
-      "title": "Show HN: I made a retro game remix in under 5 minutes, 1 prompt",
-      "link": "https://bring-your-own-brain.itch.io/turtz",
-      "pubDate": "Thu, 05 Nov 2026 21:00:16 +0000",
-      "date": "Thu, 05 Nov 2026 21:00:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://bring-your-own-brain.itch.io/turtz\nComments URL: https://news.ycombinator.com/item?id=50384397\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50384397"
-    },
-    {
-      "title": "Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board",
-      "link": "https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board",
-      "pubDate": "Thu, 05 Nov 2026 20:56:14 +0000",
-      "date": "Thu, 05 Nov 2026 20:56:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "EtherPK (a markdown / wikilink based notes app) tasks are plain markdown, but the EtherPK client has built powerful functionality on top of markdown tasks, integrating a Kanban board and MCP server to allow you to manage your work in your notes and easily hand off with instruction and full task context to your AI Agent (e.g. Claude Code).\nA task in is a markdown checkbox line in your notes, written in any document, wherever and whenever the task or idea comes up. If you nest it under another tas",
-      "guid": "https://news.ycombinator.com/item?id=50384357"
-    },
-    {
-      "title": "Show HN: Lantern Lattice – the call graph from your compiler, for coding agents",
-      "link": "https://github.com/julymetodiev/lantern-lattice",
-      "pubDate": "Thu, 05 Nov 2026 20:25:46 +0000",
-      "date": "Thu, 05 Nov 2026 20:25:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/julymetodiev/lantern-lattice\nComments URL: https://news.ycombinator.com/item?id=50384015\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50384015"
-    },
-    {
-      "title": "Show HN: CalmCanary – Uptime Monitoring Tool",
-      "link": "https://www.calmcanary.co/",
-      "pubDate": "Thu, 05 Nov 2026 20:20:23 +0000",
-      "date": "Thu, 05 Nov 2026 20:20:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This is part of my experiment to see if I can build a SaaS in an agentic world.\nI've been wanting to put something out in the wild for a while. I think that although we have agents that can build stuff and deploy it to any hosting solution, we still need to be assured that the system is available and working.\nAlthough I've started with a very thin product, I'm solo building this out to support a few use-cases that I think might be quite cool.\nUnder-the-hood I've actually used Elixir to help make",
-      "guid": "https://news.ycombinator.com/item?id=50383948"
-    },
-    {
-      "title": "Show HN: Aireel.tv Paste your landing page. Get a produced promo film",
-      "link": "https://aireel.tv/",
-      "pubDate": "Thu, 05 Nov 2026 20:17:19 +0000",
-      "date": "Thu, 05 Nov 2026 20:17:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://aireel.tv/\nComments URL: https://news.ycombinator.com/item?id=50383912\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=50383912"
-    },
-    {
-      "title": "Show HN: GitHub-like reply with \"R\" for Basecamp and Slack",
-      "link": "https://github.com/nashbridges/dial-r-for-reply",
-      "pubDate": "Thu, 05 Nov 2026 20:10:18 +0000",
-      "date": "Thu, 05 Nov 2026 20:10:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hello HN!\nI wrote a browser extension (also available as a userscript) that allows to insert quotes into site's reply message box using selected text + hitting 'r' (as it's done on Github). It targets only specific sites (basecamp.com, slack.com), because that's what we use at our company daily.\nThe idea came out of my boss (who's also a good friend of mine) frustration. He always complained that Basecamp's replies are so inconvenient compared to Github's way. You have to select the quote, copy ",
-      "guid": "https://news.ycombinator.com/item?id=50383827"
-    },
-    {
-      "title": "Show HN: Zerg Client – a coding agent harness that drives its own terminal panes",
-      "link": "https://zergai.com/ztc",
-      "pubDate": "Thu, 05 Nov 2026 20:08:03 +0000",
-      "date": "Thu, 05 Nov 2026 20:08:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://zergai.com/ztc\nComments URL: https://news.ycombinator.com/item?id=50383799\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50383799"
-    },
-    {
-      "title": "Show HN: Teach a speech model (en) a name by saying it once, on your Mac",
-      "link": "https://detailkeeper.com/",
-      "pubDate": "Thu, 05 Nov 2026 20:06:33 +0000",
-      "date": "Thu, 05 Nov 2026 20:06:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I wanted to see if a speech model could spell a name better if it heard it, not just read it.\nMost STT tools handle custom words as text (keyterm list, fixing transcript after with llm, etc).\nSo I trained an adapter to try it, specifically a LoRA on Qwen3-ASR 1.7b (see benchmark). This LoRA transcribes words only after it hears a recording of each of your custom words.\nTo make this model easier to use in day-to-day life, we also built Detail Keeper. It's a Mac app where you can put this adapter ",
-      "guid": "https://news.ycombinator.com/item?id=50383785"
     },
     {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
