@@ -3,7 +3,8 @@
  * 内容(标题/摘要/评分)都在 HTML 报告页里,消息本体只做"日报已更新"的提醒;
  * 因此不再按条目推送,也就没有未推送积压。同一天只推一次。
  *
- * 用法: node scripts/push-feishu.js
+ * 用法: node scripts/push-feishu.js            → 推今天（写去重标记）
+ *      node scripts/push-feishu.js 2026-11-04  → 补推指定历史日期（不写去重标记，消息标"补发"）
  */
 const fs = require('fs');
 const path = require('path');
@@ -31,10 +32,19 @@ function dateStr() {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 }
 
+// 可选参数：补推历史日期 YYYY-MM-DD
+const argDate = process.argv[2];
+if (argDate && !/^\d{4}-\d{2}-\d{2}$/.test(argDate)) {
+  console.error('日期参数格式应为 YYYY-MM-DD');
+  process.exit(1);
+}
+const TARGET = argDate || dateStr();
+const IS_TODAY = !argDate;
+
 // 报告链接优先指向当天归档页（旧消息里的链接不随首页更新"变内容"）；归档未生成时回退首页
 function reportUrl() {
-  const archiveExists = fs.existsSync(path.join(__dirname, '..', 'docs', `${dateStr()}.html`));
-  return archiveExists ? `${SITE_BASE}${dateStr()}.html` : SITE_BASE;
+  const archiveExists = fs.existsSync(path.join(__dirname, '..', 'docs', `${TARGET}.html`));
+  return archiveExists ? `${SITE_BASE}${TARGET}.html` : SITE_BASE;
 }
 
 function readPushed() {
@@ -56,36 +66,44 @@ function main() {
   }
 
   const state = readPushed();
-  const today = dateStr();
-  if (state.reportPushedDate === today) {
+  if (IS_TODAY && state.reportPushedDate === TARGET) {
     console.log('今天已推送过日报链接，跳过');
     return;
   }
 
-  // 今日新内容条数（近 24h 有摘要的）
-  const data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8'));
-  const dayAgo = Date.now() - 24 * 3600 * 1000;
-  const count = (data.items || []).filter(
-    (i) => i.summary && new Date(i.pubDate).getTime() > dayAgo
-  ).length;
+  // 今日新内容条数（近 24h 有摘要的）；补发历史日期时不数条数——feeds.json 只留最近条目，
+  // 数出来和归档页对不上，宁可不写
+  let count = null;
+  if (IS_TODAY) {
+    const data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf-8'));
+    const dayAgo = Date.now() - 24 * 3600 * 1000;
+    count = (data.items || []).filter(
+      (i) => i.summary && new Date(i.pubDate).getTime() > dayAgo
+    ).length;
+  }
 
-  const zhToday = new Date().toLocaleDateString('zh-CN'); // 如 2026/8/24
-  const shortDate = zhToday.split('/').slice(1).join('/'); // 8/24
+  const [y, m, d] = TARGET.split('-');
+  const zhToday = `${y}/${Number(m)}/${Number(d)}`; // 如 2026/11/4
+  const shortDate = `${Number(m)}/${Number(d)}`; // 11/4
   const content = [];
-  content.push([{ tag: 'text', text: `📡 AI 资讯日报 · ${zhToday}\n今日 ${count} 条新内容已更新\n` }]);
+  const head = IS_TODAY
+    ? `📡 AI 资讯日报 · ${zhToday}\n今日 ${count} 条新内容已更新\n`
+    : `📡 AI 资讯日报 · ${zhToday}（补发）\n当日推送故障，现补发归档链接\n`;
+  content.push([{ tag: 'text', text: head }]);
   content.push([
     { tag: 'text', text: '👉 ' },
     { tag: 'a', text: `查看完整报告（${shortDate}）`, href: reportUrl() },
   ]);
 
-  const postContent = { zh_cn: { title: `AI 资讯日报 · ${zhToday}`, content } };
+  const title = IS_TODAY ? `AI 资讯日报 · ${zhToday}` : `AI 资讯日报 · ${zhToday}（补发）`;
+  const postContent = { zh_cn: { title, content } };
   const body = {
     receive_id: USER_OPEN_ID,
     msg_type: 'post',
     content: JSON.stringify(postContent),
   };
 
-  console.log(`推送日报链接通知（今日 ${count} 条）...`);
+  console.log(IS_TODAY ? `推送日报链接通知（今日 ${count} 条）...` : `补推 ${TARGET} 日报链接...`);
   try {
     const output = execFileSync(
       LARK_CLI,
@@ -101,9 +119,13 @@ function main() {
     const result = JSON.parse(output);
     if (result.ok) {
       console.log('✅ 推送成功! message_id:', result.data.message_id);
-      state.reportPushedDate = today;
-      savePushed(state);
-      console.log('已记录推送日期，今天不会重复推送');
+      if (IS_TODAY) {
+        state.reportPushedDate = TARGET;
+        savePushed(state);
+        console.log('已记录推送日期，今天不会重复推送');
+      } else {
+        console.log('补发历史日期，不写入去重标记');
+      }
     } else {
       console.error('❌ 推送失败:', (result.error && result.error.message) || output.slice(0, 200));
       process.exit(1);

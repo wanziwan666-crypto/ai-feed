@@ -67,7 +67,7 @@ if ! git symbolic-ref -q HEAD > /dev/null; then
 fi
 git checkout -- data/feed.json 2>/dev/null
 # -X theirs：冲突取本地版本。feed.json 是抓取缓存，下一步会全量重写，内容无关紧要，关键是别让 rebase 挂起
-retry 3 30 git "${GIT_NET_OPTS[@]}" pull --rebase -X theirs origin main \
+retry 3 30 run_timed 600 git "${GIT_NET_OPTS[@]}" pull --rebase -X theirs origin main \
   || echo "[1/6] git pull FAILED（已重试 3 次，继续执行，但可能与远端分叉）" >> "$LOG"
 
 # 2. 抓取原始 RSS（无 API）。抓到 0 条几乎必为网络中断，重试 3 次仍为 0 则中止整条管线
@@ -89,7 +89,8 @@ echo "[2/6] 抓到 ${N} 条" >> "$LOG"
 
 # 3. LLM 摘要
 echo "[3/6] summarize..." >> "$LOG"
-run_timed 1800 node scripts/summarize.js >> "$LOG" 2>&1 || echo "[3/6] summarize FAILED（或 1800s 看门狗超时）" >> "$LOG"
+# 3600s：glm-4.5-flash 免费档强制串行+3s 间隔，24 条实测约 38 分钟，1800s 看门狗天天误杀（2026-11-06）
+run_timed 3600 node scripts/summarize.js >> "$LOG" 2>&1 || echo "[3/6] summarize FAILED（或 3600s 看门狗超时）" >> "$LOG"
 
 # 4. 生成 HTML
 echo "[4/6] generate-html..." >> "$LOG"
@@ -101,11 +102,19 @@ TODAY=$(date +%Y-%m-%d)
 git add docs/ data/feed.json >> "$LOG" 2>&1
 git commit -m "auto: feed report ${TODAY}" >> "$LOG" 2>&1 || echo "[5/6] nothing to commit" >> "$LOG"
 # HEAD:main 显式指定目标分支：即使 HEAD 游离也能推上去，不再报 "not currently on a branch"
+# 2026-11-04~06 事故：本地一趟跑数小时时，GitHub Actions 每 6h 的 feed.json 提交必然中途插队，
+# push 报 "fetch first" 后原地重推永远失败（三天日报积压、飞书断更）。重试必须每次先 pull -X theirs 再 push。
+# run_timed 600 给每次 git 网络操作兜底：lowSpeed 只能掐"传输中变慢"，掐不了代理握手阶段的长挂起
+# （实测半死代理下单次 push 挂 3.5h，一整趟跑了 19h）。
+push_with_sync() {
+  run_timed 600 git "${GIT_NET_OPTS[@]}" pull --rebase -X theirs origin main >> "$LOG" 2>&1 \
+    && run_timed 600 git "${GIT_NET_OPTS[@]}" push origin HEAD:main >> "$LOG" 2>&1
+}
 PUSH_OK=0
-if retry 5 30 git "${GIT_NET_OPTS[@]}" push origin HEAD:main; then
+if retry 5 30 push_with_sync; then
   PUSH_OK=1
 else
-  echo "[5/6] git push FAILED（已重试 5 次；本地提交已保留，网络恢复后手动 git push origin HEAD:main 即可）" >> "$LOG"
+  echo "[5/6] git push FAILED（已重试 5 次；本地提交已保留，网络恢复后手动 git pull -X theirs + git push origin HEAD:main 即可）" >> "$LOG"
 fi
 
 # 6. 推送飞书（仅当第 5 步部署成功；push 没上去就推链接 = 推死链）
