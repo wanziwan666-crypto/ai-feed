@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T03:51:20.956Z",
+  "generatedAt": "2026-11-07T03:11:40.306Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 24,
   "items": [
     {
       "title": "Show HN: Combining Bursts of Images",
@@ -233,17 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Hi HN. I made AJX (Agent Journey Experience). It is a CLI and skill bundle that you run to test what your product feels like to use from the point of view of an agent, and you get back a list of \"asks\" that would improve your product from an agentic usability perspective: so that agents spend less time, tokens and retries to accomplish tasks with it.\nHow?\nIt works by having an outer loop (AJX harness skill + CLI) that controls an \"inner loop\": the agent that actually tries out your product. The ",
       "guid": "https://news.ycombinator.com/item?id=50399373"
-    },
-    {
-      "title": "Does Knowing a Student’s Interests Make AI More Engaging? Here’s What We Found",
-      "link": "https://blog.khanacademy.org/student-interests-ai-tutoring/",
-      "pubDate": "Fri, 06 Nov 2026 21:36:31 +0000",
-      "date": "Fri, 06 Nov 2026 21:36:31 +0000",
-      "source": "Khan Academy · Blog",
-      "category": "ai-education",
-      "icon": "🎓",
-      "contentSnippet": "By Kristen DiCerbo, Khan Academy Chief Learning Officer One of the hopes we hear often about AI is ... Read more\nThe post Does Knowing a Student’s Interests Make AI More Engaging? Here’s What We Found appeared first on Khan Academy Blog.",
-      "guid": "https://blog.khanacademy.org/?p=22662"
     },
     {
       "title": "2026.45: Falling Leaves (and Stocks)",
