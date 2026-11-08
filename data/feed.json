@@ -1,8 +1,30 @@
 {
-  "generatedAt": "2026-11-08T03:00:58.903Z",
+  "generatedAt": "2026-11-08T03:33:10.355Z",
   "lookbackHours": 24,
   "totalItems": 20,
   "items": [
+    {
+      "title": "Show HN: I'm 15 and my personal website looks like iMessage",
+      "link": "https://apanda.dev/",
+      "pubDate": "Sun, 08 Nov 2026 02:59:55 +0000",
+      "date": "Sun, 08 Nov 2026 02:59:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN! I'm Adi, I'm 15, and I live in Arizona. I made this website: https://apanda.dev/. I'm looking for feedback on how to make it better. Harsh feedback welcome :)\nComments URL: https://news.ycombinator.com/item?id=50410056\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50410056"
+    },
+    {
+      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+      "link": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+      "pubDate": "Sun, 08 Nov 2026 02:37:10 +0000",
+      "date": "Sun, 08 Nov 2026 02:37:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Miyamoto-Renya/LaplacesScissors\nComments URL: https://news.ycombinator.com/item?id=50409986\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50409986"
+    },
     {
       "title": "Show HN: Learn Languages with Dual Subtitles",
       "link": "https://news.ycombinator.com/item?id=50409716",
@@ -200,28 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://levithas.app\nComments URL: https://news.ycombinator.com/item?id=50408300\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50408300"
-    },
-    {
-      "title": "Show HN: Where Were We",
-      "link": "https://wherewerewe.app/",
-      "pubDate": "Sat, 07 Nov 2026 21:08:35 +0000",
-      "date": "Sat, 07 Nov 2026 21:08:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A little web game I made as an anniversary present for my wife.\nUpload vacation photos and make them into a game.\nWWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone.\nComments URL: https://news.ycombinator.com/item?id=50408082\nPoints: 24\n# Comments: 9",
-      "guid": "https://news.ycombinator.com/item?id=50408082"
-    },
-    {
-      "title": "Show HN: Conductor sold to Meta. Rebuilding the app (3 days, $170) (MIT)",
-      "link": "https://github.com/jahala/conducted/",
-      "pubDate": "Sat, 07 Nov 2026 20:51:05 +0000",
-      "date": "Sat, 07 Nov 2026 20:51:05 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Re: https://news.ycombinator.com/item?id=50369503#50370152\n---\nStill more to do, and lots of kinks to be worked out, but Conductor 0.92.1’s own frontend can run on this project’s Rust shell and sidecar. Every one of its on-screen strings, native commands and sidecar methods is matched or listed as a deliberate difference. On scripted scenarios, this project’s sidecar produces the same events as Conductor’s.\nDeliberate differences are documented in docs/decisions.md.\nBuilt with Opus 5.5 orchestra",
-      "guid": "https://news.ycombinator.com/item?id=50407925"
     }
   ]
 }
