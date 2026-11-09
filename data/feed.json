@@ -1,8 +1,162 @@
 {
-  "generatedAt": "2026-11-08T21:29:48.567Z",
+  "generatedAt": "2026-11-09T03:02:36.355Z",
   "lookbackHours": 24,
   "totalItems": 20,
   "items": [
+    {
+      "title": "Show HN: Jot – Select text anywhere on macOS, tap Shift twice, get Markdown",
+      "link": "https://sayjot.xyz/",
+      "pubDate": "Mon, 09 Nov 2026 02:04:31 +0000",
+      "date": "Mon, 09 Nov 2026 02:04:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://sayjot.xyz/\nComments URL: https://news.ycombinator.com/item?id=50420069\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50420069"
+    },
+    {
+      "title": "Show HN: Airlock – Policy-as-code for fleets of AI coding agents",
+      "link": "https://airlock.lunareng.com/docs",
+      "pubDate": "Mon, 09 Nov 2026 00:59:27 +0000",
+      "date": "Mon, 09 Nov 2026 00:59:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "My name is Matt and I am building Airlock. Airlock is going to be an open standard on managing autonomous fleets of engineering agents. I am seeking constructive feedback on the direction of this project and also asking what are your major pain points with managing AI use at larger businesses. Right now I am running my own company using this framework with a total of 23 workflows across four large scale projects.\nAirlock is still really early, only 3-4 weeks old.\nAirlock's configuration standard",
+      "guid": "https://news.ycombinator.com/item?id=50419615"
+    },
+    {
+      "title": "Show HN: Replay your Claude Code logs to count parallel session collisions",
+      "link": "https://github.com/dooly6276/claude-bulkhead",
+      "pubDate": "Mon, 09 Nov 2026 00:55:37 +0000",
+      "date": "Mon, 09 Nov 2026 00:55:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/dooly6276/claude-bulkhead\nComments URL: https://news.ycombinator.com/item?id=50419582\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50419582"
+    },
+    {
+      "title": "Show HN: Midgarth Quest. Browser-Playable Mmorpg Written by AI",
+      "link": "https://midgarth.quest/",
+      "pubDate": "Mon, 09 Nov 2026 00:50:13 +0000",
+      "date": "Mon, 09 Nov 2026 00:50:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Tolkien-flavoured MMORPG in the style of Tibia. Deep mechanics and lore.\nQuests, sprites, spells, multiple races. Written entirely by AI. Playable in the browser.\nComments URL: https://news.ycombinator.com/item?id=50419542\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50419542"
+    },
+    {
+      "title": "Show HN: TabVault – Export Chrome Tab Groups to Obsidian as Markdown",
+      "link": "https://github.com/aryamantepal/tabvault",
+      "pubDate": "Mon, 09 Nov 2026 00:18:44 +0000",
+      "date": "Mon, 09 Nov 2026 00:18:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/aryamantepal/tabvault\nComments URL: https://news.ycombinator.com/item?id=50419299\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50419299"
+    },
+    {
+      "title": "Show HN: Velorki - open-source bike navigation that works with just your phone",
+      "link": "https://velorki.com",
+      "pubDate": "Sun, 08 Nov 2026 23:49:43 +0000",
+      "date": "Sun, 08 Nov 2026 23:49:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://velorki.com\nComments URL: https://news.ycombinator.com/item?id=50419025\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50419025"
+    },
+    {
+      "title": "Show HN:Free Web Tools",
+      "link": "https://nyneon.net/tools/",
+      "pubDate": "Sun, 08 Nov 2026 22:42:12 +0000",
+      "date": "Sun, 08 Nov 2026 22:42:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://nyneon.net/tools/\nComments URL: https://news.ycombinator.com/item?id=50418253\nPoints: 3\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=50418253"
+    },
+    {
+      "title": "Show HN: My first project, an AI-powered financial news analyzer",
+      "link": "https://github.com/lamarcol/NotBot",
+      "pubDate": "Sun, 08 Nov 2026 22:34:06 +0000",
+      "date": "Sun, 08 Nov 2026 22:34:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I'm 17, and I started NotBot a few months ago to see whether I could turn an idea into a working project. My main interest is economics, not becoming a programmer, but I enjoy experimenting with code.\nA few months ago, I had the idea of creating a program that would analyze the most recent news about a specific stock and calculate a weighted average of their polarity to create a sort of sentiment indicator.\nWhile researching, I found a YouTube video about creating a simple GitHub repository that",
+      "guid": "https://news.ycombinator.com/item?id=50418158"
+    },
+    {
+      "title": "Show HN: Remedy – Prompt stuff out of your feeds",
+      "link": "https://getremedyapp.com",
+      "pubDate": "Sun, 08 Nov 2026 22:16:21 +0000",
+      "date": "Sun, 08 Nov 2026 22:16:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built an AI classifier chrome extension with Jev to insta-remove stuff from all your feeds before you see it.\nJust change the prompt to anything you want like \"remove ragebait\" or \"remove political stuff\" and it works fast.\nEnjoy!\nComments URL: https://news.ycombinator.com/item?id=50417974\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50417974"
+    },
+    {
+      "title": "Show HN: Record, branch, and compare command runs in stdlib-only Python",
+      "link": "https://github.com/Protention/ocura-oss",
+      "pubDate": "Sun, 08 Nov 2026 21:58:08 +0000",
+      "date": "Sun, 08 Nov 2026 21:58:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi, this is a package I developed for keeping track of short toy-model development cycles and explaining what changed between runs.\nThe core idea: commands run through the package, and their declared parameters (or injected parameters with --substitute) and outcomes go into a dependency-free ledger stored in the project. Because that ledger lives in the project directory, it has worked well for passing context between different agents. I’ve also found some use for it in CI work.\nComments URL: ht",
+      "guid": "https://news.ycombinator.com/item?id=50417782"
+    },
+    {
+      "title": "Show HN: Fireside Folio – free books, comics and news editions for reMarkable",
+      "link": "https://firesidefolio.com/",
+      "pubDate": "Sun, 08 Nov 2026 21:39:05 +0000",
+      "date": "Sun, 08 Nov 2026 21:39:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I own a reMarkable 2 and wanted more to read on it than my own PDFs, so I built a free web app. You connect your tablet once with the official one-time code, then:\n- Send any of 79,000+ public-domain books (Standard Ebooks first, plus Project Gutenberg, Wikisource and OpenStax textbooks).\n- Get comics (xkcd volumes with the hover text, Pepper&Carrot, pre-1931 strips) and 33,000+ magazine issues from 1930 and earlier, re-rendered for e-ink.\n- Get puzzle books (sudoku with unique solutions, mazes,",
+      "guid": "https://news.ycombinator.com/item?id=50417585"
+    },
+    {
+      "title": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
+      "link": "https://github.com/SafeScript/safescript",
+      "pubDate": "Sun, 08 Nov 2026 21:26:33 +0000",
+      "date": "Sun, 08 Nov 2026 21:26:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/SafeScript/safescript\nComments URL: https://news.ycombinator.com/item?id=50417478\nPoints: 9\n# Comments: 7",
+      "guid": "https://news.ycombinator.com/item?id=50417478"
+    },
+    {
+      "title": "Show HN: A kernel written in Rust that can boot Ubuntu with Plasma desktop",
+      "link": "https://github.com/ozkl/ruxis",
+      "pubDate": "Sun, 08 Nov 2026 21:25:54 +0000",
+      "date": "Sun, 08 Nov 2026 21:25:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Ruxis is a kernel written by Opus 5.5\nIt implements Linux syscalls so that Linux programs can run on it.\nCurrently, x86_64 and arm64 architectures are supported.\nComments URL: https://news.ycombinator.com/item?id=50417467\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50417467"
+    },
+    {
+      "title": "Show HN: A free Gameboy–style music tracker in the browser with shareable URLs",
+      "link": "https://chiptunes.studio/",
+      "pubDate": "Sun, 08 Nov 2026 20:43:09 +0000",
+      "date": "Sun, 08 Nov 2026 20:43:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built a 4-channel music tracker modeled on the original Game Boy's sound hardware: two pulse channels, a wave channel, and noise. It runs entirely in the browser using the Web Audio API, with no account or backend.\nSongs save to localStorage, and share links compress the whole song into the URL hash, so sharing never touches a server. You can also export WAV, M4A, or a square MP4 of the rows playing.\nIt ships with 3 demo songs to show what it can do. I’m a developer, not a composer, so I made ",
+      "guid": "https://news.ycombinator.com/item?id=50416992"
+    },
     {
       "title": "Show HN: Bulk-harden all your GitHub repos' settings without an API token",
       "link": "https://gist.github.com/1ch4k/ba726954db1cc509c2071d54f93b5304",
@@ -11,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://gist.github.com/1ch4k/ba726954db1cc509c2071d54f93b5304\nComments URL: https://news.ycombinator.com/item?id=50416829\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://gist.github.com/1ch4k/ba726954db1cc509c2071d54f93b5304\nComments URL: https://news.ycombinator.com/item?id=50416829\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50416829"
     },
     {
@@ -22,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/alam00000/bentopdf-hyper-compress\nComments URL: https://news.ycombinator.com/item?id=50416782\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/alam00000/bentopdf-hyper-compress\nComments URL: https://news.ycombinator.com/item?id=50416782\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50416782"
     },
     {
@@ -68,160 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://github.com/postboy/roguehike\nComments URL: https://news.ycombinator.com/item?id=50416492\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50416492"
-    },
-    {
-      "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
-      "link": "https://vynyo.com",
-      "pubDate": "Sun, 08 Nov 2026 19:49:45 +0000",
-      "date": "Sun, 08 Nov 2026 19:49:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://vynyo.com\nComments URL: https://news.ycombinator.com/item?id=50416470\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50416470"
-    },
-    {
-      "title": "Show HN: Tab-league – archive Chrome tabs locally so closing them feels safe",
-      "link": "https://github.com/Shann5/tab-league",
-      "pubDate": "Sun, 08 Nov 2026 19:27:58 +0000",
-      "date": "Sun, 08 Nov 2026 19:27:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Shann5/tab-league\nComments URL: https://news.ycombinator.com/item?id=50416248\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50416248"
-    },
-    {
-      "title": "Show HN: Models Engineering Index",
-      "link": "https://git-aarvin.github.io/mei/",
-      "pubDate": "Sun, 08 Nov 2026 19:15:01 +0000",
-      "date": "Sun, 08 Nov 2026 19:15:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Mei—or, the Models Engineering Index—calculates language models' practical performance on engineering tasks.\nComments URL: https://news.ycombinator.com/item?id=50416107\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50416107"
-    },
-    {
-      "title": "Show HN: Nexjoin – A C++ remote desktop alternative (Windows XP+, macOS 10.13)",
-      "link": "https://nexjoin.io/README.html",
-      "pubDate": "Sun, 08 Nov 2026 18:57:22 +0000",
-      "date": "Sun, 08 Nov 2026 18:57:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nexjoin.io/README.html\nComments URL: https://news.ycombinator.com/item?id=50415946\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50415946"
-    },
-    {
-      "title": "Show HN: LLM-cost-watch – Ask Claude why your LLM bill jumped",
-      "link": "https://github.com/rohith0707/llm-cost-watch",
-      "pubDate": "Sun, 08 Nov 2026 18:39:34 +0000",
-      "date": "Sun, 08 Nov 2026 18:39:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/rohith0707/llm-cost-watch\nComments URL: https://news.ycombinator.com/item?id=50415785\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50415785"
-    },
-    {
-      "title": "Show HN: Hackertube for Roku TV",
-      "link": "https://github.com/piyushkhemka/hackertube-roku-app",
-      "pubDate": "Sun, 08 Nov 2026 18:33:34 +0000",
-      "date": "Sun, 08 Nov 2026 18:33:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Karpathy recently built Hackertube.\nI watch a lot of Youtube on my TV and wanted to replace that with hackertube, so I built a roku app for this.\nI have not published it to Roku store yet, but it is available for sideload.\nComments URL: https://news.ycombinator.com/item?id=50415745\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50415745"
-    },
-    {
-      "title": "Show HN: Is your product AI slop?",
-      "link": "https://slopcalculator.com/",
-      "pubDate": "Sun, 08 Nov 2026 18:32:31 +0000",
-      "date": "Sun, 08 Nov 2026 18:32:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://slopcalculator.com/\nComments URL: https://news.ycombinator.com/item?id=50415740\nPoints: 3\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50415740"
-    },
-    {
-      "title": "Show HN: Elo Ratings for Tests, ODIs, and T20Is",
-      "link": "https://outside-edge.github.io/side_order/",
-      "pubDate": "Sun, 08 Nov 2026 18:29:42 +0000",
-      "date": "Sun, 08 Nov 2026 18:29:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://outside-edge.github.io/side_order/\nComments URL: https://news.ycombinator.com/item?id=50415725\nPoints: 3\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50415725"
-    },
-    {
-      "title": "Show HN: 3-SAT: Let me show you 500K variables",
-      "link": "https://zenodo.org/records/23933428",
-      "pubDate": "Sun, 08 Nov 2026 18:20:56 +0000",
-      "date": "Sun, 08 Nov 2026 18:20:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Not theory.\nComments URL: https://news.ycombinator.com/item?id=50415664\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50415664"
-    },
-    {
-      "title": "Show HN: Recto – A tool that lets you visually edit what coding agents create",
-      "link": "https://recto.design/",
-      "pubDate": "Sun, 08 Nov 2026 18:17:30 +0000",
-      "date": "Sun, 08 Nov 2026 18:17:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://recto.design/\nComments URL: https://news.ycombinator.com/item?id=50415638\nPoints: 7\n# Comments: 4",
-      "guid": "https://news.ycombinator.com/item?id=50415638"
-    },
-    {
-      "title": "Show HN: Notekpr – An open-source, E2EE alternative to Notion and Obsidian",
-      "link": "https://notekpr.md",
-      "pubDate": "Sun, 08 Nov 2026 18:10:29 +0000",
-      "date": "Sun, 08 Nov 2026 18:10:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://notekpr.md\nComments URL: https://news.ycombinator.com/item?id=50415581\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50415581"
-    },
-    {
-      "title": "Show HN: Figma for Investing",
-      "link": "https://www.aulico.com/tradespaces/new",
-      "pubDate": "Sun, 08 Nov 2026 18:04:23 +0000",
-      "date": "Sun, 08 Nov 2026 18:04:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.aulico.com/tradespaces/new\nComments URL: https://news.ycombinator.com/item?id=50415544\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50415544"
-    },
-    {
-      "title": "Show HN: Email-like interface to review, decide, and annotate agent work",
-      "link": "https://plannotator.ai/inbox/",
-      "pubDate": "Sun, 08 Nov 2026 17:57:01 +0000",
-      "date": "Sun, 08 Nov 2026 17:57:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "There is some recent discourse about what a \"better\" interface for humans managing agents looks like. Email/inboxes have come up, and it's reinforcing the premise of thing i've been building. e.g.\n  - https://x.com/brian_armstrong/status/2119112609223827547\n  - https://x.com/rough__sea/status/2119288646671155217?a=KRzp4CnuV6SijzvCTUw&s=20\n\nThe email inbox model is intuitive, but so could be \"forums\", slack-like, or other surfaces feel right.\nI do not believe we will be working in coding sessions",
-      "guid": "https://news.ycombinator.com/item?id=50415476"
-    },
-    {
-      "title": "Show HN: 25 LTC Bounty to find a bug in Lean 4 formal Yang-Mills proof",
-      "link": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
-      "pubDate": "Sun, 08 Nov 2026 17:56:19 +0000",
-      "date": "Sun, 08 Nov 2026 17:56:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Dr-Logvinovich/round-square/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=50415474\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50415474"
     }
   ]
 }
