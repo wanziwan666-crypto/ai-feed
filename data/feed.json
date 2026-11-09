@@ -1,8 +1,41 @@
 {
-  "generatedAt": "2026-11-09T03:02:36.355Z",
+  "generatedAt": "2026-11-09T03:47:50.294Z",
   "lookbackHours": 24,
   "totalItems": 20,
   "items": [
+    {
+      "title": "Show HN: A web based client for the 1995 virtual world WorldsAway",
+      "link": "https://worldsaway.app/",
+      "pubDate": "Mon, 09 Nov 2026 02:56:09 +0000",
+      "date": "Mon, 09 Nov 2026 02:56:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://worldsaway.app/\nComments URL: https://news.ycombinator.com/item?id=50420455\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50420455"
+    },
+    {
+      "title": "Show HN: ICC display calibration QR code markers",
+      "link": "https://iccqr.github.io",
+      "pubDate": "Mon, 09 Nov 2026 02:43:53 +0000",
+      "date": "Mon, 09 Nov 2026 02:43:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://iccqr.github.io\nComments URL: https://news.ycombinator.com/item?id=50420362\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50420362"
+    },
+    {
+      "title": "Show HN: NLP capabilities of Opus, Astra, Argon measured by Codenames skills",
+      "link": "https://wordspies.com/hn",
+      "pubDate": "Mon, 09 Nov 2026 02:30:51 +0000",
+      "date": "Mon, 09 Nov 2026 02:30:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hello Show HN,\nI'm a college student, and I enjoy playing word games like Codenames, but it can be hard sometimes to find enough people to play when everyone is available, so I made an app that allows you to fill any seat with an AI teammate and also play against AI. This way it allows for people to get the full strategic experience of codenames just on their own.\nThrough this experiment, I was also able to measure and benchmark a few different LLMs through AWS Bedrock API calls and give them EL",
+      "guid": "https://news.ycombinator.com/item?id=50420270"
+    },
     {
       "title": "Show HN: Jot – Select text anywhere on macOS, tap Shift twice, get Markdown",
       "link": "https://sayjot.xyz/",
@@ -11,7 +44,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://sayjot.xyz/\nComments URL: https://news.ycombinator.com/item?id=50420069\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://sayjot.xyz/\nComments URL: https://news.ycombinator.com/item?id=50420069\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50420069"
     },
     {
@@ -132,7 +165,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/SafeScript/safescript\nComments URL: https://news.ycombinator.com/item?id=50417478\nPoints: 9\n# Comments: 7",
+      "contentSnippet": "Article URL: https://github.com/SafeScript/safescript\nComments URL: https://news.ycombinator.com/item?id=50417478\nPoints: 10\n# Comments: 8",
       "guid": "https://news.ycombinator.com/item?id=50417478"
     },
     {
@@ -189,39 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://playground.alephapc.com/\nComments URL: https://news.ycombinator.com/item?id=50416757\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50416757"
-    },
-    {
-      "title": "Show HN: Claude Opus 5.5 (Max) best at generating startup ideas",
-      "link": "https://asiprize.com/",
-      "pubDate": "Sun, 08 Nov 2026 20:11:32 +0000",
-      "date": "Sun, 08 Nov 2026 20:11:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://asiprize.com/\nComments URL: https://news.ycombinator.com/item?id=50416651\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50416651"
-    },
-    {
-      "title": "Show HN: A medieval world where growth and citizens are pure functions of time",
-      "link": "https://github.com/retrogames23/samenland",
-      "pubDate": "Sun, 08 Nov 2026 19:56:25 +0000",
-      "date": "Sun, 08 Nov 2026 19:56:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/retrogames23/samenland\nComments URL: https://news.ycombinator.com/item?id=50416538\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50416538"
-    },
-    {
-      "title": "Show HN: Minimalistic roguelike game about hiking in Clojure",
-      "link": "https://github.com/postboy/roguehike",
-      "pubDate": "Sun, 08 Nov 2026 19:51:55 +0000",
-      "date": "Sun, 08 Nov 2026 19:51:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/postboy/roguehike\nComments URL: https://news.ycombinator.com/item?id=50416492\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50416492"
     }
   ]
 }
