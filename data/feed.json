@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-10T22:40:18.436Z",
+  "generatedAt": "2026-11-11T03:53:01.531Z",
   "lookbackHours": 24,
   "totalItems": 26,
   "items": [
     {
       "title": "google-deepmind/mujoco",
       "link": "https://github.com/google-deepmind/mujoco",
-      "pubDate": "2026-11-10T22:40:16.730Z",
-      "date": "2026-11-10T22:40:16.730Z",
+      "pubDate": "2026-11-11T03:52:59.198Z",
+      "date": "2026-11-11T03:52:59.198Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,125 +15,224 @@
       "guid": "https://github.com/google-deepmind/mujoco"
     },
     {
-      "title": "Show HN: CodeLens AI-Augmented Code Review Tool",
-      "link": "https://github.com/blong8334/codeLens",
-      "pubDate": "Tue, 10 Nov 2026 21:36:32 +0000",
-      "date": "Tue, 10 Nov 2026 21:36:32 +0000",
+      "title": "Show HN: Crayon, the web's first personalized newspaper (1995), relaunched",
+      "link": "https://crayon.net/relaunch",
+      "pubDate": "Wed, 11 Nov 2026 03:09:07 +0000",
+      "date": "Wed, 11 Nov 2026 03:09:07 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "As AI writes more code, the bottleneck has become human-driven code reviews. Code Lens serves to aid that task by augmenting the review outside of line-level AI feedback. Check it out and let me know what you think. Thanks.\nTry it on a public PR: npx @blong8334/codelens pr https://github.com/expressjs/express/pull/7574\nComments URL: https://news.ycombinator.com/item?id=50446651\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50446651"
+      "contentSnippet": "In 1995 I co-built CRAYON (CReAte Your Own Newspaper) - the first personalized news service on the web. 650k people made papers. The Perl CGI site ran, barely, for 31 years. I've now rebuilt it: stories ranked by independent-source count instead of an editor or engagement algorithm, every side of every story on one page. Your 1996 password still works, and every subscriber can open their original paper as a time capsule - dead sources marked \"lost to time.\"\nComments URL: https://news.ycombinator",
+      "guid": "https://news.ycombinator.com/item?id=50449339"
     },
     {
-      "title": "Show HN: AI agents that barter your stuff for things you want",
-      "link": "https://barterpilot.com/",
-      "pubDate": "Tue, 10 Nov 2026 21:36:17 +0000",
-      "date": "Tue, 10 Nov 2026 21:36:17 +0000",
+      "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
+      "link": "https://naklecha.com/research/caramel-1",
+      "pubDate": "Wed, 11 Nov 2026 03:05:24 +0000",
+      "date": "Wed, 11 Nov 2026 03:05:24 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://barterpilot.com/\nComments URL: https://news.ycombinator.com/item?id=50446649\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50446649"
+      "contentSnippet": "I trained a speech-to-speech model last night, inspired by Dessa. I'm calling the model caramel-1. The model learned from recordings of people talking and nothing else, and has never seen a single word of text. The code, the training recipe and the weights are open source.\ncaramel-1 sounds incredibly human. Most of what caramel-1 says doesn't make sense yet, but the sentences make a little more sense every time I add more data.\nCaramel is fast. On a GPU, caramel-1 makes 1 second of audio in abou",
+      "guid": "https://news.ycombinator.com/item?id=50449320"
     },
     {
-      "title": "Show HN: Tinctile – hex grid color puzzle that you solve using counts",
-      "link": "https://crossnum.com/tinctile",
-      "pubDate": "Tue, 10 Nov 2026 21:32:11 +0000",
-      "date": "Tue, 10 Nov 2026 21:32:11 +0000",
+      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+      "link": "https://taipeiledger.com/gpu/",
+      "pubDate": "Wed, 11 Nov 2026 02:50:01 +0000",
+      "date": "Wed, 11 Nov 2026 02:50:01 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "A coloring puzzle on a hex board with numbers telling you how many of each color go in a line. What's interesting is that were it a square grid you'd need additional clues on the board. The fact that three lines pass through each hex cell makes it possible to start with a completely empty board, which is pretty neat.\nComments URL: https://news.ycombinator.com/item?id=50446597\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50446597"
+      "contentSnippet": "Article URL: https://taipeiledger.com/gpu/\nComments URL: https://news.ycombinator.com/item?id=50449232\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50449232"
     },
     {
-      "title": "Show HN: Notebook AI – local-first meeting notes for Mac",
-      "link": "https://github.com/sridharchaildn/notebook-ai",
-      "pubDate": "Tue, 10 Nov 2026 21:31:17 +0000",
-      "date": "Tue, 10 Nov 2026 21:31:17 +0000",
+      "title": "Show HN: A company running in an AI harness",
+      "link": "https://restless.run/",
+      "pubDate": "Wed, 11 Nov 2026 02:06:59 +0000",
+      "date": "Wed, 11 Nov 2026 02:06:59 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sridharchaildn/notebook-ai\nComments URL: https://news.ycombinator.com/item?id=50446588\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50446588"
+      "contentSnippet": "Article URL: https://restless.run/\nComments URL: https://news.ycombinator.com/item?id=50448988\nPoints: 2\n# Comments: 3",
+      "guid": "https://news.ycombinator.com/item?id=50448988"
     },
     {
-      "title": "Show HN: Tellable – For students: offline TTS that highlights every word in PDFs",
-      "link": "https://apps.apple.com/us/app/tellable-offline-read-aloud/id6822751387",
-      "pubDate": "Tue, 10 Nov 2026 21:21:25 +0000",
-      "date": "Tue, 10 Nov 2026 21:21:25 +0000",
+      "title": "Show HN: HC – a HyperCard clone that runs original stacks on today's Macs",
+      "link": "https://hc.labynet.fr/en.html",
+      "pubDate": "Wed, 11 Nov 2026 01:45:22 +0000",
+      "date": "Wed, 11 Nov 2026 01:45:22 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/tellable-offline-read-aloud/id6822751387\nComments URL: https://news.ycombinator.com/item?id=50446468\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50446468"
+      "contentSnippet": "Article URL: https://hc.labynet.fr/en.html\nComments URL: https://news.ycombinator.com/item?id=50448850\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50448850"
     },
     {
-      "title": "Show HN: Aisync, advisory file claims so two AI agents don't edit one repo",
-      "link": "https://github.com/MaxonT/aisync",
-      "pubDate": "Tue, 10 Nov 2026 21:13:03 +0000",
-      "date": "Tue, 10 Nov 2026 21:13:03 +0000",
+      "title": "Show HN: Kotlean: write Android apps in Lean",
+      "link": "https://github.com/kbr-/kotlean",
+      "pubDate": "Wed, 11 Nov 2026 01:33:41 +0000",
+      "date": "Wed, 11 Nov 2026 01:33:41 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/MaxonT/aisync\nComments URL: https://news.ycombinator.com/item?id=50446378\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50446378"
+      "contentSnippet": "Article URL: https://github.com/kbr-/kotlean\nComments URL: https://news.ycombinator.com/item?id=50448775\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50448775"
     },
     {
-      "title": "Show HN: Sprites. A calm, streak free habit tracker",
-      "link": "https://play.google.com/store/apps/details?id=net.retcurve.sprites&hl=en_US",
-      "pubDate": "Tue, 10 Nov 2026 20:51:25 +0000",
-      "date": "Tue, 10 Nov 2026 20:51:25 +0000",
+      "title": "Show HN: Broken links silently waste your Google crawl budget",
+      "link": "https://sitetoolsbox.com/article.php?id=55",
+      "pubDate": "Wed, 11 Nov 2026 01:29:28 +0000",
+      "date": "Wed, 11 Nov 2026 01:29:28 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://play.google.com/store/apps/details?id=net.retcurve.sprites&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=50446158\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50446158"
+      "contentSnippet": "Article URL: https://sitetoolsbox.com/article.php?id=55\nComments URL: https://news.ycombinator.com/item?id=50448736\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50448736"
     },
     {
-      "title": "Show HN: Cloakroom – Keeps secrets away from agents",
-      "link": "https://github.com/shanjeevrajendran/cloakroom",
-      "pubDate": "Tue, 10 Nov 2026 20:39:46 +0000",
-      "date": "Tue, 10 Nov 2026 20:39:46 +0000",
+      "title": "Show HN: Vaultbase – a self-hosted back end in a single binary",
+      "link": "https://github.com/vaultbase-sh/vaultbase",
+      "pubDate": "Wed, 11 Nov 2026 01:07:35 +0000",
+      "date": "Wed, 11 Nov 2026 01:07:35 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Cloakroom is an open-source privacy tool that masks secrets and sensitive data from AI agents. It swaps real values for placeholders, then swaps them back to the originals locally.\nI was trying to build a full on local LLM setup on my machine, but the local models were not up to the mark (at least, not yet). I ended up building a hybrid setup, with the cloud for planning and local models for execution. I realized I needed a privacy layer so cloud models could not access sensitive data, and I bui",
-      "guid": "https://news.ycombinator.com/item?id=50446007"
+      "contentSnippet": "One binary to run and you have a full backend at your fingertips: a database with a REST API, sign-in, realtime, files, server-side hooks and jobs, on SQLite or Postgres. It's MIT licensed.\nYou can try the demo at https://demo.vaultbase.sh (the login is filled in, and it resets every hour).\nI built it to ship fast. I always tend to write the same logic for any new project, whether it's a side project or a small to medium project for a client. I wanted something my friends and I could work with f",
+      "guid": "https://news.ycombinator.com/item?id=50448562"
     },
     {
-      "title": "Show HN: why use many tools when one do trick",
-      "link": "https://docktopus.app/#features",
-      "pubDate": "Tue, 10 Nov 2026 20:29:25 +0000",
-      "date": "Tue, 10 Nov 2026 20:29:25 +0000",
+      "title": "Show HN: Code-to-ERD tool that only renders the tables you're currently editing",
+      "link": "https://sqlestev.com",
+      "pubDate": "Wed, 11 Nov 2026 00:58:57 +0000",
+      "date": "Wed, 11 Nov 2026 00:58:57 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://docktopus.app/#features\nComments URL: https://news.ycombinator.com/item?id=50445864\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50445864"
+      "contentSnippet": "Article URL: https://sqlestev.com\nComments URL: https://news.ycombinator.com/item?id=50448489\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50448489"
     },
     {
-      "title": "Show HN: Graphon Labs now leads 7 benchmarks on Memory and raised $35M Series-A",
-      "link": "https://www.graphonlabs.ai/#benchmarks",
-      "pubDate": "Tue, 10 Nov 2026 20:22:18 +0000",
-      "date": "Tue, 10 Nov 2026 20:22:18 +0000",
+      "title": "Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+      "link": "https://www.rystic.ai",
+      "pubDate": "Wed, 11 Nov 2026 00:44:10 +0000",
+      "date": "Wed, 11 Nov 2026 00:44:10 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.graphonlabs.ai/#benchmarks\nComments URL: https://news.ycombinator.com/item?id=50445779\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50445779"
+      "contentSnippet": "Hi HN, we're Zach and Evan, founders of Rystic (https://www.rystic.ai). As LLMs have progressed, producing code has become fast and cheap but verification has not. At my previous company I noticed that whenever I could test a service locally or in CI this bottleneck went away. If a service needed to use a shared sandbox or staging environment to run integration tests, verification was a huge pain. At Rystic we are taking that idea and applying it to every third-party service. We are trying to gi",
+      "guid": "https://news.ycombinator.com/item?id=50448400"
     },
     {
-      "title": "Show HN: Zeus – Claude Code for AI voice agents",
-      "link": "https://thunderphone.com/blog/introducing-zeus",
-      "pubDate": "Tue, 10 Nov 2026 20:20:03 +0000",
-      "date": "Tue, 10 Nov 2026 20:20:03 +0000",
+      "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+      "link": "https://mimzie.com/",
+      "pubDate": "Wed, 11 Nov 2026 00:29:45 +0000",
+      "date": "Wed, 11 Nov 2026 00:29:45 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://thunderphone.com/blog/introducing-zeus\nComments URL: https://news.ycombinator.com/item?id=50445758\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50445758"
+      "contentSnippet": "hi HN!\nI built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork.\nIt's a free desktop app that runs ChatGPT, Claude, Gemini, and Grok in their native CLI harnesses. Think T3 Code or Conductor but for knowledge work. It's basically a GUI for managing knowledge work agents in various form factors. One of those form factors is Bots, akin to Grok Bot or Dots.\nThe original idea for mimzie was simple: I pay for Claude and ChatGPT, and a lot of my day-",
+      "guid": "https://news.ycombinator.com/item?id=50448283"
+    },
+    {
+      "title": "Show HN: PeepNote – Local desktop notes for saving and reusing LLM responses",
+      "link": "https://github.com/OddlyGoods/peep-note",
+      "pubDate": "Wed, 11 Nov 2026 00:14:18 +0000",
+      "date": "Wed, 11 Nov 2026 00:14:18 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/OddlyGoods/peep-note\nComments URL: https://news.ycombinator.com/item?id=50448161\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50448161"
+    },
+    {
+      "title": "Show HN: FilmCraft – Free open-source video editor in Rust, like Premiere",
+      "link": "https://filmcraft.tech/",
+      "pubDate": "Wed, 11 Nov 2026 00:11:47 +0000",
+      "date": "Wed, 11 Nov 2026 00:11:47 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://filmcraft.tech/\nComments URL: https://news.ycombinator.com/item?id=50448135\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50448135"
+    },
+    {
+      "title": "Show HN: PDFMeasure – Measure PDF files in the browser",
+      "link": "https://pdfmeasure.com/",
+      "pubDate": "Wed, 11 Nov 2026 00:03:13 +0000",
+      "date": "Wed, 11 Nov 2026 00:03:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi HN, sharing a little app I built to measure architectural drawings in the browser. My architects on a remodel had this fancy software to do it, but I was frustrated to not be able to do the same easily.\nIt does much of what the more complex software does: measure distance, surface areas, perimeters, angles; markup; takeoff (count & run lengths), ...etc. I even built an overlay feature to compare two pages.\nIn this age of AI, I think simple software such as this can only ever be free. How do y",
+      "guid": "https://news.ycombinator.com/item?id=50448062"
+    },
+    {
+      "title": "Show HN: Cinnamon AI – an agent for your household",
+      "link": "https://getcinnamon.ai/",
+      "pubDate": "Tue, 10 Nov 2026 23:45:15 +0000",
+      "date": "Tue, 10 Nov 2026 23:45:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50447925\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50447925"
+    },
+    {
+      "title": "Show HN: A map of skate parks and spots",
+      "link": "https://nollie.city/spots/LDN-5",
+      "pubDate": "Tue, 10 Nov 2026 23:31:36 +0000",
+      "date": "Tue, 10 Nov 2026 23:31:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi all, I made a map that shows you skate parks and spots of London with all the features you can find in each.\nComments URL: https://news.ycombinator.com/item?id=50447812\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50447812"
+    },
+    {
+      "title": "Show HN: Socialize/Presence multiplayer interaction on blog posts",
+      "link": "https://namar0x0309.com/blog/2026/05/the-kind-of-ai-adoption-i-actually-believe-in/",
+      "pubDate": "Tue, 10 Nov 2026 23:21:13 +0000",
+      "date": "Tue, 10 Nov 2026 23:21:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "\"It's not who I am underneath, but what I do that defines me.\" - Batman Begins\nOr, more appropriately:\nIt's not what AI / LLM / harness I use underneath, but what I do with it that defines me.\nI'm kinda tired of hearing about AI. After all, it's just a tool (okay, a BIG, BIG tool!).\nPoint still stands. Let's hear less about the tools and more about what we're doing with them to push boundaries, challenge assumptions, and rethink what's possible.\nUnfortunately, I'm still a few weeks away from mak",
+      "guid": "https://news.ycombinator.com/item?id=50447724"
+    },
+    {
+      "title": "Show HN: Codemm – your coding agent writes exercises, a sandbox rejects bad ones",
+      "link": "https://github.com/iignaite/Codemm",
+      "pubDate": "Tue, 10 Nov 2026 23:11:42 +0000",
+      "date": "Tue, 10 Nov 2026 23:11:42 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/iignaite/Codemm\nComments URL: https://news.ycombinator.com/item?id=50447636\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50447636"
+    },
+    {
+      "title": "Show HN: Python tool using torus math to audit duplex DNA against NCBI",
+      "link": "https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md",
+      "pubDate": "Tue, 10 Nov 2026 22:52:13 +0000",
+      "date": "Tue, 10 Nov 2026 22:52:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Dr-Logvinovich/codon-torus-syntax/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=50447426\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50447426"
+    },
+    {
+      "title": "Show HN: Python suite for spectral geometry analysis of 1.5M+ MPCORB orbits",
+      "link": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/blob/main/README.md",
+      "pubDate": "Tue, 10 Nov 2026 22:48:11 +0000",
+      "date": "Tue, 10 Nov 2026 22:48:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=50447386\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50447386"
     },
     {
       "title": "llm-gemini 0.36",
@@ -147,105 +246,6 @@
       "guid": "https://simonwillison.net/2026/Nov/10/llm-gemini/"
     },
     {
-      "title": "Show HN: Incremental Delta-Bar-Delta (Sutton's 1992 Rule) in Rust",
-      "link": "https://github.com/minikin/idbd",
-      "pubDate": "Tue, 10 Nov 2026 20:08:54 +0000",
-      "date": "Tue, 10 Nov 2026 20:08:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/minikin/idbd\nComments URL: https://news.ycombinator.com/item?id=50445615\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50445615"
-    },
-    {
-      "title": "Show HN: Dizata, Social Modelling and Reference Site",
-      "link": "https://dizata.com/d",
-      "pubDate": "Tue, 10 Nov 2026 20:03:40 +0000",
-      "date": "Tue, 10 Nov 2026 20:03:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://dizata.com/d\nComments URL: https://news.ycombinator.com/item?id=50445550\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50445550"
-    },
-    {
-      "title": "Show HN: A clean-room Red Alert 2: Yuri's Revenge engine remake (Rust,wgpu,WASM)",
-      "link": "https://github.com/egeozcan/glasnost",
-      "pubDate": "Tue, 10 Nov 2026 20:03:18 +0000",
-      "date": "Tue, 10 Nov 2026 20:03:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi everyone, I have been working on this for some time. It still has some bugs but I find it quite playable. The lack of remastered Red Alert 2 had been bothering me, that and other remakes I've seen done by Opus motivated me to start this project. This is clean-room in the sense that the speccer agent never communicated with the implementer and there was a scrubber in the middle. Please let me know what you think.\nComments URL: https://news.ycombinator.com/item?id=50445542\nPoints: 2\n# Comments:",
-      "guid": "https://news.ycombinator.com/item?id=50445542"
-    },
-    {
-      "title": "Show HN: I pasted 16 form generators' output into a blank page – none send",
-      "link": "https://formgong.com/en/tools/html-form-generator/",
-      "pubDate": "Tue, 10 Nov 2026 19:59:38 +0000",
-      "date": "Tue, 10 Nov 2026 19:59:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://formgong.com/en/tools/html-form-generator/\nComments URL: https://news.ycombinator.com/item?id=50445502\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50445502"
-    },
-    {
-      "title": "Show HN: BuildBakery, cloud builds for iOS, Android, desktop from a YAML recipe",
-      "link": "https://buildbakery.com/",
-      "pubDate": "Tue, 10 Nov 2026 19:45:13 +0000",
-      "date": "Tue, 10 Nov 2026 19:45:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://buildbakery.com/\nComments URL: https://news.ycombinator.com/item?id=50445318\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50445318"
-    },
-    {
-      "title": "Show HN: Small Wiki – a localized wiki/knowledge graph to your interest",
-      "link": "https://nreff.github.io/small-wiki/",
-      "pubDate": "Tue, 10 Nov 2026 19:36:52 +0000",
-      "date": "Tue, 10 Nov 2026 19:36:52 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://nreff.github.io/small-wiki/\nComments URL: https://news.ycombinator.com/item?id=50445191\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50445191"
-    },
-    {
-      "title": "Show HN: Lovable for Photoshop",
-      "link": "https://pixlpal.com/",
-      "pubDate": "Tue, 10 Nov 2026 19:20:18 +0000",
-      "date": "Tue, 10 Nov 2026 19:20:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Lovable for Photo Editing. Think of it like having an AI agent use photoshop in front of you.\nJust like with Lovable and vibe-coding, AI image editing is getting popular because it allows people to create beautiful edits of their photos without that specific domain expertise.\nHowever, the problem with AI image editing approaches right now is that they regenerate the photo. This approach is prone to mistakes such as the image generation model adding or removing certain details, or introducing dif",
-      "guid": "https://news.ycombinator.com/item?id=50444931"
-    },
-    {
-      "title": "Show HN: Umless, open-source on-device dictation that writes what you meant",
-      "link": "https://github.com/jatinbishla/Umless",
-      "pubDate": "Tue, 10 Nov 2026 19:18:30 +0000",
-      "date": "Tue, 10 Nov 2026 19:18:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/jatinbishla/Umless\nComments URL: https://news.ycombinator.com/item?id=50444913\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=50444913"
-    },
-    {
-      "title": "Show HN: WallHang – Plan a gallery wall and get exact nail positions (iOS)",
-      "link": "https://wallhang.app",
-      "pubDate": "Tue, 10 Nov 2026 19:18:18 +0000",
-      "date": "Tue, 10 Nov 2026 19:18:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wallhang.app\nComments URL: https://news.ycombinator.com/item?id=50444909\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50444909"
-    },
-    {
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
       "pubDate": "Tue, 10 Nov 2026 13:10:00 +0000",
@@ -255,6 +255,17 @@
       "icon": "🔬",
       "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
       "guid": "https://www.technologyreview.com/?p=1148150"
+    },
+    {
+      "title": "Student Engagement Strategies: Adaptive AI for Reading",
+      "link": "https://www.coolcatteacher.com/e1027/",
+      "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000",
+      "date": "Tue, 10 Nov 2026 12:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nStudent Engagement Strategies: Adaptive AI for Reading | 10MT\nThe post Student Engagement Strategies: Adaptive AI for Reading appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every day. Meow!\nIf you're seeing this on another site, they are \"scraping\" my feed and taking my content to present it to y",
+      "guid": "https://www.coolcatteacher.com/?p=35737"
     },
     {
       "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
@@ -277,17 +288,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/"
-    },
-    {
-      "title": "Locating the source of a mysterious beep with Claude",
-      "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "pubDate": "2026-11-09T23:57:21.000Z",
-      "date": "2026-11-09T23:57:21.000Z",
-      "source": "Simon Willison",
-      "category": "builders",
-      "icon": "🛠️",
-      "contentSnippet": "",
-      "guid": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
     }
   ]
 }
