@@ -1,18 +1,227 @@
 {
-  "generatedAt": "2026-11-11T23:52:44.956Z",
+  "generatedAt": "2026-11-12T05:00:38.622Z",
   "lookbackHours": 24,
-  "totalItems": 26,
+  "totalItems": 25,
   "items": [
     {
       "title": "google-deepmind/mujoco",
       "link": "https://github.com/google-deepmind/mujoco",
-      "pubDate": "2026-11-11T23:52:42.845Z",
-      "date": "2026-11-11T23:52:42.845Z",
+      "pubDate": "2026-11-12T05:00:36.690Z",
+      "date": "2026-11-12T05:00:36.690Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Multi-Joint dynamics with Contact. A general purpose physics simulator.\nhttps://mujoco.org\n\n  \n \n             \n \nMuJoCo stands for Multi-Joint dynamics with Contact. It is a general purpose physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, machine learning, and other areas which demand fast and accurate simulation of articulated structures interacting with their environment.\n \nThis repository is maintained by Google DeepMind.\n \nMuJ",
       "guid": "https://github.com/google-deepmind/mujoco"
+    },
+    {
+      "title": "Show HN: Free image compressor that never uploads your photos",
+      "link": "https://swearbyte.com/tools-hub/image-compressor/",
+      "pubDate": "Thu, 12 Nov 2026 04:09:10 +0000",
+      "date": "Thu, 12 Nov 2026 04:09:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://swearbyte.com/tools-hub/image-compressor/\nComments URL: https://news.ycombinator.com/item?id=50462977\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462977"
+    },
+    {
+      "title": "Show HN: SwearByte – free tools that run in the browser",
+      "link": "https://swearbyte.com/",
+      "pubDate": "Thu, 12 Nov 2026 04:06:30 +0000",
+      "date": "Thu, 12 Nov 2026 04:06:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://swearbyte.com/\nComments URL: https://news.ycombinator.com/item?id=50462961\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462961"
+    },
+    {
+      "title": "Show HN: Rusty Valve – Chemical plant valve benchmark where ACT scores 0/36",
+      "link": "https://github.com/rusty-valve/rusty-valve",
+      "pubDate": "Thu, 12 Nov 2026 03:39:33 +0000",
+      "date": "Thu, 12 Nov 2026 03:39:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/rusty-valve/rusty-valve\nComments URL: https://news.ycombinator.com/item?id=50462776\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462776"
+    },
+    {
+      "title": "Show HN: App to help parents find, plan, and review outings with their kids",
+      "link": "https://sproutings.app/",
+      "pubDate": "Thu, 12 Nov 2026 03:31:00 +0000",
+      "date": "Thu, 12 Nov 2026 03:31:00 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Background: My wife and I have 4 boys 4 and under, so we have to get them out of the house consistently to stay sane. Finding good places to take them can be a frustrating process that involves digging through Facebook groups and Google/Yelp reviews that aren't always relevant for parents.\nThe idea: An app that has reviews of places to take your kids by parents. No AI generated magic, just real people documenting their experience. Sproutings has a map of places parents have been with some ideas ",
+      "guid": "https://news.ycombinator.com/item?id=50462714"
+    },
+    {
+      "title": "Show HN: Eyes-free spoken N-Back where you choose the words (single HTML file)",
+      "link": "https://vernetit.github.io/spoken-n-back/",
+      "pubDate": "Thu, 12 Nov 2026 03:14:08 +0000",
+      "date": "Thu, 12 Nov 2026 03:14:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vernetit.github.io/spoken-n-back/\nComments URL: https://news.ycombinator.com/item?id=50462590\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50462590"
+    },
+    {
+      "title": "Show HN: Paper Radar – daily ArXiv triage, now runs on Claude Haiku too",
+      "link": "https://github.com/Eliot5566/JEV-Paper-Radar",
+      "pubDate": "Thu, 12 Nov 2026 03:05:49 +0000",
+      "date": "Thu, 12 Nov 2026 03:05:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Eliot5566/JEV-Paper-Radar\nComments URL: https://news.ycombinator.com/item?id=50462542\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462542"
+    },
+    {
+      "title": "Show HN: Four Seasons in Real Time",
+      "link": "https://vivaldirt.stream/",
+      "pubDate": "Thu, 12 Nov 2026 02:53:27 +0000",
+      "date": "Thu, 12 Nov 2026 02:53:27 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vivaldirt.stream/\nComments URL: https://news.ycombinator.com/item?id=50462470\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462470"
+    },
+    {
+      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+      "link": "https://github.com/DaleFranks/ramasite",
+      "pubDate": "Thu, 12 Nov 2026 02:53:22 +0000",
+      "date": "Thu, 12 Nov 2026 02:53:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/DaleFranks/ramasite\nComments URL: https://news.ycombinator.com/item?id=50462469\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50462469"
+    },
+    {
+      "title": "Show HN: VpsPilot, Manage a Linux VPS from Android, with undo for config changes",
+      "link": "https://vpspilot.app/",
+      "pubDate": "Thu, 12 Nov 2026 02:52:21 +0000",
+      "date": "Thu, 12 Nov 2026 02:52:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vpspilot.app/\nComments URL: https://news.ycombinator.com/item?id=50462460\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462460"
+    },
+    {
+      "title": "Show HN: OpenSwells – free, open-source surf forecasts for 5,800 spots",
+      "link": "https://openswells.com/",
+      "pubDate": "Thu, 12 Nov 2026 02:42:53 +0000",
+      "date": "Thu, 12 Nov 2026 02:42:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://openswells.com/\nComments URL: https://news.ycombinator.com/item?id=50462415\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50462415"
+    },
+    {
+      "title": "Show HN: gethome – a local-first smart home hub with AI",
+      "link": "https://github.com/gethome-inc/gethome-hub",
+      "pubDate": "Thu, 12 Nov 2026 02:00:51 +0000",
+      "date": "Thu, 12 Nov 2026 02:00:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/gethome-inc/gethome-hub\nComments URL: https://news.ycombinator.com/item?id=50462079\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462079"
+    },
+    {
+      "title": "Show HN: Motion Debugger – A browser critic for AI slop",
+      "link": "https://github.com/ShadowKingYT444/motion-debugger",
+      "pubDate": "Thu, 12 Nov 2026 01:53:52 +0000",
+      "date": "Thu, 12 Nov 2026 01:53:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Built a tool to unslop UI and add cool motion.\nIt's an open-source workflow for coding agents, using Chromium to inspect the rendered site, catch broken animations, overlapping elements, layout issues, and other visual problems, then gives the agent feedback to fix them.\na/b tests are in the repo.\nComments URL: https://news.ycombinator.com/item?id=50462023\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50462023"
+    },
+    {
+      "title": "Show HN: Receipts, agent skills that make PRDs and metrics cite their evidence",
+      "link": "https://github.com/aliraza2025/receipts",
+      "pubDate": "Thu, 12 Nov 2026 01:51:05 +0000",
+      "date": "Thu, 12 Nov 2026 01:51:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/aliraza2025/receipts\nComments URL: https://news.ycombinator.com/item?id=50461995\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50461995"
+    },
+    {
+      "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
+      "link": "https://github.com/yakkomajuri/lynx",
+      "pubDate": "Thu, 12 Nov 2026 01:26:11 +0000",
+      "date": "Thu, 12 Nov 2026 01:26:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx.\nLynx lets you quickly build fully custom interfaces connected to your data sources (e.g. via MCP or API) and trigger agents running on your machine from them (e.g. with Claude Code or Codex).\nI built it as an experiment but have found myself doing 80-90% of my work from inside Lynx. I have my own Conductor",
+      "guid": "https://news.ycombinator.com/item?id=50461775"
+    },
+    {
+      "title": "Show HN: Litek8s – Kubernetes API in one Rust binary, 23 MiB idle",
+      "link": "https://litek8s.dev/",
+      "pubDate": "Thu, 12 Nov 2026 01:21:59 +0000",
+      "date": "Thu, 12 Nov 2026 01:21:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://litek8s.dev/\nComments URL: https://news.ycombinator.com/item?id=50461743\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50461743"
+    },
+    {
+      "title": "Show HN: Just Dashboard, an open-source VPS management dashboard",
+      "link": "https://github.com/JustDashboard/Just-Dashboard",
+      "pubDate": "Thu, 12 Nov 2026 01:12:39 +0000",
+      "date": "Thu, 12 Nov 2026 01:12:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/JustDashboard/Just-Dashboard\nComments URL: https://news.ycombinator.com/item?id=50461645\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50461645"
+    },
+    {
+      "title": "Show HN: Tsfm-pg: Run Chronos-2/Timestral forecasts inside Postgres with SQL",
+      "link": "https://github.com/barddoo/tsfm-pg",
+      "pubDate": "Thu, 12 Nov 2026 00:00:31 +0000",
+      "date": "Thu, 12 Nov 2026 00:00:31 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/barddoo/tsfm-pg\nComments URL: https://news.ycombinator.com/item?id=50460864\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50460864"
+    },
+    {
+      "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+      "link": "https://acneally.vercel.app",
+      "pubDate": "Wed, 11 Nov 2026 23:49:11 +0000",
+      "date": "Wed, 11 Nov 2026 23:49:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I’ve had acne for 10 years and I'm so exhausted of dont know what happened. \nSo, I'm building AcneAlly to learn you overtime to figure out what's causing your acne, and to give personalized support. \nInstead of  tracking your skin or logging daily habits, you can just talk or interact with it like a companion. You can share about your acne, share your concerns, or ask anything you want. Based on what you share, it uses Al to reasoning to make guesses about what could be causing your acne. As you",
+      "guid": "https://news.ycombinator.com/item?id=50460717"
+    },
+    {
+      "title": "Show HN: W-ISA – An instruction set for programming LLM weights",
+      "link": "https://github.com/eax/w-isa",
+      "pubDate": "Wed, 11 Nov 2026 23:47:21 +0000",
+      "date": "Wed, 11 Nov 2026 23:47:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/eax/w-isa\nComments URL: https://news.ycombinator.com/item?id=50460697\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50460697"
     },
     {
       "title": "Show HN: Fortnite Chest Counter – track every chest, loot odds, no login",
@@ -26,72 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=50460552"
     },
     {
-      "title": "Show HN: Dogfood Bench",
-      "link": "https://solomon-b.github.io/dogfood-bench/",
-      "pubDate": "Wed, 11 Nov 2026 23:16:57 +0000",
-      "date": "Wed, 11 Nov 2026 23:16:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "*This is just for fun.*\nAnthropic builds Claude Code with Claude Code. If AI makes software engineers more productive, the effect should show up in the claude-code issue tracker. This page measures it.\nComments URL: https://news.ycombinator.com/item?id=50460339\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50460339"
-    },
-    {
-      "title": "Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns",
-      "link": "https://github.com/adeptads/agent-skills",
-      "pubDate": "Wed, 11 Nov 2026 23:11:38 +0000",
-      "date": "Wed, 11 Nov 2026 23:11:38 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/adeptads/agent-skills\nComments URL: https://news.ycombinator.com/item?id=50460287\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50460287"
-    },
-    {
-      "title": "Show HN: SilentStars – Lesser-known open-source projects still being built",
-      "link": "https://silentstars.dev/",
-      "pubDate": "Wed, 11 Nov 2026 23:11:21 +0000",
-      "date": "Wed, 11 Nov 2026 23:11:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://silentstars.dev/\nComments URL: https://news.ycombinator.com/item?id=50460285\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50460285"
-    },
-    {
-      "title": "Show HN: Lettercamp – open-source static blog framework",
-      "link": "https://github.com/lettercamp/lettercamp",
-      "pubDate": "Wed, 11 Nov 2026 22:50:50 +0000",
-      "date": "Wed, 11 Nov 2026 22:50:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nI’m Eric and I’m building Lettercamp, an open-source static blog framework. The repo is at https://github.com/lettercamp/lettercamp and the homepage is online at https://www.lettercamp.com.\nWriting good content has always been the #1 way that I’ve grown the reach of products I’ve worked on in the past. However, it’s always bothered me how many little things get in the way of writing and publishing high quality, first party content onto the web.\nBuilding a performant, SEO-optimized blog fr",
-      "guid": "https://news.ycombinator.com/item?id=50459988"
-    },
-    {
-      "title": "Show HN: Cryptography Playground, a Rust/Tauri notebook for toy ciphers",
-      "link": "https://github.com/zevarix/cryptography-playground",
-      "pubDate": "Wed, 11 Nov 2026 22:20:32 +0000",
-      "date": "Wed, 11 Nov 2026 22:20:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/zevarix/cryptography-playground\nComments URL: https://news.ycombinator.com/item?id=50459537\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50459537"
-    },
-    {
-      "title": "Show HN: Whole Body Compute: A local 5-organ runtime for coding agents on Mac",
-      "link": "https://github.com/wholebodycompute/whole-body-compute",
-      "pubDate": "Wed, 11 Nov 2026 22:04:32 +0000",
-      "date": "Wed, 11 Nov 2026 22:04:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/wholebodycompute/whole-body-compute\nComments URL: https://news.ycombinator.com/item?id=50459328\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50459328"
-    },
-    {
       "title": "Gemini Decisions API",
       "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
       "pubDate": "2026-11-11T22:03:25.000Z",
@@ -101,149 +244,6 @@
       "icon": "🛠️",
       "contentSnippet": "",
       "guid": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
-    },
-    {
-      "title": "Show HN: Try a Mac file assistant in the browser, nothing uploaded",
-      "link": "https://whizra.com/sandbox/",
-      "pubDate": "Wed, 11 Nov 2026 21:59:57 +0000",
-      "date": "Wed, 11 Nov 2026 21:59:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://whizra.com/sandbox/\nComments URL: https://news.ycombinator.com/item?id=50459273\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50459273"
-    },
-    {
-      "title": "Show HN: Zumungo – AI-driven home automation",
-      "link": "https://zumungo.com/get-started.html",
-      "pubDate": "Wed, 11 Nov 2026 21:58:28 +0000",
-      "date": "Wed, 11 Nov 2026 21:58:28 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Just released Zumungo AI driven Home Automation zumungo.com. Zumungo uses the power and flexibility of well established open source projects such as HomeAssitant, Frigate, Whisper, go2rtc, Piper, Open AI, Ollama, etc. It wraps everything in easy to use user interface for non professional users. In addition Zumungo allows users to add their own devices that are not part of the catalog. Of course Zumungo is full blown Home Automation platform and has build-in servers for managing all IoT protocols",
-      "guid": "https://news.ycombinator.com/item?id=50459255"
-    },
-    {
-      "title": "Show HN: Groma.md – live c4 architecture diagram for your codebase",
-      "link": "https://github.com/MrLesk/Groma.md",
-      "pubDate": "Wed, 11 Nov 2026 21:51:46 +0000",
-      "date": "Wed, 11 Nov 2026 21:51:46 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Uses offline, deterministic scanners to produce a live architecture diagram that listens to file changes, staying up to date as you or your AI agents write code. It also includes architecture diffs between commits.\nComments URL: https://news.ycombinator.com/item?id=50459194\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50459194"
-    },
-    {
-      "title": "Show HN: Move more with short random exercise challenges",
-      "link": "https://www.sporadic.app/",
-      "pubDate": "Wed, 11 Nov 2026 21:31:25 +0000",
-      "date": "Wed, 11 Nov 2026 21:31:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Background: I've been working on Sporadic for years, while software engineering has been my full-time job. That means this code is mine, and I know it well since it was built in the pre-AI era. However, AI has allowed me to expand the features to a place where I am more confident in sharing it.\nWhy: As an engineer, I sit and look at a screen all day. My brother is a graphic designer and does the same. Our goal was to build an app to get us on our feet, and one where we could do it together. What",
-      "guid": "https://news.ycombinator.com/item?id=50458986"
-    },
-    {
-      "title": "Show HN: Presence – full duplex video agent that demos your product",
-      "link": "https://presence.bohita.com/",
-      "pubDate": "Wed, 11 Nov 2026 21:30:08 +0000",
-      "date": "Wed, 11 Nov 2026 21:30:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "hi HN\nlots of talk of full duplex video agent, so here is one that you add to your product today. And cheaply.\nWhy? so it can see what the user is doing and respond accordingly. It sits with your user why they try your product and lets you know when they are confused. Can even jump in and debug with screen share.\nwhat it gets you: a demo that runs for the user without you having to check\nhow to use: give your favorite coding agent the docs, it looks at your docs and creates it.\nWhere it loses: W",
-      "guid": "https://news.ycombinator.com/item?id=50458968"
-    },
-    {
-      "title": "Show HN: Open HashLMG – Local Motion Graphics by models on your device",
-      "link": "https://github.com/Hash-7777/open-Hash-LMG",
-      "pubDate": "Wed, 11 Nov 2026 21:30:07 +0000",
-      "date": "Wed, 11 Nov 2026 21:30:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "The user can edit txt and colors and timeline and sound too like a pro video editor, its free and open source and under development for further powerful capabilities :)\nComments URL: https://news.ycombinator.com/item?id=50458967\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50458967"
-    },
-    {
-      "title": "Show HN: Listeners blind-ranked 32 ElevenLabs voices; the pro tier lost",
-      "link": "https://woodstitch.com/research/which-elevenlabs-voice-is-best-for-audiobooks",
-      "pubDate": "Wed, 11 Nov 2026 21:27:42 +0000",
-      "date": "Wed, 11 Nov 2026 21:27:42 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://woodstitch.com/research/which-elevenlabs-voice-is-best-for-audiobooks\nComments URL: https://news.ycombinator.com/item?id=50458929\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50458929"
-    },
-    {
-      "title": "Show HN: Sandbox-check – Does your locked-down container reach cloud metadata?",
-      "link": "https://github.com/humanethq/sandbox-check",
-      "pubDate": "Wed, 11 Nov 2026 21:23:34 +0000",
-      "date": "Wed, 11 Nov 2026 21:23:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/humanethq/sandbox-check\nComments URL: https://news.ycombinator.com/item?id=50458891\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50458891"
-    },
-    {
-      "title": "Show HN: Version History for Your Synced Notes (AI Agent Safety)",
-      "link": "https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents",
-      "pubDate": "Wed, 11 Nov 2026 21:19:24 +0000",
-      "date": "Wed, 11 Nov 2026 21:19:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "In addition to real-time multiplayer collaboration, your markdown notes in a synced graph in EtherPK - https://app.etherpk.com now keep a version history for every page and journal entry. It also keeps the pages, journal entries and files you delete, so you can restore them if needed.\nVersioning is an especially important piece of functionality along side AI agent editing or your notes. While versioning is a useful feature for human editing, it becomes more important when AI Agents have the capa",
-      "guid": "https://news.ycombinator.com/item?id=50458841"
-    },
-    {
-      "title": "Show HN: Igloo – Self-hosted data warehouse built on DuckDB",
-      "link": "https://github.com/akkio-inc/igloo",
-      "pubDate": "Wed, 11 Nov 2026 21:17:44 +0000",
-      "date": "Wed, 11 Nov 2026 21:17:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made a database (based on DuckDB) because Snowflake and Databricks is insanely expensive. It's open source and in testing it's 3x faster and 25x lower cost.\nComments URL: https://news.ycombinator.com/item?id=50458810\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50458810"
-    },
-    {
-      "title": "Show HN: Gongu, USCIS processing times next to community-reported waits",
-      "link": "https://gongu.xyz",
-      "pubDate": "Wed, 11 Nov 2026 21:03:01 +0000",
-      "date": "Wed, 11 Nov 2026 21:03:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://gongu.xyz\nComments URL: https://news.ycombinator.com/item?id=50458617\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50458617"
-    },
-    {
-      "title": "Show HN: PoLibre – FOSS .po editor for machine assisted translation",
-      "link": "https://github.com/LibreTranslate/PoLibre",
-      "pubDate": "Wed, 11 Nov 2026 20:58:16 +0000",
-      "date": "Wed, 11 Nov 2026 20:58:16 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Simply the .po editor I've always wanted. Hope others find it useful.\nComments URL: https://news.ycombinator.com/item?id=50458578\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50458578"
-    },
-    {
-      "title": "Show HN: Friday, Claude Code, Codex and Cursor as one team (open source)",
-      "link": "https://github.com/splashxmoon/friday",
-      "pubDate": "Wed, 11 Nov 2026 20:37:09 +0000",
-      "date": "Wed, 11 Nov 2026 20:37:09 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/splashxmoon/friday\nComments URL: https://news.ycombinator.com/item?id=50458331\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50458331"
     },
     {
       "title": "How to Help Struggling Readers Without Embarrassing Them",
@@ -277,17 +277,6 @@
       "icon": "📊",
       "contentSnippet": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
       "guid": "https://stratechery.com/?p=21146"
-    },
-    {
-      "title": "The Day the Take-Home Essay Died: How I Stopped Grading AI and Started Designing Real Learning",
-      "link": "https://www.edsurge.com/news/the-day-the-take-home-essay-died-how-i-stopped-grading-ai-and-started-designing-real-learning",
-      "pubDate": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "date": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "source": "EdSurge · Education Tech",
-      "category": "ai-education",
-      "icon": "📚",
-      "contentSnippet": "When generative AI exposed the flaws in my traditional assignments, I redesigned student learning experiences — turning AI from a cheating tool to a ...",
-      "guid": "post-guid-20CbA1"
     }
   ]
 }
