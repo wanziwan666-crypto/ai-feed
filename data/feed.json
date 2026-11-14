@@ -1,18 +1,172 @@
 {
-  "generatedAt": "2026-11-13T23:03:08.596Z",
+  "generatedAt": "2026-11-14T04:12:30.611Z",
   "lookbackHours": 24,
-  "totalItems": 25,
+  "totalItems": 24,
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
       "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "pubDate": "2026-11-13T23:03:07.481Z",
-      "date": "2026-11-13T23:03:07.481Z",
+      "pubDate": "2026-11-14T04:12:28.822Z",
+      "date": "2026-11-14T04:12:28.822Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nhttps://goo.gle/modern-web-guidance\n\n Modern Web Guidance (Source)\n \nThis repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.\n \nModern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding agents",
       "guid": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "title": "Show HN: Back endskills – agent skills for safer auth, data and migration code",
+      "link": "https://github.com/globalmpc/backendskills",
+      "pubDate": "Sat, 14 Nov 2026 03:32:05 +0000",
+      "date": "Sat, 14 Nov 2026 03:32:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/globalmpc/backendskills\nComments URL: https://news.ycombinator.com/item?id=50493538\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50493538"
+    },
+    {
+      "title": "Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)",
+      "link": "https://browserr.dev",
+      "pubDate": "Sat, 14 Nov 2026 03:22:22 +0000",
+      "date": "Sat, 14 Nov 2026 03:22:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://browserr.dev\nComments URL: https://news.ycombinator.com/item?id=50493464\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50493464"
+    },
+    {
+      "title": "Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget",
+      "link": "https://github.com/open-geocode-rs/open-geocode",
+      "pubDate": "Sat, 14 Nov 2026 03:17:15 +0000",
+      "date": "Sat, 14 Nov 2026 03:17:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/open-geocode-rs/open-geocode\nComments URL: https://news.ycombinator.com/item?id=50493418\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50493418"
+    },
+    {
+      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+      "link": "https://opencyclone.vercel.app/",
+      "pubDate": "Sat, 14 Nov 2026 02:46:12 +0000",
+      "date": "Sat, 14 Nov 2026 02:46:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://opencyclone.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50493213\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50493213"
+    },
+    {
+      "title": "Show HN: RemoteKu – Desktop Roku remote and live ECP keyboard deck for Mac/PC",
+      "link": "https://github.com/KevinOBytes/remoteku",
+      "pubDate": "Sat, 14 Nov 2026 01:21:23 +0000",
+      "date": "Sat, 14 Nov 2026 01:21:23 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/KevinOBytes/remoteku\nComments URL: https://news.ycombinator.com/item?id=50492532\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50492532"
+    },
+    {
+      "title": "Show HN: Light control for MacBook charger status light (open-source)",
+      "link": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
+      "pubDate": "Sat, 14 Nov 2026 00:44:58 +0000",
+      "date": "Sat, 14 Nov 2026 00:44:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "For anyone who wants to control their MacBook charger light. For me, my MacBook lives in my bedroom most nights on charge and the light is quite bright. Config allows on/off automation with time, focus status, or persistently on/off. Open to features / suggestions via Github\nComments URL: https://news.ycombinator.com/item?id=50492269\nPoints: 13\n# Comments: 6",
+      "guid": "https://news.ycombinator.com/item?id=50492269"
+    },
+    {
+      "title": "Show HN: Xdoc – High-fidelity Offline PPTX viewer and pdf converter",
+      "link": "https://structurify.io/en/playground/",
+      "pubDate": "Sat, 14 Nov 2026 00:44:58 +0000",
+      "date": "Sat, 14 Nov 2026 00:44:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Some showcase could be found here:\nhttps://structurify.io/en/showcases/\nComments URL: https://news.ycombinator.com/item?id=50492268\nPoints: 6\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50492268"
+    },
+    {
+      "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
+      "link": "https://kingstonyip.com/portal2bench",
+      "pubDate": "Sat, 14 Nov 2026 00:40:55 +0000",
+      "date": "Sat, 14 Nov 2026 00:40:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://kingstonyip.com/portal2bench\nComments URL: https://news.ycombinator.com/item?id=50492238\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50492238"
+    },
+    {
+      "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
+      "link": "https://github.com/memrohq/memro",
+      "pubDate": "Sat, 14 Nov 2026 00:20:15 +0000",
+      "date": "Sat, 14 Nov 2026 00:20:15 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Memro is go bases persistent memory system that lets ai agents share context acssion session using mcp, built on top of postgreSQL\nComments URL: https://news.ycombinator.com/item?id=50492093\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50492093"
+    },
+    {
+      "title": "Show HN: Building a list of places to launch your app",
+      "link": "https://another.directory/where-to-launch",
+      "pubDate": "Sat, 14 Nov 2026 00:18:06 +0000",
+      "date": "Sat, 14 Nov 2026 00:18:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "It's manually reviewed (with AI help ofc) and I'll keep it up to date. Feel free to add your suggestions.\nComments URL: https://news.ycombinator.com/item?id=50492076\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50492076"
+    },
+    {
+      "title": "Show HN: String#to_proc` to Help Traversing JSON",
+      "link": "https://github.com/samleb/schmuck",
+      "pubDate": "Fri, 13 Nov 2026 23:59:03 +0000",
+      "date": "Fri, 13 Nov 2026 23:59:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've resuscitated a project I was working on years ago.\nI was tired of having nested `flat_map` making my code basically unreadable just to fetch a simple value.\nThe idea is to make simple & readable the traversing of deeply nested structures like JSON responses, while staying in Ruby & keeping its flexibility. Here it goes:\n    graphql_response.then(&'[data][repository][issues][edges]*([node][title])')\n    # => [\"Support negative indexes\", \"Document aggregates\"]\n\n    github_prs_response.then(&'",
+      "guid": "https://news.ycombinator.com/item?id=50491929"
+    },
+    {
+      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
+      "link": "https://news.ycombinator.com/item?id=50491841",
+      "pubDate": "Fri, 13 Nov 2026 23:50:03 +0000",
+      "date": "Fri, 13 Nov 2026 23:50:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement.\nAt https://mediationbench.com/, there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits. \nAzure for OpenAI and Anthropic have both provided token credits. (Thank You!)\nThe research paper is there as well.\nThere have been efforts to use LLMs to lie and play di",
+      "guid": "https://news.ycombinator.com/item?id=50491841"
+    },
+    {
+      "title": "Show HN: Anvil builds premium websites at lower cost",
+      "link": "https://www.tryanvil.dev/",
+      "pubDate": "Fri, 13 Nov 2026 23:42:35 +0000",
+      "date": "Fri, 13 Nov 2026 23:42:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Anvil is an AI app builder focused on premium UI/UX  without the premium price tags. Build polished websites by using natural language with with real project execution, live previews and  automated error correction. Plans starts at $1 for 7 days with 1M tokens. Built independently from Africa in Zambia.\nComments URL: https://news.ycombinator.com/item?id=50491776\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50491776"
+    },
+    {
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "link": "https://grounds.top/",
+      "pubDate": "Fri, 13 Nov 2026 23:17:39 +0000",
+      "date": "Fri, 13 Nov 2026 23:17:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://grounds.top/\nComments URL: https://news.ycombinator.com/item?id=50491545\nPoints: 57\n# Comments: 10",
+      "guid": "https://news.ycombinator.com/item?id=50491545"
     },
     {
       "title": "Show HN: FrontierBioML – Can coding agents do ML for computational biology?",
@@ -22,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.frontierbioml.com/\nComments URL: https://news.ycombinator.com/item?id=50491060\nPoints: 1\n# Comments: 2",
+      "contentSnippet": "Article URL: https://www.frontierbioml.com/\nComments URL: https://news.ycombinator.com/item?id=50491060\nPoints: 2\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=50491060"
     },
     {
@@ -33,7 +187,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://play-netwar.com/?from=hn\nComments URL: https://news.ycombinator.com/item?id=50491021\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://play-netwar.com/?from=hn\nComments URL: https://news.ycombinator.com/item?id=50491021\nPoints: 7\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50491021"
     },
     {
@@ -55,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://midicompanion.revisitedlabs.com/\nComments URL: https://news.ycombinator.com/item?id=50490362\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://midicompanion.revisitedlabs.com/\nComments URL: https://news.ycombinator.com/item?id=50490362\nPoints: 1\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50490362"
     },
     {
@@ -81,160 +235,6 @@
       "guid": "https://news.ycombinator.com/item?id=50489829"
     },
     {
-      "title": "Show HN: Replicate, turn Webflow website into a GitHub project (free)",
-      "link": "https://twitter.com/mathewpregasen/status/2121349682920386653",
-      "pubDate": "Fri, 13 Nov 2026 21:15:26 +0000",
-      "date": "Fri, 13 Nov 2026 21:15:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Sharing Replicate. This was a hard project to build, but it takes any website built in a website builder and reconstructs it in code, for free. It does CDN mirroring, CMS reconstruction, and recreates even animations. That way, you can migrate off website builders and start afresh with Claude Code or Codex.\nComments URL: https://news.ycombinator.com/item?id=50489784\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50489784"
-    },
-    {
-      "title": "Show HN: Harness Relay – the coding agents you have, working together",
-      "link": "https://agentic-system-lab.github.io/harness-relay/",
-      "pubDate": "Fri, 13 Nov 2026 21:01:02 +0000",
-      "date": "Fri, 13 Nov 2026 21:01:02 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "If you already have multiple coding agents(one kind of agent also works though), you should really look into this project! It's a desktop app that brings coding agents working together, with user experience similar to ChatGPT!\nOne kind of agent is enough for an agent team: all of one kind, or any mix of Claude Code, Codex, Grok, Cursor Agent, Antigravity, GitHub Copilot CLI, Muse Code and five open-source coding agents on your own model backends. For each question, the lead agent designs the tea",
-      "guid": "https://news.ycombinator.com/item?id=50489587"
-    },
-    {
-      "title": "Show HN: Copper-KiCad – MCP to design PCBs in KiCad better and cheaper",
-      "link": "https://github.com/claynicholson/copper-kicad-mcp",
-      "pubDate": "Fri, 13 Nov 2026 20:59:49 +0000",
-      "date": "Fri, 13 Nov 2026 20:59:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/claynicholson/copper-kicad-mcp\nComments URL: https://news.ycombinator.com/item?id=50489574\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50489574"
-    },
-    {
-      "title": "Show HN: I have trained a model to predict my blood sugar",
-      "link": "https://github.com/0xdeadf1sh/T1DMAI",
-      "pubDate": "Fri, 13 Nov 2026 20:53:10 +0000",
-      "date": "Fri, 13 Nov 2026 20:53:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I have trained a custom 31,253 parameter encoder-only transformer on a pregenerated synthetic CGM dataset and fitted it to my own personal data using LoRA. It is competitive among other published models. I used 115 days of CGM data, of which 80 was used for training the adapter and 35 for testing. The model began with a pretraining stage where it consumed ~19,200 CGM-years worth of synthetic data, consisting of 1 million simulated type 1 diabetics at 7 days each. The simulator is designed to aid",
-      "guid": "https://news.ycombinator.com/item?id=50489490"
-    },
-    {
-      "title": "Show HN: Bloomline, a Small Puzzle Game",
-      "link": "https://matthewoldach.com/play/bloomline/",
-      "pubDate": "Fri, 13 Nov 2026 20:51:33 +0000",
-      "date": "Fri, 13 Nov 2026 20:51:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://matthewoldach.com/play/bloomline/\nComments URL: https://news.ycombinator.com/item?id=50489468\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50489468"
-    },
-    {
-      "title": "Show HN: Free AI Image Gallery",
-      "link": "https://images.skynettstudio.com/",
-      "pubDate": "Fri, 13 Nov 2026 20:51:08 +0000",
-      "date": "Fri, 13 Nov 2026 20:51:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://images.skynettstudio.com/\nComments URL: https://news.ycombinator.com/item?id=50489463\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50489463"
-    },
-    {
-      "title": "Show HN: Little Boxes, 20 Tic Tac Toe variants (and counting)",
-      "link": "https://apps.apple.com/fr/app/little-boxes/id6777767346",
-      "pubDate": "Fri, 13 Nov 2026 20:35:48 +0000",
-      "date": "Fri, 13 Nov 2026 20:35:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi! I just published my first ever mobile game (and mobile app altogether). It consists in a \"campaign\" of 20 Tic Tac Toe variants, from basic ones (the first level is literally just Tic Tac Toe) to some way more complex and cool.\nThe rules of the variants are not explained through the campaign so you have to play and guess as you go, I tried to make each new level surprising in its own way :)\nThe idea came to me because along the years I've seen a surprising number of Tic Tac Toe custom rules a",
-      "guid": "https://news.ycombinator.com/item?id=50489281"
-    },
-    {
-      "title": "Show HN: Host a site, content, or stream from a browser tab, served over WebRTC",
-      "link": "https://fmrl.live",
-      "pubDate": "Fri, 13 Nov 2026 20:29:03 +0000",
-      "date": "Fri, 13 Nov 2026 20:29:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Site URL: https://fmrl.live\nRepository URL: https://gitlab.com/croatoa/fmrl\nThis project allows you to host a website, content, and streaming from an open browser window. It gets served over WebRTC connections (or a Cloudfare turn server if that's not available).\nThis is just a start.  Any suggestions or feedback to improve usability, feature requests, etc is super welcome.\nThis is a project I've had in mind for a while.  I wanted to participate in building for a decentralized web, so I thought ",
-      "guid": "https://news.ycombinator.com/item?id=50489193"
-    },
-    {
-      "title": "Show HN: Search 12k n8n community nodes by what they do",
-      "link": "https://workflownodes.vercel.app/",
-      "pubDate": "Fri, 13 Nov 2026 20:12:22 +0000",
-      "date": "Fri, 13 Nov 2026 20:12:22 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://workflownodes.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50488992\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50488992"
-    },
-    {
-      "title": "Show HN: Find the Best Countries and Cities to Live or Travel",
-      "link": "https://my-next-spot.com/en",
-      "pubDate": "Fri, 13 Nov 2026 20:07:27 +0000",
-      "date": "Fri, 13 Nov 2026 20:07:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://my-next-spot.com/en\nComments URL: https://news.ycombinator.com/item?id=50488934\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50488934"
-    },
-    {
-      "title": "Show HN: Tinbo – yet another (modern) link shortener",
-      "link": "https://tinbo.co/",
-      "pubDate": "Fri, 13 Nov 2026 19:54:39 +0000",
-      "date": "Fri, 13 Nov 2026 19:54:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi folks\nI've started this project years ago as an \"exercise\" and it stalled completely very soon, for years due to various reasons.\nBut recently i've decided that it was worth a shot to actually make something useful out of it and show to the world. Yep, the world that's already full of link shorteners\\link management software\\branded links services\\etc.\nI realise that there's a lot of established options in this space and I clearly realise that there's no \"moat\" in software like this nowadays,",
-      "guid": "https://news.ycombinator.com/item?id=50488795"
-    },
-    {
-      "title": "Show HN: College Basketball Stats and Predictions",
-      "link": "https://fijimf.com/",
-      "pubDate": "Fri, 13 Nov 2026 19:47:43 +0000",
-      "date": "Fri, 13 Nov 2026 19:47:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://fijimf.com/\nComments URL: https://news.ycombinator.com/item?id=50488733\nPoints: 4\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50488733"
-    },
-    {
-      "title": "Show HN: The Price of Patience",
-      "link": "https://github.com/konarkmodi/pi-doubleword",
-      "pubDate": "Fri, 13 Nov 2026 19:28:48 +0000",
-      "date": "Fri, 13 Nov 2026 19:28:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "How waiting a little has saved us over 50% on inference requests over the last few months. And taught us something unexpected about our coding agents.\nComments URL: https://news.ycombinator.com/item?id=50488513\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50488513"
-    },
-    {
-      "title": "Show HN: Hotaisle-Console",
-      "link": "https://hotaisle.xyz/blog/introducing-hotaisle-console",
-      "pubDate": "Fri, 13 Nov 2026 19:27:32 +0000",
-      "date": "Fri, 13 Nov 2026 19:27:32 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://hotaisle.xyz/blog/introducing-hotaisle-console\nComments URL: https://news.ycombinator.com/item?id=50488492\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50488492"
-    },
-    {
       "title": "2026.46: The End of Jensen",
       "link": "https://stratechery.com/2026/the-end-of-jensen/",
       "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
@@ -257,26 +257,15 @@
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-219"
     },
     {
-      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-      "link": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
-      "pubDate": "Fri, 13 Nov 2026 03:47:52 +0000",
-      "date": "Fri, 13 Nov 2026 03:47:52 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-      "guid": "https://stratechery.com/?p=21196"
-    },
-    {
-      "title": "Claude Meetings",
-      "link": "https://www.producthunt.com/products/claude",
-      "pubDate": "2026-11-13T02:24:55.000Z",
-      "date": "2026-11-13T02:24:55.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/claude"
+      "title": "College Readiness: Skills Seniors Need Before Freshman Year",
+      "link": "https://www.coolcatteacher.com/e1030/",
+      "pubDate": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nGood grades don't always mean a senior is ready for college. Dr. Johanna David-Tramantano shares the CONNECT framework for building college readiness skills before freshman year.\nThe post College Readiness: Skills Seniors Need Before Freshman Year appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent ev",
+      "guid": "https://www.coolcatteacher.com/?p=35777"
     }
   ]
 }
