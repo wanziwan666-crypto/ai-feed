@@ -1,18 +1,216 @@
 {
-  "generatedAt": "2026-11-14T04:12:30.611Z",
+  "generatedAt": "2026-11-14T12:44:48.124Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
       "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "pubDate": "2026-11-14T04:12:28.822Z",
-      "date": "2026-11-14T04:12:28.822Z",
+      "pubDate": "2026-11-14T12:44:46.180Z",
+      "date": "2026-11-14T12:44:46.180Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nhttps://goo.gle/modern-web-guidance\n\n Modern Web Guidance (Source)\n \nThis repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.\n \nModern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding agents",
       "guid": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "title": "Open-source AI without Jensen",
+      "link": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "pubDate": "Sat, 14 Nov 2026 12:23:15 GMT",
+      "date": "Sat, 14 Nov 2026 12:23:15 GMT",
+      "source": "Nathan Lambert",
+      "category": "builders",
+      "icon": "📐",
+      "contentSnippet": "A decapitation. It’s time to rebuild.",
+      "guid": "https://www.interconnects.ai/p/open-source-ai-without-jensen"
+    },
+    {
+      "title": "Show HN: Ledge – a shelf for files, clipboard history, and music",
+      "link": "https://www.tryledge.app",
+      "pubDate": "Sat, 14 Nov 2026 11:42:05 +0000",
+      "date": "Sat, 14 Nov 2026 11:42:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I built Ledge to make the space along the top of the Mac screen useful. It gives you quick access to files and clipboard history, shows the song that’s playing and live activities, and works with or without a notch. It’s in beta: https://www.tryledge.app\nComments URL: https://news.ycombinator.com/item?id=50496216\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50496216"
+    },
+    {
+      "title": "Show HN: Orty – AI lead qualification for freelancers",
+      "link": "https://getorty.work",
+      "pubDate": "Sat, 14 Nov 2026 10:40:41 +0000",
+      "date": "Sat, 14 Nov 2026 10:40:41 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Orty is an AI lead qualification that does 2 things: writes the email for you when you find a client , and helps you to find that client without a database or scraping the web .\nHonestly i built it because of a problem i had when i started working in the freelance industry , the problem wasn't finding people because you can find 1,000 people a day and send them an email using AI , but it was finding who is worth it without spending much time on that.\nIt's pretty easy to explain how it works beca",
+      "guid": "https://news.ycombinator.com/item?id=50495892"
+    },
+    {
+      "title": "Show HN: Image Ads Turn Product Shots into Scroll-Stoppers",
+      "link": "https://news.ycombinator.com/item?id=50495735",
+      "pubDate": "Sat, 14 Nov 2026 10:15:07 +0000",
+      "date": "Sat, 14 Nov 2026 10:15:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "AivideosUGC is an AI UGC video generator for brands. Pick an avatar, paste a URL, and ship ads for TikTok, Instagram, and more. Try free.\nComments URL: https://news.ycombinator.com/item?id=50495735\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50495735"
+    },
+    {
+      "title": "Show HN: Autoeditor – AI for retention video editing",
+      "link": "https://www.autoeditor.app/",
+      "pubDate": "Sat, 14 Nov 2026 10:10:13 +0000",
+      "date": "Sat, 14 Nov 2026 10:10:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.autoeditor.app/\nComments URL: https://news.ycombinator.com/item?id=50495701\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50495701"
+    },
+    {
+      "title": "Show HN: Free Llms.txt Generator",
+      "link": "https://amplifyklicks.com/free-llms-txt-generator/",
+      "pubDate": "Sat, 14 Nov 2026 09:56:51 +0000",
+      "date": "Sat, 14 Nov 2026 09:56:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://amplifyklicks.com/free-llms-txt-generator/\nComments URL: https://news.ycombinator.com/item?id=50495644\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50495644"
+    },
+    {
+      "title": "Show HN: Audio Transcription in Browser with WebGPU",
+      "link": "https://whisper.tanpreet.xyz/demo/",
+      "pubDate": "Sat, 14 Nov 2026 09:55:40 +0000",
+      "date": "Sat, 14 Nov 2026 09:55:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://whisper.tanpreet.xyz/demo/\nComments URL: https://news.ycombinator.com/item?id=50495635\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50495635"
+    },
+    {
+      "title": "Show HN: MAP &amp; GO! - the day, on a map",
+      "link": "https://apps.apple.com/us/app/map-go/id6766313000",
+      "pubDate": "Sat, 14 Nov 2026 09:31:33 +0000",
+      "date": "Sat, 14 Nov 2026 09:31:33 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://apps.apple.com/us/app/map-go/id6766313000\nComments URL: https://news.ycombinator.com/item?id=50495496\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50495496"
+    },
+    {
+      "title": "Show HN: FieldRook – a local-first Windows troubleshooting workstation",
+      "link": "https://github.com/Rookweld/FieldRook",
+      "pubDate": "Sat, 14 Nov 2026 09:27:37 +0000",
+      "date": "Sat, 14 Nov 2026 09:27:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Please have a look at my opensource project FieldRook, here is a short description over it.\nI am working as a Onsite Technichan in Sweden and i got tired of trying to puzzle togheter different windows-logs and throubleshooting steps  to get forward in our tickets, and the logging started to get a real nightmare. Specially to prove for the users why it actually solved the problem and not just giving them a random \"Well, it said so in the guide i read\"-Type of answer.\nSo I started building a Windo",
+      "guid": "https://news.ycombinator.com/item?id=50495476"
+    },
+    {
+      "title": "Show HN: Voice-first app onboarding experiment (UI, Pros, Cost)",
+      "link": "https://coffeeandtoken.com/anatomy-of-a-voice-first-onboarding/",
+      "pubDate": "Sat, 14 Nov 2026 09:14:06 +0000",
+      "date": "Sat, 14 Nov 2026 09:14:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://coffeeandtoken.com/anatomy-of-a-voice-first-onboarding/\nComments URL: https://news.ycombinator.com/item?id=50495398\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50495398"
+    },
+    {
+      "title": "Show HN: Automatic extraction gets you structured data from web data",
+      "link": "http://66.44.17.8/:3333",
+      "pubDate": "Sat, 14 Nov 2026 08:53:26 +0000",
+      "date": "Sat, 14 Nov 2026 08:53:26 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Automatic extraction supports AI-powered extraction of e-commerce, article and job posting data from any website, as well as non-AI extraction of search engine results and Markdown.\nComments URL: https://news.ycombinator.com/item?id=50495302\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50495302"
+    },
+    {
+      "title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+      "link": "https://gammapdf.com/",
+      "pubDate": "Sat, 14 Nov 2026 08:08:11 +0000",
+      "date": "Sat, 14 Nov 2026 08:08:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Author here.\nI have been reading papers and taking notes for years, using Zotero for the PDFs, Obsidian for the notes, and, recently, an AI chat tab for my questions. Gamma PDF is my attempt to make that one place.\nIn Gamma, you open a paper by simply pasting an arXiv (or DOI) link. Highlight a sentence, or drag a box round a figure, and it becomes a note beside the page with the quote and a link back.\nYou can ask the AI about a figure or some text, and you get an answer that cites a page you ca",
+      "guid": "https://news.ycombinator.com/item?id=50495073"
+    },
+    {
+      "title": "Show HN: Language for API calls, load tests and MCP server",
+      "link": "https://stampdrill.com/",
+      "pubDate": "Sat, 14 Nov 2026 08:05:20 +0000",
+      "date": "Sat, 14 Nov 2026 08:05:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://stampdrill.com/\nComments URL: https://news.ycombinator.com/item?id=50495048\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50495048"
+    },
+    {
+      "title": "Show HN: SeharaCloud – Self-Hosted Multimedia System",
+      "link": "https://github.com/SamerKolasevic29/SeharaCloud",
+      "pubDate": "Sat, 14 Nov 2026 06:52:56 +0000",
+      "date": "Sat, 14 Nov 2026 06:52:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/SamerKolasevic29/SeharaCloud\nComments URL: https://news.ycombinator.com/item?id=50494677\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50494677"
+    },
+    {
+      "title": "Show HN: Free Dictionary API – Wiktionary data, no API key required",
+      "link": "https://api.suvankar.cc/docs/dictionary",
+      "pubDate": "Sat, 14 Nov 2026 06:30:52 +0000",
+      "date": "Sat, 14 Nov 2026 06:30:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://api.suvankar.cc/docs/dictionary\nComments URL: https://news.ycombinator.com/item?id=50494578\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50494578"
+    },
+    {
+      "title": "Show HN: VPN Manager",
+      "link": "https://github.com/DennySORA/vpn-manager",
+      "pubDate": "Sat, 14 Nov 2026 06:07:39 +0000",
+      "date": "Sat, 14 Nov 2026 06:07:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/DennySORA/vpn-manager\nComments URL: https://news.ycombinator.com/item?id=50494471\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50494471"
+    },
+    {
+      "title": "Show HN: EDNA – 100% on-device human sensing so AI can perceive the user",
+      "link": "https://openos.space",
+      "pubDate": "Sat, 14 Nov 2026 05:04:37 +0000",
+      "date": "Sat, 14 Nov 2026 05:04:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://openos.space\nComments URL: https://news.ycombinator.com/item?id=50494144\nPoints: 5\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50494144"
+    },
+    {
+      "title": "Show HN: Podcast News",
+      "link": "https://podnews.app",
+      "pubDate": "Sat, 14 Nov 2026 04:34:03 +0000",
+      "date": "Sat, 14 Nov 2026 04:34:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Latest Podcast Episodes - updated nonstop.\nComments URL: https://news.ycombinator.com/item?id=50493972\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50493972"
     },
     {
       "title": "Show HN: Back endskills – agent skills for safer auth, data and migration code",
@@ -22,7 +220,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/globalmpc/backendskills\nComments URL: https://news.ycombinator.com/item?id=50493538\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/globalmpc/backendskills\nComments URL: https://news.ycombinator.com/item?id=50493538\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50493538"
     },
     {
@@ -33,7 +231,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://browserr.dev\nComments URL: https://news.ycombinator.com/item?id=50493464\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://browserr.dev\nComments URL: https://news.ycombinator.com/item?id=50493464\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50493464"
     },
     {
@@ -44,195 +242,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/open-geocode-rs/open-geocode\nComments URL: https://news.ycombinator.com/item?id=50493418\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/open-geocode-rs/open-geocode\nComments URL: https://news.ycombinator.com/item?id=50493418\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50493418"
-    },
-    {
-      "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
-      "link": "https://opencyclone.vercel.app/",
-      "pubDate": "Sat, 14 Nov 2026 02:46:12 +0000",
-      "date": "Sat, 14 Nov 2026 02:46:12 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://opencyclone.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50493213\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50493213"
-    },
-    {
-      "title": "Show HN: RemoteKu – Desktop Roku remote and live ECP keyboard deck for Mac/PC",
-      "link": "https://github.com/KevinOBytes/remoteku",
-      "pubDate": "Sat, 14 Nov 2026 01:21:23 +0000",
-      "date": "Sat, 14 Nov 2026 01:21:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/KevinOBytes/remoteku\nComments URL: https://news.ycombinator.com/item?id=50492532\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50492532"
-    },
-    {
-      "title": "Show HN: Light control for MacBook charger status light (open-source)",
-      "link": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
-      "pubDate": "Sat, 14 Nov 2026 00:44:58 +0000",
-      "date": "Sat, 14 Nov 2026 00:44:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "For anyone who wants to control their MacBook charger light. For me, my MacBook lives in my bedroom most nights on charge and the light is quite bright. Config allows on/off automation with time, focus status, or persistently on/off. Open to features / suggestions via Github\nComments URL: https://news.ycombinator.com/item?id=50492269\nPoints: 13\n# Comments: 6",
-      "guid": "https://news.ycombinator.com/item?id=50492269"
-    },
-    {
-      "title": "Show HN: Xdoc – High-fidelity Offline PPTX viewer and pdf converter",
-      "link": "https://structurify.io/en/playground/",
-      "pubDate": "Sat, 14 Nov 2026 00:44:58 +0000",
-      "date": "Sat, 14 Nov 2026 00:44:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Some showcase could be found here:\nhttps://structurify.io/en/showcases/\nComments URL: https://news.ycombinator.com/item?id=50492268\nPoints: 6\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50492268"
-    },
-    {
-      "title": "Show HN: Portal2Bench – Can AI agents solve Portal 2?",
-      "link": "https://kingstonyip.com/portal2bench",
-      "pubDate": "Sat, 14 Nov 2026 00:40:55 +0000",
-      "date": "Sat, 14 Nov 2026 00:40:55 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://kingstonyip.com/portal2bench\nComments URL: https://news.ycombinator.com/item?id=50492238\nPoints: 4\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50492238"
-    },
-    {
-      "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
-      "link": "https://github.com/memrohq/memro",
-      "pubDate": "Sat, 14 Nov 2026 00:20:15 +0000",
-      "date": "Sat, 14 Nov 2026 00:20:15 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Memro is go bases persistent memory system that lets ai agents share context acssion session using mcp, built on top of postgreSQL\nComments URL: https://news.ycombinator.com/item?id=50492093\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50492093"
-    },
-    {
-      "title": "Show HN: Building a list of places to launch your app",
-      "link": "https://another.directory/where-to-launch",
-      "pubDate": "Sat, 14 Nov 2026 00:18:06 +0000",
-      "date": "Sat, 14 Nov 2026 00:18:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "It's manually reviewed (with AI help ofc) and I'll keep it up to date. Feel free to add your suggestions.\nComments URL: https://news.ycombinator.com/item?id=50492076\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50492076"
-    },
-    {
-      "title": "Show HN: String#to_proc` to Help Traversing JSON",
-      "link": "https://github.com/samleb/schmuck",
-      "pubDate": "Fri, 13 Nov 2026 23:59:03 +0000",
-      "date": "Fri, 13 Nov 2026 23:59:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've resuscitated a project I was working on years ago.\nI was tired of having nested `flat_map` making my code basically unreadable just to fetch a simple value.\nThe idea is to make simple & readable the traversing of deeply nested structures like JSON responses, while staying in Ruby & keeping its flexibility. Here it goes:\n    graphql_response.then(&'[data][repository][issues][edges]*([node][title])')\n    # => [\"Support negative indexes\", \"Document aggregates\"]\n\n    github_prs_response.then(&'",
-      "guid": "https://news.ycombinator.com/item?id=50491929"
-    },
-    {
-      "title": "Show HN: Feedback/AMA MeditionBench; LLMs for mediation and conflict resolution",
-      "link": "https://news.ycombinator.com/item?id=50491841",
-      "pubDate": "Fri, 13 Nov 2026 23:50:03 +0000",
-      "date": "Fri, 13 Nov 2026 23:50:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I am the founder of Human Assisted Intelligence and I believe AI can be used to reduce polarization and improve the way people communicate and reach agreement.\nAt https://mediationbench.com/, there are many frontier LLMs tested, but it is difficult to keep up. I've been trying to get more free openrouter or huggingface credits. \nAzure for OpenAI and Anthropic have both provided token credits. (Thank You!)\nThe research paper is there as well.\nThere have been efforts to use LLMs to lie and play di",
-      "guid": "https://news.ycombinator.com/item?id=50491841"
-    },
-    {
-      "title": "Show HN: Anvil builds premium websites at lower cost",
-      "link": "https://www.tryanvil.dev/",
-      "pubDate": "Fri, 13 Nov 2026 23:42:35 +0000",
-      "date": "Fri, 13 Nov 2026 23:42:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Anvil is an AI app builder focused on premium UI/UX  without the premium price tags. Build polished websites by using natural language with with real project execution, live previews and  automated error correction. Plans starts at $1 for 7 days with 1M tokens. Built independently from Africa in Zambia.\nComments URL: https://news.ycombinator.com/item?id=50491776\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50491776"
-    },
-    {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "link": "https://grounds.top/",
-      "pubDate": "Fri, 13 Nov 2026 23:17:39 +0000",
-      "date": "Fri, 13 Nov 2026 23:17:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://grounds.top/\nComments URL: https://news.ycombinator.com/item?id=50491545\nPoints: 57\n# Comments: 10",
-      "guid": "https://news.ycombinator.com/item?id=50491545"
-    },
-    {
-      "title": "Show HN: FrontierBioML – Can coding agents do ML for computational biology?",
-      "link": "https://www.frontierbioml.com/",
-      "pubDate": "Fri, 13 Nov 2026 22:36:06 +0000",
-      "date": "Fri, 13 Nov 2026 22:36:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.frontierbioml.com/\nComments URL: https://news.ycombinator.com/item?id=50491060\nPoints: 2\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50491060"
-    },
-    {
-      "title": "Show HN: NETWAR – hacker MMO with 15-second card duels on a shared hex map",
-      "link": "https://play-netwar.com/?from=hn",
-      "pubDate": "Fri, 13 Nov 2026 22:33:26 +0000",
-      "date": "Fri, 13 Nov 2026 22:33:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://play-netwar.com/?from=hn\nComments URL: https://news.ycombinator.com/item?id=50491021\nPoints: 7\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50491021"
-    },
-    {
-      "title": "Show HN: Customer Intelligence and Monetization Toolkit for Claude Code",
-      "link": "https://github.com/Satvik-jain/customer-intelligence-toolkit",
-      "pubDate": "Fri, 13 Nov 2026 22:03:06 +0000",
-      "date": "Fri, 13 Nov 2026 22:03:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Satvik-jain/customer-intelligence-toolkit\nComments URL: https://news.ycombinator.com/item?id=50490575\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50490575"
-    },
-    {
-      "title": "Show HN: Algorithmic MIDI Companion – Viterbi SATB Solver and Euclidean Rhythms",
-      "link": "https://midicompanion.revisitedlabs.com/",
-      "pubDate": "Fri, 13 Nov 2026 21:48:53 +0000",
-      "date": "Fri, 13 Nov 2026 21:48:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://midicompanion.revisitedlabs.com/\nComments URL: https://news.ycombinator.com/item?id=50490362\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50490362"
-    },
-    {
-      "title": "Show HN: 1:1 Webflow to Claude Code converter",
-      "link": "https://twitter.com/mathewpregasen/status/2121356951682752809",
-      "pubDate": "Fri, 13 Nov 2026 21:44:19 +0000",
-      "date": "Fri, 13 Nov 2026 21:44:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Built a 1:1 Webflow to Claude Code convertor\nSurprisingly, a really hard problem. Had to recreate CDNs and CMSs for it to be usable and deal with so much minified animation stuff. But it works now really, really well.\nReleasing it for free. It's in our interest for more companies to own their own code so we'd like to expedite that future.\nComments URL: https://news.ycombinator.com/item?id=50490283\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50490283"
-    },
-    {
-      "title": "Show HN: I hand-read 248 shops' return policies because no dataset existed",
-      "link": "https://pricemend.com/retailers",
-      "pubDate": "Fri, 13 Nov 2026 21:17:57 +0000",
-      "date": "Fri, 13 Nov 2026 21:17:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I missed a return window last month because the policy page and the order confirmation said different things.\nTurns out return windows don't exist as data anywhere. So I've been reading them by hand. 248 shops, 8 countries. Each record stores the sentence the number came from, the URL and the date I read it. 331 more are in the list unread and marked as such.\nFree, no signup. MCP server at pricemend.com/mcp if you want an agent to use it.\nAn early version of my parser read \"within one year of th",
-      "guid": "https://news.ycombinator.com/item?id=50489829"
     },
     {
       "title": "2026.46: The End of Jensen",
@@ -255,17 +266,6 @@
       "icon": "🚀",
       "contentSnippet": "AlphaGenome 2, Unnatural Products x Argenx, Path, SpaceX Solar, Voyager 1, LSD + Extra Doses",
       "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-219"
-    },
-    {
-      "title": "College Readiness: Skills Seniors Need Before Freshman Year",
-      "link": "https://www.coolcatteacher.com/e1030/",
-      "pubDate": "Fri, 13 Nov 2026 12:00:00 +0000",
-      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
-      "source": "Cool Cat Teacher",
-      "category": "ai-education",
-      "icon": "🐱",
-      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nGood grades don't always mean a senior is ready for college. Dr. Johanna David-Tramantano shares the CONNECT framework for building college readiness skills before freshman year.\nThe post College Readiness: Skills Seniors Need Before Freshman Year appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent ev",
-      "guid": "https://www.coolcatteacher.com/?p=35777"
     }
   ]
 }
