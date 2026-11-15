@@ -14,6 +14,21 @@ if [ -f "$MARKER" ] && [ "$(cat "$MARKER")" = "$TODAY_MARKER" ]; then
   exit 0
 fi
 
+# 并发锁（2026-11-15 加）：RunAtLoad/定时/手动补推可能重叠启动（当天实测 launchd 重登记触发一趟、
+# 手动 LOOKBACK 补推一趟，两实例并发跑 git）。mkdir 原子抢锁；持锁 PID 已死则清陈锁重进。
+LOCK_DIR="$REPO_DIR/data/.daily-lock"
+if ! mkdir "$LOCK_DIR" 2>/dev/null; then
+  LOCK_PID="$(cat "$LOCK_DIR/pid" 2>/dev/null)"
+  if [ -n "$LOCK_PID" ] && kill -0 "$LOCK_PID" 2>/dev/null; then
+    echo "=== $(date) 已有实例（PID $LOCK_PID）在跑，本次跳过 ===" >> "$LOG"
+    exit 0
+  fi
+  rm -rf "$LOCK_DIR"
+  mkdir "$LOCK_DIR" 2>/dev/null || { echo "=== $(date) 并发锁清理后仍拿不到，跳过 ===" >> "$LOG"; exit 0; }
+fi
+echo $$ > "$LOCK_DIR/pid"
+trap 'rmdir "$LOCK_DIR" 2>/dev/null' EXIT
+
 # git 直连 GitHub 会被间歇性掐断：lowSpeed 让卡死的传输 60s 内自行中断，交给 retry 重试
 # 全局配置了代理 http://127.0.0.1:7890（ClashX Pro）；若本次运行时代理未启动，则临时降级直连
 GIT_NET_OPTS=(-c http.lowSpeedLimit=1 -c http.lowSpeedTime=60)
