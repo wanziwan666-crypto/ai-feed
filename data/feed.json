@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-15T03:57:17.523Z",
-  "lookbackHours": 24,
-  "totalItems": 22,
+  "generatedAt": "2026-11-15T04:01:52.227Z",
+  "lookbackHours": 96,
+  "totalItems": 35,
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
       "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "pubDate": "2026-11-15T03:57:17.068Z",
-      "date": "2026-11-15T03:57:17.068Z",
+      "pubDate": "2026-11-15T04:01:45.206Z",
+      "date": "2026-11-15T04:01:45.206Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -244,6 +244,149 @@
       "icon": "📐",
       "contentSnippet": "A decapitation. It’s time to rebuild.",
       "guid": "https://www.interconnects.ai/p/open-source-ai-without-jensen"
+    },
+    {
+      "title": "2026.46: The End of Jensen",
+      "link": "https://stratechery.com/2026/the-end-of-jensen/",
+      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "date": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
+      "guid": "https://stratechery.com/?p=21174"
+    },
+    {
+      "title": "Weekly Dose of Optimism #219",
+      "link": "https://www.notboring.co/p/weekly-dose-of-optimism-219",
+      "pubDate": "Fri, 13 Nov 2026 13:59:44 GMT",
+      "date": "Fri, 13 Nov 2026 13:59:44 GMT",
+      "source": "Not Boring",
+      "category": "voices",
+      "icon": "🚀",
+      "contentSnippet": "AlphaGenome 2, Unnatural Products x Argenx, Path, SpaceX Solar, Voyager 1, LSD + Extra Doses",
+      "guid": "https://www.notboring.co/p/weekly-dose-of-optimism-219"
+    },
+    {
+      "title": "College Readiness: Skills Seniors Need Before Freshman Year",
+      "link": "https://www.coolcatteacher.com/e1030/",
+      "pubDate": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nGood grades don't always mean a senior is ready for college. Dr. Johanna David-Tramantano shares the CONNECT framework for building college readiness skills before freshman year.\nThe post College Readiness: Skills Seniors Need Before Freshman Year appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent ev",
+      "guid": "https://www.coolcatteacher.com/?p=35777"
+    },
+    {
+      "title": "Businesses in ChatGPT",
+      "link": "https://www.producthunt.com/products/openai",
+      "pubDate": "2026-11-13T08:53:51.000Z",
+      "date": "2026-11-13T08:53:51.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/openai"
+    },
+    {
+      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+      "link": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
+      "pubDate": "Fri, 13 Nov 2026 03:47:52 +0000",
+      "date": "Fri, 13 Nov 2026 03:47:52 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "guid": "https://stratechery.com/?p=21196"
+    },
+    {
+      "title": "llm-gemini 0.37",
+      "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+      "pubDate": "2026-11-12T22:55:19.000Z",
+      "date": "2026-11-12T22:55:19.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Nov/12/llm-gemini/"
+    },
+    {
+      "title": "Gemini Robotics 2.5",
+      "link": "https://www.producthunt.com/products/gemini-robotics-2-5",
+      "pubDate": "2026-11-12T20:18:13.000Z",
+      "date": "2026-11-12T20:18:13.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/gemini-robotics-2-5"
+    },
+    {
+      "title": "Rites of Passage: Helping Teens Grow Up in a Digital Age",
+      "link": "https://www.coolcatteacher.com/e1029/",
+      "pubDate": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "date": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nRites of passage once marked the move to adulthood. Betty Ray shares her STARS model and a red, yellow, green Signal Check that helps parents and teachers guide teens and their phones.\nThe post Rites of Passage: Helping Teens Grow Up in a Digital Age appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent",
+      "guid": "https://www.coolcatteacher.com/?p=35765"
+    },
+    {
+      "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+      "link": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
+      "pubDate": "Thu, 12 Nov 2026 11:00:00 +0000",
+      "date": "Thu, 12 Nov 2026 11:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
+      "guid": "https://stratechery.com/?p=21162"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "pubDate": "2026-11-11T22:03:25.000Z",
+      "date": "2026-11-11T22:03:25.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+    },
+    {
+      "title": "How to Help Struggling Readers Without Embarrassing Them",
+      "link": "https://www.coolcatteacher.com/e1028/",
+      "pubDate": "Wed, 11 Nov 2026 16:40:34 +0000",
+      "date": "Wed, 11 Nov 2026 16:40:34 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nHow do you help struggling readers in middle and high school without embarrassing them? Louise Baigelman of Storyshares shares the mistakes to avoid, the cues to watch for, and a quick check-in to try tomorrow.\nThe post How to Help Struggling Readers Without Embarrassing Them appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher help",
+      "guid": "https://www.coolcatteacher.com/?p=35751"
+    },
+    {
+      "title": "Of Miracles and Moats",
+      "link": "https://www.notboring.co/p/of-miracles-and-moats",
+      "pubDate": "Wed, 11 Nov 2026 13:53:22 GMT",
+      "date": "Wed, 11 Nov 2026 13:53:22 GMT",
+      "source": "Not Boring",
+      "category": "voices",
+      "icon": "🚀",
+      "contentSnippet": "Cycles, Bubbles, and the Golden Age of Consumer Surplus",
+      "guid": "https://www.notboring.co/p/of-miracles-and-moats"
+    },
+    {
+      "title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
+      "link": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
+      "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "date": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
+      "guid": "https://stratechery.com/?p=21146"
     }
   ]
 }
