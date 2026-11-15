@@ -5,7 +5,8 @@
  *   docs/{YYYY-MM-DD}.html      —— 当日归档
  *   data/feed-report-{date}.html —— 本地备份
  *
- * 用法: node scripts/generate-html.js
+ * 用法: node scripts/generate-html.js              → 生成今天（写 index.html）
+ *      node scripts/generate-html.js 2026-11-14   → 补生成指定日期归档（不写 index.html）
  */
 const fs = require('fs');
 const path = require('path');
@@ -16,7 +17,15 @@ const DATA_DIR = path.join(__dirname, '..', 'data');
 const DOCS_DIR = path.join(__dirname, '..', 'docs');
 const FEEDS_PATH = path.join(DATA_DIR, 'feeds.json');
 
+// 可选参数：补生成历史日期归档（条目按该日北京时间自然日过滤）
+const argDate = process.argv[2];
+if (argDate && !/^\d{4}-\d{2}-\d{2}$/.test(argDate)) {
+  console.error('日期参数格式应为 YYYY-MM-DD');
+  process.exit(1);
+}
+
 function getDateStr() {
+  if (argDate) return argDate;
   const d = new Date();
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 }
@@ -140,12 +149,23 @@ ${items.map(buildCard).join('\n')}`;
 }
 
 async function generate(data) {
-  // 只展示最近 24 小时内容
-  const allItems = (data.items || []).filter((item) => {
-    if (!item.pubDate) return true;
-    const age = (Date.now() - new Date(item.pubDate).getTime()) / (1000 * 60 * 60);
-    return age <= 24;
-  });
+  let allItems;
+  if (argDate) {
+    // 补历史归档：目标日北京时间 [00:00, 24:00) 内发布的条目
+    const dayStart = new Date(`${argDate}T00:00:00+08:00`).getTime();
+    const dayEnd = dayStart + 24 * 3600 * 1000;
+    allItems = (data.items || []).filter((item) => {
+      const t = new Date(item.pubDate).getTime();
+      return t >= dayStart && t < dayEnd;
+    });
+  } else {
+    // 只展示最近 24 小时内容
+    allItems = (data.items || []).filter((item) => {
+      if (!item.pubDate) return true;
+      const age = (Date.now() - new Date(item.pubDate).getTime()) / (1000 * 60 * 60);
+      return age <= 24;
+    });
+  }
   const dateStr = getDateStr();
   const count = allItems.length;
 
@@ -285,11 +305,14 @@ if (!fs.existsSync(FEEDS_PATH)) {
   const dateStr = getDateStr();
   fs.mkdirSync(DOCS_DIR, { recursive: true });
 
-  const targets = [
-    path.join(DOCS_DIR, 'index.html'),
-    path.join(DOCS_DIR, `${dateStr}.html`),
-    path.join(DATA_DIR, `feed-report-${dateStr}.html`),
-  ];
+  // 补历史日期时不动 index.html——首页必须保持是最新一期
+  const targets = argDate
+    ? [path.join(DOCS_DIR, `${dateStr}.html`), path.join(DATA_DIR, `feed-report-${dateStr}.html`)]
+    : [
+        path.join(DOCS_DIR, 'index.html'),
+        path.join(DOCS_DIR, `${dateStr}.html`),
+        path.join(DATA_DIR, `feed-report-${dateStr}.html`),
+      ];
   targets.forEach((t) => fs.writeFileSync(t, html, 'utf8'));
 
   console.log(`Done: ${targets.join(', ')}`);
