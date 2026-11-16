@@ -1,18 +1,40 @@
 {
-  "generatedAt": "2026-11-16T03:01:08.664Z",
+  "generatedAt": "2026-11-16T03:57:23.183Z",
   "lookbackHours": 24,
   "totalItems": 21,
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
       "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "pubDate": "2026-11-16T03:01:03.102Z",
-      "date": "2026-11-16T03:01:03.102Z",
+      "pubDate": "2026-11-16T03:57:22.677Z",
+      "date": "2026-11-16T03:57:22.677Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "Keep your coding agent up to date with the latest web best practices\nhttps://goo.gle/modern-web-guidance\n\n Modern Web Guidance (Source)\n \nThis repo is the source repository for GoogleChrome/modern-web-guidance and includes the code and documentation for authoring, calibrating, and evaluating its contents.\n \nModern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. It helps to steer your coding agents",
       "guid": "https://github.com/GoogleChrome/modern-web-guidance-src"
+    },
+    {
+      "title": "Show HN: Memeo – Turn static photos into lip-synced AI meme videos in seconds",
+      "link": "https://memeo.app/",
+      "pubDate": "Mon, 16 Nov 2026 03:18:30 +0000",
+      "date": "Mon, 16 Nov 2026 03:18:30 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://memeo.app/\nComments URL: https://news.ycombinator.com/item?id=50513619\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50513619"
+    },
+    {
+      "title": "Show HN: HappyWan – A browser-based prototype for text-to-video creation",
+      "link": "https://happywan.pro",
+      "pubDate": "Mon, 16 Nov 2026 02:48:09 +0000",
+      "date": "Mon, 16 Nov 2026 02:48:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://happywan.pro\nComments URL: https://news.ycombinator.com/item?id=50513415\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50513415"
     },
     {
       "title": "Show HN: Perfect Numbers Generator – p = (2P and 1)/3",
@@ -154,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://lastcomplication.com/\nComments URL: https://news.ycombinator.com/item?id=50511718\nPoints: 51\n# Comments: 6",
+      "contentSnippet": "Article URL: https://lastcomplication.com/\nComments URL: https://news.ycombinator.com/item?id=50511718\nPoints: 56\n# Comments: 7",
       "guid": "https://news.ycombinator.com/item?id=50511718"
     },
     {
@@ -211,28 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "My mom is a photographer and an artist. This year, she complained that she doesn't quite enjoy the existing options for storing, sharing, and organizing her work.\nAfter a few sessions, I think we got into the ballpark of what it should look like if we weren't Google or SmugMug: with a host of extra features (clutter detection, decent search, book and album writing, even calorie and activity tracking, and a few other conveniences)\nThe original intention was to build an application that would serv",
       "guid": "https://news.ycombinator.com/item?id=50510836"
-    },
-    {
-      "title": "Show HN: Minute – An Offline Meeting Notetaker Using Local LLMs",
-      "link": "https://minutenotes.app/",
-      "pubDate": "Sun, 15 Nov 2026 21:06:26 +0000",
-      "date": "Sun, 15 Nov 2026 21:06:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://minutenotes.app/\nComments URL: https://news.ycombinator.com/item?id=50510760\nPoints: 7\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50510760"
-    },
-    {
-      "title": "Show HN: Strata Architecture",
-      "link": "https://yrashk.com/strata/",
-      "pubDate": "Sun, 15 Nov 2026 21:04:54 +0000",
-      "date": "Sun, 15 Nov 2026 21:04:54 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've long thought about how we're influenced by CPU architectures, and importantly, their ISAs.\nIn a discussion at a meetup, I brought up a topic that interested me for a while: how would an ISA that exposes memory and cache interactions in a more explicit way (because if you think about it, memory is very much I/O), as opposed to being smart and predictive on its own?\nAn obscure interest, of course. Nevertheless, I wanted to build a quick prototype after that.\nWhat ended up transpiring was a bi",
-      "guid": "https://news.ycombinator.com/item?id=50510744"
     }
   ]
 }
