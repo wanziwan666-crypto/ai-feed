@@ -1,8 +1,107 @@
 {
-  "generatedAt": "2026-11-17T01:19:29.920Z",
+  "generatedAt": "2026-11-17T03:00:55.660Z",
   "lookbackHours": 24,
   "totalItems": 25,
   "items": [
+    {
+      "title": "Show HN: A free interactive course on AI agent governance",
+      "link": "https://studio.sinapsdata.com.br",
+      "pubDate": "Tue, 17 Nov 2026 02:12:13 +0000",
+      "date": "Tue, 17 Nov 2026 02:12:13 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://studio.sinapsdata.com.br\nComments URL: https://news.ycombinator.com/item?id=50526527\nPoints: 6\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50526527"
+    },
+    {
+      "title": "Show HN: Coding agents with native environments, identity and access",
+      "link": "https://kosem.ai/blog/coding-agents-workstation-moment",
+      "pubDate": "Tue, 17 Nov 2026 02:11:01 +0000",
+      "date": "Tue, 17 Nov 2026 02:11:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://kosem.ai/blog/coding-agents-workstation-moment\nComments URL: https://news.ycombinator.com/item?id=50526516\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50526516"
+    },
+    {
+      "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
+      "link": "https://robert-mcdermott.github.io/astrum/",
+      "pubDate": "Tue, 17 Nov 2026 02:10:21 +0000",
+      "date": "Tue, 17 Nov 2026 02:10:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://robert-mcdermott.github.io/astrum/\nComments URL: https://news.ycombinator.com/item?id=50526510\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50526510"
+    },
+    {
+      "title": "Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones",
+      "link": "https://wine-assembly.berrry.app/",
+      "pubDate": "Tue, 17 Nov 2026 01:50:54 +0000",
+      "date": "Tue, 17 Nov 2026 01:50:54 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://wine-assembly.berrry.app/\nComments URL: https://news.ycombinator.com/item?id=50526380\nPoints: 11\n# Comments: 4",
+      "guid": "https://news.ycombinator.com/item?id=50526380"
+    },
+    {
+      "title": "Show HN: Omnistew – 3D multiplayer RTS written in Rust, playable in a browser",
+      "link": "https://omnistew.io/",
+      "pubDate": "Tue, 17 Nov 2026 01:48:03 +0000",
+      "date": "Tue, 17 Nov 2026 01:48:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://omnistew.io/\nComments URL: https://news.ycombinator.com/item?id=50526356\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50526356"
+    },
+    {
+      "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
+      "link": "https://cwtractors.com",
+      "pubDate": "Tue, 17 Nov 2026 01:31:35 +0000",
+      "date": "Tue, 17 Nov 2026 01:31:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://cwtractors.com\nComments URL: https://news.ycombinator.com/item?id=50526244\nPoints: 10\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50526244"
+    },
+    {
+      "title": "Show HN: Fundlark-open source tool help early-career researcher find funding",
+      "link": "https://github.com/dryang21/Fundlark",
+      "pubDate": "Tue, 17 Nov 2026 01:21:51 +0000",
+      "date": "Tue, 17 Nov 2026 01:21:51 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I just finished my PhD and am trying to get some funding to start off. I found that opportunities are scattered and it is a pain to find and validate. Hence,I build Fundlark to make it easier.\nComments URL: https://news.ycombinator.com/item?id=50526177\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50526177"
+    },
+    {
+      "title": "Show HN: Free weekly backups for Supabase Free projects (pg_dump to R2)",
+      "link": "https://github.com/liulewis/supabase-free-backup-lite",
+      "pubDate": "Tue, 17 Nov 2026 01:13:58 +0000",
+      "date": "Tue, 17 Nov 2026 01:13:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/liulewis/supabase-free-backup-lite\nComments URL: https://news.ycombinator.com/item?id=50526110\nPoints: 5\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50526110"
+    },
+    {
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "link": "https://kobi.music/research/dettato",
+      "pubDate": "Tue, 17 Nov 2026 01:03:05 +0000",
+      "date": "Tue, 17 Nov 2026 01:03:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I released dettato, my open weight audio to midi transcription model. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without training on copyrighted recordings. Feel free to ask questions\nComments URL: https://news.ycombinator.com/item?id=50526023\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50526023"
+    },
     {
       "title": "Show HN: Hotline Computer – Rootless Linux desktop container with Nix for agents",
       "link": "https://computer.hotline.dev/",
@@ -11,7 +110,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://computer.hotline.dev/\nComments URL: https://news.ycombinator.com/item?id=50525866\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://computer.hotline.dev/\nComments URL: https://news.ycombinator.com/item?id=50525866\nPoints: 2\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50525866"
     },
     {
@@ -44,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/debarshibasak/listodo\nComments URL: https://news.ycombinator.com/item?id=50525250\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/debarshibasak/listodo\nComments URL: https://news.ycombinator.com/item?id=50525250\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50525250"
     },
     {
@@ -55,7 +154,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/0nelight/sutra-os\nComments URL: https://news.ycombinator.com/item?id=50525052\nPoints: 21\n# Comments: 3",
+      "contentSnippet": "Article URL: https://github.com/0nelight/sutra-os\nComments URL: https://news.ycombinator.com/item?id=50525052\nPoints: 33\n# Comments: 12",
       "guid": "https://news.ycombinator.com/item?id=50525052"
     },
     {
@@ -77,7 +176,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://ugcapi.dev/\nComments URL: https://news.ycombinator.com/item?id=50524748\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://ugcapi.dev/\nComments URL: https://news.ycombinator.com/item?id=50524748\nPoints: 2\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50524748"
     },
     {
@@ -99,7 +198,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/formgong/dead-forms-study\nComments URL: https://news.ycombinator.com/item?id=50524591\nPoints: 3\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/formgong/dead-forms-study\nComments URL: https://news.ycombinator.com/item?id=50524591\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50524591"
     },
     {
@@ -110,7 +209,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://nos-os.tech/en/demo\nComments URL: https://news.ycombinator.com/item?id=50524459\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://nos-os.tech/en/demo\nComments URL: https://news.ycombinator.com/item?id=50524459\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50524459"
     },
     {
@@ -123,105 +222,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://brewlet.sh/\nComments URL: https://news.ycombinator.com/item?id=50524380\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50524380"
-    },
-    {
-      "title": "Show HN: Emergency-AI – Offline knowledge base and AI chat (with no Internet)",
-      "link": "https://github.com/skanga/Emergency-AI",
-      "pubDate": "Mon, 16 Nov 2026 21:17:44 +0000",
-      "date": "Mon, 16 Nov 2026 21:17:44 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Watch the video to understand the use cases for this\nComments URL: https://news.ycombinator.com/item?id=50523427\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50523427"
-    },
-    {
-      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-      "link": "https://github.com/aryamandarda/tamserve",
-      "pubDate": "Mon, 16 Nov 2026 21:14:39 +0000",
-      "date": "Mon, 16 Nov 2026 21:14:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I type \"forklift\" on a live warehouse camera, and tamserve finds and tracks both forklifts, including the one driving in. Then I add \"person\" without stopping it.\ntamserve runs Meta's SAM 3 on live camera feeds. SAM 3's own tracker handles one recorded video at a time, runs at about 8 fps, and runs out of memory on long videos. tamserve uses SAM 3 to find objects every few frames and a lightweight tracker (EdgeTAM) to follow them in between, with one copy of each model shared across all your cam",
-      "guid": "https://news.ycombinator.com/item?id=50523377"
-    },
-    {
-      "title": "Show HN: Stromboli Open-source AI SRE agent focused on fast incident mitigation",
-      "link": "https://github.com/openstatusHQ/stromboli",
-      "pubDate": "Mon, 16 Nov 2026 21:12:03 +0000",
-      "date": "Mon, 16 Nov 2026 21:12:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/openstatusHQ/stromboli\nComments URL: https://news.ycombinator.com/item?id=50523348\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50523348"
-    },
-    {
-      "title": "Show HN: Duplex-Safe Viterbi Compiler – mRNA optimization on a discrete torus",
-      "link": "https://github.com/Dr-Logvinovich/codon-torus-syntax",
-      "pubDate": "Mon, 16 Nov 2026 20:54:56 +0000",
-      "date": "Mon, 16 Nov 2026 20:54:56 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Dr-Logvinovich/codon-torus-syntax\nComments URL: https://news.ycombinator.com/item?id=50523116\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50523116"
-    },
-    {
-      "title": "Show HN: Goethe – turn your computer into an inference engine",
-      "link": "https://github.com/meshapplied/goethe",
-      "pubDate": "Mon, 16 Nov 2026 20:52:34 +0000",
-      "date": "Mon, 16 Nov 2026 20:52:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN, I'm Matteo from meshapplied (YC W27), building this with Peter and Janos.\nWe think you can and should own your inference, so we built software that actually supports that. Goethe turns a Linux machine with an NVIDIA GPU into an API your OpenAI, Anthropic compatible clients can call.\n```\ncurl -fsSL https://goethe.sh/install.sh | bash\ngoethe start\n```\nLimits: it's Linux only rn and it supports Ampere or newer NVIDIA GPUs. Logging in with `goethe login` is optional and turns on the optimized",
-      "guid": "https://news.ycombinator.com/item?id=50523086"
-    },
-    {
-      "title": "Show HN: WhiBoard – A fast Miro alternative with AI diagramming",
-      "link": "https://whiboard.com/",
-      "pubDate": "Mon, 16 Nov 2026 20:48:07 +0000",
-      "date": "Mon, 16 Nov 2026 20:48:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://whiboard.com/\nComments URL: https://news.ycombinator.com/item?id=50523024\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50523024"
-    },
-    {
-      "title": "Show HN: A geography game where you aim a compass at cities on a real globe",
-      "link": "https://compasspost.nodewires.com/",
-      "pubDate": "Mon, 16 Nov 2026 20:44:45 +0000",
-      "date": "Mon, 16 Nov 2026 20:44:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://compasspost.nodewires.com/\nComments URL: https://news.ycombinator.com/item?id=50522994\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50522994"
-    },
-    {
-      "title": "Show HN: Annotations for Your Obsidian Notes",
-      "link": "https://community.obsidian.md/plugins/annotations",
-      "pubDate": "Mon, 16 Nov 2026 20:43:45 +0000",
-      "date": "Mon, 16 Nov 2026 20:43:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Recently wished I could highlight and comment on my Obsidian notes so I could come back to them later. None of the existing plugins worked quite the way I wanted, so in the spirit of personal software I built one (with help from Codex).\nlisting: https://community.obsidian.md/plugins/annotations\nrepo: https://github.com/arugyani/annotations\nMain features:\n- Highlight any part of a Markdown file (including LaTeX)\n- Comment on a selection, block, section, or a whole note\n- Read, search, filter, and",
-      "guid": "https://news.ycombinator.com/item?id=50522983"
-    },
-    {
-      "title": "Show HN: T'Pico, a classless CSS library for modern browsers",
-      "link": "https://github.com/dday9/t-pico",
-      "pubDate": "Mon, 16 Nov 2026 20:40:58 +0000",
-      "date": "Mon, 16 Nov 2026 20:40:58 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Lucas Larroche declared on Oct 4, 2026 that he was archiving PicoCSS and it really upset me. Here was a library that I promoted, used in several websites, and really saw as the future of minimalistic web development.\nStarting last month sometime, I decided that I would rewrite the library to not only address some of the issues Lucas outlined such as using OKLCH colors, cascade layers, and the Popover API, but to also make some architectural decisions that I didn't agree. Last week, I finally pus",
-      "guid": "https://news.ycombinator.com/item?id=50522950"
     },
     {
       "title": "The open-source movement wants Jensen Huang back",
