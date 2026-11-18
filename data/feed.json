@@ -1,18 +1,117 @@
 {
-  "generatedAt": "2026-11-18T00:15:23.236Z",
+  "generatedAt": "2026-11-18T03:00:54.111Z",
   "lookbackHours": 24,
-  "totalItems": 29,
+  "totalItems": 30,
   "items": [
     {
       "title": "ag-ui-protocol/ag-ui",
       "link": "https://github.com/ag-ui-protocol/ag-ui",
-      "pubDate": "2026-11-18T00:15:21.353Z",
-      "date": "2026-11-18T00:15:21.353Z",
+      "pubDate": "2026-11-18T03:00:47.331Z",
+      "date": "2026-11-18T03:00:47.331Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\nhttps://ag-ui.com\n\n \n \n\n \n \nThe open protocol that connects any agent to any app.\n \n \n    \n \n \nDocs · Examples · Spec · Discord\n \n \n\n \n \n\n \n \n \nAG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications.\n \nAgents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagent",
       "guid": "https://github.com/ag-ui-protocol/ag-ui"
+    },
+    {
+      "title": "Show HN: Vizbite – See the nutrients inside fruits and vegetables in 3D",
+      "link": "https://vizbite.com/",
+      "pubDate": "Wed, 18 Nov 2026 02:46:17 +0000",
+      "date": "Wed, 18 Nov 2026 02:46:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://vizbite.com/\nComments URL: https://news.ycombinator.com/item?id=50541219\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50541219"
+    },
+    {
+      "title": "Cell Phone Ban in Schools and AI Cheating: New Research",
+      "link": "https://www.coolcatteacher.com/e1032/",
+      "pubDate": "Wed, 18 Nov 2026 02:33:27 +0000",
+      "date": "Wed, 18 Nov 2026 02:33:27 +0000",
+      "source": "Cool Cat Teacher",
+      "category": "ai-education",
+      "icon": "🐱",
+      "contentSnippet": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nYour school locked up the phones. So why are one in three students still on social media every day? Brian Fitzpatrick of the Fordham Institute shares what 2,024 students told him.\nThe post Cell Phone Ban in Schools and AI Cheating: New Research appeared first on Cool Cat Teacher Blog by Vicki Davis @coolcatteacher helping educators be excellent every",
+      "guid": "https://www.coolcatteacher.com/?p=35840"
+    },
+    {
+      "title": "Show HN: PortalKinetic – Clear your head and leave with one next move",
+      "link": "https://www.portalkinetic.com",
+      "pubDate": "Wed, 18 Nov 2026 02:31:08 +0000",
+      "date": "Wed, 18 Nov 2026 02:31:08 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://www.portalkinetic.com\nComments URL: https://news.ycombinator.com/item?id=50541116\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50541116"
+    },
+    {
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "link": "https://github.com/kborer/cells/",
+      "pubDate": "Wed, 18 Nov 2026 02:18:29 +0000",
+      "date": "Wed, 18 Nov 2026 02:18:29 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I made a virtual microscope slide for your terminal (inspired by asciiquarium and cbonsai). Cells divide, immune cells chase bacteria, and bacteriophages occasionally cause trouble.  You can try it with:\n$ pipx install terminal-cells\n$ cells\nI'd appreciate any suggestions for additional animations to add, especially entities or events that would be visually distinct given the graphical limitations. Any cell biologists in the house?\nComments URL: https://news.ycombinator.com/item?id=50541047\nPoin",
+      "guid": "https://news.ycombinator.com/item?id=50541047"
+    },
+    {
+      "title": "Show HN: I made a site showcasing The Elm Architecture in many other languages",
+      "link": "https://tea.rinn7e.com/",
+      "pubDate": "Wed, 18 Nov 2026 01:55:14 +0000",
+      "date": "Wed, 18 Nov 2026 01:55:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I am a huge fan of Elm, but the language is hard to use at work. Luckily,\nthere are many implementations of TEA in other languages, so I created this\nwebsite to help others find them.\n(A plug: this website uses react-tea-cup, a library that implements TEA and\nintegrates well with React.)\nWebsite: https://tea.rinn7e.com/\nSource code: https://github.com/rinn7e/tea-ecosystem\nComments URL: https://news.ycombinator.com/item?id=50540914\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50540914"
+    },
+    {
+      "title": "Show HN: Ferrovec Retrace – semantic search over pages you've read, all local",
+      "link": "https://github.com/singhpratech/ferrovec/tree/main/extensions/retrace",
+      "pubDate": "Wed, 18 Nov 2026 01:48:37 +0000",
+      "date": "Wed, 18 Nov 2026 01:48:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/singhpratech/ferrovec/tree/main/extensions/retrace\nComments URL: https://news.ycombinator.com/item?id=50540861\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50540861"
+    },
+    {
+      "title": "Show HN: A Codenames-style wordgame that benchmarks LLMs",
+      "link": "https://wordspies.com/hn",
+      "pubDate": "Wed, 18 Nov 2026 01:42:19 +0000",
+      "date": "Wed, 18 Nov 2026 01:42:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://wordspies.com/hn\nComments URL: https://news.ycombinator.com/item?id=50540815\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50540815"
+    },
+    {
+      "title": "Show HN: Convert EML/MBOX mailboxes to PDF in the browser, no upload",
+      "link": "https://mailtopdf.top/en",
+      "pubDate": "Wed, 18 Nov 2026 01:39:06 +0000",
+      "date": "Wed, 18 Nov 2026 01:39:06 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mailtopdf.top/en\nComments URL: https://news.ycombinator.com/item?id=50540785\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50540785"
+    },
+    {
+      "title": "Show HN: Spillway – HTTP API load testing on macOS",
+      "link": "https://spillwayapp.com/",
+      "pubDate": "Wed, 18 Nov 2026 01:38:07 +0000",
+      "date": "Wed, 18 Nov 2026 01:38:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I've used JMeter for years — it's free and has a truly amazing amount of functionality - but it doesn't really feel like a Mac app. There's also a bunch of other more modern features that I wish it had.\nSpillway is scratch-my-own-itch app... a culmination of things I've wished for over the years: native macOS app, visual test plans, easy-to-use variable substitution, built-in support for modern OAuth patterns, ability to compare previous runs graphically, and no wild per-user/request pricing.\nGe",
+      "guid": "https://news.ycombinator.com/item?id=50540777"
     },
     {
       "title": "Show HN: A more readable take on HN",
@@ -44,7 +143,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/avelone123123/shard\nComments URL: https://news.ycombinator.com/item?id=50539983\nPoints: 1\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/avelone123123/shard\nComments URL: https://news.ycombinator.com/item?id=50539983\nPoints: 2\n# Comments: 3",
       "guid": "https://news.ycombinator.com/item?id=50539983"
     },
     {
@@ -156,94 +255,6 @@
       "icon": "🔨",
       "contentSnippet": "Article URL: https://github.com/dylanpulver/dead-tests\nComments URL: https://news.ycombinator.com/item?id=50539136\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50539136"
-    },
-    {
-      "title": "Show HN: R3 – Review AI agent artifacts locally",
-      "link": "https://r3.hyperlogue.tech/",
-      "pubDate": "Tue, 17 Nov 2026 22:14:34 +0000",
-      "date": "Tue, 17 Nov 2026 22:14:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://r3.hyperlogue.tech/\nComments URL: https://news.ycombinator.com/item?id=50539007\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50539007"
-    },
-    {
-      "title": "Show HN: Watch and listen to long-form x podcasts in one place",
-      "link": "https://xpodcasts.com/",
-      "pubDate": "Tue, 17 Nov 2026 22:11:29 +0000",
-      "date": "Tue, 17 Nov 2026 22:11:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://xpodcasts.com/\nComments URL: https://news.ycombinator.com/item?id=50538974\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50538974"
-    },
-    {
-      "title": "Show HN: I Cannot Let You In",
-      "link": "https://i-cannot-let-you-in.nodolabs.co.uk/",
-      "pubDate": "Tue, 17 Nov 2026 22:05:26 +0000",
-      "date": "Tue, 17 Nov 2026 22:05:26 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://i-cannot-let-you-in.nodolabs.co.uk/\nComments URL: https://news.ycombinator.com/item?id=50538906\nPoints: 4\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50538906"
-    },
-    {
-      "title": "Show HN: Grand Theft PTO – A browser game about skipping work for GTA 6",
-      "link": "https://labs.ficuscreative.com/grand_theft_pto/",
-      "pubDate": "Tue, 17 Nov 2026 21:54:11 +0000",
-      "date": "Tue, 17 Nov 2026 21:54:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made this. We’ve been waiting for 13 years. Do you request PTO? Or call in sick? Do you stay up till 4am, or play the long game? Manage your energy, keep suspicion low, or you get fired.\nIt’s one self-contained HTML file: no framework, no sign-up, no ads.\nComments URL: https://news.ycombinator.com/item?id=50538765\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50538765"
-    },
-    {
-      "title": "Show HN: Investing Won't Make You Rich",
-      "link": "https://investingwontmakeyourich.com",
-      "pubDate": "Tue, 17 Nov 2026 21:47:40 +0000",
-      "date": "Tue, 17 Nov 2026 21:47:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://investingwontmakeyourich.com\nComments URL: https://news.ycombinator.com/item?id=50538677\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50538677"
-    },
-    {
-      "title": "Show HN: A Variety of Chess Games",
-      "link": "https://chessreport.ca/games",
-      "pubDate": "Tue, 17 Nov 2026 21:46:06 +0000",
-      "date": "Tue, 17 Nov 2026 21:46:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "This is a web app that I built to introduce chess to my children, along with scratching a personal game analysis itch. I link to the games (free, ad free, tracker free, affiliate free, etc), though there is a full learning section as well that was my primary focus. I imagine many here already know the basics of chess.\nOf course I leveraged AI in all parts of this project -- and indeed the analysis section uses three separate neural networks to analyze play -- but never without full engagement an",
-      "guid": "https://news.ycombinator.com/item?id=50538663"
-    },
-    {
-      "title": "Show HN: Code walkthroughs, maps, and quizzes for pull requests",
-      "link": "https://codeunpacked.san.cx/",
-      "pubDate": "Tue, 17 Nov 2026 21:43:53 +0000",
-      "date": "Tue, 17 Nov 2026 21:43:53 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://codeunpacked.san.cx/\nComments URL: https://news.ycombinator.com/item?id=50538636\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50538636"
-    },
-    {
-      "title": "Show HN: Even Keel – a task queue for coding agents",
-      "link": "https://github.com/NamerekT/even-keel",
-      "pubDate": "Tue, 17 Nov 2026 21:39:51 +0000",
-      "date": "Tue, 17 Nov 2026 21:39:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I was new to developing apps with a coding agent months ago. I was sitting in the terminal and trying to understand how people actually use them. I had a bunch of project ideas and was constantly saying, \"Do this, do that.\" For a while it was ok, but later I didn't have enough time to track what my agent was doing.\nTo find a tracker was not a problem, but to start the agent in a predictable way: in the order of tasks' block links, one at a time per worktree and task, waiting out usage limits, ha",
-      "guid": "https://news.ycombinator.com/item?id=50538584"
     },
     {
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
