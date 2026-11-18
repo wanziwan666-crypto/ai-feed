@@ -1,29 +1,249 @@
 {
-  "generatedAt": "2026-11-18T03:00:54.111Z",
+  "generatedAt": "2026-11-18T14:51:04.121Z",
   "lookbackHours": 24,
   "totalItems": 30,
   "items": [
     {
-      "title": "ag-ui-protocol/ag-ui",
-      "link": "https://github.com/ag-ui-protocol/ag-ui",
-      "pubDate": "2026-11-18T03:00:47.331Z",
-      "date": "2026-11-18T03:00:47.331Z",
-      "source": "GitHub Trending · Daily",
-      "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.\nhttps://ag-ui.com\n\n \n \n\n \n \nThe open protocol that connects any agent to any app.\n \n \n    \n \n \nDocs · Examples · Spec · Discord\n \n \n\n \n \n\n \n \n \nAG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications.\n \nAgents don't fit the request/response model. They stream tokens, call tools mid-response, update shared state, pause for a human, and spawn subagent",
-      "guid": "https://github.com/ag-ui-protocol/ag-ui"
-    },
-    {
-      "title": "Show HN: Vizbite – See the nutrients inside fruits and vegetables in 3D",
-      "link": "https://vizbite.com/",
-      "pubDate": "Wed, 18 Nov 2026 02:46:17 +0000",
-      "date": "Wed, 18 Nov 2026 02:46:17 +0000",
+      "title": "Show HN: HookChecker – a pre-publish check for short vertical video hooks",
+      "link": "https://hookchecker.com/",
+      "pubDate": "Wed, 18 Nov 2026 14:01:56 +0000",
+      "date": "Wed, 18 Nov 2026 14:01:56 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://vizbite.com/\nComments URL: https://news.ycombinator.com/item?id=50541219\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50541219"
+      "contentSnippet": "Article URL: https://hookchecker.com/\nComments URL: https://news.ycombinator.com/item?id=50546445\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546445"
+    },
+    {
+      "title": "Show HN: Margeux, an indentation based Lisp with WASM runtime",
+      "link": "https://margeux.com/studio.html",
+      "pubDate": "Wed, 18 Nov 2026 14:01:45 +0000",
+      "date": "Wed, 18 Nov 2026 14:01:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A folly, I just wanted to see how an indentation based Lisp would look and feel. I got a little carried away. The website itself is written in the language.\nComments URL: https://news.ycombinator.com/item?id=50546443\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50546443"
+    },
+    {
+      "title": "Show HN: MailScope – Catch and lint your app's dev emails locally on a Mac",
+      "link": "https://mailscope.app/",
+      "pubDate": "Wed, 18 Nov 2026 13:59:17 +0000",
+      "date": "Wed, 18 Nov 2026 13:59:17 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://mailscope.app/\nComments URL: https://news.ycombinator.com/item?id=50546407\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546407"
+    },
+    {
+      "title": "Show HN: TaroBird – An Open-Source IM for Codex, Claude Code and Other CLIs",
+      "link": "https://github.com/cloveric/tarobird",
+      "pubDate": "Wed, 18 Nov 2026 13:58:28 +0000",
+      "date": "Wed, 18 Nov 2026 13:58:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/cloveric/tarobird\nComments URL: https://news.ycombinator.com/item?id=50546393\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546393"
+    },
+    {
+      "title": "Show HN: Open Monitor – Self-hosted web monitoring with an LLM judge",
+      "link": "https://github.com/Dhananjay-JSR/open-monitor",
+      "pubDate": "Wed, 18 Nov 2026 13:57:21 +0000",
+      "date": "Wed, 18 Nov 2026 13:57:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Dhananjay-JSR/open-monitor\nComments URL: https://news.ycombinator.com/item?id=50546376\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546376"
+    },
+    {
+      "title": "Show HN: Open-source topological periodic system (Z=172 limit) in Python/PyQt6",
+      "link": "https://github.com/Dr-Logvinovich/IT3-Topological-Periodic-Matrix",
+      "pubDate": "Wed, 18 Nov 2026 13:55:03 +0000",
+      "date": "Wed, 18 Nov 2026 13:55:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Dr-Logvinovich/IT3-Topological-Periodic-Matrix\nComments URL: https://news.ycombinator.com/item?id=50546346\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546346"
+    },
+    {
+      "title": "Show HN: Better Helpdesk – an open-source helpdesk inside your Next.js app",
+      "link": "https://github.com/better-helpdesk/better-helpdesk",
+      "pubDate": "Wed, 18 Nov 2026 13:49:40 +0000",
+      "date": "Wed, 18 Nov 2026 13:49:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/better-helpdesk/better-helpdesk\nComments URL: https://news.ycombinator.com/item?id=50546294\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546294"
+    },
+    {
+      "title": "Show HN: Lalabase - Selfhosted project memory for agencies and their clients",
+      "link": "https://github.com/lalabase/lalabase",
+      "pubDate": "Wed, 18 Nov 2026 13:46:36 +0000",
+      "date": "Wed, 18 Nov 2026 13:46:36 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I run a small software agency in Germany. And of course I had some kind of software to manage my projects. It was a very simple ticket tool, and I also did my billing with it.\nBut one day that just annoyed me so much. I mean, you have this problem: a ticket is done. Status set to closed and you've billed it. And then two weeks later the client comes along and wants a small fix for it or a minor change, because maybe something was misunderstood. And with the tool I used, you had to put the ticket",
+      "guid": "https://news.ycombinator.com/item?id=50546255"
+    },
+    {
+      "title": "Show HN: Werkbank – 40 tool-using tasks to evaluate self-hosted LLMs",
+      "link": "https://github.com/aisyndicate-ch/victors-werkbank",
+      "pubDate": "Wed, 18 Nov 2026 13:45:03 +0000",
+      "date": "Wed, 18 Nov 2026 13:45:03 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/aisyndicate-ch/victors-werkbank\nComments URL: https://news.ycombinator.com/item?id=50546239\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546239"
+    },
+    {
+      "title": "Show HN: Family Charts – turn a GEDCOM file into a printable ancestor chart",
+      "link": "https://familyatlas.hexmobius.com",
+      "pubDate": "Wed, 18 Nov 2026 13:44:28 +0000",
+      "date": "Wed, 18 Nov 2026 13:44:28 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://familyatlas.hexmobius.com\nComments URL: https://news.ycombinator.com/item?id=50546229\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546229"
+    },
+    {
+      "title": "Show HN: Hosting Market Insights – 97.3% of domains mapped to 8,300 providers",
+      "link": "https://webhosting.today/market-insights/",
+      "pubDate": "Wed, 18 Nov 2026 13:32:12 +0000",
+      "date": "Wed, 18 Nov 2026 13:32:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "We've been working on something at webhosting(.)today for the last few months that I thought might be useful to this community. We analyzed 97.3% of all registered domains and mapped over 8,300 hosting providers to understand what's actually happening in the web hosting market.\nYou can use it to:\n- Check any hosting provider's market position, how many domains they manage and their growth\n- Find out who's involved, who owns whom, including hosting groups and all the brands they control\n- Track d",
+      "guid": "https://news.ycombinator.com/item?id=50546109"
+    },
+    {
+      "title": "Show HN: eSIM Tile – Toggle an eSIM from Android Quick Settings",
+      "link": "https://github.com/rabbiveesh/esim-tile",
+      "pubDate": "Wed, 18 Nov 2026 13:31:56 +0000",
+      "date": "Wed, 18 Nov 2026 13:31:56 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "A little app I made (full disclosure: with claude). \nBasically - android doesn't expose any way to quickly toggle an eSIM on and off. So I made one.\nIt uses shizuku to turn it on via adb. Hope it's cool and useful to someone else.\nComments URL: https://news.ycombinator.com/item?id=50546107\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546107"
+    },
+    {
+      "title": "Show HN: MR Office – open-source document, spreadsheet, slide and PDF editors",
+      "link": "https://github.com/XinaTian/MROffice",
+      "pubDate": "Wed, 18 Nov 2026 13:29:14 +0000",
+      "date": "Wed, 18 Nov 2026 13:29:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/XinaTian/MROffice\nComments URL: https://news.ycombinator.com/item?id=50546074\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50546074"
+    },
+    {
+      "title": "Show HN: Mtl_jobines – Montreal-inspired open world driving game",
+      "link": "https://github.com/antoineMoPa/mtl_jobines",
+      "pubDate": "Wed, 18 Nov 2026 13:19:19 +0000",
+      "date": "Wed, 18 Nov 2026 13:19:19 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/antoineMoPa/mtl_jobines\nComments URL: https://news.ycombinator.com/item?id=50545973\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50545973"
+    },
+    {
+      "title": "Show HN: BoxRouter – OpenRouter for Sandboxes",
+      "link": "https://boxrouter.ai/",
+      "pubDate": "Wed, 18 Nov 2026 13:13:59 +0000",
+      "date": "Wed, 18 Nov 2026 13:13:59 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://boxrouter.ai/\nComments URL: https://news.ycombinator.com/item?id=50545917\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50545917"
+    },
+    {
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "pubDate": "Wed, 18 Nov 2026 13:10:00 +0000",
+      "date": "Wed, 18 Nov 2026 13:10:00 +0000",
+      "source": "MIT Tech Review",
+      "category": "new-tools",
+      "icon": "🔬",
+      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
+      "guid": "https://www.technologyreview.com/?p=1148845"
+    },
+    {
+      "title": "Show HN: Sidekick AI – A local-first VS Code extension with hybrid vector search",
+      "link": "https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai",
+      "pubDate": "Wed, 18 Nov 2026 13:09:11 +0000",
+      "date": "Wed, 18 Nov 2026 13:09:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai\nComments URL: https://news.ycombinator.com/item?id=50545876\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50545876"
+    },
+    {
+      "title": "Show HN: MacZentra – Mac disk analyzer with a free scan, no subscription",
+      "link": "https://maczentra.com/",
+      "pubDate": "Wed, 18 Nov 2026 13:01:07 +0000",
+      "date": "Wed, 18 Nov 2026 13:01:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://maczentra.com/\nComments URL: https://news.ycombinator.com/item?id=50545805\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50545805"
+    },
+    {
+      "title": "Show HN: Edx0 – run Pi and OpenCode with NextJS and more entirely in the browser",
+      "link": "https://edx0.dev",
+      "pubDate": "Wed, 18 Nov 2026 12:56:57 +0000",
+      "date": "Wed, 18 Nov 2026 12:56:57 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://edx0.dev\nComments URL: https://news.ycombinator.com/item?id=50545769\nPoints: 3\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50545769"
+    },
+    {
+      "title": "Show HN: Map showing if GTA 6 is out in your country",
+      "link": "https://ksvslk.github.io/gta6-launch-map/",
+      "pubDate": "Wed, 18 Nov 2026 12:54:39 +0000",
+      "date": "Wed, 18 Nov 2026 12:54:39 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ksvslk.github.io/gta6-launch-map/\nComments URL: https://news.ycombinator.com/item?id=50545743\nPoints: 4\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50545743"
+    },
+    {
+      "title": "Show HN: NetDiag self-hosted network inventory and diagnostics",
+      "link": "https://github.com/kr3s4l4/netdiag",
+      "pubDate": "Wed, 18 Nov 2026 12:53:22 +0000",
+      "date": "Wed, 18 Nov 2026 12:53:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/kr3s4l4/netdiag\nComments URL: https://news.ycombinator.com/item?id=50545732\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50545732"
+    },
+    {
+      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "link": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+      "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
+      "date": "Wed, 18 Nov 2026 11:00:00 +0000",
+      "source": "Stratechery",
+      "category": "voices",
+      "icon": "📊",
+      "contentSnippet": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "guid": "https://stratechery.com/?p=21272"
     },
     {
       "title": "Cell Phone Ban in Schools and AI Cheating: New Research",
@@ -37,158 +257,15 @@
       "guid": "https://www.coolcatteacher.com/?p=35840"
     },
     {
-      "title": "Show HN: PortalKinetic – Clear your head and leave with one next move",
-      "link": "https://www.portalkinetic.com",
-      "pubDate": "Wed, 18 Nov 2026 02:31:08 +0000",
-      "date": "Wed, 18 Nov 2026 02:31:08 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.portalkinetic.com\nComments URL: https://news.ycombinator.com/item?id=50541116\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50541116"
-    },
-    {
-      "title": "Show HN: An ASCII cell aquarium for your terminal",
-      "link": "https://github.com/kborer/cells/",
-      "pubDate": "Wed, 18 Nov 2026 02:18:29 +0000",
-      "date": "Wed, 18 Nov 2026 02:18:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made a virtual microscope slide for your terminal (inspired by asciiquarium and cbonsai). Cells divide, immune cells chase bacteria, and bacteriophages occasionally cause trouble.  You can try it with:\n$ pipx install terminal-cells\n$ cells\nI'd appreciate any suggestions for additional animations to add, especially entities or events that would be visually distinct given the graphical limitations. Any cell biologists in the house?\nComments URL: https://news.ycombinator.com/item?id=50541047\nPoin",
-      "guid": "https://news.ycombinator.com/item?id=50541047"
-    },
-    {
-      "title": "Show HN: I made a site showcasing The Elm Architecture in many other languages",
-      "link": "https://tea.rinn7e.com/",
-      "pubDate": "Wed, 18 Nov 2026 01:55:14 +0000",
-      "date": "Wed, 18 Nov 2026 01:55:14 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I am a huge fan of Elm, but the language is hard to use at work. Luckily,\nthere are many implementations of TEA in other languages, so I created this\nwebsite to help others find them.\n(A plug: this website uses react-tea-cup, a library that implements TEA and\nintegrates well with React.)\nWebsite: https://tea.rinn7e.com/\nSource code: https://github.com/rinn7e/tea-ecosystem\nComments URL: https://news.ycombinator.com/item?id=50540914\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50540914"
-    },
-    {
-      "title": "Show HN: Ferrovec Retrace – semantic search over pages you've read, all local",
-      "link": "https://github.com/singhpratech/ferrovec/tree/main/extensions/retrace",
-      "pubDate": "Wed, 18 Nov 2026 01:48:37 +0000",
-      "date": "Wed, 18 Nov 2026 01:48:37 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/singhpratech/ferrovec/tree/main/extensions/retrace\nComments URL: https://news.ycombinator.com/item?id=50540861\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50540861"
-    },
-    {
-      "title": "Show HN: A Codenames-style wordgame that benchmarks LLMs",
-      "link": "https://wordspies.com/hn",
-      "pubDate": "Wed, 18 Nov 2026 01:42:19 +0000",
-      "date": "Wed, 18 Nov 2026 01:42:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://wordspies.com/hn\nComments URL: https://news.ycombinator.com/item?id=50540815\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50540815"
-    },
-    {
-      "title": "Show HN: Convert EML/MBOX mailboxes to PDF in the browser, no upload",
-      "link": "https://mailtopdf.top/en",
-      "pubDate": "Wed, 18 Nov 2026 01:39:06 +0000",
-      "date": "Wed, 18 Nov 2026 01:39:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://mailtopdf.top/en\nComments URL: https://news.ycombinator.com/item?id=50540785\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50540785"
-    },
-    {
-      "title": "Show HN: Spillway – HTTP API load testing on macOS",
-      "link": "https://spillwayapp.com/",
-      "pubDate": "Wed, 18 Nov 2026 01:38:07 +0000",
-      "date": "Wed, 18 Nov 2026 01:38:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I've used JMeter for years — it's free and has a truly amazing amount of functionality - but it doesn't really feel like a Mac app. There's also a bunch of other more modern features that I wish it had.\nSpillway is scratch-my-own-itch app... a culmination of things I've wished for over the years: native macOS app, visual test plans, easy-to-use variable substitution, built-in support for modern OAuth patterns, ability to compare previous runs graphically, and no wild per-user/request pricing.\nGe",
-      "guid": "https://news.ycombinator.com/item?id=50540777"
-    },
-    {
-      "title": "Show HN: A more readable take on HN",
-      "link": "https://hn.orbitalchicken.com",
-      "pubDate": "Tue, 17 Nov 2026 23:58:03 +0000",
-      "date": "Tue, 17 Nov 2026 23:58:03 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://hn.orbitalchicken.com\nComments URL: https://news.ycombinator.com/item?id=50540005\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50540005"
-    },
-    {
-      "title": "Show HN: Dropbox for AI Skill Files",
-      "link": "https://www.mdkit.ai",
-      "pubDate": "Tue, 17 Nov 2026 23:57:07 +0000",
-      "date": "Tue, 17 Nov 2026 23:57:07 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built mdkit, a menu bar app for storing and sharing skill markdown files.\nJust drop your .md files into mdkit to store them in the cloud, then drag them out whenever you need them.\nShare files by email with viewer or editor permissions. Every save is versioned.\nWhy I built it: \nI wanted a simple, AI-platform-independent way to share and manage AI skills across teams, with features like editing permissions and version history.\nmdkit is in beta and free to try on Windows and Mac.\nGenuinely just ",
-      "guid": "https://news.ycombinator.com/item?id=50539993"
-    },
-    {
-      "title": "Show HN: Shard – Distributed AI Inference Across Multiple Computers",
-      "link": "https://github.com/avelone123123/shard",
-      "pubDate": "Tue, 17 Nov 2026 23:56:20 +0000",
-      "date": "Tue, 17 Nov 2026 23:56:20 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/avelone123123/shard\nComments URL: https://news.ycombinator.com/item?id=50539983\nPoints: 2\n# Comments: 3",
-      "guid": "https://news.ycombinator.com/item?id=50539983"
-    },
-    {
-      "title": "Show HN: KIZZ – A Build tool that tracks dependencies so you dont have to",
-      "link": "https://github.com/Sakura-Industries-LLC/kizz",
-      "pubDate": "Tue, 17 Nov 2026 23:38:24 +0000",
-      "date": "Tue, 17 Nov 2026 23:38:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I used to use Fabricate a long time ago, its strace based build was a great idea and I always wanted something that could track dependencies so I didn't have to.\nKIZZ is that, it tracks your dependencies, and also the order of the build.  It won't rebuild if nothing changes, and can be scripted with literal markdown files with starlark build steps.  I call this building in positive space, not negative space.\nLinux only because Win/Mac make doing this very very hard on those platforms.\nIt can als",
-      "guid": "https://news.ycombinator.com/item?id=50539797"
-    },
-    {
-      "title": "Show HN: MacAudio-Best volume mixer on Mac?",
-      "link": "https://macaudio.app/",
-      "pubDate": "Tue, 17 Nov 2026 23:31:43 +0000",
-      "date": "Tue, 17 Nov 2026 23:31:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://macaudio.app/\nComments URL: https://news.ycombinator.com/item?id=50539734\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50539734"
-    },
-    {
-      "title": "Show HN: A non-brainrot, education Roblox game for your kids",
-      "link": "https://www.roblox.com/games/129981060143619/Roxy-Island-Math-Reading",
-      "pubDate": "Tue, 17 Nov 2026 23:09:01 +0000",
-      "date": "Tue, 17 Nov 2026 23:09:01 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "As a father of three and the one watching my kids play crazy brainrot games on Roblox daily, I decided to build a mix of fun and learning experience inside Roblox called Roxy Island, so kids actually learn and earn their dopamine kicks :).\nEvery few math or reading rounds include a mini-game, plus a store full of items you need to unlock.\nGrateful for support and feedback!\nComments URL: https://news.ycombinator.com/item?id=50539535\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50539535"
-    },
-    {
-      "title": "Show HN: Vyro Clipping Calculator – what your views actually pay",
-      "link": "https://vyroclipping.org/",
-      "pubDate": "Tue, 17 Nov 2026 22:51:06 +0000",
-      "date": "Tue, 17 Nov 2026 22:51:06 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://vyroclipping.org/\nComments URL: https://news.ycombinator.com/item?id=50539386\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50539386"
+      "title": "AI Has a Place in Education, Just Not in My Classroom",
+      "link": "https://www.edsurge.com/news/ai-has-a-place-in-education-just-not-in-my-classroom",
+      "pubDate": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "date": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "source": "EdSurge · Education Tech",
+      "category": "ai-education",
+      "icon": "📚",
+      "contentSnippet": "Despite the rise of AI in schools, a seventh-grade literacy teacher argues for the irreplaceable value of a low-tech classroom centered on foundational ...",
+      "guid": "post-guid-440eDBEe"
     },
     {
       "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
@@ -202,61 +279,6 @@
       "guid": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
     },
     {
-      "title": "Show HN: Infoboxing – Guess the Wikipedia article from its infobox",
-      "link": "https://www.infoboxing.net/",
-      "pubDate": "Tue, 17 Nov 2026 22:35:48 +0000",
-      "date": "Tue, 17 Nov 2026 22:35:48 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made a daily game where you try to identify five Wikipedia articles by looking at their infoboxes with the name and picture hidden. You get one guess per article, and afterwards you get a summary and a link to Wikipedia so at least you might learn something even if you get it wrong!\nInfoboxing was inspired by the Wikipedia guessing game Catfishing, which my friends and I love. We play as a group, which is probably cheating, but still sometimes only get like 3/10 correct. Part of the fun is dis",
-      "guid": "https://news.ycombinator.com/item?id=50539260"
-    },
-    {
-      "title": "Show HN: Parallel Search Eval Harness",
-      "link": "https://github.com/parallel-web/parallel-search-evals",
-      "pubDate": "Tue, 17 Nov 2026 22:35:39 +0000",
-      "date": "Tue, 17 Nov 2026 22:35:39 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/parallel-web/parallel-search-evals\nComments URL: https://news.ycombinator.com/item?id=50539257\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50539257"
-    },
-    {
-      "title": "Show HN: DecksMD – local first, Markdown flashcards app and plugin for Obsidian",
-      "link": "https://decksmd.app/",
-      "pubDate": "Tue, 17 Nov 2026 22:31:25 +0000",
-      "date": "Tue, 17 Nov 2026 22:31:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I built a flashcards app and plugin for obsidian, based on markdown syntax. You use headers and paragraphs, tables or highlighted text to create flashcards and cloze deletions, which you can then review using FSRS algorithm. Everything stays local, it uses a SQL lite db internally to keep track of state and keep the markdown document clean.\nI started this project about a year ago when I was facing the problem that I needed flashcards to memorise thousands concepts and language vocabulary I kept ",
-      "guid": "https://news.ycombinator.com/item?id=50539204"
-    },
-    {
-      "title": "Show HN: Sikemux – a whole team of AI coders in one window (Rust, MIT)",
-      "link": "https://sikemux.com/",
-      "pubDate": "Tue, 17 Nov 2026 22:29:19 +0000",
-      "date": "Tue, 17 Nov 2026 22:29:19 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Here's why I started building Sikemux:\nAt first I was using Cursor. The problem with it was, I had to open a new window for each project. That's when Zed came along. It was good and fast. But I didn't like its project switching much, it took me like 2 clicks instead of 1.\nI had tried Cursor's agent-first feature as well, but didn't like it much, as I had to see files as well and do git ops with a good layout.\nI had even tried tmux + sesh setups then.\nThat's when I started building Sikemux in Tau",
-      "guid": "https://news.ycombinator.com/item?id=50539180"
-    },
-    {
-      "title": "Show HN: dead-tests finds tests that never run or can never fail",
-      "link": "https://github.com/dylanpulver/dead-tests",
-      "pubDate": "Tue, 17 Nov 2026 22:25:47 +0000",
-      "date": "Tue, 17 Nov 2026 22:25:47 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/dylanpulver/dead-tests\nComments URL: https://news.ycombinator.com/item?id=50539136\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50539136"
-    },
-    {
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
       "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
       "pubDate": "Tue, 17 Nov 2026 18:46:47 +0000",
@@ -266,6 +288,17 @@
       "icon": "🔬",
       "contentSnippet": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain…",
       "guid": "https://www.technologyreview.com/?p=1148049"
+    },
+    {
+      "title": "GPT-6.2 Astra and Sol",
+      "link": "https://www.producthunt.com/products/openai",
+      "pubDate": "2026-11-17T18:06:04.000Z",
+      "date": "2026-11-17T18:06:04.000Z",
+      "source": "Product Hunt · AI",
+      "category": "new-tools",
+      "icon": "🆕",
+      "contentSnippet": "Discussion\n            |\n            Link",
+      "guid": "https://www.producthunt.com/products/openai"
     },
     {
       "title": "Hydropower hit record lows in the US Southwest this summer",
@@ -299,39 +332,6 @@
       "icon": "🎓",
       "contentSnippet": "When a teacher sits beside a student working through a problem, a simple prompt can change the conversation: ... Read more\nThe post Same Wrong Answer, Different Reasons: Why Student Thinking Matters. appeared first on Khan Academy Blog.",
       "guid": "https://blog.khanacademy.org/?p=22693"
-    },
-    {
-      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-      "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-      "pubDate": "Tue, 17 Nov 2026 13:10:00 +0000",
-      "date": "Tue, 17 Nov 2026 13:10:00 +0000",
-      "source": "MIT Tech Review",
-      "category": "new-tools",
-      "icon": "🔬",
-      "contentSnippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and…",
-      "guid": "https://www.technologyreview.com/?p=1148679"
-    },
-    {
-      "title": "What We Talk About When We Talk About Agency",
-      "link": "https://www.gettingsmart.com/2026/11/17/what-we-talk-about-when-we-talk-about-agency/",
-      "pubDate": "Tue, 17 Nov 2026 11:45:00 +0000",
-      "date": "Tue, 17 Nov 2026 11:45:00 +0000",
-      "source": "Getting Smart",
-      "category": "ai-education",
-      "icon": "🌱",
-      "contentSnippet": "The word 'agency' is everywhere right now, in skills frameworks, job postings, and AI product pitches, but Getting Smart's Mason Pashia argues we have been sold a dangerously narrow version of it. This piece untangles the difference between individual agency as productivity signal and collective agency as a civic right, and shows how schools like RedBridge, Watershed, and Green School Bali are already building the fuller picture. If agency is a desired outcome in your Portrait of a Graduate, thi",
-      "guid": "https://www.gettingsmart.com/?p=141201"
-    },
-    {
-      "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
-      "link": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
-      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "date": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "source": "Stratechery",
-      "category": "voices",
-      "icon": "📊",
-      "contentSnippet": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
-      "guid": "https://stratechery.com/?p=21256"
     }
   ]
 }
