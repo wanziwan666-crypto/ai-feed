@@ -1,96 +1,8 @@
 {
-  "generatedAt": "2026-11-19T05:11:18.064Z",
+  "generatedAt": "2026-11-19T03:08:50.694Z",
   "lookbackHours": 24,
   "totalItems": 23,
   "items": [
-    {
-      "title": "Show HN: Satelital – How I made a custom game engine for my indie game",
-      "link": "https://spectralorbit.com/blog/satelital_game_engine",
-      "pubDate": "Thu, 19 Nov 2026 04:46:33 +0000",
-      "date": "Thu, 19 Nov 2026 04:46:33 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://spectralorbit.com/blog/satelital_game_engine\nComments URL: https://news.ycombinator.com/item?id=50556174\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50556174"
-    },
-    {
-      "title": "Show HN: Pip – Your Git history puts you on a Performance Improvement Plan",
-      "link": "https://github.com/littlestjames82-sys/pip-pip",
-      "pubDate": "Thu, 19 Nov 2026 04:36:25 +0000",
-      "date": "Thu, 19 Nov 2026 04:36:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/littlestjames82-sys/pip-pip\nComments URL: https://news.ycombinator.com/item?id=50556132\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50556132"
-    },
-    {
-      "title": "Show HN: Port.fm – Internet radio tuned by decade, energy, or location",
-      "link": "https://port.fm/",
-      "pubDate": "Thu, 19 Nov 2026 04:19:43 +0000",
-      "date": "Thu, 19 Nov 2026 04:19:43 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://port.fm/\nComments URL: https://news.ycombinator.com/item?id=50556041\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50556041"
-    },
-    {
-      "title": "Show HN: Why Zero to One's Thesis Falls Short with Healthcare",
-      "link": "https://davidngo1562.substack.com/p/its-not-about-the-money-until-it",
-      "pubDate": "Thu, 19 Nov 2026 04:15:29 +0000",
-      "date": "Thu, 19 Nov 2026 04:15:29 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "With healthcare, Zero to One's thesis may not always work because the buyer and consumer are different people. My latest excerpt from my book explains why.\nComments URL: https://news.ycombinator.com/item?id=50556009\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50556009"
-    },
-    {
-      "title": "Show HN: The FODMAP mistake most health writers make",
-      "link": "https://news.ycombinator.com/item?id=50555919",
-      "pubDate": "Thu, 19 Nov 2026 04:00:13 +0000",
-      "date": "Thu, 19 Nov 2026 04:00:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Everyone says 'eat low-FODMAP'. Few explain WHY or for HOW LONG. That nuance is exactly what gets bloggers flagged as shallow.\nGrab the 40-card library (pay-what-you-want from $19): https://kouautomation.gumroad.com/l/evidence-cards  |  direct PayPal: https://kouautomation.com/pay.html\nComments URL: https://news.ycombinator.com/item?id=50555919\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50555919"
-    },
-    {
-      "title": "Show HN: Name Satellite Trails",
-      "link": "https://github.com/dmead/skyfind",
-      "pubDate": "Thu, 19 Nov 2026 03:20:24 +0000",
-      "date": "Thu, 19 Nov 2026 03:20:24 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi\nskyfind names satellites in time lapse videos, but also find the viewer's location on the ground. It makes use of orbital data from https://www.space-track.org.\nThis runs as a command line, QT gui or you can use it as a claude skill.\nComments URL: https://news.ycombinator.com/item?id=50555641\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50555641"
-    },
-    {
-      "title": "Show HN: A Air traffic control SIM that forces you to remember how to write code",
-      "link": "https://github.com/shawnzam/holding-pattern",
-      "pubDate": "Thu, 19 Nov 2026 03:04:17 +0000",
-      "date": "Thu, 19 Nov 2026 03:04:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/shawnzam/holding-pattern\nComments URL: https://news.ycombinator.com/item?id=50555534\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50555534"
-    },
-    {
-      "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
-      "link": "https://disposable.xify.kr/en/",
-      "pubDate": "Thu, 19 Nov 2026 03:02:34 +0000",
-      "date": "Thu, 19 Nov 2026 03:02:34 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "I made a site for sharing small tools made with AI.\nWith agents, it is now quick to build a tool that fits your own task. But those tools usually get thrown away after use, and the next person who may needs something similar start again from zero. \nSo I thought maybe if result or process could shared by text or code and this can lead to kind of token sharing economy.\nIts name is Disposable and compared to \"Open source\", I named its philosophy to \"Open Disposable\".\nSo the principle is \"Like open ",
-      "guid": "https://news.ycombinator.com/item?id=50555527"
-    },
     {
       "title": "Show HN: Open-source MCP server for pay-per-result research/public-data tools",
       "link": "https://github.com/pandadad0214/panda-federation-tools",
@@ -110,7 +22,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://vercel.com/blog/introducing-vercel-board\nComments URL: https://news.ycombinator.com/item?id=50555456\nPoints: 8\n# Comments: 0",
+      "contentSnippet": "Article URL: https://vercel.com/blog/introducing-vercel-board\nComments URL: https://news.ycombinator.com/item?id=50555456\nPoints: 4\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50555456"
     },
     {
@@ -132,7 +44,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://adeindex.com\nComments URL: https://news.ycombinator.com/item?id=50554973\nPoints: 11\n# Comments: 3",
+      "contentSnippet": "Article URL: https://adeindex.com\nComments URL: https://news.ycombinator.com/item?id=50554973\nPoints: 8\n# Comments: 2",
       "guid": "https://news.ycombinator.com/item?id=50554973"
     },
     {
@@ -187,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://walkthisplan.com/\nComments URL: https://news.ycombinator.com/item?id=50554399\nPoints: 4\n# Comments: 1",
+      "contentSnippet": "Article URL: https://walkthisplan.com/\nComments URL: https://news.ycombinator.com/item?id=50554399\nPoints: 3\n# Comments: 1",
       "guid": "https://news.ycombinator.com/item?id=50554399"
     },
     {
@@ -222,6 +134,94 @@
       "icon": "🔨",
       "contentSnippet": "GTA 6 is here! I used to work in marketing automation, which mostly meant clicking around Klaviyo all day. So I built the obvious thing: an agent that does the clicking while I'm in Vice City.\nIt runs in my Chrome through an extension (using Playwright), using the tools I am already logged into. It can build a welcome flow in Klaviyo click by click, the way I would at work.\nMy favorite feature I added thus far? You can tell it to slow down and click more slowly :D Finishing a week of work by 10a",
       "guid": "https://news.ycombinator.com/item?id=50554061"
+    },
+    {
+      "title": "Show HN: Pitot – OpenTelemetry in One Binary, with Parquet, DuckDB, and MCP",
+      "link": "https://github.com/labstack/pitot",
+      "pubDate": "Wed, 18 Nov 2026 23:55:35 +0000",
+      "date": "Wed, 18 Nov 2026 23:55:35 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/labstack/pitot\nComments URL: https://news.ycombinator.com/item?id=50554055\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50554055"
+    },
+    {
+      "title": "Show HN: Solve hard jigsaw puzzles scanning with phone",
+      "link": "https://puzzle.cloudish.app/",
+      "pubDate": "Wed, 18 Nov 2026 23:45:16 +0000",
+      "date": "Wed, 18 Nov 2026 23:45:16 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://puzzle.cloudish.app/\nComments URL: https://news.ycombinator.com/item?id=50553969\nPoints: 2\n# Comments: 2",
+      "guid": "https://news.ycombinator.com/item?id=50553969"
+    },
+    {
+      "title": "Show HN: Frontier Observatory – A visual timeline of what the AI labs ship",
+      "link": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+      "pubDate": "Wed, 18 Nov 2026 23:45:01 +0000",
+      "date": "Wed, 18 Nov 2026 23:45:01 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release/research output is any indication)..\nMade with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested 'scry' which I thought was a bad name so now its called Frontier Observatory, which is a tad less terrible.\nPrompt:\nYou know what I'd like to build.. a visuliastion studio where I can monitor the pace of output across various groups/sub-gr",
+      "guid": "https://news.ycombinator.com/item?id=50553966"
+    },
+    {
+      "title": "Show HN: Try Vibe Robotics! (IRL or MuJoCo SIM)",
+      "link": "https://github.com/google-deepmind/robotics-antigravity-plugin",
+      "pubDate": "Wed, 18 Nov 2026 23:38:40 +0000",
+      "date": "Wed, 18 Nov 2026 23:38:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN, I'm Salman, a research engineer at GDM Robotics on the team that built this robotics plugin.\nWhether you're a robotics founder, data company, making RL environments, or just getting FOMO seeing all the cool robotics demos on X, you can just plug in a robot and start prompting away. The plugin we've written up includes skills that steer the model toward following best practices.\nThe benefits of using the plugin are:\n- fewer tokens (and therefore thinking time) needed to do bring-up the ro",
+      "guid": "https://news.ycombinator.com/item?id=50553913"
+    },
+    {
+      "title": "Show HN: LaTeX Editor with Incremental Compilation",
+      "link": "https://app.texter.website",
+      "pubDate": "Wed, 18 Nov 2026 23:27:38 +0000",
+      "date": "Wed, 18 Nov 2026 23:27:38 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://app.texter.website\nComments URL: https://news.ycombinator.com/item?id=50553818\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50553818"
+    },
+    {
+      "title": "Show HN: Archiver – free extract/compaction tool built with WebAssembly",
+      "link": "https://archiver.scryer.media/",
+      "pubDate": "Wed, 18 Nov 2026 23:07:49 +0000",
+      "date": "Wed, 18 Nov 2026 23:07:49 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://spectralorbit.com/blog/satelital_game_engine\nComments URL: https://news.ycombinator.com/item?id=50556174\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50556174"
+    },
+    {
+      "title": "Show HN: Pip – Your Git history puts you on a Performance Improvement Plan",
+      "link": "https://github.com/littlestjames82-sys/pip-pip",
+      "pubDate": "Thu, 19 Nov 2026 04:36:25 +0000",
+      "date": "Thu, 19 Nov 2026 04:36:25 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/littlestjames82-sys/pip-pip\nComments URL: https://news.ycombinator.com/item?id=50556132\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50556132"
+    },
+    {
+      "title": "Show HN: Port.fm – Internet radio tuned by decade, energy, or location",
+      "link": "https://port.fm/",
+      "pubDate": "Thu, 19 Nov 2026 04:19:43 +0000",
+      "date": "Thu, 19 Nov 2026 04:19:43 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://port.fm/\nComments URL: https://news.ycombinator.com/item?id=50556041\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50556041"
     },
     {
       "title": "Struggling Readers: Find What to Teach Next",
