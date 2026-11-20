@@ -1,24 +1,134 @@
 {
-  "generatedAt": "2026-11-20T14:39:00.840Z",
+  "generatedAt": "2026-11-20T03:07:22.623Z",
   "lookbackHours": 24,
-  "totalItems": 23,
+  "totalItems": 21,
   "items": [
     {
-      "title": "jingyaogong/minimind",
-      "link": "https://github.com/jingyaogong/minimind",
-      "pubDate": "2026-11-20T14:38:58.917Z",
-      "date": "2026-11-20T14:38:58.917Z",
-      "source": "GitHub Trending · Daily",
+      "title": "Show HN: Google Workspace / Microsoft 365 alternative",
+      "link": "https://cloud.mailflare.co",
+      "pubDate": "Fri, 20 Nov 2026 02:59:56 +0000",
+      "date": "Fri, 20 Nov 2026 02:59:56 +0000",
+      "source": "Hacker News · Show HN",
       "category": "projects",
-      "icon": "⭐",
-      "contentSnippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\nhttps://jingyaogong.github.io/minimind\n\n \n \n\n \n \n \n \n     \n \n \n \n \n\n \n \n \n \n\"大道至简\"\n \n \n \n \n中文 | English\n \n \n \n \n此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。\n \n \nMiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。\n \n \n项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。\n \n \nMiniMind 同时拓展了视觉模态模型 M",
-      "guid": "https://github.com/jingyaogong/minimind"
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://cloud.mailflare.co\nComments URL: https://news.ycombinator.com/item?id=50569622\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50569622"
     },
     {
-      "title": "Show HN: StripeWorld – a synthetic Stripe API for RL and testing",
-      "link": "https://github.com/Kiln-AI/stripe_world",
-      "pubDate": "Fri, 20 Nov 2026 14:05:46 +0000",
-      "date": "Fri, 20 Nov 2026 14:05:46 +0000",
+      "title": "Show HN: Ufatfs: Unix overlay file system for VFAT/exFAT",
+      "link": "https://fossil.chungy.name/ufatfs/doc/trunk/README.md",
+      "pubDate": "Fri, 20 Nov 2026 02:51:11 +0000",
+      "date": "Fri, 20 Nov 2026 02:51:11 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://fossil.chungy.name/ufatfs/doc/trunk/README.md\nComments URL: https://news.ycombinator.com/item?id=50569565\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50569565"
+    },
+    {
+      "title": "Show HN: Citeparse: parse reference lists and flag invented citations on a CPU",
+      "link": "https://github.com/un-seen/citeparse",
+      "pubDate": "Fri, 20 Nov 2026 02:35:10 +0000",
+      "date": "Fri, 20 Nov 2026 02:35:10 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/un-seen/citeparse\nComments URL: https://news.ycombinator.com/item?id=50569470\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50569470"
+    },
+    {
+      "title": "Show HN: SlotVFX – 2D game effects and sequences for Pixi, Phaser and Cocos",
+      "link": "https://slotvfx.com/",
+      "pubDate": "Fri, 20 Nov 2026 01:59:55 +0000",
+      "date": "Fri, 20 Nov 2026 01:59:55 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://slotvfx.com/\nComments URL: https://news.ycombinator.com/item?id=50569221\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50569221"
+    },
+    {
+      "title": "Show HN: Circled – a calendar for planning my week and making plans with friends",
+      "link": "https://getcircledapp.com/",
+      "pubDate": "Fri, 20 Nov 2026 01:57:05 +0000",
+      "date": "Fri, 20 Nov 2026 01:57:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN! I built an app for people who like to keep their days organised, while also being able to make plans with friends without always asking \"when are you free\" and then the plan never leaving the group chat, so I built Circled: a shared calendar for you and your mates. Just want to put it here in case someone might find my app useful! :)\nFeatures:\n- Block out non-negotiables: Gym, work and other fixed commitments go in, and this allows for everything else to get planned around them.\n- Daily ",
+      "guid": "https://news.ycombinator.com/item?id=50569194"
+    },
+    {
+      "title": "Show HN: A collaborative music making game that teaches music as you play",
+      "link": "https://jam.resonantdsp.com",
+      "pubDate": "Fri, 20 Nov 2026 01:55:05 +0000",
+      "date": "Fri, 20 Nov 2026 01:55:05 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Jam is a music making game that runs in the browser. You start with one instrument, and you write parts on a piano roll. Create your own music or play gigs (levels) to ear coin and buy more gear. Each gig is built around one musical idea, so you pick up some music knowledge as you go. Friends can join your studio with a link and write parts alongside you.\nIn my other Show HNs I've always come with my own code. In this case I didn't write the code, but I'm still proud of the outcome and I hope so",
+      "guid": "https://news.ycombinator.com/item?id=50569185"
+    },
+    {
+      "title": "Show HN: SSH OS – an SSH-only operating system for the 1987 Macintosh SE",
+      "link": "https://github.com/naruse/SSH-OS",
+      "pubDate": "Fri, 20 Nov 2026 01:45:32 +0000",
+      "date": "Fri, 20 Nov 2026 01:45:32 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/naruse/SSH-OS\nComments URL: https://news.ycombinator.com/item?id=50569129\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50569129"
+    },
+    {
+      "title": "Show HN: Tyche, An intelligent interface that clicks, books, and shops on iPhone",
+      "link": "https://apps.apple.com/us/app/tyche-intelligent-interface/id6835683787",
+      "pubDate": "Fri, 20 Nov 2026 01:22:37 +0000",
+      "date": "Fri, 20 Nov 2026 01:22:37 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I’ve always believed that AI should work alongside people, not just behind the scenes.\nPeople don’t want to just let AI make every decision for them in the background. They want to interact with it, take control, and hand things off whenever they choose.\ni) Tyche is an intelligent browser that does what you ask. It clicks, books, fills out forms, shops, summarizes, and scrolls, right on the web pages you already use.\nii) Browse on your own or with the agent. Switch tabs anytime, and pick up any ",
+      "guid": "https://news.ycombinator.com/item?id=50568974"
+    },
+    {
+      "title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "link": "https://thunderphone.com/blog/introducing-zeus",
+      "pubDate": "Fri, 20 Nov 2026 00:51:52 +0000",
+      "date": "Fri, 20 Nov 2026 00:51:52 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hi everyone, Alex here - I’m one of the founders of ThunderPhone. We’re excited to announce the launch of Zeus, a platform that makes AI phone calls actually work without extensive hand-tuning!\nYou can see a head-to-head I made of the last version of ThunderPhone vs this one here: https://www.youtube.com/watch?v=YlkIc3L29lo\nA (somewhat long) summary:\nWhen we started building business phone agents in 2024, we kept running into technical problems that ruined calls, caused by the limits of existing",
+      "guid": "https://news.ycombinator.com/item?id=50568763"
+    },
+    {
+      "title": "Show HN: Bot-inator – Mac agent that writes its own tools, runs them sandboxed",
+      "link": "https://github.com/Bforsyth1234/bot-inator",
+      "pubDate": "Fri, 20 Nov 2026 00:00:40 +0000",
+      "date": "Fri, 20 Nov 2026 00:00:40 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/Bforsyth1234/bot-inator\nComments URL: https://news.ycombinator.com/item?id=50568353\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50568353"
+    },
+    {
+      "title": "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
+      "link": "https://stass.github.io/erXos/",
+      "pubDate": "Thu, 19 Nov 2026 23:39:34 +0000",
+      "date": "Thu, 19 Nov 2026 23:39:34 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "What if every Erlang process were an operating-system process? With as much system code and drivers written in Erlang itself. This is something I was pondering for a while, and finally was able to prototype thanks to AI coding agents.\nerXos is a capability-based microkernel OS in Erlang: drivers, filesystems, and the network stack are all supervised Erlang processes, same as any app.\nThe kernel itself is Fiasco, in C++, slightly modified for erXos needs. This is an OS I wanted for a long time: a",
+      "guid": "https://news.ycombinator.com/item?id=50568169"
+    },
+    {
+      "title": "Show HN: Auto PR Labeling with Jev",
+      "link": "https://checks.dorbit.ai/",
+      "pubDate": "Thu, 19 Nov 2026 23:14:06 +0000",
+      "date": "Thu, 19 Nov 2026 23:14:06 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
@@ -55,8 +165,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://acrpacket.com/check\nComments URL: https://news.ycombinator.com/item?id=50574539\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50574539"
+      "contentSnippet": "Article URL: https://tools4u.org\nComments URL: https://news.ycombinator.com/item?id=50567819\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50567819"
     },
     {
       "title": "Show HN: Drive around my village in 3D",
@@ -66,8 +176,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "So this started out just over a week ago, could I drive around my village in my old car on the web, and its expanded into a massive map, with races, events, different cars and multiplayer.\nI'm a web/app guy, backend guy, and yes I build it with Claude.\nI know I shouldn't be astounded by what these Ai agents can do as of today, but here I am still amazed.\nI've even got support from a Sim racing guy and built a web driver so he gets full force feedback for his rig, and it works.\nAnyway, just a bit",
-      "guid": "https://news.ycombinator.com/item?id=50574412"
+      "contentSnippet": "Article URL: https://kiiwi.app/\nComments URL: https://news.ycombinator.com/item?id=50567763\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50567763"
     },
     {
       "title": "Show HN: HN DOCS – A short documentary for each top Hacker News story",
@@ -99,8 +209,8 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://habits.win/\nComments URL: https://news.ycombinator.com/item?id=50574338\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50574338"
+      "contentSnippet": "I've been obsessed with getting useful transcription models that can be used by websites directly. Starbright is https://news.ycombinator.com/item?id=50567436\nPoints: 3\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50567436"
     },
     {
       "title": "Show HN: A Claude skill that borrows compression tricks from Finnegans Wake",
@@ -125,136 +235,15 @@
       "guid": "https://news.ycombinator.com/item?id=50574243"
     },
     {
-      "title": "Show HN: Message Boards for Your Agents",
-      "link": "https://talkto.sh/",
-      "pubDate": "Fri, 20 Nov 2026 13:14:18 +0000",
-      "date": "Fri, 20 Nov 2026 13:14:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "TalkTo deploys on Cloudflare and enables:\n  - Durable Objects as Boards/Servers (like discord)\n  - Direct agent-to-agent chat\n  - file sharing\n  - team enrollment and external party invites\n  - tuned waking & notifying of agents\n\nhttps://talkto.sh/docs/agents/\nSign up or deploy it for your team:\nhttps://github.com/plannotator/talkto\nMy launch post if you'd like to support there:\nhttps://x.com/plannotator/status/2123764635987849497\nComments URL: https://news.ycombinator.com/item?id=50574220\nPoint",
-      "guid": "https://news.ycombinator.com/item?id=50574220"
-    },
-    {
-      "title": "Show HN: BiVelio Savings Layer",
-      "link": "https://github.com/BiVelio/bivelio-savings-layer",
-      "pubDate": "Fri, 20 Nov 2026 13:12:25 +0000",
-      "date": "Fri, 20 Nov 2026 13:12:25 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "We turned our research into BiVelio Savings Layer, an open-source SDK. It can handle duplicate LLM requests with one API call. It reports how calls it avoided and estimates what they would have costs.\nComments URL: https://news.ycombinator.com/item?id=50574205\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50574205"
-    },
-    {
-      "title": "Show HN: Curve - An SVG Editor with offline PWA (OSS+$0)",
-      "link": "https://curve.by.dai.studio/",
-      "pubDate": "Fri, 20 Nov 2026 13:06:51 +0000",
-      "date": "Fri, 20 Nov 2026 13:06:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://curve.by.dai.studio/\nComments URL: https://news.ycombinator.com/item?id=50574156\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50574156"
-    },
-    {
-      "title": "Show HN: I built a calendar app that gives each event its own to-do list",
-      "link": "https://apps.apple.com/ph/app/daily-planner-zesfy/id6479947874",
-      "pubDate": "Fri, 20 Nov 2026 13:03:51 +0000",
-      "date": "Fri, 20 Nov 2026 13:03:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/ph/app/daily-planner-zesfy/id6479947874\nComments URL: https://news.ycombinator.com/item?id=50574132\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50574132"
-    },
-    {
-      "title": "Show HN: DynoCap disposable Linux VMs for agents on macOS",
-      "link": "https://github.com/baires/dynocap",
-      "pubDate": "Fri, 20 Nov 2026 12:41:30 +0000",
-      "date": "Fri, 20 Nov 2026 12:41:30 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "fast, secure and offline VMs on top of Apple Virtualization.framework\nComments URL: https://news.ycombinator.com/item?id=50573883\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50573883"
-    },
-    {
-      "title": "Show HN: CompMD – Markdown with components that still reads as plain Markdown",
-      "link": "https://compmd.dev",
-      "pubDate": "Fri, 20 Nov 2026 12:24:21 +0000",
-      "date": "Fri, 20 Nov 2026 12:24:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://compmd.dev\nComments URL: https://news.ycombinator.com/item?id=50573740\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50573740"
-    },
-    {
-      "title": "Show HN: OneAnswerAI, asks OpenAI, Gemini and Claude, shows who answered",
-      "link": "https://apps.apple.com/us/app/oneanswerai/id6756519049",
-      "pubDate": "Fri, 20 Nov 2026 12:10:17 +0000",
-      "date": "Fri, 20 Nov 2026 12:10:17 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://apps.apple.com/us/app/oneanswerai/id6756519049\nComments URL: https://news.ycombinator.com/item?id=50573618\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50573618"
-    },
-    {
-      "title": "Show HN: Depth Pro 2 ONNX/TensorRT and ROS 2 (278 FPS on 3090)",
-      "link": "https://github.com/protortyp/depthpro2-onnx",
-      "pubDate": "Fri, 20 Nov 2026 12:05:50 +0000",
-      "date": "Fri, 20 Nov 2026 12:05:50 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Wanted to use apple's latest depth model on my SO-101 and didn’t need the focal network, so I exported both the full and focal-free versions of Depth Pro 2 to ONNX + TensorRT and added a ROS 2 node. In case anyone has similar needs.\nS model hits 278 FPS with TensorRT FP16 on a 3090 (480×640). Also has Jetson builds.\nComments URL: https://news.ycombinator.com/item?id=50573575\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50573575"
-    },
-    {
-      "title": "Show HN: Eccles-WASM – Zero-heap C99 WebAssembly runtime for microcontrollers",
-      "link": "https://github.com/Igwe-Starking/eccles-wasm",
-      "pubDate": "Fri, 20 Nov 2026 11:31:21 +0000",
-      "date": "Fri, 20 Nov 2026 11:31:21 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Igwe-Starking/eccles-wasm\nComments URL: https://news.ycombinator.com/item?id=50573241\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50573241"
-    },
-    {
-      "title": "Show HN: Eccles-WASM – Zero-heap C99 WebAssembly runtime for microcontrollers",
-      "link": "https://news.ycombinator.com/item?id=50573212",
-      "pubDate": "Fri, 20 Nov 2026 11:27:51 +0000",
-      "date": "Fri, 20 Nov 2026 11:27:51 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Comments URL: https://news.ycombinator.com/item?id=50573212\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50573212"
-    },
-    {
-      "title": "Show HN: Heartpad – send a heartbeat you can feel on a MacBook trackpad",
-      "link": "https://heartpad.app/",
-      "pubDate": "Fri, 20 Nov 2026 11:17:40 +0000",
-      "date": "Fri, 20 Nov 2026 11:17:40 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://heartpad.app/\nComments URL: https://news.ycombinator.com/item?id=50573123\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50573123"
-    },
-    {
-      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
-      "link": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
-      "pubDate": "Fri, 20 Nov 2026 11:00:00 +0000",
-      "date": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "title": "An Interview With Eric Seufert About Agentic Commerce",
+      "link": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+      "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "date": "Thu, 19 Nov 2026 11:00:00 +0000",
       "source": "Stratechery",
       "category": "voices",
       "icon": "📊",
-      "contentSnippet": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-      "guid": "https://stratechery.com/?p=21304"
+      "contentSnippet": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+      "guid": "https://stratechery.com/?p=21285"
     }
   ]
 }
