@@ -1,51 +1,18 @@
 {
-  "generatedAt": "2026-11-22T04:13:34.151Z",
+  "generatedAt": "2026-11-22T03:17:38.521Z",
   "lookbackHours": 24,
   "totalItems": 21,
   "items": [
     {
       "title": "jingyaogong/minimind",
       "link": "https://github.com/jingyaogong/minimind",
-      "pubDate": "2026-11-22T04:13:32.539Z",
-      "date": "2026-11-22T04:13:32.539Z",
+      "pubDate": "2026-11-22T03:17:31.610Z",
+      "date": "2026-11-22T03:17:31.610Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\nhttps://jingyaogong.github.io/minimind\n\n \n \n\n \n \n \n \n     \n \n \n \n \n\n \n \n \n \n\"大道至简\"\n \n \n \n \n中文 | English\n \n \n \n \n此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。\n \n \nMiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。\n \n \n项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。\n \n \nMiniMind 同时拓展了视觉模态模型 M",
       "guid": "https://github.com/jingyaogong/minimind"
-    },
-    {
-      "title": "Show HN: GitHub Plays Linux",
-      "link": "https://github.com/seg6",
-      "pubDate": "Sun, 22 Nov 2026 03:37:45 +0000",
-      "date": "Sun, 22 Nov 2026 03:37:45 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A few years ago, my GitHub profile README was more or less a livestream of my personal projects since I liked the idea of working in the open. It essentially embedded an image served from a small VPS with caching disabled, and my machine kept uploading screenshots of the workspace I used for those projects. So visitors saw whatever I was building at that moment. I wanted to bring that back in a form where visitors can take part rather than just watch.\nThe README now has a terminal attached to a ",
-      "guid": "https://news.ycombinator.com/item?id=50595995"
-    },
-    {
-      "title": "Show HN: System 1.5 Model – Inkling-2-Mini Decision",
-      "link": "https://huggingface.co/eltokh7/inkling-2-mini-decision",
-      "pubDate": "Sun, 22 Nov 2026 03:27:27 +0000",
-      "date": "Sun, 22 Nov 2026 03:27:27 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://huggingface.co/eltokh7/inkling-2-mini-decision\nComments URL: https://news.ycombinator.com/item?id=50595931\nPoints: 3\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50595931"
-    },
-    {
-      "title": "Show HN: Hikari.ImGui, a pure C# re-implementation of Dear ImGui",
-      "link": "https://github.com/LeastActionTech/Hikari.ImGui",
-      "pubDate": "Sun, 22 Nov 2026 03:17:57 +0000",
-      "date": "Sun, 22 Nov 2026 03:17:57 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "A pure, standalone C# re-implementation of the much-beloved and widely used immediate-mode GUI for 3D applications, Dear ImGui, targeting version v1.93.0-docking with zero native dependencies. Please feel free to use for your projects. Also available as a nuget package.\nComments URL: https://news.ycombinator.com/item?id=50595885\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50595885"
     },
     {
       "title": "Show HN: A modern take on the Go language",
@@ -55,7 +22,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Targets Go to use the toolchain and the package system you already know and love\nComments URL: https://news.ycombinator.com/item?id=50595828\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Targets Go to use the toolchain and the package system you already know and love\nComments URL: https://news.ycombinator.com/item?id=50595828\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50595828"
     },
     {
@@ -66,7 +33,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.blackfridaydeals.directory/black-friday-lifetime-deals\nComments URL: https://news.ycombinator.com/item?id=50595724\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://www.blackfridaydeals.directory/black-friday-lifetime-deals\nComments URL: https://news.ycombinator.com/item?id=50595724\nPoints: 1\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50595724"
     },
     {
@@ -233,6 +200,39 @@
       "icon": "🔨",
       "contentSnippet": "A 211M-param transformer acts as a game engine. It draws every next frame from the last 2.4 seconds and my inputs.\nBuilt a simulator of 18 Backrooms levels in PyTorch to generate the data.\nRecorded 440 hours of scripted play in it.\nTrained the model from scratch on that, using flow matching in a pretrained autoencoder's latent space.\nThe model was trained on its own imperfect frames as context so it doesn't drift right away. It recalls a few older frames by position, so a quick look back usually",
       "guid": "https://news.ycombinator.com/item?id=50594070"
+    },
+    {
+      "title": "Show HN: Quadrivia – Trivia for the Intellectually Curious",
+      "link": "https://apps.apple.com/us/app/quadrivia/id6830515751",
+      "pubDate": "Sat, 21 Nov 2026 21:59:21 +0000",
+      "date": "Sat, 21 Nov 2026 21:59:21 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I made Quadrivia, a trivia game covering science, math, logic, nature, geography, and philosophy.\nI had the idea about ten years ago. I like trivia, but I don't know much about pop culture, so I wanted a game built for subjects I enjoy. I started writing down questions in my phone's Notes app and reading them to my friends. That eventually became this app.\nI put a ton of care into the question creation. The questions are the game. Some reward knowing something interesting, whilst others give you",
+      "guid": "https://news.ycombinator.com/item?id=50594060"
+    },
+    {
+      "title": "Show HN: Straum – Live Postgres aggregates without triggers or extensions",
+      "link": "https://github.com/janbjorge/straum",
+      "pubDate": "Sat, 21 Nov 2026 21:58:12 +0000",
+      "date": "Sat, 21 Nov 2026 21:58:12 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://github.com/janbjorge/straum\nComments URL: https://news.ycombinator.com/item?id=50594053\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50594053"
+    },
+    {
+      "title": "Show HN: Nistivo – custom AI models trained for you, one fixed quote",
+      "link": "https://nistivo.com/",
+      "pubDate": "Sat, 21 Nov 2026 21:47:44 +0000",
+      "date": "Sat, 21 Nov 2026 21:47:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://nistivo.com/\nComments URL: https://news.ycombinator.com/item?id=50593969\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50593969"
     }
   ]
 }
