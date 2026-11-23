@@ -1,18 +1,73 @@
 {
-  "generatedAt": "2026-11-23T03:05:45.333Z",
+  "generatedAt": "2026-11-23T04:53:21.873Z",
   "lookbackHours": 24,
   "totalItems": 21,
   "items": [
     {
       "title": "jingyaogong/minimind",
       "link": "https://github.com/jingyaogong/minimind",
-      "pubDate": "2026-11-23T03:05:35.493Z",
-      "date": "2026-11-23T03:05:35.493Z",
+      "pubDate": "2026-11-23T04:53:20.849Z",
+      "date": "2026-11-23T04:53:20.849Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
       "contentSnippet": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\nhttps://jingyaogong.github.io/minimind\n\n \n \n\n \n \n \n \n     \n \n \n \n \n\n \n \n \n \n\"大道至简\"\n \n \n \n \n中文 | English\n \n \n \n \n此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。\n \n \nMiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。\n \n \n项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。\n \n \nMiniMind 同时拓展了视觉模态模型 M",
       "guid": "https://github.com/jingyaogong/minimind"
+    },
+    {
+      "title": "Show HN: Codexed – A local settings editor for Codex CLI",
+      "link": "https://github.com/codex-config/codexed",
+      "pubDate": "Mon, 23 Nov 2026 03:58:14 +0000",
+      "date": "Mon, 23 Nov 2026 03:58:14 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I wanted an easier way to manage my Codex config. Editing config.toml by hand works, but I don't remember which keys exist or what half the feature flags do.\nSo I made a little app that does 2-3 things well, is fast, and isn't bloated.\nFeatures:\n- Shows the available settings for your specific Codex version (always in sync).\n- Configure config.toml, AGENTS.md, Skills, Plugins and MCPs.\n- Turn feature flags on or off, globally or per project.\n- Keeps your comments and formatting in config.toml, b",
+      "guid": "https://news.ycombinator.com/item?id=50607324"
+    },
+    {
+      "title": "Show HN: Ignis – A browser-native LLM and multimodal inference engine",
+      "link": "https://ignis.ray-d-song.com/",
+      "pubDate": "Mon, 23 Nov 2026 03:48:45 +0000",
+      "date": "Mon, 23 Nov 2026 03:48:45 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://ignis.ray-d-song.com/\nComments URL: https://news.ycombinator.com/item?id=50607257\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50607257"
+    },
+    {
+      "title": "Show HN: Monitor is so bright at night when agents are running so I build a lamp",
+      "link": "https://inthepond.com.au/night-lamp",
+      "pubDate": "Mon, 23 Nov 2026 03:28:22 +0000",
+      "date": "Mon, 23 Nov 2026 03:28:22 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "I am not sure if it's just me. I spent a lot of time next to my workstation, and it's just too bright at night with Macbook's lid on. Instead of having the lid half closed and worrying about if my cat would jump on it and close it properly, I went off a build a night lamp website so my brain recognises the bright bright screen as a lamp... and that brings peace to my sleep.\nComments URL: https://news.ycombinator.com/item?id=50607158\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50607158"
+    },
+    {
+      "title": "Show HN: Interactive Rubik's Cube in the browser – one-shot DeepSeek flash",
+      "link": "https://asamarts.github.io/deeprubik/",
+      "pubDate": "Mon, 23 Nov 2026 03:15:09 +0000",
+      "date": "Mon, 23 Nov 2026 03:15:09 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Repo/code - https://github.com/asamarts/deeprubik\nThis was an experiment at one-shotting something with DeepSeek flash and a custom harness. Metrics/costs/usage numbers are in the repo, to summarize:\n- $1.2 total cost\n- 87M tokens\n- ~1 hour\n- 99% cache hit rate\nComments URL: https://news.ycombinator.com/item?id=50607087\nPoints: 3\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50607087"
+    },
+    {
+      "title": "Show HN: Just Dashboard, open-source Linux management dashboard",
+      "link": "https://just-dashboard.com/",
+      "pubDate": "Mon, 23 Nov 2026 02:51:46 +0000",
+      "date": "Mon, 23 Nov 2026 02:51:46 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://just-dashboard.com/\nComments URL: https://news.ycombinator.com/item?id=50606937\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50606937"
     },
     {
       "title": "Show HN: Dere Type Quiz – a free 2-minute dere test",
@@ -44,7 +99,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/njgreb/n64fireplace\nComments URL: https://news.ycombinator.com/item?id=50606513\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/njgreb/n64fireplace\nComments URL: https://news.ycombinator.com/item?id=50606513\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50606513"
     },
     {
@@ -77,7 +132,7 @@
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Adhishtanaka/thir\nComments URL: https://news.ycombinator.com/item?id=50606291\nPoints: 2\n# Comments: 0",
+      "contentSnippet": "Article URL: https://github.com/Adhishtanaka/thir\nComments URL: https://news.ycombinator.com/item?id=50606291\nPoints: 3\n# Comments: 0",
       "guid": "https://news.ycombinator.com/item?id=50606291"
     },
     {
@@ -178,61 +233,6 @@
       "icon": "🔨",
       "contentSnippet": "Hello HN\nI made PureSound, an iOS app where you can mix field recordings of rain, waves, fire etc. with any frequency (binaural beat/solfeggio tone) and slow synth music which the app automatically tunes the music to the correct pitch.\nIf you don't want to mix sounds there's pre made soundscapes to choose from for sleep, calm or focus.\nThe app is free to use with no ads, no account required and works offline- there is a paid subscription for full access to all sounds in the library.\nI appreciate",
       "guid": "https://news.ycombinator.com/item?id=50605527"
-    },
-    {
-      "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
-      "link": "https://github.com/salespeak-ai/inbox-envoy",
-      "pubDate": "Mon, 23 Nov 2026 00:00:35 +0000",
-      "date": "Mon, 23 Nov 2026 00:00:35 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/salespeak-ai/inbox-envoy\nComments URL: https://news.ycombinator.com/item?id=50605502\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50605502"
-    },
-    {
-      "title": "Show HN: Lexis World – a word game for kids who don't need to know any words yet",
-      "link": "https://lexisworld.org",
-      "pubDate": "Sun, 22 Nov 2026 23:52:31 +0000",
-      "date": "Sun, 22 Nov 2026 23:52:31 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hi HN,\nIn 2018 I released a kids’ app called Lexi’s World. It took me four years to make, and I was very proud of it.\nLexi is a little girl who lives alone on a tiny planet. Kids use a keyboard to type the names of animals and plants, which then join her on the planet. The keyboard only lets you type real words that exist in the game, so it’s made for kids who are just starting to get interested in letters and words.\nYou can type in DOG and a DOG appears, type in BONE and it has something to eat",
-      "guid": "https://news.ycombinator.com/item?id=50605439"
-    },
-    {
-      "title": "Show HN: Trix - A terminal workspace that shows which coding agent needs you",
-      "link": "https://trixapp.ai/",
-      "pubDate": "Sun, 22 Nov 2026 23:28:23 +0000",
-      "date": "Sun, 22 Nov 2026 23:28:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://trixapp.ai/\nComments URL: https://news.ycombinator.com/item?id=50605218\nPoints: 5\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50605218"
-    },
-    {
-      "title": "Show HN: Pi-protokoll – Per-turn protocols for fast compaction in Pi",
-      "link": "https://github.com/sebion7125/pi-protokoll",
-      "pubDate": "Sun, 22 Nov 2026 23:19:49 +0000",
-      "date": "Sun, 22 Nov 2026 23:19:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/sebion7125/pi-protokoll\nComments URL: https://news.ycombinator.com/item?id=50605127\nPoints: 1\n# Comments: 2",
-      "guid": "https://news.ycombinator.com/item?id=50605127"
-    },
-    {
-      "title": "Show HN: Prompt Studio – Free, client-side structured prompt generator for LLMs",
-      "link": "https://freeaipromptgen.com/",
-      "pubDate": "Sun, 22 Nov 2026 23:05:10 +0000",
-      "date": "Sun, 22 Nov 2026 23:05:10 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://freeaipromptgen.com/\nComments URL: https://news.ycombinator.com/item?id=50604980\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50604980"
     }
   ]
 }
