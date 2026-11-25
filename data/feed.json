@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T16:44:59.831Z",
+  "generatedAt": "2026-11-25T01:45:54.825Z",
   "lookbackHours": 24,
   "totalItems": 24,
   "items": [
     {
       "title": "jingyaogong/minimind",
       "link": "https://github.com/jingyaogong/minimind",
-      "pubDate": "2026-11-24T16:44:58.959Z",
-      "date": "2026-11-24T16:44:58.959Z",
+      "pubDate": "2026-11-25T01:45:53.105Z",
+      "date": "2026-11-25T01:45:53.105Z",
       "source": "GitHub Trending · Daily",
       "category": "projects",
       "icon": "⭐",
@@ -15,169 +15,235 @@
       "guid": "https://github.com/jingyaogong/minimind"
     },
     {
-      "title": "Show HN: MyGraph – Agent memory where every fact cites its source",
-      "link": "https://github.com/dieron/mygraph",
-      "pubDate": "Tue, 24 Nov 2026 16:18:27 +0000",
-      "date": "Tue, 24 Nov 2026 16:18:27 +0000",
+      "title": "Show HN: GeoGuessr for Celebrity Gossip",
+      "link": "https://wherecelebsgo.com/games",
+      "pubDate": "Wed, 25 Nov 2026 00:48:56 +0000",
+      "date": "Wed, 25 Nov 2026 00:48:56 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/dieron/mygraph\nComments URL: https://news.ycombinator.com/item?id=50630397\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50630397"
+      "contentSnippet": "Article URL: https://wherecelebsgo.com/games\nComments URL: https://news.ycombinator.com/item?id=50637013\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50637013"
     },
     {
-      "title": "Show HN: Yolt – Your Personal TV",
-      "link": "https://github.com/joonfjp/yoltapp",
-      "pubDate": "Tue, 24 Nov 2026 16:15:09 +0000",
-      "date": "Tue, 24 Nov 2026 16:15:09 +0000",
+      "title": "Show HN: NYT style daily word/logic puzzle",
+      "link": "https://clusterbust.com/",
+      "pubDate": "Wed, 25 Nov 2026 00:29:50 +0000",
+      "date": "Wed, 25 Nov 2026 00:29:50 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Clipping tools are ubiquitous these days.\nVideos can be bulky, and hosted options are expensive.\nYolt never stores a video, full or clipped. A clip is just a start and end time on the original YouTube video, played through YouTube’s embedded player.\nAn LLM ranks the best moments, and new episodes are clipped automatically.\nThe TV tab plays all your clips back to back, with a QR code to open the full episode on your phone at that timestamp.\nSemantic search requires an embeddings endpoint, which y",
-      "guid": "https://news.ycombinator.com/item?id=50630350"
+      "contentSnippet": "Connections meets Snood. Fire common group members into each other to clear the board. Just avoid hitting members of the other groups!\nComments URL: https://news.ycombinator.com/item?id=50636878\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50636878"
     },
     {
-      "title": "Show HN: I've become the dumb one, so I made a shortcut to ask Claude",
-      "link": "https://github.com/EdonZo/sidemoon",
-      "pubDate": "Tue, 24 Nov 2026 16:13:13 +0000",
-      "date": "Tue, 24 Nov 2026 16:13:13 +0000",
+      "title": "Show HN: End User, a game about smuggling AI chips past export controls",
+      "link": "https://enduser.fun/?src=hn",
+      "pubDate": "Tue, 24 Nov 2026 23:55:22 +0000",
+      "date": "Tue, 24 Nov 2026 23:55:22 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Whenever Claude hands a step back to me, a signup, onboarding or an API key Im lost; and most of the time stuck. No context, stuck on something easy. Me and Claude have switched seats quite fast: claude does the work and I'm the one who needs to be told what to do.\nAnd speed matters now. I have Claude Code sessions running all day, so I made one shortcut. Control-Option-A sends the window I'm looking at to a session and the answer shows up next to my work. I use it for everything now, not just t",
-      "guid": "https://news.ycombinator.com/item?id=50630317"
+      "contentSnippet": "Article URL: https://enduser.fun/?src=hn\nComments URL: https://news.ycombinator.com/item?id=50636585\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50636585"
     },
     {
-      "title": "Show HN: Fit large JSON tool results into an LLM's context without losing data",
-      "link": "https://github.com/AryabhattaLabs/agent-tool-result-reducer",
-      "pubDate": "Tue, 24 Nov 2026 16:12:57 +0000",
-      "date": "Tue, 24 Nov 2026 16:12:57 +0000",
+      "title": "Show HN: UFO OPTIX Scanning satellite imagery for flying craft artifacts",
+      "link": "https://ufoptix.org",
+      "pubDate": "Tue, 24 Nov 2026 23:53:59 +0000",
+      "date": "Tue, 24 Nov 2026 23:53:59 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/AryabhattaLabs/agent-tool-result-reducer\nComments URL: https://news.ycombinator.com/item?id=50630315\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50630315"
+      "contentSnippet": "I (well my agent swarm) created this in the last 48 hours based on method in a research paper I found (https://www.mdpi.com/2072-4292/13/15/3016) for detecting flying craft from OSINT Sentinel 2 satellite imagery from the European space agency.\nThere's something about the pixelated detections from images coming off the satellite.. I discussed the build in another post: https://fmsg.ai/blog/agent-swarm-ufo-optix\nComments URL: https://news.ycombinator.com/item?id=50636574\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50636574"
     },
     {
-      "title": "Show HN: PII Guard – local Chrome extension that redacts PII before AI chats",
-      "link": "https://github.com/almma-ai/pii-guard",
-      "pubDate": "Tue, 24 Nov 2026 16:12:21 +0000",
-      "date": "Tue, 24 Nov 2026 16:12:21 +0000",
+      "title": "Show HN: I built a Google Ads MCP and got my first customer here",
+      "link": "https://adchestra.com/",
+      "pubDate": "Tue, 24 Nov 2026 23:13:07 +0000",
+      "date": "Tue, 24 Nov 2026 23:13:07 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/almma-ai/pii-guard\nComments URL: https://news.ycombinator.com/item?id=50630304\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50630304"
+      "contentSnippet": "Article URL: https://adchestra.com/\nComments URL: https://news.ycombinator.com/item?id=50636187\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50636187"
     },
     {
-      "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
-      "link": "https://masondata.ai/",
-      "pubDate": "Tue, 24 Nov 2026 16:11:52 +0000",
-      "date": "Tue, 24 Nov 2026 16:11:52 +0000",
+      "title": "Show HN: AgentDE, small and native macOS app for agent-heavy dev work",
+      "link": "https://agentde.github.io/agentde/",
+      "pubDate": "Tue, 24 Nov 2026 23:09:38 +0000",
+      "date": "Tue, 24 Nov 2026 23:09:38 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN! TLDR: we’ve built an open-source drop-in replacement for a postgres read-replica, powered by duckdb’s columnar compute engine. It’s very fast. And it looks like postgres.\nSo, this started out as: let’s just connect Clickhouse to our postgres dbs and throw our analytics queries at it instead. That will speed everything up.  But we quickly found that 1) Clickhouse comes with quite the learning curve (engine optimisation) to make it fast (we needed something we could easily drop in to any cu",
-      "guid": "https://news.ycombinator.com/item?id=50630294"
+      "contentSnippet": "Article URL: https://agentde.github.io/agentde/\nComments URL: https://news.ycombinator.com/item?id=50636151\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50636151"
     },
     {
-      "title": "Show HN: Terminal Tasks Open – 30 hard tasks, best model passes 67%",
-      "link": "https://github.com/vettoai/terminal-tasks-open",
-      "pubDate": "Tue, 24 Nov 2026 16:08:43 +0000",
-      "date": "Tue, 24 Nov 2026 16:08:43 +0000",
+      "title": "Show HN: KlongPy v2 - array language updated for multiple targets",
+      "link": "https://github.com/briangu/klongpy",
+      "pubDate": "Tue, 24 Nov 2026 23:05:36 +0000",
+      "date": "Tue, 24 Nov 2026 23:05:36 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hi HN\nI'm from Vetto's Team, We're an applied AI Lab focusing on frontier code, science, and cyber, working with some of the leading frontier labs and the largest enterprises in Latam\nEarlier this yer we audited TB-4.1 and wrote what we found here: https://vetto.ai/companies/terminal-bench-4-audit/\nThis open-source benchmark is what we built from those lessons. It's an extract of our pipeline representing a share of the tasks we've been making each week with some of the frontier labs\nWe're publi",
-      "guid": "https://news.ycombinator.com/item?id=50630248"
+      "contentSnippet": "Article URL: https://github.com/briangu/klongpy\nComments URL: https://news.ycombinator.com/item?id=50636100\nPoints: 1\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50636100"
     },
     {
-      "title": "Show HN: LLM API cost and carbon calculator for your own token mix",
-      "link": "https://somaai.earth/ai-footprint/llm-api-cost-calculator",
-      "pubDate": "Tue, 24 Nov 2026 16:08:22 +0000",
-      "date": "Tue, 24 Nov 2026 16:08:22 +0000",
+      "title": "Show HN: Rhebok – free local RAG for your coding agent",
+      "link": "https://github.com/Stellenbosch-Technologies/rhebok",
+      "pubDate": "Tue, 24 Nov 2026 22:49:01 +0000",
+      "date": "Tue, 24 Nov 2026 22:49:01 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://somaai.earth/ai-footprint/llm-api-cost-calculator\nComments URL: https://news.ycombinator.com/item?id=50630243\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50630243"
+      "contentSnippet": "Article URL: https://github.com/Stellenbosch-Technologies/rhebok\nComments URL: https://news.ycombinator.com/item?id=50635912\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50635912"
     },
     {
-      "title": "Show HN: VibeVigil – scan AI-built apps for leaked keys and open tables",
-      "link": "https://vibevigil.com/",
-      "pubDate": "Tue, 24 Nov 2026 16:04:21 +0000",
-      "date": "Tue, 24 Nov 2026 16:04:21 +0000",
+      "title": "Show HN: Zarvie AI OS. Guess built in which language?",
+      "link": "https://www.youtube.com/watch?v=bw2OfNMevII",
+      "pubDate": "Tue, 24 Nov 2026 22:14:35 +0000",
+      "date": "Tue, 24 Nov 2026 22:14:35 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://vibevigil.com/\nComments URL: https://news.ycombinator.com/item?id=50630169\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50630169"
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=bw2OfNMevII\nComments URL: https://news.ycombinator.com/item?id=50635557\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50635557"
     },
     {
-      "title": "Show HN: LineFerry – Forward calls and texts from an old Android SIM to a iPhone",
-      "link": "https://lineferry.com/",
-      "pubDate": "Tue, 24 Nov 2026 15:58:04 +0000",
-      "date": "Tue, 24 Nov 2026 15:58:04 +0000",
+      "title": "Show HN: Hands on tutorial for open source contribution",
+      "link": "https://github.com/firstcontributions/first-contributions",
+      "pubDate": "Tue, 24 Nov 2026 22:14:00 +0000",
+      "date": "Tue, 24 Nov 2026 22:14:00 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://lineferry.com/\nComments URL: https://news.ycombinator.com/item?id=50630073\nPoints: 1\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50630073"
+      "contentSnippet": "Article URL: https://github.com/firstcontributions/first-contributions\nComments URL: https://news.ycombinator.com/item?id=50635549\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50635549"
     },
     {
-      "title": "Show HN: I built a laser puzzle game because I was tired of constant ads",
-      "link": "https://lasergrid.app/?from=rd-hn",
-      "pubDate": "Tue, 24 Nov 2026 15:56:15 +0000",
-      "date": "Tue, 24 Nov 2026 15:56:15 +0000",
+      "title": "Show HN: CheckMyApp – checks your live app with each deploy from coding agent",
+      "link": "https://checkmyapp.dev",
+      "pubDate": "Tue, 24 Nov 2026 22:13:47 +0000",
+      "date": "Tue, 24 Nov 2026 22:13:47 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "I love to fiddle with a logic game when I have some time to kill, but these days half the playtime is long non-skippable ads.\nThe concept is simple, in the game you turn lasers and mirrors in order to reach all the crystals. It starts out simple, but later new mechanics are introduced, like splitters, portals and linked grids and at this point, random tapping is far from enough to succeed. If the early levels aren’t fun, try and skip ahead and see if you feel more of a challenge. Especially in M",
-      "guid": "https://news.ycombinator.com/item?id=50630047"
+      "contentSnippet": "No human in the loop is the new dream.\nCheckMyApp is the first half of the loop I believe every solo founder should have. It clicks through your changes in production (or PR preview urls if you like) and files tickets with screenshots of bugs. Hook those tickets to claude/codex and the loop closes.\nI've tasted agentic coding and I'm not going back. I have more ideas than I can count and all of them are stuck behind one slow guy checking if the app is working and billing is indeed fine.\nDon't ski",
+      "guid": "https://news.ycombinator.com/item?id=50635545"
     },
     {
-      "title": "Show HN: Brickie – deploy sandboxes in your own AWS account",
-      "link": "https://github.com/hatchet-dev/brickie",
-      "pubDate": "Tue, 24 Nov 2026 15:48:34 +0000",
-      "date": "Tue, 24 Nov 2026 15:48:34 +0000",
+      "title": "Show HN: Docxtract – Turn docs into clean LLM context and study guides",
+      "link": "https://github.com/raycollabs/docxtract",
+      "pubDate": "Tue, 24 Nov 2026 22:07:59 +0000",
+      "date": "Tue, 24 Nov 2026 22:07:59 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Hey HN, this is Alexander from Hatchet (https://github.com/hatchet-dev/hatchet). We’re releasing a new open-source project today called Brickie. Brickie lets you run sandboxes in your own cloud account, primarily targeting EKS on AWS.\nSandboxes are an incredibly useful primitive for agentic applications. They serve two main functions: (1) a way for the agent to safely execute untrusted code, and (2) a durable filesystem for agents to preserve their state via snapshots.\nWe decided to start buildi",
-      "guid": "https://news.ycombinator.com/item?id=50629936"
+      "contentSnippet": "docxtract is specifically engineered to produce compact, high-density, concise Markdown extracts.\nComments URL: https://news.ycombinator.com/item?id=50635477\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50635477"
     },
     {
-      "title": "Show HN: SutraDB – Zero-build embedded hybrid vector and BM25 database in Rust",
-      "link": "https://github.com/Sam-CodesAI/SutraDB",
-      "pubDate": "Tue, 24 Nov 2026 15:46:39 +0000",
-      "date": "Tue, 24 Nov 2026 15:46:39 +0000",
+      "title": "Show HN: Phials – A file manager for knowledge work and productivity",
+      "link": "https://phials.phoundry.app/",
+      "pubDate": "Tue, 24 Nov 2026 22:07:44 +0000",
+      "date": "Tue, 24 Nov 2026 22:07:44 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/Sam-CodesAI/SutraDB\nComments URL: https://news.ycombinator.com/item?id=50629901\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50629901"
+      "contentSnippet": "I've been building Phials for the better part of 5 years, and am excited to finally be releasing it in beta.\nI'm a productivity app nerd, and Phials combines a proper file manager with my favorite paradigms from knowledge work and productivity tools from over the past decade.\nThe tech stack has changed over the years, but it's been on Rust/GPUI/Wry/Svelte for quite some time now.\nAlongside it is a very opinionated Svelte UI library called Phoundry UI that was built specifically for Phials, inclu",
+      "guid": "https://news.ycombinator.com/item?id=50635474"
     },
     {
-      "title": "Show HN: LHT Reader – open a folder of 10k documents in under a second",
-      "link": "https://legalhitech.com/reader/",
-      "pubDate": "Tue, 24 Nov 2026 15:38:06 +0000",
-      "date": "Tue, 24 Nov 2026 15:38:06 +0000",
+      "title": "Show HN: Siv – Civilization VI clone playable in the browser",
+      "link": "https://siv.nezin.net/",
+      "pubDate": "Tue, 24 Nov 2026 22:02:25 +0000",
+      "date": "Tue, 24 Nov 2026 22:02:25 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://legalhitech.com/reader/\nComments URL: https://news.ycombinator.com/item?id=50629759\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50629759"
+      "contentSnippet": "I love Civilization VI, and I've been playing since it came out a little over a decade ago.  I decided to vibe code up a clone that can be played in the browser (currently playable up to the industrialization era)\nI initially reproduced the game mechanics through a combination of memory and online sources, but that misses a huge amount of detail.  I took inspiration from another project, civvis.ai.  They used actual recordings of the game to get all the mechanics right.  I have been dong the sam",
+      "guid": "https://news.ycombinator.com/item?id=50635420"
     },
     {
-      "title": "Show HN: Strict MCP schemas rejected 10/10 bad calls; loose schemas: 0/10",
-      "link": "https://github.com/ranadhir19/mcp-server-lab",
-      "pubDate": "Tue, 24 Nov 2026 15:18:56 +0000",
-      "date": "Tue, 24 Nov 2026 15:18:56 +0000",
+      "title": "Show HN: The all-in cost of buying $1k of Bitcoin in 58 countries, updated daily",
+      "link": "https://www.cryptotruecost.com/en/bitcoin-cost-map/",
+      "pubDate": "Tue, 24 Nov 2026 21:56:37 +0000",
+      "date": "Tue, 24 Nov 2026 21:56:37 +0000",
       "source": "Hacker News · Show HN",
       "category": "projects",
       "icon": "🔨",
-      "contentSnippet": "Article URL: https://github.com/ranadhir19/mcp-server-lab\nComments URL: https://news.ycombinator.com/item?id=50629466\nPoints: 2\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50629466"
+      "contentSnippet": "Article URL: https://www.cryptotruecost.com/en/bitcoin-cost-map/\nComments URL: https://news.ycombinator.com/item?id=50635343\nPoints: 2\n# Comments: 1",
+      "guid": "https://news.ycombinator.com/item?id=50635343"
+    },
+    {
+      "title": "Show HN: Maylang – Self-hosted language compiling to x86-64 ELF (no LLVM)",
+      "link": "https://maylang.dev/",
+      "pubDate": "Tue, 24 Nov 2026 21:53:07 +0000",
+      "date": "Tue, 24 Nov 2026 21:53:07 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://maylang.dev/\nComments URL: https://news.ycombinator.com/item?id=50635298\nPoints: 2\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50635298"
+    },
+    {
+      "title": "Show HN: Bubble Shooter",
+      "link": "https://bubble-shooter.net/",
+      "pubDate": "Tue, 24 Nov 2026 21:33:53 +0000",
+      "date": "Tue, 24 Nov 2026 21:33:53 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://bubble-shooter.net/\nComments URL: https://news.ycombinator.com/item?id=50635057\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50635057"
+    },
+    {
+      "title": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",
+      "link": "https://github.com/cerulion-inc/cerulion#harness-results",
+      "pubDate": "Tue, 24 Nov 2026 21:33:44 +0000",
+      "date": "Tue, 24 Nov 2026 21:33:44 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Hey HN! I'm Lakshay, and at Cerulion we cooked up a harness for physical AI. Built on top of our deterministic runtime, we now have MCP tools that let any LLM see and move a robot. It closes the loop with measurements so a model doesn't try to guess its way through the task, and imbues common sense and robotics best practices into the workflow.\nWe ran the numbers on LIBERO-PRO and quite frankly are a bit shocked. Gemini 3.8 Flash with Cerulion solved 73 of 100 LIBERO-PRO tasks. GPT-6 Astra on a ",
+      "guid": "https://news.ycombinator.com/item?id=50635055"
+    },
+    {
+      "title": "Show HN: InterviewCop – Stop Interviewing Chat GPT",
+      "link": "https://interviewcop.com",
+      "pubDate": "Tue, 24 Nov 2026 21:31:20 +0000",
+      "date": "Tue, 24 Nov 2026 21:31:20 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Tied of cheating, and implemented this as experiment. WOrks out well for me, you're welcome to try this out. I won't promise anything besides there is a real person with tens of years of interview/interviewing experience behind this project, and the software actually works is getting better every day. We'll beat Cluely and all cheating tools one day.\nBeta, so feedback is welcome. If things don't work today, they will work tomorrow. It's one-person project with no external funding, folks.\nComment",
+      "guid": "https://news.ycombinator.com/item?id=50635028"
+    },
+    {
+      "title": "Show HN: Hack TikTok Search Ranking with Bulk Content",
+      "link": "https://rankthesearch.com",
+      "pubDate": "Tue, 24 Nov 2026 21:08:58 +0000",
+      "date": "Tue, 24 Nov 2026 21:08:58 +0000",
+      "source": "Hacker News · Show HN",
+      "category": "projects",
+      "icon": "🔨",
+      "contentSnippet": "Article URL: https://rankthesearch.com\nComments URL: https://news.ycombinator.com/item?id=50634752\nPoints: 1\n# Comments: 0",
+      "guid": "https://news.ycombinator.com/item?id=50634752"
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "pubDate": "2026-11-24T16:53:59.000Z",
+      "date": "2026-11-24T16:53:59.000Z",
+      "source": "Simon Willison",
+      "category": "builders",
+      "icon": "🛠️",
+      "contentSnippet": "",
+      "guid": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"
     },
     {
       "title": "Raising the stakes for enterprise networks with AI modernization",
@@ -191,61 +257,6 @@
       "guid": "https://www.technologyreview.com/?p=1148091"
     },
     {
-      "title": "Show HN: Finds posts by people with the problems your product solves",
-      "link": "https://signalsflows.com/",
-      "pubDate": "Tue, 24 Nov 2026 15:14:18 +0000",
-      "date": "Tue, 24 Nov 2026 15:14:18 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://signalsflows.com/\nComments URL: https://news.ycombinator.com/item?id=50629390\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50629390"
-    },
-    {
-      "title": "Show HN: Daydream – AI video editor for your agents",
-      "link": "https://www.daydreamvideo.com",
-      "pubDate": "Tue, 24 Nov 2026 15:12:11 +0000",
-      "date": "Tue, 24 Nov 2026 15:12:11 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://www.daydreamvideo.com\nComments URL: https://news.ycombinator.com/item?id=50629366\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50629366"
-    },
-    {
-      "title": "Show HN: Music of the Primes – hear 1000 zeros of the Riemann zeta function",
-      "link": "https://riemann.mikolaj-kaminski.com/",
-      "pubDate": "Tue, 24 Nov 2026 15:10:13 +0000",
-      "date": "Tue, 24 Nov 2026 15:10:13 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Article URL: https://riemann.mikolaj-kaminski.com/\nComments URL: https://news.ycombinator.com/item?id=50629341\nPoints: 2\n# Comments: 1",
-      "guid": "https://news.ycombinator.com/item?id=50629341"
-    },
-    {
-      "title": "Show HN: Chili3D – Open-source browser CAD with parametric/push-pull modeling",
-      "link": "https://github.com/xiangechen/chili3d",
-      "pubDate": "Tue, 24 Nov 2026 14:49:49 +0000",
-      "date": "Tue, 24 Nov 2026 14:49:49 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Author here. Since my previous Show HN (https://news.ycombinator.com/item?id=44238171), Chili3D has added three core modeling modules:\n- Parametric: feature-tree editing + sketch constraints, with automatic downstream rebuild.\n- AI-assisted: natural-language modeling in the browser with your own API key, producing editable features.\n- Push/pull: history-free direct modeling—push/pull faces or profiles with automatic cut/join.\nRepo: https://github.com/xiangechen/chili3d\nDemo: https://chili3d.com\n",
-      "guid": "https://news.ycombinator.com/item?id=50629040"
-    },
-    {
-      "title": "Show HN: Free Website Feedback Tool with Screenshots",
-      "link": "https://tackshot.com/",
-      "pubDate": "Tue, 24 Nov 2026 14:43:23 +0000",
-      "date": "Tue, 24 Nov 2026 14:43:23 +0000",
-      "source": "Hacker News · Show HN",
-      "category": "projects",
-      "icon": "🔨",
-      "contentSnippet": "Hey HN community! I found several feedback tools, but I mainly created this one for my own websites.\nWould love to get feedback and ideas. Have fun :)\nComments URL: https://news.ycombinator.com/item?id=50628965\nPoints: 1\n# Comments: 0",
-      "guid": "https://news.ycombinator.com/item?id=50628965"
-    },
-    {
       "title": "The Individual Exception",
       "link": "https://stratechery.com/2026/the-individual-exception/",
       "pubDate": "Tue, 24 Nov 2026 11:00:00 +0000",
@@ -255,17 +266,6 @@
       "icon": "📊",
       "contentSnippet": "Jensen Huang has been granted an exception from managerial oversight; in the age of AI, he won't be the last.",
       "guid": "https://stratechery.com/?p=21369"
-    },
-    {
-      "title": "Claude Ship",
-      "link": "https://www.producthunt.com/products/claude-code",
-      "pubDate": "2026-11-23T21:00:36.000Z",
-      "date": "2026-11-23T21:00:36.000Z",
-      "source": "Product Hunt · AI",
-      "category": "new-tools",
-      "icon": "🆕",
-      "contentSnippet": "Discussion\n            |\n            Link",
-      "guid": "https://www.producthunt.com/products/claude-code"
     }
   ]
 }
